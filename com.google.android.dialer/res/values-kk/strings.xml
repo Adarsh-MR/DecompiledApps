@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Ерекше күн</string>
     <string name="event_deactivated">Жануарлар режимі өшірулі</string>
     <string name="favorites_header">Таңдаулылар</string>
+    <string name="feedback_action_high">Жақсы</string>
     <string name="feedback_action_high_v2">Жақсы</string>
+    <string name="feedback_action_low">Нашар</string>
     <string name="feedback_action_low_v2">Нашар</string>
     <string name="feedback_audio_issue_echo">Екінші адамға жаңғырық естілді</string>
     <string name="feedback_audio_issue_local_audio">Екінші адам мені естімеді</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Қоңырау сапасы жақсы</string>
     <string name="feedback_call_issue_other">Басқа мәселе</string>
     <string name="feedback_call_issue_title">Қандай ақаулық орын алды?</string>
+    <string name="feedback_title">Қоңырау сапасы қандай болды?</string>
     <string name="feedback_title_v2">Қоңырау сапасын қалай бағалар едіңіз?</string>
     <string name="full_name">Атауы</string>
     <string name="gallery_item_description">сурет, %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">сурет</string>
     <string name="gallery_permission_text">Суретті жіберу үшін медиафайлға кіруге рұқсат беріңіз</string>
+    <string name="gcm_fallback_notification_channel_label">Өзге</string>
     <string name="generic_conference_call_name">Бос емес</string>
     <string name="ghostData_company">Компания</string>
     <string name="ghostData_title">Лауазымы</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Орын ізделуде...</string>
     <string name="location_map_description">Төтенше қоңырау кезінде көрсетілетін карта</string>
     <string name="location_title">Төтенше жағдайлар қызметіне орнын көрсету</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Телефон</string>
     <string name="main_call_history_tab_description">Қоңыраулар тарихы</string>
     <string name="main_help_and_feedback">Анықтама және пікір</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Жекелендірілген Іздеу нәтижелері</string>
     <string name="phoneAppLabel">Телефон</string>
     <string name="phoneLabelsGroup">Телефон</string>
+    <string name="phone_account_description">Wi-Fi қоңыраулары</string>
+    <string name="phone_account_label">Google Wi-Fi қоңыраулары</string>
     <string name="phone_account_settings_label">Қоңырау шалу есептік жазбалары</string>
     <string name="post_call_add_message">Хабар қосу</string>
     <string name="post_call_message">Неге қоңырау шалғаныңызды айтыңыз</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Шектелген</string>
     <string name="quick_question">Жылдам сұрақ...</string>
     <string name="received_a_photo">Сурет қабылданды</string>
+    <string name="reconnecting_via_template">%s арқылы қайта қосылу орындалуда</string>
     <string name="relationLabelsGroup">Қарым-қатынас</string>
     <string name="remove_contact">Алып тастау</string>
     <string name="report_caller_id_dialog_title">Қате нөмір туралы хабарлау</string>
     <string name="report_caller_id_failed">Нөмір туралы хабар жіберілмеді</string>
     <string name="report_caller_id_toast">Нөмір туралы хабар жіберілді</string>
+    <string name="request_feedback_title">Қоңырауларды бағалау</string>
     <string name="respond_via_sms_setting_title">Жылдам жауаптар</string>
     <string name="rtt_input_hint">Хабар мәтінін жазу</string>
     <string name="search_location_permission">Маңайдағы орындардың контакт деректерін алу үшін, орын деректеріңізге кіруге рұқсат беріңіз.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Сурет жіберілді</string>
     <string name="set_default_account">Осыны қоңыраулар үшін әрқашан пайд.</string>
     <string name="settings">Параметрлер</string>
+    <string name="settings_label">Wi-Fi қоңырауларын конфигурациялау</string>
     <string name="share_and_call">Бөлісу және қоңырау шалу</string>
     <string name="simContacts_emptyLoading">SIM картасынан жүктелуде...</string>
     <string name="simContacts_title">SIM контактілері</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Дауыстық хабар</string>
     <string name="terms_and_conditions_decline_dialog_title">Визуалдық дауыстық хабар қызметін өшіру қажет пе?</string>
     <string name="terms_of_service_label">Қызмет көрсету шарттары</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Телефон қолданбасында жүйелік параметрлерге жазуға рұқсат жоқ.</string>
     <string name="toast_text_copied">Мәтін көшірілді</string>
     <string name="toolbar_close">Жабу</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Бөгеуді жою</string>
     <string name="unblock_number_ok">БӨГЕУДЕН ШЫҒАРУ</string>
     <string name="unknown">Белгісіз</string>
+    <string name="unknown_caller">Белгісіз нөмір</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Шұғыл! Телефонды алыңыз!</string>
     <string name="user_profile_contacts_list_header">Мен</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Чаттасқыңыз келе ме?</string>
     <string name="websiteLabelsGroup">Веб-сайт</string>
+    <string name="wifi_call_end_network">Желі байланысы үзіліп қалды</string>
+    <string name="wifi_call_end_unanswered">Жауап жоқ</string>
+    <string name="wifi_call_end_unknown">Белгісіз қате</string>
+    <string name="wifi_call_enter_misc">Қоңырауды бастау мүмкін болмады</string>
+    <string name="wifi_call_enter_timeout">Қоңырау шалу уақыты аяқталды</string>
+    <string name="wifi_call_error_insufficient_funds">Қаражат жеткіліксіз</string>
+    <string name="wifi_calling_enabled_summary">Байланыс сапасы жеткілікті болғанда, қоңыраулар үшін Wi-Fi желісін пайдалану</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi қоңыраулары</string>
 </resources>

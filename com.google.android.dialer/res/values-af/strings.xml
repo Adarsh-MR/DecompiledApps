@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">Spesiale datum</string>
     <string name="event_deactivated">Troeteldiermodus af</string>
     <string name="favorites_header">Gunstelinge</string>
+    <string name="feedback_action_high">Goed</string>
     <string name="feedback_action_high_v2">Goed</string>
+    <string name="feedback_action_low">Sleg</string>
     <string name="feedback_action_low_v2">Sleg</string>
     <string name="feedback_audio_issue_echo">Ander persoon het eggo gehoor</string>
     <string name="feedback_audio_issue_local_audio">Ander persoon kon my nie hoor nie</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">Goeie oproep</string>
     <string name="feedback_call_issue_other">Iets anders</string>
     <string name="feedback_call_issue_title">Wat was die kwessie?</string>
+    <string name="feedback_title">Hoe was die oproepgehalte?</string>
     <string name="feedback_title_v2">Hoe was die oproepgehalte aan jou kant?</string>
     <string name="full_name">Naam</string>
     <string name="gallery_item_description">prent %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">prent</string>
     <string name="gallery_permission_text">"Verleen toegang tot media om 'n prent te deel"</string>
+    <string name="gcm_fallback_notification_channel_label">Diverse</string>
     <string name="generic_conference_call_name">Besig met oproep</string>
     <string name="ghostData_company">Maatskappy</string>
     <string name="ghostData_title">Titel</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">Vind tans jou ligging …</string>
     <string name="location_map_description">Noodliggingkaart</string>
     <string name="location_title">Vertel nooddienste waar jy is</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Foon</string>
     <string name="main_call_history_tab_description">Oproepgeskiedenis</string>
     <string name="main_help_and_feedback">Hulp en terugvoer</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">Gepersonaliseerde soekresultate</string>
     <string name="phoneAppLabel">Foon</string>
     <string name="phoneLabelsGroup">Foon</string>
+    <string name="phone_account_description">Wi-Fi-oproepe</string>
+    <string name="phone_account_label">Wi-Fi-oproepe met Google</string>
     <string name="phone_account_settings_label">Oproeprekeninge</string>
     <string name="post_call_add_message">Voeg boodskap by</string>
     <string name="post_call_message">Sê waarom jy gebel het</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">Beperk</string>
     <string name="quick_question">Vinnige vragie …</string>
     <string name="received_a_photo">"Het 'n foto ontvang"</string>
+    <string name="reconnecting_via_template">Herkoppel tans via %s</string>
     <string name="relationLabelsGroup">Verhouding</string>
     <string name="remove_contact">Verwyder</string>
     <string name="report_caller_id_dialog_title">Gee verkeerde nommer aan</string>
     <string name="report_caller_id_failed">Kon nie nommer aangee nie</string>
     <string name="report_caller_id_toast">Nommer is aangegee</string>
+    <string name="request_feedback_title">Gradeer oproepe</string>
     <string name="respond_via_sms_setting_title">Vinnige antwoorde</string>
     <string name="rtt_input_hint">"Tik 'n boodskap"</string>
     <string name="search_location_permission">Om kontakinligting vir plekke naby jou te kry, laat toegang tot jou ligging toe.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">"Het 'n foto gestuur"</string>
     <string name="set_default_account">Gebruik dit altyd vir oproepe</string>
     <string name="settings">Instellings</string>
+    <string name="settings_label">Stel Wi-Fi-oproepe op</string>
     <string name="share_and_call">Deel en bel</string>
     <string name="simContacts_emptyLoading">Laai tans van SIM-kaart af …</string>
     <string name="simContacts_title">SIM-kaartkontakte</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">Stemboodskap</string>
     <string name="terms_and_conditions_decline_dialog_title">Deaktiveer visuele stemboodskapdiens?</string>
     <string name="terms_of_service_label">Diensbepalings</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Foonprogram het nie toestemming om stelselinstellings te stel nie.</string>
     <string name="toast_text_copied">Teks gekopieer</string>
     <string name="toolbar_close">Maak toe</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">Deblokkeer</string>
     <string name="unblock_number_ok">DEBLOKKEER</string>
     <string name="unknown">Onbekend</string>
+    <string name="unknown_caller">Onbekende beller</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Dringend! Antwoord asseblief!</string>
     <string name="user_profile_contacts_list_header">Ek</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">Wil jy klets?</string>
     <string name="websiteLabelsGroup">Webwerf</string>
+    <string name="wifi_call_end_network">Netwerk is verloor</string>
+    <string name="wifi_call_end_unanswered">Geen antwoord nie</string>
+    <string name="wifi_call_end_unknown">Onbekende fout</string>
+    <string name="wifi_call_enter_misc">Kon nie by oproep ingaan nie</string>
+    <string name="wifi_call_enter_timeout">Vestiging van oproep het uitgetel</string>
+    <string name="wifi_call_error_insufficient_funds">Te min geld</string>
+    <string name="wifi_calling_enabled_summary">Gebruik Wi-Fi vir oproepe wanneer my verbinding sterk genoeg is</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi-oproepe</string>
 </resources>

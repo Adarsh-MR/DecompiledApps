@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Erityispäivämäärä</string>
     <string name="event_deactivated">Lemmikkitila pois käytöstä</string>
     <string name="favorites_header">Suosikit</string>
+    <string name="feedback_action_high">Hyvä</string>
     <string name="feedback_action_high_v2">Hyvä</string>
+    <string name="feedback_action_low">Huono</string>
     <string name="feedback_action_low_v2">Huono</string>
     <string name="feedback_audio_issue_echo">Toinen henkilö kuuli kaiun</string>
     <string name="feedback_audio_issue_local_audio">Toinen henkilö ei kuullut ääntäni</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Puhelu oli onnistunut</string>
     <string name="feedback_call_issue_other">Jotain muuta</string>
     <string name="feedback_call_issue_title">Mistä ongelmassa oli kyse?</string>
+    <string name="feedback_title">Kuvaile puhelun laatua.</string>
     <string name="feedback_title_v2">Millainen puhelun laatu oli?</string>
     <string name="full_name">Nimi</string>
     <string name="gallery_item_description">kuva (%1$tB %1$te %1$tY %1$tl %1$tM %1$tp)</string>
     <string name="gallery_item_description_no_date">kuva</string>
     <string name="gallery_permission_text">Jos haluat jakaa kuvan, salli kuvien käyttö.</string>
+    <string name="gcm_fallback_notification_channel_label">Muut</string>
     <string name="generic_conference_call_name">Puhelu käynnissä</string>
     <string name="ghostData_company">Yritys</string>
     <string name="ghostData_title">Nimi</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Haetaan sijaintia…</string>
     <string name="location_map_description">Hätäsijaintikartta</string>
     <string name="location_title">Kerro sijaintisi</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Puhelin</string>
     <string name="main_call_history_tab_description">Soittohistoria</string>
     <string name="main_help_and_feedback">Ohje ja palaute</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Yksilöidyt hakutulokset</string>
     <string name="phoneAppLabel">Puhelin</string>
     <string name="phoneLabelsGroup">Puhelin</string>
+    <string name="phone_account_description">Wi‑Fi-puhelut</string>
+    <string name="phone_account_label">Wi-Fi-puhelut Googlella</string>
     <string name="phone_account_settings_label">Puhelutilit</string>
     <string name="post_call_add_message">Lisää viesti</string>
     <string name="post_call_message">Kerro, miksi soitit</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Rajoitettu</string>
     <string name="quick_question">Nopea kysymys…</string>
     <string name="received_a_photo">Vastaanotettu kuva</string>
+    <string name="reconnecting_via_template">Yhdistetään uudelleen (%s)</string>
     <string name="relationLabelsGroup">Suhde</string>
     <string name="remove_contact">Poista</string>
     <string name="report_caller_id_dialog_title">Ilmoita väärästä numerosta</string>
     <string name="report_caller_id_failed">Numerosta ilmoittaminen epäonnistui.</string>
     <string name="report_caller_id_toast">Numeroa koskeva ilmoitus lähetettiin.</string>
+    <string name="request_feedback_title">Arvioi puheluja</string>
     <string name="respond_via_sms_setting_title">Pikavastaukset</string>
     <string name="rtt_input_hint">Kirjoita viesti</string>
     <string name="search_location_permission">Voit nähdä lähelläsi olevien paikkojen yhteystiedot sallimalla sijaintisi käyttöoikeus.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Lähetetty kuva</string>
     <string name="set_default_account">Käytä kaikille puheluille</string>
     <string name="settings">Asetukset</string>
+    <string name="settings_label">Wi‑Fi-puheluiden määritys</string>
     <string name="share_and_call">Jaa ja soita</string>
     <string name="simContacts_emptyLoading">Ladataan SIM-kortilta…</string>
     <string name="simContacts_title">SIM-kortin yhteystiedot</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Puhelinvastaaja</string>
     <string name="terms_and_conditions_decline_dialog_title">Poistetaanko visuaalinen vastaaja käytöstä?</string>
     <string name="terms_of_service_label">Käyttöehdot</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Puhelinsovelluksella ei ole oikeutta muokata järjestelmän asetuksia.</string>
     <string name="toast_text_copied">Teksti kopioitiin.</string>
     <string name="toolbar_close">Sulje</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Kumoa esto</string>
     <string name="unblock_number_ok">KUMOA ESTO</string>
     <string name="unknown">Tuntematon</string>
+    <string name="unknown_caller">Tuntematon soittaja</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Tärkeää, vastaa!</string>
     <string name="user_profile_contacts_list_header">Minä</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Haluatko jutella?</string>
     <string name="websiteLabelsGroup">Sivusto</string>
+    <string name="wifi_call_end_network">Verkkoyhteys katkesi.</string>
+    <string name="wifi_call_end_unanswered">Ei vastausta</string>
+    <string name="wifi_call_end_unknown">Tuntematon virhe</string>
+    <string name="wifi_call_enter_misc">Puhelun muodostus epäonnistui.</string>
+    <string name="wifi_call_enter_timeout">Puhelun muodostus aikakatkaistiin.</string>
+    <string name="wifi_call_error_insufficient_funds">Saldo ei riitä.</string>
+    <string name="wifi_calling_enabled_summary">Soita puhelut Wi‑Fin kautta, kun yhteys on hyvä.</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi-puhelut</string>
 </resources>

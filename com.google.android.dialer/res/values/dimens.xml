@@ -387,6 +387,7 @@
     <dimen name="setting_secondary_text_size">14.0sp</dimen>
     <dimen name="setting_text_size">16.0sp</dimen>
     <dimen name="setting_vertical_margin">20.0dip</dimen>
+    <dimen name="settings_action_bar_content_inset_start">72.0dip</dimen>
     <dimen name="shadow_length">10.0dip</dimen>
     <dimen name="tab_elevation">0.0dip</dimen>
     <dimen name="tab_height">48.0dip</dimen>
@@ -569,12 +570,22 @@
     <item type="dimen" name="APKTOOL_DUMMY_1c5">false</item>
     <item type="dimen" name="APKTOOL_DUMMY_1c6">false</item>
     <item type="dimen" name="APKTOOL_DUMMY_1c7">false</item>
-    <item type="dimen" name="APKTOOL_DUMMY_1e6">false</item>
-    <item type="dimen" name="APKTOOL_DUMMY_1eb">false</item>
-    <item type="dimen" name="APKTOOL_DUMMY_1ee">false</item>
-    <item type="dimen" name="APKTOOL_DUMMY_1ef">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_1d4">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_1d5">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_1d6">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_1d7">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_1d8">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_1d9">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_1da">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_1db">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_1dc">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_1dd">false</item>
     <item type="dimen" name="APKTOOL_DUMMY_1f0">false</item>
-    <item type="dimen" name="APKTOOL_DUMMY_1f1">false</item>
-    <item type="dimen" name="APKTOOL_DUMMY_1f7">false</item>
-    <item type="dimen" name="APKTOOL_DUMMY_217">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_1f5">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_1f8">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_1f9">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_1fa">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_1fb">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_201">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_222">false</item>
 </resources>

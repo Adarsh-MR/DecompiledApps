@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">Ngày đặc biệt</string>
     <string name="event_deactivated">Chế độ thú cưng bị tắt</string>
     <string name="favorites_header">Liên hệ ưa thích</string>
+    <string name="feedback_action_high">Tốt</string>
     <string name="feedback_action_high_v2">Tốt</string>
+    <string name="feedback_action_low">Không tốt</string>
     <string name="feedback_action_low_v2">Kém</string>
     <string name="feedback_audio_issue_echo">Bên kia nghe thấy tiếng vọng</string>
     <string name="feedback_audio_issue_local_audio">Người khác không thể nghe thấy tôi</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">Cuộc gọi tốt</string>
     <string name="feedback_call_issue_other">Vấn đề khác</string>
     <string name="feedback_call_issue_title">Vấn đề là gì?</string>
+    <string name="feedback_title">Chất lượng cuộc gọi thế nào?</string>
     <string name="feedback_title_v2">Chất lượng cuộc gọi của bạn như thế nào?</string>
     <string name="full_name">Tên</string>
     <string name="gallery_item_description">hình ảnh %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">hình ảnh</string>
     <string name="gallery_permission_text">Để chia sẻ ảnh, hãy cấp quyền truy cập vào Phương tiện</string>
+    <string name="gcm_fallback_notification_channel_label">Khác</string>
     <string name="generic_conference_call_name">Đang trong cuộc gọi</string>
     <string name="ghostData_company">Công ty</string>
     <string name="ghostData_title">Chức danh</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">Đang tìm vị trí của bạn...</string>
     <string name="location_map_description">Bản đồ vị trí khẩn cấp</string>
     <string name="location_title">Cho dịch vụ khẩn cấp biết vị trí của bạn</string>
+    <string name="lte_call_template">LTE %s</string>
     <string name="main_activity_label">Điện thoại</string>
     <string name="main_call_history_tab_description">Nhật ký cuộc gọi</string>
     <string name="main_help_and_feedback">Trợ giúp và phản hồi</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">Kết quả được cá nhân hóa</string>
     <string name="phoneAppLabel">Điện thoại</string>
     <string name="phoneLabelsGroup">Điện thoại</string>
+    <string name="phone_account_description">Gọi điện qua Wi-Fi</string>
+    <string name="phone_account_label">Cuộc gọi qua Wi-Fi với Google</string>
     <string name="phone_account_settings_label">Tài khoản gọi</string>
     <string name="post_call_add_message">Thêm tin nhắn</string>
     <string name="post_call_message">Nói lý do bạn gọi</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">Bị giới hạn</string>
     <string name="quick_question">Câu hỏi nhanh…</string>
     <string name="received_a_photo">Đã nhận một ảnh</string>
+    <string name="reconnecting_via_template">Đang kết nối lại qua %s</string>
     <string name="relationLabelsGroup">Mối quan hệ</string>
     <string name="remove_contact">Xóa</string>
     <string name="report_caller_id_dialog_title">Báo cáo số không chính xác</string>
     <string name="report_caller_id_failed">Không thể báo cáo số</string>
     <string name="report_caller_id_toast">Đã báo cáo số</string>
+    <string name="request_feedback_title">Xếp hạng cuộc gọi</string>
     <string name="respond_via_sms_setting_title">Trả lời nhanh</string>
     <string name="rtt_input_hint">Nhập tin nhắn</string>
     <string name="search_location_permission">Để nhận thông tin liên hệ cho những địa điểm gần bạn, hãy cho phép truy cập vào vị trí của bạn.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">Đã gửi một ảnh</string>
     <string name="set_default_account">Luôn sử dụng SIM này để gọi</string>
     <string name="settings">Cài đặt</string>
+    <string name="settings_label">Định cấu hình gọi điện qua Wi-Fi</string>
     <string name="share_and_call">Chia sẻ và gọi</string>
     <string name="simContacts_emptyLoading">Đang tải từ thẻ SIM…</string>
     <string name="simContacts_title">Danh bạ trên thẻ SIM</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">Thư thoại</string>
     <string name="terms_and_conditions_decline_dialog_title">Tắt thư thoại kèm theo hình ảnh?</string>
     <string name="terms_of_service_label">Điều khoản dịch vụ</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Ứng dụng Điện thoại không có quyền ghi vào cài đặt hệ thống.</string>
     <string name="toast_text_copied">Đã sao chép văn bản</string>
     <string name="toolbar_close">Đóng</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">Bỏ chặn</string>
     <string name="unblock_number_ok">BỎ CHẶN</string>
     <string name="unknown">Không xác định</string>
+    <string name="unknown_caller">Không rõ người gọi</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Khẩn cấp! Vui lòng chọn!</string>
     <string name="user_profile_contacts_list_header">Tôi</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">Bạn muốn trò chuyện?</string>
     <string name="websiteLabelsGroup">Trang web</string>
+    <string name="wifi_call_end_network">Mất mạng</string>
+    <string name="wifi_call_end_unanswered">Không có trả lời</string>
+    <string name="wifi_call_end_unknown">Lỗi không xác định</string>
+    <string name="wifi_call_enter_misc">Không tham gia cuộc gọi được</string>
+    <string name="wifi_call_enter_timeout">Đã hết thời gian chờ thiết lập cuộc gọi</string>
+    <string name="wifi_call_error_insufficient_funds">Không đủ tiền</string>
+    <string name="wifi_calling_enabled_summary">Sử dụng Wi‑Fi cho cuộc gọi khi kết nối của tôi đủ mạnh</string>
+    <string name="wifi_calling_enabled_title">Gọi qua Wi-Fi</string>
 </resources>

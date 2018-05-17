@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">تاريخ مميز</string>
     <string name="event_deactivated">وضع الحيوانات الأليفة قيد إيقاف التشغيل</string>
     <string name="favorites_header">المفضّلة</string>
+    <string name="feedback_action_high">جيدة</string>
     <string name="feedback_action_high_v2">جيدة</string>
+    <string name="feedback_action_low">سيئة</string>
     <string name="feedback_action_low_v2">سيئة</string>
     <string name="feedback_audio_issue_echo">سمع الطرف الآخر صدى</string>
     <string name="feedback_audio_issue_local_audio">لم يتمكن الطرف الآخر من سماعي</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">مكالمة جيدة</string>
     <string name="feedback_call_issue_other">مشاكل أخرى</string>
     <string name="feedback_call_issue_title">ما المشكلة؟</string>
+    <string name="feedback_title">ما رأيك في جودة المكالمة؟</string>
     <string name="feedback_title_v2">كيف كانت جودة الصوت بالنسبة لك؟</string>
     <string name="full_name">الاسم</string>
     <string name="gallery_item_description">الصورة %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">صورة</string>
     <string name="gallery_permission_text">لمشاركة صورة، يجب منح إذن بالدخول إلى الوسائط</string>
+    <string name="gcm_fallback_notification_channel_label">متنوعة</string>
     <string name="generic_conference_call_name">قيد الاتصال</string>
     <string name="ghostData_company">الشركة</string>
     <string name="ghostData_title">العنوان</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">جارٍ البحث عن موقعك...</string>
     <string name="location_map_description">خريطة مواقع الطوارئ</string>
     <string name="location_title">إخبار الطوارئ بموقعك</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">الهاتف</string>
     <string name="main_call_history_tab_description">سجل المكالمات</string>
     <string name="main_help_and_feedback">مساعدة وتعليقات</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">نتائج البحث المخصص</string>
     <string name="phoneAppLabel">الهاتف</string>
     <string name="phoneLabelsGroup">الهاتف</string>
+    <string name="phone_account_description">‏الاتصال عبر Wi-Fi</string>
+    <string name="phone_account_label">‏مكالمات Wi-Fi باستخدام Google</string>
     <string name="phone_account_settings_label">حسابات الاتصال</string>
     <string name="post_call_add_message">إضافة رسالة</string>
     <string name="post_call_message">الإخبار عن سبب اتصالك</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">محظور</string>
     <string name="quick_question">سؤال سريع…</string>
     <string name="received_a_photo">تم تلقي صورة</string>
+    <string name="reconnecting_via_template">جارٍ إعادة الاتصال عبر %s</string>
     <string name="relationLabelsGroup">العلاقة</string>
     <string name="remove_contact">إزالة</string>
     <string name="report_caller_id_dialog_title">الإبلاغ عن رقم غير صحيح</string>
     <string name="report_caller_id_failed">تعذر الإبلاغ عن الرقم</string>
     <string name="report_caller_id_toast">تم الإبلاغ عن الرقم</string>
+    <string name="request_feedback_title">تقييم المكالمات</string>
     <string name="respond_via_sms_setting_title">الردود السريعة</string>
     <string name="rtt_input_hint">كتابة رسالة</string>
     <string name="search_location_permission">للحصول على معلومات الاتصال بأماكن موجودة بالقرب منك، امنح صلاحية الوصول إلى موقعك.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">تم إرسال صورة</string>
     <string name="set_default_account">استخدام هذا للمكالمات دائمًا</string>
     <string name="settings">الإعدادات</string>
+    <string name="settings_label">‏تهيئة اتصال Wi-Fi</string>
     <string name="share_and_call">المشاركة والاتصال</string>
     <string name="simContacts_emptyLoading">‏جارٍ التحميل من شريحة SIM…</string>
     <string name="simContacts_title">‏شريحة SIM وجهات الاتصال</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">البريد الصوتي</string>
     <string name="terms_and_conditions_decline_dialog_title">هل تريد تعطيل البريد الصوتي المرئي؟</string>
     <string name="terms_of_service_label">بنود الخدمة</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">ليس لدى تطبيق الهاتف إذن لتعديل إعدادات النظام.</string>
     <string name="toast_text_copied">تم نسخ النص</string>
     <string name="toolbar_close">إغلاق</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">إزالة الحظر</string>
     <string name="unblock_number_ok">إلغاء الحظر</string>
     <string name="unknown">غير معروف</string>
+    <string name="unknown_caller">متصل غير معروف</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">عاجل! يُرجى الرد!</string>
     <string name="user_profile_contacts_list_header">أنا</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">هل تريد الدردشة؟</string>
     <string name="websiteLabelsGroup">موقع ويب</string>
+    <string name="wifi_call_end_network">تم فقد الشبكة</string>
+    <string name="wifi_call_end_unanswered">لا استجابة</string>
+    <string name="wifi_call_end_unknown">خطأ غير معروف</string>
+    <string name="wifi_call_enter_misc">تعذّر الدخول إلى المكالمة</string>
+    <string name="wifi_call_enter_timeout">انتهت مهلة إعداد المكالمة</string>
+    <string name="wifi_call_error_insufficient_funds">المبالغ المالية غير كافية</string>
+    <string name="wifi_calling_enabled_summary">‏استخدام Wi‑Fi لإجراء المكالمات عندما يكون الاتصال قويًا بشكل كافٍ</string>
+    <string name="wifi_calling_enabled_title">‏الاتصال عبر Wi-Fi</string>
 </resources>

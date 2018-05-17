@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">Fecha especial</string>
     <string name="event_deactivated">Modo de mascotas desactivado</string>
     <string name="favorites_header">Favoritos</string>
+    <string name="feedback_action_high">Buena</string>
     <string name="feedback_action_high_v2">Buena</string>
+    <string name="feedback_action_low">Mala</string>
     <string name="feedback_action_low_v2">Mala</string>
     <string name="feedback_audio_issue_echo">La otra persona oía eco</string>
     <string name="feedback_audio_issue_local_audio">La otra persona no me oía</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">Llamada buena</string>
     <string name="feedback_call_issue_other">Otro</string>
     <string name="feedback_call_issue_title">¿Cuál fue el problema?</string>
+    <string name="feedback_title">¿Qué opinas de la calidad de la llamada?</string>
     <string name="feedback_title_v2">¿Cómo te resultó la calidad de la llamada?</string>
     <string name="full_name">Nombre</string>
     <string name="gallery_item_description">imagen del %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">imagen</string>
     <string name="gallery_permission_text">Para compartir una imagen, permite el acceso al contenido multimedia</string>
+    <string name="gcm_fallback_notification_channel_label">Varios</string>
     <string name="generic_conference_call_name">En llamada</string>
     <string name="ghostData_company">Empresa</string>
     <string name="ghostData_title">Cargo</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">Buscando ubicación…</string>
     <string name="location_map_description">Mapa de ubicación de emergencia</string>
     <string name="location_title">Indica tu ubicación a emergencias</string>
+    <string name="lte_call_template">LTE de %s</string>
     <string name="main_activity_label">Teléfono</string>
     <string name="main_call_history_tab_description">Historial de llamadas</string>
     <string name="main_help_and_feedback">Ayuda y comentarios</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">Resultados de búsqueda</string>
     <string name="phoneAppLabel">Teléfono</string>
     <string name="phoneLabelsGroup">Teléfono</string>
+    <string name="phone_account_description">Llamada con Wi‑Fi</string>
+    <string name="phone_account_label">Llamadas por Wi‑Fi con Google</string>
     <string name="phone_account_settings_label">Cuentas telefónicas</string>
     <string name="post_call_add_message">Agregar mensaje</string>
     <string name="post_call_message">Dile por qué llamaste</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">Restringido</string>
     <string name="quick_question">Pregunta rápida…</string>
     <string name="received_a_photo">Recibiste una foto</string>
+    <string name="reconnecting_via_template">Volviendo a conectarse a través de %s</string>
     <string name="relationLabelsGroup">Relación</string>
     <string name="remove_contact">Eliminar</string>
     <string name="report_caller_id_dialog_title">Informar número incorrecto</string>
     <string name="report_caller_id_failed">No se pudo informar el número.</string>
     <string name="report_caller_id_toast">Número informado</string>
+    <string name="request_feedback_title">Calificar llamadas</string>
     <string name="respond_via_sms_setting_title">Respuestas rápidas</string>
     <string name="rtt_input_hint">Escribe un mensaje</string>
     <string name="search_location_permission">Para obtener información de contacto de lugares cercanos, permite el acceso a tu ubicación.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">Enviaste una foto</string>
     <string name="set_default_account">Usar siempre para llamadas</string>
     <string name="settings">Configuración</string>
+    <string name="settings_label">Configurar llamada con Wi‑Fi</string>
     <string name="share_and_call">Compartir y llamar</string>
     <string name="simContacts_emptyLoading">Cargando desde tarjeta SIM…</string>
     <string name="simContacts_title">Contactos de la tarjeta SIM</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">Correo de voz</string>
     <string name="terms_and_conditions_decline_dialog_title">¿Quieres inhabilitar el buzón de voz visual?</string>
     <string name="terms_of_service_label">Condiciones del servicio</string>
+    <string name="three_g_call_template">3G de %s</string>
     <string name="toast_cannot_write_system_settings">La aplicación de teléfono no tiene permiso para modificar la configuración del sistema.</string>
     <string name="toast_text_copied">Texto copiado</string>
     <string name="toolbar_close">Cerrar</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">Desbloquear</string>
     <string name="unblock_number_ok">DESBLOQUEAR</string>
     <string name="unknown">Desconocido</string>
+    <string name="unknown_caller">Número desconocido</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">¡Es urgente! ¡Contesta!</string>
     <string name="user_profile_contacts_list_header">Yo</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">¿Quieres chatear?</string>
     <string name="websiteLabelsGroup">Sitio web</string>
+    <string name="wifi_call_end_network">Pérdida de conexión a la red</string>
+    <string name="wifi_call_end_unanswered">Sin respuesta</string>
+    <string name="wifi_call_end_unknown">Error desconocido</string>
+    <string name="wifi_call_enter_misc">Error al realizar la llamada</string>
+    <string name="wifi_call_enter_timeout">Se agotó el tiempo de espera para establecer la llamada</string>
+    <string name="wifi_call_error_insufficient_funds">Fondos insuficientes</string>
+    <string name="wifi_calling_enabled_summary">Usar Wi‑Fi para las llamadas cuando haya buena conexión</string>
+    <string name="wifi_calling_enabled_title">Llamadas por Wi‑Fi</string>
 </resources>

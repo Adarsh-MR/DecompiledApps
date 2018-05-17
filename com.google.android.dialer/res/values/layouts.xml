@@ -28,5 +28,9 @@
     <item type="layout" name="APKTOOL_DUMMY_aa">false</item>
     <item type="layout" name="APKTOOL_DUMMY_ab">false</item>
     <item type="layout" name="APKTOOL_DUMMY_ac">false</item>
-    <item type="layout" name="APKTOOL_DUMMY_c6">false</item>
+    <item type="layout" name="APKTOOL_DUMMY_b3">false</item>
+    <item type="layout" name="APKTOOL_DUMMY_b4">false</item>
+    <item type="layout" name="APKTOOL_DUMMY_b5">false</item>
+    <item type="layout" name="APKTOOL_DUMMY_b6">false</item>
+    <item type="layout" name="APKTOOL_DUMMY_ca">false</item>
 </resources>

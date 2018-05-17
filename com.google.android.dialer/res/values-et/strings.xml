@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">Erikuupäev</string>
     <string name="event_deactivated">Lemmikloomarežiim on väljas</string>
     <string name="favorites_header">Lemmikud</string>
+    <string name="feedback_action_high">Hea</string>
     <string name="feedback_action_high_v2">Hea</string>
+    <string name="feedback_action_low">Kehv</string>
     <string name="feedback_action_low_v2">Halb</string>
     <string name="feedback_audio_issue_echo">Teine pool kuulis kaja</string>
     <string name="feedback_audio_issue_local_audio">Teine inimene ei kuulnud mind</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">Hea kõne</string>
     <string name="feedback_call_issue_other">Midagi muud</string>
     <string name="feedback_call_issue_title">Mis probleem teil on?</string>
+    <string name="feedback_title">Kirjeldage kõne kvaliteeti.</string>
     <string name="feedback_title_v2">Kuidas jäite rahule kõnekvaliteediga?</string>
     <string name="full_name">Nimi</string>
     <string name="gallery_item_description">pilt: %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">pilt</string>
     <string name="gallery_permission_text">Pildi jagamiseks lubage juurdepääs meediale</string>
+    <string name="gcm_fallback_notification_channel_label">Muu</string>
     <string name="generic_conference_call_name">Pooleliolev kõne</string>
     <string name="ghostData_company">Ettevõte</string>
     <string name="ghostData_title">Nimetus</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">Asukoha leidmine …</string>
     <string name="location_map_description">Hädaolukorra asukoha kaart</string>
     <string name="location_title">Öelge hädaabile, kus olete</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Telefon</string>
     <string name="main_call_history_tab_description">Kõneajalugu</string>
     <string name="main_help_and_feedback">Abi ja tagasiside</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">Isikupärastatud otsingutulemused</string>
     <string name="phoneAppLabel">Telefon</string>
     <string name="phoneLabelsGroup">Telefon</string>
+    <string name="phone_account_description">WiFi-kõned</string>
+    <string name="phone_account_label">WiFi-kõned Google’iga</string>
     <string name="phone_account_settings_label">Helistamiskontod</string>
     <string name="post_call_add_message">Lisage sõnum</string>
     <string name="post_call_message">Öelge, miks te helistasite</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">Piiratud</string>
     <string name="quick_question">Kiire küsimus …</string>
     <string name="received_a_photo">Sai foto</string>
+    <string name="reconnecting_via_template">Uuesti ühendamine teenusepakkuja %s kaudu</string>
     <string name="relationLabelsGroup">Suhe</string>
     <string name="remove_contact">Eemalda</string>
     <string name="report_caller_id_dialog_title">Valest numbrist teavitamine</string>
     <string name="report_caller_id_failed">Numbrist ei õnnestunud teavitada</string>
     <string name="report_caller_id_toast">Numbrist teavitati</string>
+    <string name="request_feedback_title">Kõnede hindamine</string>
     <string name="respond_via_sms_setting_title">Kiirvastused</string>
     <string name="rtt_input_hint">Sisestage sõnum</string>
     <string name="search_location_permission">Teie läheduses olevate kohtade kohta kontaktteabe saamiseks andke juurdepääs oma asukohale.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">Saatis foto</string>
     <string name="set_default_account">Kasuta helistamiseks alati seda</string>
     <string name="settings">Seaded</string>
+    <string name="settings_label">WiFi-kõnede seadistamine</string>
     <string name="share_and_call">Jaga ja helista</string>
     <string name="simContacts_emptyLoading">Laadimine SIM-kaardilt …</string>
     <string name="simContacts_title">SIM-kaardi kontaktid</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">Kõnepost</string>
     <string name="terms_and_conditions_decline_dialog_title">Kas keelata visuaalne kõnepost?</string>
     <string name="terms_of_service_label">Teenusetingimused</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Telefonirakendusel pole luba süsteemiseadetesse kirjutada.</string>
     <string name="toast_text_copied">Tekst on kopeeritud</string>
     <string name="toolbar_close">Sule</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">Deblokeeri</string>
     <string name="unblock_number_ok">DEBLOKEERI</string>
     <string name="unknown">Tundmatu</string>
+    <string name="unknown_caller">Tundmatu helistaja</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Kiire! Võtke vastu!</string>
     <string name="user_profile_contacts_list_header">Mina</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">Kas soovite vestelda?</string>
     <string name="websiteLabelsGroup">Veebisait</string>
+    <string name="wifi_call_end_network">Ühendus võrguga katkes</string>
+    <string name="wifi_call_end_unanswered">Ei vastatud</string>
+    <string name="wifi_call_end_unknown">Tundmatu viga</string>
+    <string name="wifi_call_enter_misc">Kõnega liitumine ebaõnnestus</string>
+    <string name="wifi_call_enter_timeout">Kõne alustamisel ilmnes ajalõpp</string>
+    <string name="wifi_call_error_insufficient_funds">Vahendeid pole piisavalt</string>
+    <string name="wifi_calling_enabled_summary">Kõnede puhul WiFi kasutamine, kui ühendus on piisavalt hea</string>
+    <string name="wifi_calling_enabled_title">WiFi-kõned</string>
 </resources>

@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">Tanggal khusus</string>
     <string name="event_deactivated">Mode hewan peliharaan nonaktif</string>
     <string name="favorites_header">Favorit</string>
+    <string name="feedback_action_high">Baik</string>
     <string name="feedback_action_high_v2">Baik</string>
+    <string name="feedback_action_low">Buruk</string>
     <string name="feedback_action_low_v2">Buruk</string>
     <string name="feedback_audio_issue_echo">Orang lain mendengar gema</string>
     <string name="feedback_audio_issue_local_audio">Orang lain tidak dapat mendengar saya</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">Kualitas panggilan baik</string>
     <string name="feedback_call_issue_other">Lainnya</string>
     <string name="feedback_call_issue_title">Apa masalahnya?</string>
+    <string name="feedback_title">Bagaimana kualitas panggilan?</string>
     <string name="feedback_title_v2">Bagaimana kualitas panggilan di pihak Anda?</string>
     <string name="full_name">Nama</string>
     <string name="gallery_item_description">gambar %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">gambar</string>
     <string name="gallery_permission_text">Untuk membagikan gambar, berikan akses ke Media</string>
+    <string name="gcm_fallback_notification_channel_label">Lain-Lain</string>
     <string name="generic_conference_call_name">Sedang menelepon</string>
     <string name="ghostData_company">Perusahaan</string>
     <string name="ghostData_title">Jabatan</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">Mencari lokasi Anda…</string>
     <string name="location_map_description">Peta Lokasi Darurat</string>
     <string name="location_title">"Give your  location"</string>
+    <string name="lte_call_template">LTE %s</string>
     <string name="main_activity_label">Telepon</string>
     <string name="main_call_history_tab_description">Histori panggilan</string>
     <string name="main_help_and_feedback">Bantuan &amp; masukan</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">Hasil penelusuran personalisasi</string>
     <string name="phoneAppLabel">Telepon</string>
     <string name="phoneLabelsGroup">Telepon</string>
+    <string name="phone_account_description">Panggilan Wi-Fi</string>
+    <string name="phone_account_label">Panggilan Wi-Fi dengan Google</string>
     <string name="phone_account_settings_label">Akun panggilan</string>
     <string name="post_call_add_message">Tambahkan pesan</string>
     <string name="post_call_message">Katakan alasan Anda menelepon</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">Dibatasi</string>
     <string name="quick_question">Pertanyaan cepat…</string>
     <string name="received_a_photo">Menerima foto</string>
+    <string name="reconnecting_via_template">Menyambung ulang melalui %s</string>
     <string name="relationLabelsGroup">Hubungan</string>
     <string name="remove_contact">Hapus</string>
     <string name="report_caller_id_dialog_title">Laporkan nomor yang salah</string>
     <string name="report_caller_id_failed">Tidak dapat melaporkan nomor</string>
     <string name="report_caller_id_toast">Nomor dilaporkan</string>
+    <string name="request_feedback_title">Beri nilai panggilan</string>
     <string name="respond_via_sms_setting_title">Respons cepat</string>
     <string name="rtt_input_hint">Ketik pesan</string>
     <string name="search_location_permission">"To  obtain  information  contact  for  a place  in  near  you,  please allow  access  to  the location  you."</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">Mengirim foto</string>
     <string name="set_default_account">Selalu gunakan ini untuk telepon</string>
     <string name="settings">Setelan</string>
+    <string name="settings_label">Konfigurasikan panggilan Wi-Fi</string>
     <string name="share_and_call">Bagikan dan telepon</string>
     <string name="simContacts_emptyLoading">Memuat dari kartu SIM…</string>
     <string name="simContacts_title">Kontak di kartu SIM</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">Pesan suara</string>
     <string name="terms_and_conditions_decline_dialog_title">Nonaktifkan pesan suara visual?</string>
     <string name="terms_of_service_label">Persyaratan layanan</string>
+    <string name="three_g_call_template">3G %s</string>
     <string name="toast_cannot_write_system_settings">Aplikasi telepon tidak memiliki izin untuk menulis ke setelan sistem.</string>
     <string name="toast_text_copied">Teks disalin</string>
     <string name="toolbar_close">Tutup</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">Batalkan pemblokiran</string>
     <string name="unblock_number_ok">BEBASKAN</string>
     <string name="unknown">Tidak diketahui</string>
+    <string name="unknown_caller">Nomor tak dikenal</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Penting! Angkat teleponnya!</string>
     <string name="user_profile_contacts_list_header">Saya</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">Ingin chat?</string>
     <string name="websiteLabelsGroup">Situs web</string>
+    <string name="wifi_call_end_network">Jaringan hilang</string>
+    <string name="wifi_call_end_unanswered">Tidak ada tanggapan</string>
+    <string name="wifi_call_end_unknown">Kesalahan tidak dikenal</string>
+    <string name="wifi_call_enter_misc">Gagal menelepon</string>
+    <string name="wifi_call_enter_timeout">Waktu tunggu untuk menelepon habis</string>
+    <string name="wifi_call_error_insufficient_funds">Pulsa tidak mencukupi</string>
+    <string name="wifi_calling_enabled_summary">Gunakan Wi‑Fi untuk melakukan panggilan saat sambungan saya cukup kuat</string>
+    <string name="wifi_calling_enabled_title">Panggilan Wi-Fi</string>
 </resources>

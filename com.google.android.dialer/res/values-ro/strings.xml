@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Dată specială</string>
     <string name="event_deactivated">Modul Animal de companie este dezactivat.</string>
     <string name="favorites_header">Preferate</string>
+    <string name="feedback_action_high">Calitate bună</string>
     <string name="feedback_action_high_v2">Bună</string>
+    <string name="feedback_action_low">Calitate scăzută</string>
     <string name="feedback_action_low_v2">Slabă</string>
     <string name="feedback_audio_issue_echo">Cealaltă persoană a auzit ecou</string>
     <string name="feedback_audio_issue_local_audio">Cealaltă persoană nu m-a auzit</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Apel de calitate ridicată</string>
     <string name="feedback_call_issue_other">Altceva</string>
     <string name="feedback_call_issue_title">Care a fost problema?</string>
+    <string name="feedback_title">Cum a fost calitatea apelului?</string>
     <string name="feedback_title_v2">Cum a fost calitatea apelului?</string>
     <string name="full_name">Nume</string>
     <string name="gallery_item_description">imagine din %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">imagine</string>
     <string name="gallery_permission_text">Pentru a trimite o imagine, permiteți accesul la Conținutul media</string>
+    <string name="gcm_fallback_notification_channel_label">Diverse</string>
     <string name="generic_conference_call_name">Apel în desfășurare</string>
     <string name="ghostData_company">Companie</string>
     <string name="ghostData_title">Titlu</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Se găsește locația…</string>
     <string name="location_map_description">Hartă cu locația pentru urgențe</string>
     <string name="location_title">Spuneți serviciilor de urgențe unde sunteți</string>
+    <string name="lte_call_template">LTE %s</string>
     <string name="main_activity_label">Telefon</string>
     <string name="main_call_history_tab_description">Istoricul apelurilor</string>
     <string name="main_help_and_feedback">Ajutor și feedback</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Rezultate de căutare personalizate</string>
     <string name="phoneAppLabel">Telefon</string>
     <string name="phoneLabelsGroup">Telefon</string>
+    <string name="phone_account_description">Apelare prin Wi-Fi</string>
+    <string name="phone_account_label">Apeluri prin Wi-Fi cu Google</string>
     <string name="phone_account_settings_label">Conturi pentru apelare</string>
     <string name="post_call_add_message">Adăugați un mesaj</string>
     <string name="post_call_message">Spuneți de ce ați sunat</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Restricționat</string>
     <string name="quick_question">Întrebare rapidă…</string>
     <string name="received_a_photo">A fost primită o fotografie.</string>
+    <string name="reconnecting_via_template">Se reconectează prin %s</string>
     <string name="relationLabelsGroup">Relație</string>
     <string name="remove_contact">Eliminați</string>
     <string name="report_caller_id_dialog_title">Raportați un număr incorect</string>
     <string name="report_caller_id_failed">Numărul nu a putut fi raportat.</string>
     <string name="report_caller_id_toast">Numărul a fost raportat.</string>
+    <string name="request_feedback_title">Evaluați calitatea apelurilor</string>
     <string name="respond_via_sms_setting_title">Răspunsuri rapide</string>
     <string name="rtt_input_hint">Scrieți un mesaj</string>
     <string name="search_location_permission">Pentru a primit informații legate de locuri din aproprierea dvs., permiteți accesul la locație.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">A fost trimisă o fotografie.</string>
     <string name="set_default_account">Utilizați mereu pentru apeluri</string>
     <string name="settings">Setări</string>
+    <string name="settings_label">Configurați Apelarea prin Wi-Fi</string>
     <string name="share_and_call">Trimiteți și apelați</string>
     <string name="simContacts_emptyLoading">Se încarcă de pe cardul SIM…</string>
     <string name="simContacts_title">Agenda de pe cardul SIM</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Mesagerie vocală</string>
     <string name="terms_and_conditions_decline_dialog_title">Dezactivați mesageria vocală vizuală?</string>
     <string name="terms_of_service_label">Termeni și condiții</string>
+    <string name="three_g_call_template">%s prin 3G</string>
     <string name="toast_cannot_write_system_settings">Aplicația Telefon nu are permisiunea să modifice setările de sistem.</string>
     <string name="toast_text_copied">Text copiat</string>
     <string name="toolbar_close">Închideți</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Deblocați</string>
     <string name="unblock_number_ok">DEBLOCAȚI</string>
     <string name="unknown">Necunoscut</string>
+    <string name="unknown_caller">Apelant necunoscut</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">E urgent! Te rog să răspunzi!</string>
     <string name="user_profile_contacts_list_header">Eu</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Vrei să conversezi prin chat?</string>
     <string name="websiteLabelsGroup">Site web</string>
+    <string name="wifi_call_end_network">S-a pierdut conexiunea la rețea</string>
+    <string name="wifi_call_end_unanswered">Niciun răspuns</string>
+    <string name="wifi_call_end_unknown">Eroare necunoscută</string>
+    <string name="wifi_call_enter_misc">Inițierea apelului nu a reușit</string>
+    <string name="wifi_call_enter_timeout">Timpul limită pentru stabilirea apelului a expirat</string>
+    <string name="wifi_call_error_insufficient_funds">Fonduri insuficiente</string>
+    <string name="wifi_calling_enabled_summary">Folosiți Wi‑Fi pentru apeluri când conexiunea este suficient de puternică</string>
+    <string name="wifi_calling_enabled_title">Apelare prin Wi-Fi</string>
 </resources>

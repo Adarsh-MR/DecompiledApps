@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">ልዩ ቀን</string>
     <string name="event_deactivated">የቤት እንስሳ ሁነታ ጠፍቷል</string>
     <string name="favorites_header">ተወዳጆች</string>
+    <string name="feedback_action_high">ጥሩ</string>
     <string name="feedback_action_high_v2">ጥሩ</string>
+    <string name="feedback_action_low">መጥፎ</string>
     <string name="feedback_action_low_v2">መጥፎ</string>
     <string name="feedback_audio_issue_echo">ሌላኛው ወገን የገደል ማሚቶ ሰምቷል</string>
     <string name="feedback_audio_issue_local_audio">ሌላ ሰው ሊሰማኝ አልቻለም</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">ጥሩ ጥሪ</string>
     <string name="feedback_call_issue_other">ሌላ ነገር</string>
     <string name="feedback_call_issue_title">ችግሩ ምን ነበር?</string>
+    <string name="feedback_title">የጥሪው ጥራት እንዴት ነበር?</string>
     <string name="feedback_title_v2">በእርስዎ በኩል የጥሪው ጥራት እዴት ነበር?</string>
     <string name="full_name">ስም</string>
     <string name="gallery_item_description">ምስል %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">ምስል</string>
     <string name="gallery_permission_text">አንድ ምስል ለማጋራት ለማህደረ መረጃ መዳረሻ ይስጡ</string>
+    <string name="gcm_fallback_notification_channel_label">የተለያዩ</string>
     <string name="generic_conference_call_name">በጥሪ ላይ</string>
     <string name="ghostData_company">ኩባንያ</string>
     <string name="ghostData_title">ርዕስ</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">አካባቢዎን በማግኘት ላይ…</string>
     <string name="location_map_description">የድንገተኛ አደጋ አካባቢ ካርታ</string>
     <string name="location_title">ለፈጥኖ ደራሽ ያሉበትን ይንገሩ</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">ስልክ</string>
     <string name="main_call_history_tab_description">የጥሪ ታሪክ</string>
     <string name="main_help_and_feedback">እገዛ እና ግብረመልስ</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">ግላዊነት የተላበሱ የፍለጋ ውጤቶች</string>
     <string name="phoneAppLabel">ስልክ</string>
     <string name="phoneLabelsGroup">ስልክ</string>
+    <string name="phone_account_description">የWi-Fi ጥሪ</string>
+    <string name="phone_account_label">የWi-Fi ጥሪዎች በGoogle</string>
     <string name="phone_account_settings_label">የመደወያ መለያዎች</string>
     <string name="post_call_add_message">መልዕክት አክል</string>
     <string name="post_call_message">ለምን እንደደወሉ ይንገሩን</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">ተገድቧል</string>
     <string name="quick_question">ፈጣን ጥያቄ…</string>
     <string name="received_a_photo">አንድ ፎቶ ደርሷል</string>
+    <string name="reconnecting_via_template">በ%s በኩል ዳግም በመገናኘት ላይ</string>
     <string name="relationLabelsGroup">ግንኙነት</string>
     <string name="remove_contact">አስወግድ</string>
     <string name="report_caller_id_dialog_title">የተሳሳተ ቁጥርን ሪፖርት ያድርጉ</string>
     <string name="report_caller_id_failed">ቁጥሩን ሪፖርት ማድረግ አልተቻለም</string>
     <string name="report_caller_id_toast">ቁጥሩ ሪፖርት ተደርጓል</string>
+    <string name="request_feedback_title">ጥሪዎችን ደረጃ ይስጡ</string>
     <string name="respond_via_sms_setting_title">ፈጣን ምላሾች</string>
     <string name="rtt_input_hint">መልዕክት ይተይቡ</string>
     <string name="search_location_permission">በአቅራቢያዎ ላሉ ቦታዎች የእውቂያ መረጃ ለማግኘት፣ ወደ አካባቢዎ መዳረሻ ይፍቀዱ።</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">አንድ ፎቶ ተልኳል</string>
     <string name="set_default_account">ለጥሪዎች ሁልጊዜ ይህንን ተጠቀም</string>
     <string name="settings">ቅንብሮች</string>
+    <string name="settings_label">የWi-Fi ጥሪን ያዋቅሩ</string>
     <string name="share_and_call">ያጋሩ እና ይደውሉ</string>
     <string name="simContacts_emptyLoading">ከSIM ካርድ ላይ በመጫን ላይ…</string>
     <string name="simContacts_title">የSIM ካርድ ዕውቂያዎች</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">የድምፅ መልዕክት</string>
     <string name="terms_and_conditions_decline_dialog_title">እይታዊ የድምጽ መልዕክት ይሰናከል?</string>
     <string name="terms_of_service_label">የአገልግሎት ውል</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">የስልክ መተግበሪያ ወደ የስርዓት ቅንብሮች የመጻፍ ፍቃድ የለውም።</string>
     <string name="toast_text_copied">ፅሁፍ ተገልብጧል</string>
     <string name="toolbar_close">ዝጋ</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">እገዳውን አንሳ</string>
     <string name="unblock_number_ok">እገዳ አንሳ</string>
     <string name="unknown">ያልታወቀ</string>
+    <string name="unknown_caller">ያልታወቀ ደዋይ</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">አስቸኳይ! እባክዎ ያንሱ!</string>
     <string name="user_profile_contacts_list_header">እኔ</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">ለመወያየት ይፈልጋሉ?</string>
     <string name="websiteLabelsGroup">ድረ-ገፅ</string>
+    <string name="wifi_call_end_network">አውታረ መረብ ጠፍቷል</string>
+    <string name="wifi_call_end_unanswered">ምንም ምላሽ የለም</string>
+    <string name="wifi_call_end_unknown">ያልታወቀ ስህተት</string>
+    <string name="wifi_call_enter_misc">ጥሪን ማስገባት አልተሳካም</string>
+    <string name="wifi_call_enter_timeout">ጥሪን መመስረት እረፍት ወስዷል</string>
+    <string name="wifi_call_error_insufficient_funds">በቂ ያልሆነ ገንዘብ</string>
+    <string name="wifi_calling_enabled_summary">ግንኙነቴ ጠንካራ ሲሆን Wi‑Fi ተጠቀም</string>
+    <string name="wifi_calling_enabled_title">የWi-Fi ጥሪ</string>
 </resources>

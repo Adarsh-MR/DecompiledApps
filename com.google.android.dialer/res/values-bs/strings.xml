@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Posebni datum</string>
     <string name="event_deactivated">Isključen je način kućnog ljubimca</string>
     <string name="favorites_header">Omiljeni</string>
+    <string name="feedback_action_high">Dobar</string>
     <string name="feedback_action_high_v2">Dobar</string>
+    <string name="feedback_action_low">Loš</string>
     <string name="feedback_action_low_v2">Loš</string>
     <string name="feedback_audio_issue_echo">Druga osoba je čula odjek</string>
     <string name="feedback_audio_issue_local_audio">Druga osoba me nije čula</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Dobar poziv</string>
     <string name="feedback_call_issue_other">Nešto drugo</string>
     <string name="feedback_call_issue_title">U čemu je bio problem?</string>
+    <string name="feedback_title">Kakav je bio kvalitet poziva?</string>
     <string name="feedback_title_v2">Kakav je bio kvalitet poziva s vaše strane?</string>
     <string name="full_name">Ime</string>
     <string name="gallery_item_description">slika %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">slika</string>
     <string name="gallery_permission_text">Da podijelite sliku, dozvolite pristup Medijima</string>
+    <string name="gcm_fallback_notification_channel_label">Razno</string>
     <string name="generic_conference_call_name">Poziv u toku</string>
     <string name="ghostData_company">Kompanija</string>
     <string name="ghostData_title">Naziv</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Traženje vaše lokacije…</string>
     <string name="location_map_description">Mapa lokacije za hitne slučajeve</string>
     <string name="location_title">Obavije. hitnu o svojoj lok.</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Telefon</string>
     <string name="main_call_history_tab_description">Historija poziva</string>
     <string name="main_help_and_feedback">Pomoć i povratne informacije</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Prilagođeni rezultati pretraživanja</string>
     <string name="phoneAppLabel">Telefon</string>
     <string name="phoneLabelsGroup">Telefon</string>
+    <string name="phone_account_description">Wi-Fi pozivanje</string>
+    <string name="phone_account_label">Wi-Fi pozivi putem Googlea</string>
     <string name="phone_account_settings_label">Računi za pozivanje</string>
     <string name="post_call_add_message">Dodaj poruku</string>
     <string name="post_call_message">Recite zašto ste zvali</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Ograničeno</string>
     <string name="quick_question">Kratko pitanje…</string>
     <string name="received_a_photo">Fotografija primljena</string>
+    <string name="reconnecting_via_template">Ponovno povezivanje preko %s u toku</string>
     <string name="relationLabelsGroup">Odnos</string>
     <string name="remove_contact">Ukloni</string>
     <string name="report_caller_id_dialog_title">Prijava pogrešnog broja</string>
     <string name="report_caller_id_failed">Prijava broja nije moguća</string>
     <string name="report_caller_id_toast">Broj je prijavljen</string>
+    <string name="request_feedback_title">Ocijenite pozive</string>
     <string name="respond_via_sms_setting_title">Brzi odgovori</string>
     <string name="rtt_input_hint">Upišite poruku</string>
     <string name="search_location_permission">Da dobijete podatke o kontaktu za mjesta u blizini, dozvolite pristup lokaciji.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Fotografija poslana</string>
     <string name="set_default_account">Uvijek koristi ovu karticu za pozive</string>
     <string name="settings">Postavke</string>
+    <string name="settings_label">Konfiguriraj Wi-Fi pozivanje</string>
     <string name="share_and_call">Dijeli i pozovi</string>
     <string name="simContacts_emptyLoading">Učitavanje sa SIM kartice…</string>
     <string name="simContacts_title">Kontakti sa SIM kartice</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Govorna pošta</string>
     <string name="terms_and_conditions_decline_dialog_title">Onemogućiti vizuelnu govornu poštu?</string>
     <string name="terms_of_service_label">Uslovi korištenja usluge</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Aplikacija za telefon nema odobrenje za pisanje u postavkama sistema.</string>
     <string name="toast_text_copied">Tekst je kopiran</string>
     <string name="toolbar_close">Zatvori</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Deblokiraj</string>
     <string name="unblock_number_ok">DEBLOKIRAJ</string>
     <string name="unknown">Nepoznato</string>
+    <string name="unknown_caller">Nepoznat pozivalac</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Hitno! Javite se!</string>
     <string name="user_profile_contacts_list_header">Ja</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Želite li razgovarati?</string>
     <string name="websiteLabelsGroup">Web lokacija</string>
+    <string name="wifi_call_end_network">Veza s mrežom je izgubljena</string>
+    <string name="wifi_call_end_unanswered">Nema odgovora</string>
+    <string name="wifi_call_end_unknown">Nepoznata greška</string>
+    <string name="wifi_call_enter_misc">Pridruživanje pozivu nije uspjelo</string>
+    <string name="wifi_call_enter_timeout">Isteklo vrijeme za uspostavljanje poziva</string>
+    <string name="wifi_call_error_insufficient_funds">Nedovoljno sredstava</string>
+    <string name="wifi_calling_enabled_summary">Koristi Wi-Fi za pozive kada je veza dovoljno dobra</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi pozivanje</string>
 </resources>

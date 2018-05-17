@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">Īpašs datums</string>
     <string name="event_deactivated">Mājdzīvnieka režīms izslēgts</string>
     <string name="favorites_header">Izlase</string>
+    <string name="feedback_action_high">Labs</string>
     <string name="feedback_action_high_v2">Laba</string>
+    <string name="feedback_action_low">Slikts</string>
     <string name="feedback_action_low_v2">Slikta</string>
     <string name="feedback_audio_issue_echo">Otra persona dzirdēja atbalsi</string>
     <string name="feedback_audio_issue_local_audio">Otra persona nevarēja dzirdēt mani</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">Kvalitatīvs zvans</string>
     <string name="feedback_call_issue_other">Cita problēma</string>
     <string name="feedback_call_issue_title">Kāda problēma radās?</string>
+    <string name="feedback_title">Kāda bija zvana kvalitāte?</string>
     <string name="feedback_title_v2">Novērtējiet zvana kvalitāti!</string>
     <string name="full_name">Vārds</string>
     <string name="gallery_item_description">attēls, %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">attēls</string>
     <string name="gallery_permission_text">Lai kopīgotu attēlu, piešķiriet piekļuvi multivides saturam.</string>
+    <string name="gcm_fallback_notification_channel_label">Dažādi</string>
     <string name="generic_conference_call_name">Notiek zvans</string>
     <string name="ghostData_company">Uzņēmums</string>
     <string name="ghostData_title">Nosaukums</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">Meklē atrašanās vietu…</string>
     <string name="location_map_description">Ārkārtas atrašanās vietu karte</string>
     <string name="location_title">Pastāstiet, kur atrodaties</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Tālrunis</string>
     <string name="main_call_history_tab_description">Zvanu vēsture</string>
     <string name="main_help_and_feedback">Palīdzība un atsauksmes</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">Personalizēti meklēšanas rezultāti</string>
     <string name="phoneAppLabel">Tālrunis</string>
     <string name="phoneLabelsGroup">Tālrunis</string>
+    <string name="phone_account_description">Wi-Fi zvani</string>
+    <string name="phone_account_label">Wi-Fi zvani, izmantojot Google</string>
     <string name="phone_account_settings_label">Zvanu konti</string>
     <string name="post_call_add_message">Pievienojiet ziņojumu</string>
     <string name="post_call_message">Pastāstiet, kāpēc zvanījāt</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">Ierobežots</string>
     <string name="quick_question">Ātrs jautājums…</string>
     <string name="received_a_photo">Saņēma fotoattēlu</string>
+    <string name="reconnecting_via_template">Notiek atkārtota savienojuma izveide, izmantojot %s</string>
     <string name="relationLabelsGroup">Saistība</string>
     <string name="remove_contact">Noņemt</string>
     <string name="report_caller_id_dialog_title">Ziņošana par nepareizu numuru</string>
     <string name="report_caller_id_failed">Nevarēja nosūtīt ziņojumu par numuru</string>
     <string name="report_caller_id_toast">Ziņojums par numuru nosūtīts</string>
+    <string name="request_feedback_title">Novērtēt zvanus</string>
     <string name="respond_via_sms_setting_title">Ātrās atbildes</string>
     <string name="rtt_input_hint">Ierakstiet ziņojumu</string>
     <string name="search_location_permission">Lai iegūtu kontaktinformāciju vietām, kas atrodas jums tuvumā, atļaujiet piekļuvi savai atrašanās vietai.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">Nosūtīja fotoattēlu</string>
     <string name="set_default_account">Vienmēr izmantot zvaniem</string>
     <string name="settings">Iestatījumi</string>
+    <string name="settings_label">Wi-Fi zvanu konfigurēšana</string>
     <string name="share_and_call">Kopīgot un zvanīt</string>
     <string name="simContacts_emptyLoading">Notiek ielāde no SIM kartes...</string>
     <string name="simContacts_title">SIM kartes kontaktpersonas</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">Balss pasts</string>
     <string name="terms_and_conditions_decline_dialog_title">Vai atspējot vizuālo balss pastu?</string>
     <string name="terms_of_service_label">Pakalpojumu sniegšanas noteikumi</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Tālruņa lietotnei nav atļaujas rakstīt sistēmas iestatījumos.</string>
     <string name="toast_text_copied">Teksts ir nokopēts</string>
     <string name="toolbar_close">Aizvērt</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">Atbloķēt</string>
     <string name="unblock_number_ok">ATBLOĶĒT</string>
     <string name="unknown">Nezināms</string>
+    <string name="unknown_caller">Nezināms zvanītājs</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Tas ir svarīgi. Lūdzu, atbildiet!</string>
     <string name="user_profile_contacts_list_header">Es</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">Vai vēlaties tērzēt?</string>
     <string name="websiteLabelsGroup">Vietne</string>
+    <string name="wifi_call_end_network">Zaudēts savienojums ar tīklu</string>
+    <string name="wifi_call_end_unanswered">Nav atbildes</string>
+    <string name="wifi_call_end_unknown">Nezināma kļūda</string>
+    <string name="wifi_call_enter_misc">Neizdevās sākt zvanu</string>
+    <string name="wifi_call_enter_timeout">Iestājās zvana sākšanas noildze</string>
+    <string name="wifi_call_error_insufficient_funds">Nepietiek līdzekļu</string>
+    <string name="wifi_calling_enabled_summary">Izmantot zvaniem Wi‑Fi, ja savienojums ir pietiekami spēcīgs</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi zvani</string>
 </resources>

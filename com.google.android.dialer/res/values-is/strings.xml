@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Sérstök dagsetning</string>
     <string name="event_deactivated">Slökkt á gæludýrastillingu</string>
     <string name="favorites_header">Uppáhald</string>
+    <string name="feedback_action_high">Gott</string>
     <string name="feedback_action_high_v2">Góð</string>
+    <string name="feedback_action_low">Slæmt</string>
     <string name="feedback_action_low_v2">Slæm</string>
     <string name="feedback_audio_issue_echo">Bergmál á hinum endanum</string>
     <string name="feedback_audio_issue_local_audio">Viðmælandinn heyrði ekki í mér</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Gott símtal</string>
     <string name="feedback_call_issue_other">Eitthvað annað</string>
     <string name="feedback_call_issue_title">Hvert var vandamálið?</string>
+    <string name="feedback_title">Hvernig voru gæði símtalsins?</string>
     <string name="feedback_title_v2">Hvernig voru gæði símtalsins þín megin?</string>
     <string name="full_name">Nafn</string>
     <string name="gallery_item_description">mynd %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">mynd</string>
     <string name="gallery_permission_text">Til að deila mynd skaltu veita margmiðlunarefni aðgang</string>
+    <string name="gcm_fallback_notification_channel_label">Ýmislegt</string>
     <string name="generic_conference_call_name">Í símtali</string>
     <string name="ghostData_company">Fyrirtæki</string>
     <string name="ghostData_title">Titill</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Leitar að staðsetningu…</string>
     <string name="location_map_description">Staðsetningarkort fyrir neyðartilvik</string>
     <string name="location_title">Segðu neyðarþjónustu hvar þú ert</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Sími</string>
     <string name="main_call_history_tab_description">Símtalaferill</string>
     <string name="main_help_and_feedback">Hjálp og ábendingar</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Sérsniðnar leitarniðurstöður</string>
     <string name="phoneAppLabel">Sími</string>
     <string name="phoneLabelsGroup">Sími</string>
+    <string name="phone_account_description">Wi-Fi símtöl</string>
+    <string name="phone_account_label">Wi-Fi símtöl með Google</string>
     <string name="phone_account_settings_label">Símtalareikningar</string>
     <string name="post_call_add_message">Senda skilaboð</string>
     <string name="post_call_message">Segðu hvers vegna þú hringdir</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Einkanúmer</string>
     <string name="quick_question">Snögg spurning...</string>
     <string name="received_a_photo">Tók á móti mynd</string>
+    <string name="reconnecting_via_template">Tengist aftur gegnum %s</string>
     <string name="relationLabelsGroup">Tengsl</string>
     <string name="remove_contact">Fjarlægja</string>
     <string name="report_caller_id_dialog_title">Tilkynna rangt númer</string>
     <string name="report_caller_id_failed">Ekki tókst að tilkynna númerið</string>
     <string name="report_caller_id_toast">Númer tilkynnt</string>
+    <string name="request_feedback_title">Gefa símtölum einkunn</string>
     <string name="respond_via_sms_setting_title">Snarsvör</string>
     <string name="rtt_input_hint">Sláðu inn skilaboð</string>
     <string name="search_location_permission">Til að fá samskiptaupplýsingar fyrir staði í nágrenninu skaltu leyfa aðgang að staðsetningu.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Sendi mynd</string>
     <string name="set_default_account">Nota þetta alltaf fyrir símtöl</string>
     <string name="settings">Stillingar</string>
+    <string name="settings_label">Stilla Wi-Fi símtöl</string>
     <string name="share_and_call">Deila og hringja</string>
     <string name="simContacts_emptyLoading">Hleður af SIM-kortinu…</string>
     <string name="simContacts_title">Tengiliðir á SIM-korti</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Talhólf</string>
     <string name="terms_and_conditions_decline_dialog_title">Viltu slökkva á myndrænu talhólfi?</string>
     <string name="terms_of_service_label">Þjónustuskilmálar</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Símaforritið hefur ekki heimild til að breyta kerfisstillingum.</string>
     <string name="toast_text_copied">Texti afritaður</string>
     <string name="toolbar_close">Loka</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Taka af bannlista</string>
     <string name="unblock_number_ok">TAKA AF BANNLISTA</string>
     <string name="unknown">Óþekkt</string>
+    <string name="unknown_caller">Óþekktur hringjandi</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Áríðandi! Svaraðu endilega!</string>
     <string name="user_profile_contacts_list_header">Ég</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Viltu spjalla?</string>
     <string name="websiteLabelsGroup">Vefsvæði</string>
+    <string name="wifi_call_end_network">Nettenging slitnaði</string>
+    <string name="wifi_call_end_unanswered">Ekkert svar</string>
+    <string name="wifi_call_end_unknown">Óþekkt villa</string>
+    <string name="wifi_call_enter_misc">Mistókst að tengjast símtali</string>
+    <string name="wifi_call_enter_timeout">Rann út á tíma til að koma á símtali</string>
+    <string name="wifi_call_error_insufficient_funds">Ekki næg innistæða</string>
+    <string name="wifi_calling_enabled_summary">Nota Wi-Fi fyrir símtöl þegar tengingin er nógu góð</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi símtöl</string>
 </resources>

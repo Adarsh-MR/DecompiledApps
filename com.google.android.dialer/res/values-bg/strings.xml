@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Специална дата</string>
     <string name="event_deactivated">Режимът за домашен любимец е изключен</string>
     <string name="favorites_header">Любими</string>
+    <string name="feedback_action_high">Добро</string>
     <string name="feedback_action_high_v2">Добро</string>
+    <string name="feedback_action_low">Лошо</string>
     <string name="feedback_action_low_v2">Лошо</string>
     <string name="feedback_audio_issue_echo">Отсрещната страна чуваше ехо</string>
     <string name="feedback_audio_issue_local_audio">Отсрещната страна не ме чуваше</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Обаждането бе с добро качество</string>
     <string name="feedback_call_issue_other">Нещо друго</string>
     <string name="feedback_call_issue_title">Какъв бе проблемът?</string>
+    <string name="feedback_title">Какво бе качеството на обаждането?</string>
     <string name="feedback_title_v2">Какво беше качеството на обаждането при вас?</string>
     <string name="full_name">Име</string>
     <string name="gallery_item_description">изображение от %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">изображение</string>
     <string name="gallery_permission_text">За да споделите изображение, разрешете достъп до Медии</string>
+    <string name="gcm_fallback_notification_channel_label">Разни</string>
     <string name="generic_conference_call_name">В разговор</string>
     <string name="ghostData_company">Фирма</string>
     <string name="ghostData_title">Наименование</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Местопол. се определя…</string>
     <string name="location_map_description">Карта на местоположението при спешно обаждане</string>
     <string name="location_title">Съобщете на спешните служби къде сте</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Телефон</string>
     <string name="main_call_history_tab_description">История на обажданията</string>
     <string name="main_help_and_feedback">Помощ и отзиви</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Персонализирани резултати</string>
     <string name="phoneAppLabel">Телефон</string>
     <string name="phoneLabelsGroup">Телефон</string>
+    <string name="phone_account_description">Обаждания през Wi-Fi</string>
+    <string name="phone_account_label">Обаждания през Wi-Fi с Google</string>
     <string name="phone_account_settings_label">Профили за обаждане</string>
     <string name="post_call_add_message">Добавяне на съобщение</string>
     <string name="post_call_message">Обяснете защо се обадихте</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Ограничен</string>
     <string name="quick_question">Кратък въпрос…</string>
     <string name="received_a_photo">Получена бе снимка</string>
+    <string name="reconnecting_via_template">Установява се повторна връзка чрез %s</string>
     <string name="relationLabelsGroup">Връзки</string>
     <string name="remove_contact">Премахване</string>
     <string name="report_caller_id_dialog_title">Подаване на сигнал за неправилен номер</string>
     <string name="report_caller_id_failed">Сигналът за номера не можа да бъде подаден</string>
     <string name="report_caller_id_toast">За номера бе подаден сигнал</string>
+    <string name="request_feedback_title">Оценяване на обажданията</string>
     <string name="respond_via_sms_setting_title">Бързи отговори</string>
     <string name="rtt_input_hint">Въведете съобщение</string>
     <string name="search_location_permission">За да получавате информация за връзка за места в близост до вас, разрешете достъпа до местоположението си.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Изпратена бе снимка</string>
     <string name="set_default_account">Винаги да се използва за обаждания</string>
     <string name="settings">Настройки</string>
+    <string name="settings_label">Конфигуриране на функцията за обаждания през Wi-Fi</string>
     <string name="share_and_call">Споделяне и обаждане</string>
     <string name="simContacts_emptyLoading">Зарежда се от SIM картата…</string>
     <string name="simContacts_title">Контакти от SIM картата</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Гласова поща</string>
     <string name="terms_and_conditions_decline_dialog_title">Да се деактивира ли визуалната гласова поща?</string>
     <string name="terms_of_service_label">Общи условия</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Приложението Телефон няма разрешение да записва в системните настройки.</string>
     <string name="toast_text_copied">Текстът бе копиран</string>
     <string name="toolbar_close">Затваряне</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Отблокиране</string>
     <string name="unblock_number_ok">ОТБЛОКИРАНЕ</string>
     <string name="unknown">Неизвестен номер</string>
+    <string name="unknown_caller">Неизв. обаждащ се</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Спешно! Моля, вдигнете!</string>
     <string name="user_profile_contacts_list_header">Аз</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Искате да разговаряте?</string>
     <string name="websiteLabelsGroup">Уебсайт</string>
+    <string name="wifi_call_end_network">Връзката с мрежата прекъсна</string>
+    <string name="wifi_call_end_unanswered">Няма отговор</string>
+    <string name="wifi_call_end_unknown">Неизвестна грешка</string>
+    <string name="wifi_call_enter_misc">Включването в обаждането не бе успешно</string>
+    <string name="wifi_call_enter_timeout">Времето за изчакване при осъществяване на обаждане изтече</string>
+    <string name="wifi_call_error_insufficient_funds">Недостатъчни средства</string>
+    <string name="wifi_calling_enabled_summary">Използване на Wi-Fi за обаждания, когато връзката ми е достатъчно силна</string>
+    <string name="wifi_calling_enabled_title">Обаждания през Wi-Fi</string>
 </resources>

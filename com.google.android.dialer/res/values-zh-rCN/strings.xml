@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">特别的日子</string>
     <string name="event_deactivated">宠物模式已关闭</string>
     <string name="favorites_header">收藏</string>
+    <string name="feedback_action_high">良好</string>
     <string name="feedback_action_high_v2">不错</string>
+    <string name="feedback_action_low">很差</string>
     <string name="feedback_action_low_v2">很差</string>
     <string name="feedback_audio_issue_echo">对方听到回声</string>
     <string name="feedback_audio_issue_local_audio">对方听不到我的声音</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">通话质量较好</string>
     <string name="feedback_call_issue_other">其他</string>
     <string name="feedback_call_issue_title">发生了什么问题？</string>
+    <string name="feedback_title">通话质量如何？</string>
     <string name="feedback_title_v2">您这一端的通话质量如何？</string>
     <string name="full_name">名称</string>
     <string name="gallery_item_description">图片（%1$tB %1$te %1$tY %1$tl %1$tM %1$tp）</string>
     <string name="gallery_item_description_no_date">图片</string>
     <string name="gallery_permission_text">要分享图片，请授予媒体访问权限</string>
+    <string name="gcm_fallback_notification_channel_label">其他</string>
     <string name="generic_conference_call_name">正在通话</string>
     <string name="ghostData_company">公司</string>
     <string name="ghostData_title">职务</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">正在查找您的位置…</string>
     <string name="location_map_description">急救位置地图</string>
     <string name="location_title">向紧急服务人员告知您的位置</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">拨打电话</string>
     <string name="main_call_history_tab_description">通话记录</string>
     <string name="main_help_and_feedback">帮助与反馈</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">个性化搜索结果</string>
     <string name="phoneAppLabel">电话</string>
     <string name="phoneLabelsGroup">电话</string>
+    <string name="phone_account_description">WLAN 通话</string>
+    <string name="phone_account_label">通过 Google 进行 WLAN 通话</string>
     <string name="phone_account_settings_label">通话帐号</string>
     <string name="post_call_add_message">添加信息</string>
     <string name="post_call_message">说明致电原因</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">受限</string>
     <string name="quick_question">快速提问…</string>
     <string name="received_a_photo">收到了一张照片</string>
+    <string name="reconnecting_via_template">正在通过%s重新连接</string>
     <string name="relationLabelsGroup">关系</string>
     <string name="remove_contact">移除</string>
     <string name="report_caller_id_dialog_title">报告错误号码</string>
     <string name="report_caller_id_failed">无法报告错误的号码</string>
     <string name="report_caller_id_toast">已报告错误的号码</string>
+    <string name="request_feedback_title">为通话评分</string>
     <string name="respond_via_sms_setting_title">快速回复</string>
     <string name="rtt_input_hint">输入信息</string>
     <string name="search_location_permission">要获取附近地点的联系信息，请允许应用使用您的位置信息。</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">发送了一张照片</string>
     <string name="set_default_account">一律使用这张卡进行通话</string>
     <string name="settings">设置</string>
+    <string name="settings_label">配置 WLAN 通话</string>
     <string name="share_and_call">分享并拨打电话</string>
     <string name="simContacts_emptyLoading">正从 SIM 卡中加载…</string>
     <string name="simContacts_title">SIM 卡联系人</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">语音邮件</string>
     <string name="terms_and_conditions_decline_dialog_title">要停用可视语音信箱吗？</string>
     <string name="terms_of_service_label">服务条款</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">电话应用不具备写入系统设置的权限。</string>
     <string name="toast_text_copied">文本已复制</string>
     <string name="toolbar_close">关闭</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">取消屏蔽</string>
     <string name="unblock_number_ok">取消屏蔽</string>
     <string name="unknown">未知</string>
+    <string name="unknown_caller">未知来电者</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">紧急！请接听！</string>
     <string name="user_profile_contacts_list_header">我</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">想要聊天？</string>
     <string name="websiteLabelsGroup">网站</string>
+    <string name="wifi_call_end_network">网络连接中断</string>
+    <string name="wifi_call_end_unanswered">无响应</string>
+    <string name="wifi_call_end_unknown">未知错误</string>
+    <string name="wifi_call_enter_misc">无法加入通话</string>
+    <string name="wifi_call_enter_timeout">加入通话超时</string>
+    <string name="wifi_call_error_insufficient_funds">余额不足</string>
+    <string name="wifi_calling_enabled_summary">WLAN 网络连接状况良好时使用 WLAN 通话</string>
+    <string name="wifi_calling_enabled_title">WLAN 通话</string>
 </resources>

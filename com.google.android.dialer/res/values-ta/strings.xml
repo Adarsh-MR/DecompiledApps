@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">சிறப்புத் தேதி</string>
     <string name="event_deactivated">செல்லப்பிராணிப் பயன்முறை முடக்கப்பட்டது</string>
     <string name="favorites_header">பிடித்தவை</string>
+    <string name="feedback_action_high">நன்று</string>
     <string name="feedback_action_high_v2">நன்று</string>
+    <string name="feedback_action_low">மோசம்</string>
     <string name="feedback_action_low_v2">மோசம்</string>
     <string name="feedback_audio_issue_echo">மறுமுனையில் எதிரொலி கேட்டது</string>
     <string name="feedback_audio_issue_local_audio">நான் பேசுவதை மறுமுனையில் இருப்பவரால் கேட்க முடியவில்லை</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">நல்ல அழைப்புத் தரம்</string>
     <string name="feedback_call_issue_other">பிற சிக்கல்கள்</string>
     <string name="feedback_call_issue_title">என்ன சிக்கல்?</string>
+    <string name="feedback_title">அழைப்பின் தரம் எப்படி இருந்தது?</string>
     <string name="feedback_title_v2">உங்கள் தரப்பில் அழைப்பின் தரம் எப்படி இருந்தது?</string>
     <string name="full_name">பெயர்</string>
     <string name="gallery_item_description">படம், %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">படம்</string>
     <string name="gallery_permission_text">படத்தைப் பகிர, மீடியாவிற்கு அணுகல் வழங்கவும்</string>
+    <string name="gcm_fallback_notification_channel_label">மற்றவை</string>
     <string name="generic_conference_call_name">அழைப்பில்</string>
     <string name="ghostData_company">நிறுவனம்</string>
     <string name="ghostData_title">தலைப்பு</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">இடத்தை கண்டறிகிறது…</string>
     <string name="location_map_description">அவசர அழைப்புகளின் போது காட்டப்படும் இருப்பிட வரைபடம்</string>
     <string name="location_title">உங்கள் இருப்பிடத்தை அவசரச் சேவைகளுக்குத் தெரிவிக்கவும்</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">ஃபோன்</string>
     <string name="main_call_history_tab_description">அழைப்பு வரலாறு</string>
     <string name="main_help_and_feedback">உதவி &amp; கருத்து</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">தனிப்பட்ட தேடல் முடிவுகள்</string>
     <string name="phoneAppLabel">மொபைல்</string>
     <string name="phoneLabelsGroup">மொபைல்</string>
+    <string name="phone_account_description">வைஃபை அழைப்பு</string>
+    <string name="phone_account_label">Google மூலம் வைஃபை அழைப்புகள்</string>
     <string name="phone_account_settings_label">அழைப்பு கணக்குகள்</string>
     <string name="post_call_add_message">செய்தியைச் சேர்க்கவும்</string>
     <string name="post_call_message">ஏன் அழைத்தீர்கள் என்பதைச் சொல்லவும்</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">வரம்பிட்டவை</string>
     <string name="quick_question">விரைவுக் கேள்வி…</string>
     <string name="received_a_photo">படம் பெறப்பட்டது</string>
+    <string name="reconnecting_via_template">%s வழியாக மீண்டும் இணைக்கிறது</string>
     <string name="relationLabelsGroup">உறவுமுறை</string>
     <string name="remove_contact">அகற்று</string>
     <string name="report_caller_id_dialog_title">தவறான எண் எனப் புகாரளி</string>
     <string name="report_caller_id_failed">எண்ணைப் புகாரளிக்க முடியவில்லை</string>
     <string name="report_caller_id_toast">எண் புகாரளிக்கப்பட்டது</string>
+    <string name="request_feedback_title">அழைப்புகளை மதிப்பிடவும்</string>
     <string name="respond_via_sms_setting_title">விரைவு பதில்கள்</string>
     <string name="rtt_input_hint">செய்தியை உள்ளிடவும்</string>
     <string name="search_location_permission">உங்கள் அருகிலுள்ள இடங்களின் தொடர்புத் தகவலைப் பெற, உங்கள் இருப்பிடத்திற்கான அணுகலை வழங்கவும்.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">படம் அனுப்பப்பட்டது</string>
     <string name="set_default_account">அழைப்புகளுக்கு எப்போதும் இதைப் பயன்படுத்து</string>
     <string name="settings">அமைப்புகள்</string>
+    <string name="settings_label">வைஃபை அழைப்பை உள்ளமை</string>
     <string name="share_and_call">பகிர்ந்து அழை</string>
     <string name="simContacts_emptyLoading">சிம் கார்டிலிருந்து ஏற்றுகிறது…</string>
     <string name="simContacts_title">சிம் கார்டு தொடர்புகள்</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">குரலஞ்சல்</string>
     <string name="terms_and_conditions_decline_dialog_title">விஷுவல் குரலஞ்சலை முடக்கவா?</string>
     <string name="terms_of_service_label">சேவை விதிமுறைகள்</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">முறைமை அமைப்புகளில் எழுதுவதற்கான அனுமதி ஃபோன் பயன்பாட்டுக்கு இல்லை.</string>
     <string name="toast_text_copied">உரை நகலெடுக்கப்பட்டது</string>
     <string name="toolbar_close">மூடு</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">அனுமதி</string>
     <string name="unblock_number_ok">அனுமதி</string>
     <string name="unknown">தெரியாதவர்</string>
+    <string name="unknown_caller">தெரியாத அழைப்பாளர்</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">அவசரம்! அழைப்பை எடுக்கவும்!</string>
     <string name="user_profile_contacts_list_header">எனக்கு</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">அரட்டை அடிக்க வேண்டுமா?</string>
     <string name="websiteLabelsGroup">இணையதளம்</string>
+    <string name="wifi_call_end_network">நெட்வொர்க் இணைப்பு இல்லை</string>
+    <string name="wifi_call_end_unanswered">பதில் இல்லை</string>
+    <string name="wifi_call_end_unknown">அறியப்படாத பிழை</string>
+    <string name="wifi_call_enter_misc">அழைக்க முடியவில்லை</string>
+    <string name="wifi_call_enter_timeout">அழைப்பை இணைப்பதற்கான நேரம் முடிந்தது</string>
+    <string name="wifi_call_error_insufficient_funds">போதுமான பணமில்லை</string>
+    <string name="wifi_calling_enabled_summary">இணைப்பு வலுவாக இருக்கும் போது, அழைப்புகளுக்கு வைஃபையைப் பயன்படுத்து</string>
+    <string name="wifi_calling_enabled_title">வைஃபை அழைப்பு</string>
 </resources>

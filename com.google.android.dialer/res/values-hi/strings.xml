@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">विशेष दिनांक</string>
     <string name="event_deactivated">पालतू मोड बंद है</string>
     <string name="favorites_header">पसंदीदा</string>
+    <string name="feedback_action_high">अच्छा</string>
     <string name="feedback_action_high_v2">अच्छी</string>
+    <string name="feedback_action_low">खराब</string>
     <string name="feedback_action_low_v2">खराब</string>
     <string name="feedback_audio_issue_echo">दूसरी ओर इको सुनाई दे रहा था</string>
     <string name="feedback_audio_issue_local_audio">दूसरा व्यक्ति मेरी आवाज़ नहीं सुन सका</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">अच्छा कॉल</string>
     <string name="feedback_call_issue_other">कुछ और</string>
     <string name="feedback_call_issue_title">क्या समस्या थी?</string>
+    <string name="feedback_title">कॉल की गुणवत्ता कैसी थी?</string>
     <string name="feedback_title_v2">आपकी तरफ़ कॉल की क्वालिटी कैसी थी?</string>
     <string name="full_name">नाम</string>
     <string name="gallery_item_description">चित्र %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">चित्र</string>
     <string name="gallery_permission_text">चित्र साझा करने के लिए, मीडिया की ऐक्सेस दें</string>
+    <string name="gcm_fallback_notification_channel_label">विविध</string>
     <string name="generic_conference_call_name">कॉल में</string>
     <string name="ghostData_company">कंपनी</string>
     <string name="ghostData_title">शीर्षक</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">स्थान ढूंढ रहा है…</string>
     <string name="location_map_description">आपातकालीन स्‍थान मानचित्र</string>
     <string name="location_title">आपात सेवाओं को बताएं</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">फ़ोन</string>
     <string name="main_call_history_tab_description">कॉल इतिहास</string>
     <string name="main_help_and_feedback">सहायता और फ़ीडबैक</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">वैयक्‍तिकृत खोज परिणाम</string>
     <string name="phoneAppLabel">फ़ोन</string>
     <string name="phoneLabelsGroup">फ़ोन</string>
+    <string name="phone_account_description">वाई-फ़ाई कॉलिंग</string>
+    <string name="phone_account_label">Google के साथ वाई-फ़ाई कॉल</string>
     <string name="phone_account_settings_label">कॉलिंग खाते</string>
     <string name="post_call_add_message">संदेश जोड़ें</string>
     <string name="post_call_message">कहें कि आपने कॉल क्यों किया</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">प्रतिबंधित</string>
     <string name="quick_question">झटपट प्रश्न…</string>
     <string name="received_a_photo">फ़ोटो मिली</string>
+    <string name="reconnecting_via_template">%s के द्वारा पुनः कनेक्ट किया जा रहा है</string>
     <string name="relationLabelsGroup">संबंध</string>
     <string name="remove_contact">निकालें</string>
     <string name="report_caller_id_dialog_title">गलत नंबर की रिपोर्ट करें</string>
     <string name="report_caller_id_failed">नंबर की रिपोर्ट नहीं की जा सकी</string>
     <string name="report_caller_id_toast">नंबर की रिपोर्ट की गई</string>
+    <string name="request_feedback_title">कॉल को रेट करें</string>
     <string name="respond_via_sms_setting_title">झटपट उत्तर</string>
     <string name="rtt_input_hint">एक संदेश लिखें</string>
     <string name="search_location_permission">अपने आस-पास के स्थानों की संपर्क जानकारी पाने के लिए, अपना स्थान एक्सेस करने की अनुमति दें.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">फ़ोटो भेजी गई</string>
     <string name="set_default_account">कॉल के लिए हमेशा इसका उपयोग करें</string>
     <string name="settings">सेटिंग</string>
+    <string name="settings_label">वाई-फ़ाई कॉलिंग कॉन्फ़िगर करें</string>
     <string name="share_and_call">साझा करें और कॉल करें</string>
     <string name="simContacts_emptyLoading">SIM कार्ड से लोड हो रहा है…</string>
     <string name="simContacts_title">SIM कार्ड के संपर्क</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">वॉइसमेल</string>
     <string name="terms_and_conditions_decline_dialog_title">विज़ुअल वॉइसमेल बंद करें?</string>
     <string name="terms_of_service_label">सेवा की शर्तें</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">फ़ोन ऐप को सिस्टम सेटिंग में लिखने की अनुमति नहीं है.</string>
     <string name="toast_text_copied">लेख कॉपी किया गया</string>
     <string name="toolbar_close">बंद करें</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">अनब्लॉक करें</string>
     <string name="unblock_number_ok">अनवरोधित करें</string>
     <string name="unknown">अज्ञात</string>
+    <string name="unknown_caller">अज्ञात कॉलर</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">अत्यावश्यक! कृपया जवाब दें!</string>
     <string name="user_profile_contacts_list_header">मुझे</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">क्या आप चैट करना चाहते हैं?</string>
     <string name="websiteLabelsGroup">वेबसाइट</string>
+    <string name="wifi_call_end_network">नेटवर्क चला गया</string>
+    <string name="wifi_call_end_unanswered">कोई जवाब नहीं</string>
+    <string name="wifi_call_end_unknown">अज्ञात गड़बड़ी</string>
+    <string name="wifi_call_enter_misc">कॉल करने में विफल रहा</string>
+    <string name="wifi_call_enter_timeout">कॉल स्थापित करना समय बाह्य हुआ</string>
+    <string name="wifi_call_error_insufficient_funds">अपर्याप्त धनराशि</string>
+    <string name="wifi_calling_enabled_summary">जब मेरा कनेक्शन पर्याप्त रूप से सशक्त हो, तब कॉल करने के लिए वाई-फ़ाई का उपयोग करें</string>
+    <string name="wifi_calling_enabled_title">वाई-फ़ाई कॉलिंग</string>
 </resources>

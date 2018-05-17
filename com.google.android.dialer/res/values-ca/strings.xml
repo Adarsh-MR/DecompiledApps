@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Data especial</string>
     <string name="event_deactivated">Mode de mascota desactivat</string>
     <string name="favorites_header">Preferits</string>
+    <string name="feedback_action_high">Bona</string>
     <string name="feedback_action_high_v2">Bona</string>
+    <string name="feedback_action_low">Dolenta</string>
     <string name="feedback_action_low_v2">Dolenta</string>
     <string name="feedback_audio_issue_echo">"L'altra persona sentia eco"</string>
     <string name="feedback_audio_issue_local_audio">"L'altre persona no em sentia"</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">La qualitat de la trucada ha estat bona</string>
     <string name="feedback_call_issue_other">Una altra opció</string>
     <string name="feedback_call_issue_title">Quin problema has tingut?</string>
+    <string name="feedback_title">Com era la qualitat de la trucada?</string>
     <string name="feedback_title_v2">"Què t'ha semblat la qualitat de la trucada?"</string>
     <string name="full_name">Nom</string>
     <string name="gallery_item_description">imatge del dia %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">imatge</string>
     <string name="gallery_permission_text">Per compartir una imatge, dona accés al contingut multimèdia</string>
+    <string name="gcm_fallback_notification_channel_label">Altres</string>
     <string name="generic_conference_call_name">En una trucada</string>
     <string name="ghostData_company">Empresa</string>
     <string name="ghostData_title">Càrrec</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Cercant la ubicació…</string>
     <string name="location_map_description">"Mapa d'ubicació d'emergència"</string>
     <string name="location_title">"Digues als serveis d'emergència on ets"</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Telèfon</string>
     <string name="main_call_history_tab_description">Historial de trucades</string>
     <string name="main_help_and_feedback">Ajuda i suggeriments</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Resultats de cerca personalitzats</string>
     <string name="phoneAppLabel">Telèfon</string>
     <string name="phoneLabelsGroup">Telèfon</string>
+    <string name="phone_account_description">Trucades per Wi-Fi</string>
+    <string name="phone_account_label">Trucades per Wi-Fi amb Google</string>
     <string name="phone_account_settings_label">Comptes de trucades</string>
     <string name="post_call_add_message">Afegeix un missatge</string>
     <string name="post_call_message">Digues per què trucaves</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Restringit</string>
     <string name="quick_question">Una pregunta ràpida…</string>
     <string name="received_a_photo">"S'ha rebut una foto"</string>
+    <string name="reconnecting_via_template">"S'està tornant a connectar mitjançant %s"</string>
     <string name="relationLabelsGroup">Relació</string>
     <string name="remove_contact">Suprimeix</string>
     <string name="report_caller_id_dialog_title">"Informa d'un número incorrecte"</string>
     <string name="report_caller_id_failed">"No s'ha pogut informar del número"</string>
     <string name="report_caller_id_toast">"S'ha informat del número"</string>
+    <string name="request_feedback_title">Puntua les trucades</string>
     <string name="respond_via_sms_setting_title">Respostes ràpides</string>
     <string name="rtt_input_hint">Escriu un missatge</string>
     <string name="search_location_permission">"Permet l'accés a la teva ubicació per obtenir la informació de contacte dels llocs propers."</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">"S'ha enviat una foto"</string>
     <string name="set_default_account">Utilitza sempre per a les trucades</string>
     <string name="settings">Configuració</string>
+    <string name="settings_label">Configura les trucades per Wi-Fi</string>
     <string name="share_and_call">Comparteix i truca</string>
     <string name="simContacts_emptyLoading">"S'està carregant des de la targeta SIM..."</string>
     <string name="simContacts_title">Contactes de la targeta SIM</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Bústia de veu</string>
     <string name="terms_and_conditions_decline_dialog_title">Vols desactivar la bústia de veu visual?</string>
     <string name="terms_of_service_label">Condicions del servei</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">"L'aplicació Telèfon no té permís per escriure a la configuració del sistema."</string>
     <string name="toast_text_copied">"El text s'ha copiat"</string>
     <string name="toolbar_close">Tanca</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Desbloqueja</string>
     <string name="unblock_number_ok">DESBLOQUEJA</string>
     <string name="unknown">Desconegut</string>
+    <string name="unknown_caller">Número desconegut</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">És urgent! Respon!</string>
     <string name="user_profile_contacts_list_header">Jo</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Vols xatejar?</string>
     <string name="websiteLabelsGroup">Lloc web</string>
+    <string name="wifi_call_end_network">"S'ha perdut la xarxa"</string>
+    <string name="wifi_call_end_unanswered">No hi ha resposta</string>
+    <string name="wifi_call_end_unknown">"S'ha produït un error desconegut"</string>
+    <string name="wifi_call_enter_misc">"No s'ha pogut entrar a la trucada"</string>
+    <string name="wifi_call_enter_timeout">"S'ha esgotat el temps d'espera per establir la trucada"</string>
+    <string name="wifi_call_error_insufficient_funds">No hi ha prou saldo</string>
+    <string name="wifi_calling_enabled_summary">Fes les trucades amb Wi-Fi quan la connexió sigui prou bona</string>
+    <string name="wifi_calling_enabled_title">Trucades per Wi-Fi</string>
 </resources>

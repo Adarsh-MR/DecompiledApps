@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">Ειδική ημερομηνία</string>
     <string name="event_deactivated">Απενεργοποίηση λειτουργίας κατοικίδιου</string>
     <string name="favorites_header">Αγαπημένα</string>
+    <string name="feedback_action_high">Καλό</string>
     <string name="feedback_action_high_v2">Καλή</string>
+    <string name="feedback_action_low">Κακή</string>
     <string name="feedback_action_low_v2">Κακή</string>
     <string name="feedback_audio_issue_echo">Ο συνομιλητής μου άκουγε ηχώ</string>
     <string name="feedback_audio_issue_local_audio">Ο συνομιλητής μου δεν με άκουγε</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">Καλή κλήση</string>
     <string name="feedback_call_issue_other">Κάτι άλλο</string>
     <string name="feedback_call_issue_title">Ποιο ήταν το πρόβλημα;</string>
+    <string name="feedback_title">Πώς ήταν η ποιότητα της κλήσης;</string>
     <string name="feedback_title_v2">Πώς ήταν η ποιότητα της κλήσης από πλευράς σας;</string>
     <string name="full_name">Όνομα</string>
     <string name="gallery_item_description">εικόνα %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">εικόνα</string>
     <string name="gallery_permission_text">Για να μοιραστείτε μια εικόνα, παραχωρήστε πρόσβαση στα πολυμέσα</string>
+    <string name="gcm_fallback_notification_channel_label">Διάφορα</string>
     <string name="generic_conference_call_name">Σε κλήση</string>
     <string name="ghostData_company">Εταιρεία</string>
     <string name="ghostData_title">Τίτλος</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">Εύρεση θέσης σας…</string>
     <string name="location_map_description">Χάρτης τοποθεσίας έκτακτης ανάγκης</string>
     <string name="location_title">Πείτε πού βρίσκεστε</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Τηλέφωνο</string>
     <string name="main_call_history_tab_description">Ιστορικό κλήσεων</string>
     <string name="main_help_and_feedback">Βοήθεια και σχόλια</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">Εξατομικευμένα αποτελέσματα αναζήτησης</string>
     <string name="phoneAppLabel">Τηλέφωνο</string>
     <string name="phoneLabelsGroup">Τηλέφωνο</string>
+    <string name="phone_account_description">Κλήση Wi-Fi</string>
+    <string name="phone_account_label">Κλήσεις Wi-Fi με το Google</string>
     <string name="phone_account_settings_label">Λογαριασμοί κλήσης</string>
     <string name="post_call_add_message">Προσθήκη μηνύματος</string>
     <string name="post_call_message">Πείτε μου γιατί καλέσατε</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">Περιορισμένος</string>
     <string name="quick_question">Γρήγορη ερώτηση…</string>
     <string name="received_a_photo">Έγινε λήψη φωτογραφίας</string>
+    <string name="reconnecting_via_template">Επανασύνδεση μέσω %s</string>
     <string name="relationLabelsGroup">Σχέση</string>
     <string name="remove_contact">Κατάργηση</string>
     <string name="report_caller_id_dialog_title">Αναφορά λανθασμένου αριθμού</string>
     <string name="report_caller_id_failed">Δεν ήταν δυνατή η αναφορά του αριθμού</string>
     <string name="report_caller_id_toast">Υποβλήθηκε αναφορά για τον αριθμό</string>
+    <string name="request_feedback_title">Αξιολόγηση κλήσεων</string>
     <string name="respond_via_sms_setting_title">Γρήγορες απαντήσεις</string>
     <string name="rtt_input_hint">Πληκτρολογήστε ένα μήνυμα</string>
     <string name="search_location_permission">Για να λάβετε πληροφορίες επικοινωνίας για μέρη κοντά σας, επιτρέψτε την πρόσβαση στην τοποθεσία σας.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">Έγινε αποστολή φωτογραφίας</string>
     <string name="set_default_account">Χρήση πάντα για κλήσεις</string>
     <string name="settings">Ρυθμίσεις</string>
+    <string name="settings_label">Διαμόρφωση Κλήσης Wi-Fi</string>
     <string name="share_and_call">Κοινοποίηση και κλήση</string>
     <string name="simContacts_emptyLoading">Φόρτωση από κάρτα SIM…</string>
     <string name="simContacts_title">Επαφές στην κάρτα SIM</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">Αυτόματος τηλεφωνητής</string>
     <string name="terms_and_conditions_decline_dialog_title">Απενεργοποίηση οπτικού αυτόματου τηλεφωνητή;</string>
     <string name="terms_of_service_label">Όροι Παροχής Υπηρεσιών</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Η εφαρμογή \"Τηλέφωνο\" δεν έχει άδεια εγγραφής στις ρυθμίσεις συστήματος.</string>
     <string name="toast_text_copied">Το κείμενο αντιγράφηκε</string>
     <string name="toolbar_close">Κλείσιμο</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">Κατάργηση αποκλεισμού</string>
     <string name="unblock_number_ok">ΚΑΤΑΡΓΗΣΗ ΑΠΟΚΛΕΙΣΜΟΥ</string>
     <string name="unknown">Άγνωστος</string>
+    <string name="unknown_caller">Άγνωστος καλών</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Επείγον! Παρακαλώ απαντήστε!</string>
     <string name="user_profile_contacts_list_header">Εγώ</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">Θέλετε να συζητήσετε;</string>
     <string name="websiteLabelsGroup">Ιστότοπος</string>
+    <string name="wifi_call_end_network">Απώλεια δικτύου</string>
+    <string name="wifi_call_end_unanswered">Καμία απάντηση</string>
+    <string name="wifi_call_end_unknown">Άγνωστο σφάλμα</string>
+    <string name="wifi_call_enter_misc">Αποτυχία συμμετοχής στην κλήση</string>
+    <string name="wifi_call_enter_timeout">Λήξη χρονικού ορίου σύνδεσης κλήσης</string>
+    <string name="wifi_call_error_insufficient_funds">Ανεπαρκές υπόλοιπο</string>
+    <string name="wifi_calling_enabled_summary">Χρήση Wi‑Fi για κλήσεις όταν η σύνδεσή μου είναι αρκετά ισχυρή</string>
+    <string name="wifi_calling_enabled_title">Κλήση Wi-Fi</string>
 </resources>

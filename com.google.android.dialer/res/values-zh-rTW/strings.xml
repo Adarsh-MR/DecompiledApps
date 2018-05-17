@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">特別的日子</string>
     <string name="event_deactivated">寵物模式已關閉</string>
     <string name="favorites_header">常用聯絡人</string>
+    <string name="feedback_action_high">良好</string>
     <string name="feedback_action_high_v2">良好</string>
+    <string name="feedback_action_low">不佳</string>
     <string name="feedback_action_low_v2">很差</string>
     <string name="feedback_audio_issue_echo">對方聽到回音</string>
     <string name="feedback_audio_issue_local_audio">其他人聽不到我的聲音</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">通話品質良好</string>
     <string name="feedback_call_issue_other">其他</string>
     <string name="feedback_call_issue_title">你遇到的問題為何？</string>
+    <string name="feedback_title">通話品質如何？</string>
     <string name="feedback_title_v2">請問本次通話的品質如何？</string>
     <string name="full_name">名稱</string>
     <string name="gallery_item_description">圖片：%1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">圖片</string>
     <string name="gallery_permission_text">如要分享圖片，請授予媒體存取權</string>
+    <string name="gcm_fallback_notification_channel_label">其他</string>
     <string name="generic_conference_call_name">通話中</string>
     <string name="ghostData_company">公司</string>
     <string name="ghostData_title">職稱</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">正在尋找你的位置…</string>
     <string name="location_map_description">緊急位置地圖</string>
     <string name="location_title">告知救援人員你的位置</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">手機</string>
     <string name="main_call_history_tab_description">通話紀錄</string>
     <string name="main_help_and_feedback">說明與意見回饋</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">個人化搜尋結果</string>
     <string name="phoneAppLabel">電話</string>
     <string name="phoneLabelsGroup">電話</string>
+    <string name="phone_account_description">Wi-Fi 通話</string>
+    <string name="phone_account_label">Google Wi-Fi 通話</string>
     <string name="phone_account_settings_label">通話帳戶</string>
     <string name="post_call_add_message">加入訊息</string>
     <string name="post_call_message">請說明你打電話的原因</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">受限</string>
     <string name="quick_question">簡單的問題…</string>
     <string name="received_a_photo">收到了 1 張相片</string>
+    <string name="reconnecting_via_template">正在透過「%s」重新連線</string>
     <string name="relationLabelsGroup">關係</string>
     <string name="remove_contact">移除</string>
     <string name="report_caller_id_dialog_title">回報不正確的號碼</string>
     <string name="report_caller_id_failed">無法回報號碼</string>
     <string name="report_caller_id_toast">已回報號碼</string>
+    <string name="request_feedback_title">對通話品質評分</string>
     <string name="respond_via_sms_setting_title">應答短訊</string>
     <string name="rtt_input_hint">輸入訊息</string>
     <string name="search_location_permission">如要取得附近地點的聯絡資訊，請授予位置資訊存取權。</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">傳送了 1 張相片</string>
     <string name="set_default_account">一律使用這張 SIM 卡通話</string>
     <string name="settings">設定</string>
+    <string name="settings_label">設定 Wi-Fi 通話</string>
     <string name="share_and_call">分享及撥號</string>
     <string name="simContacts_emptyLoading">正在從 SIM 卡載入…</string>
     <string name="simContacts_title">SIM 卡聯絡人</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">語音信箱</string>
     <string name="terms_and_conditions_decline_dialog_title">要停用視覺化語音信箱嗎？</string>
     <string name="terms_of_service_label">服務條款</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">電話應用程式的權限不足，無法寫入系統設定。</string>
     <string name="toast_text_copied">已複製文字</string>
     <string name="toolbar_close">關閉</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">解除封鎖</string>
     <string name="unblock_number_ok">解除封鎖</string>
     <string name="unknown">不明</string>
+    <string name="unknown_caller">不明來電者</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">緊急！請接聽來電！</string>
     <string name="user_profile_contacts_list_header">我</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">想聊聊天嗎？</string>
     <string name="websiteLabelsGroup">網站</string>
+    <string name="wifi_call_end_network">網路連線中斷</string>
+    <string name="wifi_call_end_unanswered">沒有回應</string>
+    <string name="wifi_call_end_unknown">不明錯誤</string>
+    <string name="wifi_call_enter_misc">無法進行通話</string>
+    <string name="wifi_call_enter_timeout">通話建立作業逾時</string>
+    <string name="wifi_call_error_insufficient_funds">餘額不足</string>
+    <string name="wifi_calling_enabled_summary">Wi‑Fi 連線訊號良好時使用 Wi‑Fi 進行通話</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi 通話</string>
 </resources>

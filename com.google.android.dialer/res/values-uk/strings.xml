@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Спеціальна дата</string>
     <string name="event_deactivated">Режим домашньої тварини вимкнено</string>
     <string name="favorites_header">Вибрані</string>
+    <string name="feedback_action_high">Гарний</string>
     <string name="feedback_action_high_v2">Хороша</string>
+    <string name="feedback_action_low">Поганий</string>
     <string name="feedback_action_low_v2">Погана</string>
     <string name="feedback_audio_issue_echo">Співрозмовник чує луну</string>
     <string name="feedback_audio_issue_local_audio">Співрозмовник мене не чує</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Хороша якість зв’язку</string>
     <string name="feedback_call_issue_other">Інше</string>
     <string name="feedback_call_issue_title">Яка у вас проблема?</string>
+    <string name="feedback_title">Яка якість зв’язку?</string>
     <string name="feedback_title_v2">Якою була якість зв’язку?</string>
     <string name="full_name">"Ім'я"</string>
     <string name="gallery_item_description">зображення %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">зображення</string>
     <string name="gallery_permission_text">Щоб поділитися зображенням, надайте доступ до медіа-вмісту</string>
+    <string name="gcm_fallback_notification_channel_label">Інше</string>
     <string name="generic_conference_call_name">Триває виклик</string>
     <string name="ghostData_company">Компанія</string>
     <string name="ghostData_title">Назва</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Пошук ваших геоданих</string>
     <string name="location_map_description">Екстрена карта місця</string>
     <string name="location_title">Повідомте, де ви</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Телефон</string>
     <string name="main_call_history_tab_description">Історія дзвінків</string>
     <string name="main_help_and_feedback">Довідка й відгуки</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Персоналізовані результати пошуку</string>
     <string name="phoneAppLabel">Телефон</string>
     <string name="phoneLabelsGroup">Телефон</string>
+    <string name="phone_account_description">Виклики через Wi-Fi</string>
+    <string name="phone_account_label">Виклики через Wi-Fi із Google</string>
     <string name="phone_account_settings_label">Обл. записи для дзвінків</string>
     <string name="post_call_add_message">Додати повідомлення</string>
     <string name="post_call_message">Скажіть, чому ви телефонували</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Обмежено</string>
     <string name="quick_question">Швидке запитання…</string>
     <string name="received_a_photo">Отримано фотографію</string>
+    <string name="reconnecting_via_template">Відновлення зв’язку через %s</string>
     <string name="relationLabelsGroup">Зв’язки</string>
     <string name="remove_contact">Видалити</string>
     <string name="report_caller_id_dialog_title">Повідомити про неправильний номер</string>
     <string name="report_caller_id_failed">Не вдалося повідомити про неправильний номер</string>
     <string name="report_caller_id_toast">Ви повідомили про неправильний номер</string>
+    <string name="request_feedback_title">Оцінювати дзвінки</string>
     <string name="respond_via_sms_setting_title">Швидкі відповіді</string>
     <string name="rtt_input_hint">Напишіть повідомлення</string>
     <string name="search_location_permission">Щоб бачити контактну інформацію місць поблизу, дозвольте доступ до вашого місцезнаходження.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Надіслано фотографію</string>
     <string name="set_default_account">Завжди використовувати для дзвінків</string>
     <string name="settings">Налаштування</string>
+    <string name="settings_label">Налаштувати виклик через Wi-Fi</string>
     <string name="share_and_call">Надіслати й зателефонувати</string>
     <string name="simContacts_emptyLoading">Завантаження із SIM-карти…</string>
     <string name="simContacts_title">Контакти із SIM-карти</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Голосова пошта</string>
     <string name="terms_and_conditions_decline_dialog_title">Вимкнути візуальну голосову пошту?</string>
     <string name="terms_of_service_label">Умови використання</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Додаток Телефон не має дозволу змінювати системні налаштування.</string>
     <string name="toast_text_copied">Текст скопійовано</string>
     <string name="toolbar_close">Закрити</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Розблокувати</string>
     <string name="unblock_number_ok">РОЗБЛОКУВАТИ</string>
     <string name="unknown">Невідомий</string>
+    <string name="unknown_caller">Невідомий абонент</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Терміново! Візьміть слухавку!</string>
     <string name="user_profile_contacts_list_header">Я</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Хочете поспілкуватися?</string>
     <string name="websiteLabelsGroup">Веб-сайт</string>
+    <string name="wifi_call_end_network">Немає з’єднання з мережею.</string>
+    <string name="wifi_call_end_unanswered">Немає відповіді.</string>
+    <string name="wifi_call_end_unknown">Невідома помилка</string>
+    <string name="wifi_call_enter_misc">Не вдалося з’єднатися.</string>
+    <string name="wifi_call_enter_timeout">Час очікування з’єднання минув.</string>
+    <string name="wifi_call_error_insufficient_funds">Недостатньо коштів.</string>
+    <string name="wifi_calling_enabled_summary">Використовувати Wi-Fi для викликів, якщо сигнал достатньо потужний</string>
+    <string name="wifi_calling_enabled_title">Виклики через Wi-Fi</string>
 </resources>

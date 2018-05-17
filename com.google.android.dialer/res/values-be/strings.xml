@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Асаблівая дата</string>
     <string name="event_deactivated">Рэжым хатняга гадаванца адключаны</string>
     <string name="favorites_header">Абранае</string>
+    <string name="feedback_action_high">Добра</string>
     <string name="feedback_action_high_v2">Добрая</string>
+    <string name="feedback_action_low">Дрэнна</string>
     <string name="feedback_action_low_v2">Дрэнная</string>
     <string name="feedback_audio_issue_echo">На іншым баку было чуць рэха</string>
     <string name="feedback_audio_issue_local_audio">Іншы карыстальнік мяне не чуў</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Добры выклік</string>
     <string name="feedback_call_issue_other">Іншае</string>
     <string name="feedback_call_issue_title">У чым была праблема?</string>
+    <string name="feedback_title">Якой была якасць выкліку?</string>
     <string name="feedback_title_v2">Якой была якасць выкліку з вашага боку?</string>
     <string name="full_name">Імя</string>
     <string name="gallery_item_description">відарыс %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">відарыс</string>
     <string name="gallery_permission_text">Каб абагуліць відарыс, адкрыйце доступ да медыяфайлаў</string>
+    <string name="gcm_fallback_notification_channel_label">Рознае</string>
     <string name="generic_conference_call_name">У выкліку</string>
     <string name="ghostData_company">Кампанія</string>
     <string name="ghostData_title">Назва</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Пошук вашага месца…</string>
     <string name="location_map_description">Карта мясцовасці для экстранных выклікаў</string>
     <string name="location_title">Паведаміце, дзе вы</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Тэлефон</string>
     <string name="main_call_history_tab_description">Гісторыя выклікаў</string>
     <string name="main_help_and_feedback">Даведка і водгукі</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Персаналізаваныя вынікі пошуку</string>
     <string name="phoneAppLabel">Тэлефон</string>
     <string name="phoneLabelsGroup">Тэлефон</string>
+    <string name="phone_account_description">Wi-Fi-тэлефанія</string>
+    <string name="phone_account_label">Выклікі праз Wi‑Fi з Google</string>
     <string name="phone_account_settings_label">Уліковыя запісы для выклікаў</string>
     <string name="post_call_add_message">Дадаць паведамленне</string>
     <string name="post_call_message">Скажыце, чаму вы выклікалі</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Абмежавана</string>
     <string name="quick_question">Хуткае пытанне…</string>
     <string name="received_a_photo">Атрымана фота</string>
+    <string name="reconnecting_via_template">Паўторнае падлучэнне праз %s</string>
     <string name="relationLabelsGroup">Сувязі</string>
     <string name="remove_contact">Выдаліць</string>
     <string name="report_caller_id_dialog_title">Падаць заяву аб няправільным нумары</string>
     <string name="report_caller_id_failed">Не ўдалося падаць заяву аб нумары</string>
     <string name="report_caller_id_toast">Аб нумары пададзена заява</string>
+    <string name="request_feedback_title">Ацаніць выклікі</string>
     <string name="respond_via_sms_setting_title">Хуткія адказы</string>
     <string name="rtt_input_hint">Напісаць паведамленне</string>
     <string name="search_location_permission">Каб атрымліваць кантактныя звесткі для месцаў паблізу з вамі, дазвольце доступ да месцазнаходжання.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Адпраўлена фота</string>
     <string name="set_default_account">Заўсёды выкарыст. гэта для выклікаў</string>
     <string name="settings">Налады</string>
+    <string name="settings_label">Канфігурацыя Wi‑Fi-тэлефаніі</string>
     <string name="share_and_call">Абагуліць і выклікаць</string>
     <string name="simContacts_emptyLoading">Загрузка з SIM-карты...</string>
     <string name="simContacts_title">Кантакты SIM-карты</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Галасавая пошта</string>
     <string name="terms_and_conditions_decline_dialog_title">Адключыць візуальную галасавую пошту?</string>
     <string name="terms_of_service_label">Умовы абслугоўвання</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Праграма Тэлефон не мае дазволу на запіс у налады сістэмы.</string>
     <string name="toast_text_copied">Тэкст скапіраваны</string>
     <string name="toolbar_close">Закрыць</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Разблакіраваць</string>
     <string name="unblock_number_ok">РАЗБЛАКІРАВАЦЬ</string>
     <string name="unknown">Невядомы</string>
+    <string name="unknown_caller">Невядомы абанент</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Тэрмінова! Падніміце слухаўку!</string>
     <string name="user_profile_contacts_list_header">Я</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Хочаце паразмаўляць у чаце?</string>
     <string name="websiteLabelsGroup">Вэб-сайт</string>
+    <string name="wifi_call_end_network">Згублена падключэнне да сеткі</string>
+    <string name="wifi_call_end_unanswered">Няма адказу</string>
+    <string name="wifi_call_end_unknown">Невядомая памылка</string>
+    <string name="wifi_call_enter_misc">Збой уваходнага выкліку</string>
+    <string name="wifi_call_enter_timeout">Перавышаны час чакання падключэння выкліку</string>
+    <string name="wifi_call_error_insufficient_funds">Недастаткова сродкаў</string>
+    <string name="wifi_calling_enabled_summary">Выкарыстоўваць Wi‑Fi для выклікаў, калі ў мяне дастаткова моцнае злучэнне</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi-тэлефанія</string>
 </resources>

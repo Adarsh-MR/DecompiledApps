@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Xüsusi tarix</string>
     <string name="event_deactivated">Sevimli rejim deaktivdir</string>
     <string name="favorites_header">Sevimlilər</string>
+    <string name="feedback_action_high">Yaxşı</string>
     <string name="feedback_action_high_v2">Yaxşı</string>
+    <string name="feedback_action_low">Pis</string>
     <string name="feedback_action_low_v2">Pis</string>
     <string name="feedback_audio_issue_echo">Digər tərəflə bağlı exo problemi</string>
     <string name="feedback_audio_issue_local_audio">Digər şəxs məni eşidə bilmədi</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Yaxşı zəngdir</string>
     <string name="feedback_call_issue_other">Başqa bir şey</string>
     <string name="feedback_call_issue_title">Problem nə idi?</string>
+    <string name="feedback_title">Çağrının keyfiyyəti necə idi?</string>
     <string name="feedback_title_v2">Sizə görə zəng keyfiyyəti necə idi?</string>
     <string name="full_name">Ad</string>
     <string name="gallery_item_description">şəkil %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">şəkil</string>
     <string name="gallery_permission_text">Şəkli paylaşmaq üçün Mediaya giriş icazəsi verin</string>
+    <string name="gcm_fallback_notification_channel_label">Müxtəlif</string>
     <string name="generic_conference_call_name">Çağrıda</string>
     <string name="ghostData_company">Şirkət</string>
     <string name="ghostData_title">Başlıq</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Məkan tapılır...</string>
     <string name="location_map_description">Fövqəladə Məkan Xəritəsi</string>
     <string name="location_title">Məkanınızı bildirin</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Telefon</string>
     <string name="main_call_history_tab_description">Zəng tarixçəsi</string>
     <string name="main_help_and_feedback">Yardım və rəy</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Fərdiləşdirilmiş axtarış nəticələri</string>
     <string name="phoneAppLabel">Telefon</string>
     <string name="phoneLabelsGroup">Telefon</string>
+    <string name="phone_account_description">Wi-Fi çağrısı</string>
+    <string name="phone_account_label">Google ilə Wi-Fi çağrıları</string>
     <string name="phone_account_settings_label">Hesabların çağrılması</string>
     <string name="post_call_add_message">Mesaj əlavə edin</string>
     <string name="post_call_message">Nə üçün zəng et etdiyinizi bildirin</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Məhdudlaşdırılmış</string>
     <string name="quick_question">Tez sual...</string>
     <string name="received_a_photo">Foto alındı</string>
+    <string name="reconnecting_via_template">%s vasitəsilə yenidən qoşulur</string>
     <string name="relationLabelsGroup">Əlaqə</string>
     <string name="remove_contact">Yığışdır</string>
     <string name="report_caller_id_dialog_title">Yanlış nömrəni bildirin</string>
     <string name="report_caller_id_failed">Nömrəni bildirmək mümkün olmadı</string>
     <string name="report_caller_id_toast">Nömrə bildirildi</string>
+    <string name="request_feedback_title">Zəngləri qiymətləndirin</string>
     <string name="respond_via_sms_setting_title">Tez cavablar</string>
     <string name="rtt_input_hint">Mesaj yazın</string>
     <string name="search_location_permission">Yaxınlıqdakı yerlər haqqında kontakt məlumatı almaq üçün məkana giriş icazəsi verin.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Foto göndərildi</string>
     <string name="set_default_account">Həmişə bu zənglər üçün istifadə edin</string>
     <string name="settings">Ayarlar</string>
+    <string name="settings_label">Wi-Fi çağrısını sazlayın</string>
     <string name="share_and_call">Paylaşın və zəng edin</string>
     <string name="simContacts_emptyLoading">SIM kartdan yüklənir...</string>
     <string name="simContacts_title">SIM kart kontaktları</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Səsli poçt</string>
     <string name="terms_and_conditions_decline_dialog_title">Vizual səsli e-poçt deaktiv edilsin?</string>
     <string name="terms_of_service_label">Xidmət şərtləri</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Telefon tətbiqinin sistem ayarlarına yazmaq icazəsi yoxdur.</string>
     <string name="toast_text_copied">Mətn kopyalandı</string>
     <string name="toolbar_close">Bağlayın</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Blokdan çıxarın</string>
     <string name="unblock_number_ok">BLOKDAN ÇIXARIN</string>
     <string name="unknown">Naməlum</string>
+    <string name="unknown_caller">Naməlum zəng</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Təcili! Lütfən, götürün!</string>
     <string name="user_profile_contacts_list_header">Mən</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Söhbət etmək istəyirsiniz?</string>
     <string name="websiteLabelsGroup">Veb sayt</string>
+    <string name="wifi_call_end_network">Şəbəkə itdi</string>
+    <string name="wifi_call_end_unanswered">Cavab yoxdur</string>
+    <string name="wifi_call_end_unknown">Naməlum xəta</string>
+    <string name="wifi_call_enter_misc">Daxil olan zəng uğursuz oldu</string>
+    <string name="wifi_call_enter_timeout">Çağrı vaxtının bitməsi müəyyən olunur</string>
+    <string name="wifi_call_error_insufficient_funds">Yetərsiz məbləğ</string>
+    <string name="wifi_calling_enabled_summary">Bağlantım yetərincə güclü olanda Wi-Fi çağrılar üçün istifadə edilsin</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi çağrısı</string>
 </resources>

@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Besonderes Datum</string>
     <string name="event_deactivated">Tiermodus aus</string>
     <string name="favorites_header">Favoriten</string>
+    <string name="feedback_action_high">Gut</string>
     <string name="feedback_action_high_v2">Gut</string>
+    <string name="feedback_action_low">Schlecht</string>
     <string name="feedback_action_low_v2">Schlecht</string>
     <string name="feedback_audio_issue_echo">Andere Seite hat ein Echo gehört</string>
     <string name="feedback_audio_issue_local_audio">Andere Person konnte mich nicht hören</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Gute Verbindung</string>
     <string name="feedback_call_issue_other">Etwas anderes</string>
     <string name="feedback_call_issue_title">Wo lag das Problem?</string>
+    <string name="feedback_title">Wie war die Anrufqualität?</string>
     <string name="feedback_title_v2">Wie war die Anrufqualität für dich?</string>
     <string name="full_name">Name</string>
     <string name="gallery_item_description">Bild: %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">Bild</string>
     <string name="gallery_permission_text">Um ein Bild zu teilen, musst du den Zugriff auf deine Medien erlauben.</string>
+    <string name="gcm_fallback_notification_channel_label">Sonstiges</string>
     <string name="generic_conference_call_name">Anruf</string>
     <string name="ghostData_company">Firma</string>
     <string name="ghostData_title">Position</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Standort ermitteln…</string>
     <string name="location_map_description">Standortkarte für Notfälle</string>
     <string name="location_title">Notfalldiensten meinen Standort mitteilen</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Telefon</string>
     <string name="main_call_history_tab_description">Anrufliste</string>
     <string name="main_help_and_feedback">Hilfe und Feedback</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Personalisierte Suchergebnisse</string>
     <string name="phoneAppLabel">Telefon</string>
     <string name="phoneLabelsGroup">Telefon</string>
+    <string name="phone_account_description">Anrufe über WLAN</string>
+    <string name="phone_account_label">Anrufe über WLAN mit Google</string>
     <string name="phone_account_settings_label">Anrufkonten</string>
     <string name="post_call_add_message">Nachricht hinzufügen</string>
     <string name="post_call_message">Grund für den Anruf</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Beschränkt</string>
     <string name="quick_question">Kurze Frage…</string>
     <string name="received_a_photo">Hat ein Foto empfangen</string>
+    <string name="reconnecting_via_template">Verbindung über %s wird erneut hergestellt.</string>
     <string name="relationLabelsGroup">Art der Beziehung</string>
     <string name="remove_contact">Entfernen</string>
     <string name="report_caller_id_dialog_title">Falsche Nummer melden</string>
     <string name="report_caller_id_failed">Nummer konnte nicht gemeldet werden</string>
     <string name="report_caller_id_toast">Nummer gemeldet</string>
+    <string name="request_feedback_title">Anrufe bewerten</string>
     <string name="respond_via_sms_setting_title">Kurzantworten</string>
     <string name="rtt_input_hint">Nachricht eingeben</string>
     <string name="search_location_permission">Erlaube den Zugriff auf deinen Standort, um Kontaktinformationen für Orte in der Nähe zu erhalten.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Hat ein Foto gesendet</string>
     <string name="set_default_account">Diese SIM für alle Anrufe verwenden</string>
     <string name="settings">Einstellungen</string>
+    <string name="settings_label">Anrufe über WLAN konfigurieren</string>
     <string name="share_and_call">Teilen und anrufen</string>
     <string name="simContacts_emptyLoading">Ladevorgang von SIM-Karte läuft…</string>
     <string name="simContacts_title">Kontakte auf SIM-Karte</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Mailbox</string>
     <string name="terms_and_conditions_decline_dialog_title">Visuelle Mailbox deaktivieren?</string>
     <string name="terms_of_service_label">Nutzungsbedingungen</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Die App \"Telefon\" ist nicht berechtigt, die Systemeinstellungen zu überschreiben.</string>
     <string name="toast_text_copied">Text kopiert</string>
     <string name="toolbar_close">Schließen</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Blockierung aufheben</string>
     <string name="unblock_number_ok">BLOCKIERUNG AUFHEBEN</string>
     <string name="unknown">Unbekannt</string>
+    <string name="unknown_caller">Unbekannter Anrufer</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Dringend! Bitte annehmen!</string>
     <string name="user_profile_contacts_list_header">Ich</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Möchtest du chatten?</string>
     <string name="websiteLabelsGroup">Website</string>
+    <string name="wifi_call_end_network">Keine Verbindung zum Netzwerk</string>
+    <string name="wifi_call_end_unanswered">Keine Antwort</string>
+    <string name="wifi_call_end_unknown">Unbekannter Fehler</string>
+    <string name="wifi_call_enter_misc">Fehler bei Teilnahme an Anruf</string>
+    <string name="wifi_call_enter_timeout">Zeitüberschreitung bei Anrufaufbau</string>
+    <string name="wifi_call_error_insufficient_funds">Guthaben aufgebraucht</string>
+    <string name="wifi_calling_enabled_summary">WLAN für Anrufe verwenden, wenn die Verbindung stark genug ist</string>
+    <string name="wifi_calling_enabled_title">Anrufe über WLAN</string>
 </resources>

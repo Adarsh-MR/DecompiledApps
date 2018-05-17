@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">Data berezia</string>
     <string name="event_deactivated">Maskota modua desaktibatu da</string>
     <string name="favorites_header">Gogokoak</string>
+    <string name="feedback_action_high">Ona</string>
     <string name="feedback_action_high_v2">Ona</string>
+    <string name="feedback_action_low">Txarra</string>
     <string name="feedback_action_low_v2">Txarra</string>
     <string name="feedback_audio_issue_echo">Besteak oihartzuna entzuten zuen</string>
     <string name="feedback_audio_issue_local_audio">Besteak ezin izan dit entzun</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">Ona izan da</string>
     <string name="feedback_call_issue_other">Bestelako arazo bat</string>
     <string name="feedback_call_issue_title">Zein izan da arazoa?</string>
+    <string name="feedback_title">Nolakoa izan da deiaren kalitatea?</string>
     <string name="feedback_title_v2">Zer nolakoa izan da deiaren kalitatea zure ustez?</string>
     <string name="full_name">Izena</string>
     <string name="gallery_item_description">irudiaren data: %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">irudia</string>
     <string name="gallery_permission_text">Irudiak partekatzeko, eman multimedia-edukirako sarbidea</string>
+    <string name="gcm_fallback_notification_channel_label">Askotarikoak</string>
     <string name="generic_conference_call_name">Deia abian da</string>
     <string name="ghostData_company">Enpresa</string>
     <string name="ghostData_title">Lanpostua</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">Zure kokapena bilatzen…</string>
     <string name="location_map_description">Larrialdietako kokapen-mapa</string>
     <string name="location_title">Esaiezu larrialdi-zerbitzuei non zauden</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Telefonoa</string>
     <string name="main_call_history_tab_description">Deien historia</string>
     <string name="main_help_and_feedback">Laguntza eta iritziak</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">Bilaketa-emaitza pertsonalizatuak</string>
     <string name="phoneAppLabel">Telefonoa</string>
     <string name="phoneLabelsGroup">Telefonoa</string>
+    <string name="phone_account_description">Wi-Fi bidezko deiak</string>
+    <string name="phone_account_label">Google-ren Wi-Fi bidezko deiak</string>
     <string name="phone_account_settings_label">Deiak egiteko kontuak</string>
     <string name="post_call_add_message">Gehitu mezua</string>
     <string name="post_call_message">Esan zergatik deitu duzun</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">Murriztua</string>
     <string name="quick_question">Galdera bizkorra…</string>
     <string name="received_a_photo">Argazki bat jaso duzu</string>
+    <string name="reconnecting_via_template">%s bidez berriro konektatzen</string>
     <string name="relationLabelsGroup">Harremana</string>
     <string name="remove_contact">Kendu</string>
     <string name="report_caller_id_dialog_title">Jakinarazi zenbakia okerra dela</string>
     <string name="report_caller_id_failed">Ezin izan da bidali jakinarazpena</string>
     <string name="report_caller_id_toast">Bidali da jakinarazpena</string>
+    <string name="request_feedback_title">Baloratu deiak</string>
     <string name="respond_via_sms_setting_title">Erantzun bizkorrak</string>
     <string name="rtt_input_hint">Idatzi mezu bat</string>
     <string name="search_location_permission">Inguruan dituzun tokien harremanetarako informazioa lortzeko, eman baimena zure kokapena atzitzeko.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">Argazki bat bidali duzu</string>
     <string name="set_default_account">Erabili beti hau deietarako</string>
     <string name="settings">Ezarpenak</string>
+    <string name="settings_label">Konfiguratu Wi-Fi bidezko deiak</string>
     <string name="share_and_call">Partekatu eta deitu</string>
     <string name="simContacts_emptyLoading">SIM txarteletik kargatzen…</string>
     <string name="simContacts_title">SIM txarteleko kontaktuak</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">Erantzungailua</string>
     <string name="terms_and_conditions_decline_dialog_title">Ikusizko erantzungailua desgaitu nahi duzu?</string>
     <string name="terms_of_service_label">Zerbitzu-baldintzak</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Telefonoa aplikazioak ez du baimenik sistemaren ezarpenetan ezer idazteko.</string>
     <string name="toast_text_copied">Kopiatu da testua</string>
     <string name="toolbar_close">Itxi</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">Desblokeatu</string>
     <string name="unblock_number_ok">DESBLOKEATU</string>
     <string name="unknown">Ezezaguna</string>
+    <string name="unknown_caller">Deitzaile ezezaguna</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Premiazkoa! Erantzun ezazu!</string>
     <string name="user_profile_contacts_list_header">Ni</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">Txateatu nahi duzu?</string>
     <string name="websiteLabelsGroup">Webgunea</string>
+    <string name="wifi_call_end_network">Galdu egin da sareko konexioa</string>
+    <string name="wifi_call_end_unanswered">Ez du erantzun</string>
+    <string name="wifi_call_end_unknown">Errore ezezagun bat gertatu da</string>
+    <string name="wifi_call_enter_misc">Ezin izan da gauzatu deia</string>
+    <string name="wifi_call_enter_timeout">Deia egiteko denbora-muga gainditu da</string>
+    <string name="wifi_call_error_insufficient_funds">Ez duzu behar adina saldo</string>
+    <string name="wifi_calling_enabled_summary">Mugikorreko konexioa behar bezain ona ez denean, erabili Wi‑Fi konexioa deiak egiteko</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi bidezko deiak</string>
 </resources>

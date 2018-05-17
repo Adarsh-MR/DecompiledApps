@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">Maxsus sana</string>
     <string name="event_deactivated">Uy hayvoni rejimi o‘chiq</string>
     <string name="favorites_header">Saralanganlar</string>
+    <string name="feedback_action_high">Yaxshi</string>
     <string name="feedback_action_high_v2">Yaxshi</string>
+    <string name="feedback_action_low">Yomon</string>
     <string name="feedback_action_low_v2">Yomon</string>
     <string name="feedback_audio_issue_echo">Aks-sado eshitildi</string>
     <string name="feedback_audio_issue_local_audio">Narigi odam meni eshita olmayapti</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">Hammasi joyida</string>
     <string name="feedback_call_issue_other">Yana boshqa muammolar</string>
     <string name="feedback_call_issue_title">Muammo nimada?</string>
+    <string name="feedback_title">Qo‘ng‘iroq sifati qanday edi?</string>
     <string name="feedback_title_v2">Video suhbat davomidagi aloqa sifatini qanday baholaysiz?</string>
     <string name="full_name">Nomi</string>
     <string name="gallery_item_description">tasvir, %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">tasvir</string>
     <string name="gallery_permission_text">Rasmni baham ko‘rish uchun media fayllarga kirishga ruxsat bering</string>
+    <string name="gcm_fallback_notification_channel_label">Har xil</string>
     <string name="generic_conference_call_name">Qo‘ng‘iroq davom etmoqda</string>
     <string name="ghostData_company">Kompaniya</string>
     <string name="ghostData_title">Lavozimi</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">Joyingiz aniqlanmoqda…</string>
     <string name="location_map_description">Favqulodda holatlar uchun xarita</string>
     <string name="location_title">Turgan joyingiz haqida xabar bering</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Chaqiruv</string>
     <string name="main_call_history_tab_description">Qo‘ng‘iroqlar tarixi</string>
     <string name="main_help_and_feedback">Yordam va fikr-mulohaza</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">Moslashtirilgan qidiruv</string>
     <string name="phoneAppLabel">Telefon</string>
     <string name="phoneLabelsGroup">Telefon</string>
+    <string name="phone_account_description">Wi-Fi qo‘ng‘iroqlar</string>
+    <string name="phone_account_label">Wi-Fi qo‘ng‘iroq</string>
     <string name="phone_account_settings_label">Chaqiruv uchun hisoblar</string>
     <string name="post_call_add_message">Xabar qo‘shish</string>
     <string name="post_call_message">Chaqirish maqsadini izohlang</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">Cheklangan</string>
     <string name="quick_question">Bir kichik savol…</string>
     <string name="received_a_photo">Rasm qabul qilindi</string>
+    <string name="reconnecting_via_template">%s orqali qayta ulanmoqda</string>
     <string name="relationLabelsGroup">Aloqadorligi</string>
     <string name="remove_contact">O‘chirish</string>
     <string name="report_caller_id_dialog_title">Noto‘g‘ri raqam</string>
     <string name="report_caller_id_failed">Raqamdagi xatolik haqida xabar yuborib bo‘lmadi</string>
     <string name="report_caller_id_toast">Raqamdagi xatolik haqida xabar yuborildi</string>
+    <string name="request_feedback_title">Qo‘ng‘iroq sifatini baholash</string>
     <string name="respond_via_sms_setting_title">Tezkor javoblar</string>
     <string name="rtt_input_hint">Xabar yozing</string>
     <string name="search_location_permission">Yon-atrofingizdagi joylarning aloqa ma’lumotlarini olish uchun geoaxborotingizga kirishga ruxsat bering.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">Rasm yuborildi</string>
     <string name="set_default_account">Har doim qo‘ng‘iroqlar u-n foyd-sin</string>
     <string name="settings">Sozlamalar</string>
+    <string name="settings_label">Wi-Fi qo‘ng‘iroqlarni sozlash</string>
     <string name="share_and_call">Ulashish va chaqirish</string>
     <string name="simContacts_emptyLoading">SIM kartadan yuklanmoqda…</string>
     <string name="simContacts_title">SIM kartadagi kontaktlar</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">Ovozli pochta</string>
     <string name="terms_and_conditions_decline_dialog_title">Vizual ovozli pochta faolsizlantirilsinmi?</string>
     <string name="terms_of_service_label">Foydalanish shartlari</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Telefon ilovasida tizim sozlamalarini o‘zgartirish uchun ruxsat yo‘q.</string>
     <string name="toast_text_copied">Matn nusxalandi</string>
     <string name="toolbar_close">Yopish</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">Blokdan chiqarish</string>
     <string name="unblock_number_ok">BLOKDAN CHIQARISH</string>
     <string name="unknown">Noma’lum</string>
+    <string name="unknown_caller">Notanish abonent</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Juda shoshilinch! Iltimos, go‘shakni ko‘taring!</string>
     <string name="user_profile_contacts_list_header">Men</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">Chatda suhbatlashasizmi?</string>
     <string name="websiteLabelsGroup">Veb-sayt</string>
+    <string name="wifi_call_end_network">Tarmoq uzildi</string>
+    <string name="wifi_call_end_unanswered">Javob yo‘q</string>
+    <string name="wifi_call_end_unknown">Noma’lum xato</string>
+    <string name="wifi_call_enter_misc">Kirish qo‘ng‘irog‘i amalga oshmadi</string>
+    <string name="wifi_call_enter_timeout">Qo‘ng‘iroqni amalga oshirish vaqti tugab qoldi</string>
+    <string name="wifi_call_error_insufficient_funds">Mablag‘ yetarli emas</string>
+    <string name="wifi_calling_enabled_summary">Internet aloqasining sifati yaxshi bo‘lsa, qo‘ng‘iroqlar uchun Wi-Fi tarmog‘idan foydalanilsin</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi qo‘ng‘iroq</string>
 </resources>

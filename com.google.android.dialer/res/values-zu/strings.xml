@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Idethi ekhethekile</string>
     <string name="event_deactivated">Imodi yesilwanyana ivaliwe</string>
     <string name="favorites_header">Izintandokazi</string>
+    <string name="feedback_action_high">Kuhle</string>
     <string name="feedback_action_high_v2">Kuhle</string>
+    <string name="feedback_action_low">Kubi</string>
     <string name="feedback_action_low_v2">Kubi</string>
     <string name="feedback_audio_issue_echo">Olunye uhlangothi luzwe ukunkenteza</string>
     <string name="feedback_audio_issue_local_audio">Omunye umuntu kade engangizwa</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Ikholi enhle</string>
     <string name="feedback_call_issue_other">Okunye okuthile</string>
     <string name="feedback_call_issue_title">Bokuyini inkinga?</string>
+    <string name="feedback_title">Beyinjani ikhwalithi yekholi?</string>
     <string name="feedback_title_v2">Beyinjani ikhwalithi yekholi kolwakho uhlangothi?</string>
     <string name="full_name">Igama</string>
     <string name="gallery_item_description">isithombe sangomhla ka-%1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">isithombe</string>
     <string name="gallery_permission_text">Ukuze wabelane ngesithombe, nika ukufinyelela kumidiya</string>
+    <string name="gcm_fallback_notification_channel_label">Okwahlukahlukene</string>
     <string name="generic_conference_call_name">Isecingweni</string>
     <string name="ghostData_company">Inkampani</string>
     <string name="ghostData_title">Uhlobo lomsebenzi</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Ithola indawo yakho...</string>
     <string name="location_map_description">Imephu yendawo yesimo esiphuthumayo</string>
     <string name="location_title">Tshela abezimo eziphuthumayo ukuthi ukuphi</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Ifoni</string>
     <string name="main_call_history_tab_description">Umlando wekholi</string>
     <string name="main_help_and_feedback">Usizo nempendulo</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Yenza ngokwezifiso imiphumela yakho yosesho</string>
     <string name="phoneAppLabel">Ifoni</string>
     <string name="phoneLabelsGroup">Ifoni</string>
+    <string name="phone_account_description">Ukushaya kwe-Wi-Fi</string>
+    <string name="phone_account_label">Amakholi we-Wi-Fi nge-Google</string>
     <string name="phone_account_settings_label">Ama-akhawunti wokushaya</string>
     <string name="post_call_add_message">Engeza umlayezo</string>
     <string name="post_call_message">Isho ukuthi kungathi ushayile</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Kuvinjelwe</string>
     <string name="quick_question">Umbuzo osheshayo…</string>
     <string name="received_a_photo">Uthole isithombe</string>
+    <string name="reconnecting_via_template">Iphinda iyaxhumeka nge-%s</string>
     <string name="relationLabelsGroup">Ubudlelwane</string>
     <string name="remove_contact">Susa</string>
     <string name="report_caller_id_dialog_title">Bika inombolo engalungile</string>
     <string name="report_caller_id_failed">Ayikwazanga ukubika inombolo</string>
     <string name="report_caller_id_toast">Inombolo ibikiwe</string>
+    <string name="request_feedback_title">Linganisela amakholi</string>
     <string name="respond_via_sms_setting_title">Izimpendulo ezisheshayo</string>
     <string name="rtt_input_hint">Thayipha umlayezo</string>
     <string name="search_location_permission">Ukuze uthole ulwazi lokuxhumana ngezindawo eziseduze kwakho, vumela ukufinyelela endaweni yakho.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Uthumele isithombe</string>
     <string name="set_default_account">Njalo sebenzisa lokhu kumakholi</string>
     <string name="settings">Izilungiselelo</string>
+    <string name="settings_label">Lungiselela ukushaya kwe-Wi-Fi</string>
     <string name="share_and_call">Yabelana uphinde ushaye</string>
     <string name="simContacts_emptyLoading">Ilayisha kusuka ekhadini le-SIM...</string>
     <string name="simContacts_title">Othintana nabo bekhadi le-SIM</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Ivoyisimeyili</string>
     <string name="terms_and_conditions_decline_dialog_title">Khubaza ivoyisimeyili ebukwayo?</string>
     <string name="terms_of_service_label">Imigomo yesevisi</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Uhlelo lokusebenza lefoni alinayo imvume yokubhalela kuzilungiselelo zesistimu.</string>
     <string name="toast_text_copied">Umbhalo okopishiwe</string>
     <string name="toolbar_close">Vala</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Vulela</string>
     <string name="unblock_number_ok">VULELA</string>
     <string name="unknown">Akwaziwa</string>
+    <string name="unknown_caller">Oshaya ucingo ongaziwa</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Kuyashesha! Sicela ukhethe!</string>
     <string name="user_profile_contacts_list_header">Mina</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Ufuna ukuxoxa?</string>
     <string name="websiteLabelsGroup">Iwebhusayithi</string>
+    <string name="wifi_call_end_network">Inethiwekhi elahlekile</string>
+    <string name="wifi_call_end_unanswered">Ayikho impendulo</string>
+    <string name="wifi_call_end_unknown">Iphutha elingaziwa</string>
+    <string name="wifi_call_enter_misc">Ukungena kukholi kuhlulekile</string>
+    <string name="wifi_call_enter_timeout">Ukusungula ikholi kuphelelwe isikhathi</string>
+    <string name="wifi_call_error_insufficient_funds">Imali enganele</string>
+    <string name="wifi_calling_enabled_summary">Sebenzisa i-Wi‑Fi ukwenza amakholi uma uxhumano lwami lunamandla ngokwanele</string>
+    <string name="wifi_calling_enabled_title">Ukushaya kwe-Wi-Fi</string>
 </resources>

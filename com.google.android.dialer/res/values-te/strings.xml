@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">ప్రత్యేక తేదీ</string>
     <string name="event_deactivated">పెంపుడు జంతువుల మోడ్ ఆఫ్‌లో ఉంది</string>
     <string name="favorites_header">ఇష్టమైనవి</string>
+    <string name="feedback_action_high">బాగుంది</string>
     <string name="feedback_action_high_v2">బాగుంది</string>
+    <string name="feedback_action_low">బాగాలేదు</string>
     <string name="feedback_action_low_v2">బాగా లేదు</string>
     <string name="feedback_audio_issue_echo">మరో వైపు ప్రతిధ్వని వినిపించింది</string>
     <string name="feedback_audio_issue_local_audio">నేను చెప్పేది అవతలి వ్యక్తికి వినబడలేదు</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">కాల్ బాగా జరిగింది</string>
     <string name="feedback_call_issue_other">వేరే సమస్య</string>
     <string name="feedback_call_issue_title">సమస్య ఏమిటి?</string>
+    <string name="feedback_title">కాల్ నాణ్యత ఎలా ఉంది?</string>
     <string name="feedback_title_v2">మీ వైపు కాల్ నాణ్యత ఎలా ఉంది?</string>
     <string name="full_name">పేరు</string>
     <string name="gallery_item_description">చిత్రం %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">చిత్రం</string>
     <string name="gallery_permission_text">చిత్రాన్ని భాగస్వామ్యం చేయడానికి, మీడియాకు ప్రాప్యతను అందించండి</string>
+    <string name="gcm_fallback_notification_channel_label">ఇతరాలు</string>
     <string name="generic_conference_call_name">కాల్‌లో ఉన్నారు</string>
     <string name="ghostData_company">కంపెనీ</string>
     <string name="ghostData_title">శీర్షిక</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">మీ స్థానాన్ని గుర్తిస్తోంది…</string>
     <string name="location_map_description">అత్యవసర స్థాన మ్యాప్</string>
     <string name="location_title">మీరు ఎక్కడ ఉన్నారో అత్యవసర సేవలకు చెప్పండి</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">ఫోన్</string>
     <string name="main_call_history_tab_description">కాల్ చరిత్ర</string>
     <string name="main_help_and_feedback">సహాయం &amp; అభిప్రాయం</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">వ్యక్తిగతీకరించిన శోధన ఫలితాలు</string>
     <string name="phoneAppLabel">ఫోన్</string>
     <string name="phoneLabelsGroup">ఫోన్</string>
+    <string name="phone_account_description">Wi‑Fi కాలింగ్</string>
+    <string name="phone_account_label">Googleతో Wi‑Fi కాల్‌లు</string>
     <string name="phone_account_settings_label">కాల్ చేసే ఖాతాలు</string>
     <string name="post_call_add_message">సందేశాన్ని జోడించండి</string>
     <string name="post_call_message">మీరు ఎందుకు కాల్ చేసారో చెప్పండి</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">నియంత్రించబడింది</string>
     <string name="quick_question">త్వరిత ప్రశ్న…</string>
     <string name="received_a_photo">ఫోటో స్వీకరించబడింది</string>
+    <string name="reconnecting_via_template">%s ద్వారా మళ్లీ కనెక్ట్ చేస్తోంది</string>
     <string name="relationLabelsGroup">సంబంధం</string>
     <string name="remove_contact">తీసివేయి</string>
     <string name="report_caller_id_dialog_title">చెల్లని నంబర్‌ను నివేదించండి</string>
     <string name="report_caller_id_failed">నంబర్‌ను నివేదించడం సాధ్యపడలేదు</string>
     <string name="report_caller_id_toast">నంబర్ నివేదించబడింది</string>
+    <string name="request_feedback_title">కాల్‌లను రేట్ చేయండి</string>
     <string name="respond_via_sms_setting_title">శీఘ్ర ప్రతిస్పందనలు</string>
     <string name="rtt_input_hint">సందేశాన్ని టైప్ చేయండి</string>
     <string name="search_location_permission">మీ సమీపంలోని స్థలాల యొక్క సంప్రదింపు సమాచారం పొందడానికి, మీ స్థానానికి యాక్సెస్‌ను అనుమతించండి.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">ఫోటో పంపబడింది</string>
     <string name="set_default_account">కాల్‌ల కోసం ఎల్లప్పుడూ దీన్ని ఉపయోగించు</string>
     <string name="settings">సెట్టింగ్‌లు</string>
+    <string name="settings_label">Wi‑Fi కాలింగ్‌ను కాన్ఫిగర్ చేయండి</string>
     <string name="share_and_call">భాగస్వా. చేసి, కాల్ చేయి</string>
     <string name="simContacts_emptyLoading">సిమ్ కార్డు నుండి లోడ్ చేస్తోంది…</string>
     <string name="simContacts_title">SIM కార్డ్ పరిచయాలు</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">వాయిస్ మెయిల్</string>
     <string name="terms_and_conditions_decline_dialog_title">దృశ్య వాయిస్ మెయిల్‌ను నిలిపివేయాలా?</string>
     <string name="terms_of_service_label">సేవా నిబంధనలు</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">సిస్టమ్ సెట్టింగ్‌లకు వ్రాయడం కోసం ఫోన్ అనువర్తనానికి అనుమతి లేదు.</string>
     <string name="toast_text_copied">వచనం కాపీ చేయబడింది</string>
     <string name="toolbar_close">మూసివేయి</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">అన్‌బ్లాక్ చేయి</string>
     <string name="unblock_number_ok">అన్‌బ్లాక్ చేయి</string>
     <string name="unknown">తెలియదు</string>
+    <string name="unknown_caller">తెలియని కాలర్</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">అత్యవసరం! దయచేసి కాల్ ఎత్తండి!</string>
     <string name="user_profile_contacts_list_header">నేను</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">చాట్ చేయాలనుకుంటున్నారా?</string>
     <string name="websiteLabelsGroup">వెబ్‌సైట్</string>
+    <string name="wifi_call_end_network">నెట్‌వర్క్ కోల్పోయింది</string>
+    <string name="wifi_call_end_unanswered">ప్రతిస్పందన లేదు</string>
+    <string name="wifi_call_end_unknown">తెలియని లోపం</string>
+    <string name="wifi_call_enter_misc">కాల్‌లోకి ప్రవేశించడంలో విఫలమైంది</string>
+    <string name="wifi_call_enter_timeout">కాల్ ఏర్పాటులో సమయాభావం జరిగింది</string>
+    <string name="wifi_call_error_insufficient_funds">నిధులు తగినన్ని లేవు</string>
+    <string name="wifi_calling_enabled_summary">నా కనెక్షన్ తగినంత శక్తివంతంగా ఉన్నప్పుడు కాల్‌ల కోసం Wi‑Fiని ఉపయోగించు</string>
+    <string name="wifi_calling_enabled_title">Wi‑Fi కాలింగ్</string>
 </resources>

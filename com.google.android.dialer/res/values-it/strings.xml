@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">Data speciale</string>
     <string name="event_deactivated">Modalità animale domestico disattivata</string>
     <string name="favorites_header">Preferiti</string>
+    <string name="feedback_action_high">Buona</string>
     <string name="feedback_action_high_v2">Buona</string>
+    <string name="feedback_action_low">Insoddisfacente</string>
     <string name="feedback_action_low_v2">Scarsa</string>
     <string name="feedback_audio_issue_echo">"L'altra persona sentiva l'eco"</string>
     <string name="feedback_audio_issue_local_audio">"L'altra persona non riusciva a sentirmi"</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">Chiamata soddisfacente</string>
     <string name="feedback_call_issue_other">Altro</string>
     <string name="feedback_call_issue_title">Qual è stato il problema?</string>
+    <string name="feedback_title">Come valuti la qualità della chiamata?</string>
     <string name="feedback_title_v2">Come è stata la qualità della chiamata per te?</string>
     <string name="full_name">Nome</string>
     <string name="gallery_item_description">immagine: %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">immagine</string>
     <string name="gallery_permission_text">"Per condividere un'immagine, devi concedere l'accesso ai contenuti multimediali"</string>
+    <string name="gcm_fallback_notification_channel_label">Varie</string>
     <string name="generic_conference_call_name">Chiamata in corso</string>
     <string name="ghostData_company">Società</string>
     <string name="ghostData_title">Ruolo</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">Ricerca posizione…</string>
     <string name="location_map_description">Mappa dei luoghi per emergenze</string>
     <string name="location_title">Comunica ai servizi di emergenza dove ti trovi</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Telefono</string>
     <string name="main_call_history_tab_description">Cronologia chiamate</string>
     <string name="main_help_and_feedback">Guida e feedback</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">Risultati di ricerca personalizzati</string>
     <string name="phoneAppLabel">Telefono</string>
     <string name="phoneLabelsGroup">Telefono</string>
+    <string name="phone_account_description">Chiamate Wi‑Fi</string>
+    <string name="phone_account_label">Chiamate Wi-Fi con Google</string>
     <string name="phone_account_settings_label">Account di chiamata</string>
     <string name="post_call_add_message">Aggiungi messaggio</string>
     <string name="post_call_message">Specifica perché hai chiamato</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">Limitata</string>
     <string name="quick_question">Domanda rapida…</string>
     <string name="received_a_photo">Foto ricevuta</string>
+    <string name="reconnecting_via_template">Riconnessione tramite %s</string>
     <string name="relationLabelsGroup">Relazione</string>
     <string name="remove_contact">Rimuovi</string>
     <string name="report_caller_id_dialog_title">Segnala numero errato</string>
     <string name="report_caller_id_failed">Impossibile segnalare il numero</string>
     <string name="report_caller_id_toast">Numero segnalato</string>
+    <string name="request_feedback_title">Valutazione chiamate</string>
     <string name="respond_via_sms_setting_title">Risposte rapide</string>
     <string name="rtt_input_hint">Digita un messaggio</string>
     <string name="search_location_permission">"Per ricevere le informazioni di contatto dei luoghi nelle vicinanze, consenti l'accesso alla tua posizione."</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">Foto inviata</string>
     <string name="set_default_account">Usa sempre questa per chiamare</string>
     <string name="settings">Impostazioni</string>
+    <string name="settings_label">Configura le chiamate Wi‑Fi</string>
     <string name="share_and_call">Condividi e chiama</string>
     <string name="simContacts_emptyLoading">Caricamento da SIM...</string>
     <string name="simContacts_title">Contatti della scheda SIM</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">Segreteria</string>
     <string name="terms_and_conditions_decline_dialog_title">Disattivare la lettura della segreteria?</string>
     <string name="terms_of_service_label">Termini di servizio</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">"L'app Telefono non dispone dell'autorizzazione per modificare le impostazioni di sistema."</string>
     <string name="toast_text_copied">Testo copiato</string>
     <string name="toolbar_close">Chiudi</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">Sblocca</string>
     <string name="unblock_number_ok">SBLOCCA</string>
     <string name="unknown">Sconosciuto</string>
+    <string name="unknown_caller">Chiamante sconosciuto</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">È urgente, per favore rispondi!</string>
     <string name="user_profile_contacts_list_header">Io</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">Vuoi chattare?</string>
     <string name="websiteLabelsGroup">Sito web</string>
+    <string name="wifi_call_end_network">Connessione di rete persa</string>
+    <string name="wifi_call_end_unanswered">Nessuna risposta</string>
+    <string name="wifi_call_end_unknown">Errore sconosciuto</string>
+    <string name="wifi_call_enter_misc">Avvio della chiamata non riuscito</string>
+    <string name="wifi_call_enter_timeout">Tempo di avvio della chiamata scaduto</string>
+    <string name="wifi_call_error_insufficient_funds">Credito insufficiente</string>
+    <string name="wifi_calling_enabled_summary">Utilizza il Wi‑Fi per le chiamate quando il segnale di connessione è abbastanza forte</string>
+    <string name="wifi_calling_enabled_title">Chiamate Wi‑Fi</string>
 </resources>

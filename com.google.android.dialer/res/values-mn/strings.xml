@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Баярт өдөр</string>
     <string name="event_deactivated">Тэжээвэр амьтны горим идэвхгүй</string>
     <string name="favorites_header">Дуртай</string>
+    <string name="feedback_action_high">Сайн</string>
     <string name="feedback_action_high_v2">Сайн</string>
+    <string name="feedback_action_low">Муу</string>
     <string name="feedback_action_low_v2">Муу</string>
     <string name="feedback_audio_issue_echo">Нөгөө тал цуурай сонссон</string>
     <string name="feedback_audio_issue_local_audio">Нөгөө хүн намайг сонсож чадаагүй</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Сайн дуудлага</string>
     <string name="feedback_call_issue_other">Бусад</string>
     <string name="feedback_call_issue_title">Асуудал юунд байсан бэ?</string>
+    <string name="feedback_title">Дуудлагын чанар ямар байсан бэ?</string>
     <string name="feedback_title_v2">Таны талд дуудлагын чанар ямар байсан бэ?</string>
     <string name="full_name">Нэр</string>
     <string name="gallery_item_description">зураг %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">зураг</string>
     <string name="gallery_permission_text">Зураг хуваалцахын тулд медиад хандах зөвшөөрөл олгох шаардлагатай</string>
+    <string name="gcm_fallback_notification_channel_label">Бусад</string>
     <string name="generic_conference_call_name">Ярьж байна</string>
     <string name="ghostData_company">Компани</string>
     <string name="ghostData_title">Гарчиг</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Таны байршлыг олж байна...</string>
     <string name="location_map_description">Онцгой байдлын байршлын зураг</string>
     <string name="location_title">Түргэн тусламжид өөрийн байрлалыг хэлнэ үү</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Утас</string>
     <string name="main_call_history_tab_description">Дуудлагын түүх</string>
     <string name="main_help_and_feedback">Тусламж, санал хүсэлт</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Танд зориулсан хайлтын үр дүн</string>
     <string name="phoneAppLabel">Утас</string>
     <string name="phoneLabelsGroup">Утас</string>
+    <string name="phone_account_description">Wi-Fi дуудлага</string>
+    <string name="phone_account_label">Google-н тусламжтай Wi-Fi дуудлага хийх</string>
     <string name="phone_account_settings_label">Дуудах бүртгэл</string>
     <string name="post_call_add_message">Зурвас нэмэх</string>
     <string name="post_call_message">Яагаад залгасан гэдгээ хэлнэ үү</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Хязгаарлагдсан</string>
     <string name="quick_question">Шуурхай асуулт…</string>
     <string name="received_a_photo">Зураг хүлээн авсан</string>
+    <string name="reconnecting_via_template">%s-р дамжуулан дахин холбогдож байна</string>
     <string name="relationLabelsGroup">Хамаарал</string>
     <string name="remove_contact">Хасах</string>
     <string name="report_caller_id_dialog_title">Буруу дугаарыг мэдээлэх</string>
     <string name="report_caller_id_failed">Дугаарыг мэдээлж чадсангүй</string>
     <string name="report_caller_id_toast">Дугаарыг мэдээлсэн</string>
+    <string name="request_feedback_title">Дуудлагыг үнэлэх</string>
     <string name="respond_via_sms_setting_title">Шуурхай хариунууд</string>
     <string name="rtt_input_hint">Зурвас бичнэ үү</string>
     <string name="search_location_permission">Өөрийн ойролцоох газруудын холбогдох хаягийг авахын тулд өөрийн байршилд хандах зөвшөөрөл өгнө үү.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Зураг илгээсэн</string>
     <string name="set_default_account">Дуудлагад байнга үүнийг ашиглах</string>
     <string name="settings">Тохиргоо</string>
+    <string name="settings_label">Wi-Fi дуудлагыг тохируулах</string>
     <string name="share_and_call">Хуваалцаад залгах</string>
     <string name="simContacts_emptyLoading">SIM картаас ачаалж байна…</string>
     <string name="simContacts_title">SIM картны харилцагч</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Дуут шуудан</string>
     <string name="terms_and_conditions_decline_dialog_title">Уншиж болохуйц дуут шууданг идэвхгүй болгох уу?</string>
     <string name="terms_of_service_label">Үйлчилгээний нөхцөл</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Гар утасны апп-д системийн тохиргоо бичих зөвшөөрөл алга.</string>
     <string name="toast_text_copied">Текстийг хуулсан</string>
     <string name="toolbar_close">Хаах</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Хоригийг авах</string>
     <string name="unblock_number_ok">БЛОКООС ГАРГАХ</string>
     <string name="unknown">Тодорхойгүй</string>
+    <string name="unknown_caller">Тодорхойгүй залгагч</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Яаралтай! Утсаа авна уу!</string>
     <string name="user_profile_contacts_list_header">Би</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Чатлахыг хүсэж байна уу?</string>
     <string name="websiteLabelsGroup">Вэбсайт</string>
+    <string name="wifi_call_end_network">Сүлжээ тасарсан</string>
+    <string name="wifi_call_end_unanswered">Хариу байхгүй</string>
+    <string name="wifi_call_end_unknown">Тодорхойгүй алдаа</string>
+    <string name="wifi_call_enter_misc">Орох дуудлага амжилтгүй</string>
+    <string name="wifi_call_enter_timeout">Хугацаа хэтэрсэн дуудлагыг дахин сэргээж байна</string>
+    <string name="wifi_call_error_insufficient_funds">Нэгж дутсан</string>
+    <string name="wifi_calling_enabled_summary">Wi-Fi дуудлагыг холболтын хурд сайн байх үед ашиглана уу</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi дуудлага</string>
 </resources>

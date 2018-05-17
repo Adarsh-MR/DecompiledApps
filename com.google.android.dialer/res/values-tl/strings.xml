@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">Espesyal na petsa</string>
     <string name="event_deactivated">Naka-off ang pet mode</string>
     <string name="favorites_header">Mga Paborito</string>
+    <string name="feedback_action_high">Malinaw</string>
     <string name="feedback_action_high_v2">Maganda</string>
+    <string name="feedback_action_low">Hindi Malinaw</string>
     <string name="feedback_action_low_v2">Pangit</string>
     <string name="feedback_audio_issue_echo">May narinig na echo ang aking kausap</string>
     <string name="feedback_audio_issue_local_audio">Hindi ako marinig ng aking kausap</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">Malinaw na tawag</string>
     <string name="feedback_call_issue_other">Iba pa</string>
     <string name="feedback_call_issue_title">Ano ang naging isyu?</string>
+    <string name="feedback_title">Ano ang masasabi mo sa kalidad ng tawag?</string>
     <string name="feedback_title_v2">Kumusta ang kalidad ng tawag sa iyong bahagi?</string>
     <string name="full_name">Pangalan</string>
     <string name="gallery_item_description">larawan %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">larawan</string>
     <string name="gallery_permission_text">Upang magbahagi ng imahe, magbigay ng access sa Media</string>
+    <string name="gcm_fallback_notification_channel_label">Iba Pa</string>
     <string name="generic_conference_call_name">Nasa tawag</string>
     <string name="ghostData_company">Kumpanya</string>
     <string name="ghostData_title">Pamagat</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">Hinahanap ang lokasyon mo…</string>
     <string name="location_map_description">Pang-emergency na Mapa ng Lokasyon</string>
     <string name="location_title">Sabihin sa mga serbisyong pang-emergency kung nasaan ka</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Telepono</string>
     <string name="main_call_history_tab_description">History ng tawag</string>
     <string name="main_help_and_feedback">Tulong at feedback</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">Personalized na search result</string>
     <string name="phoneAppLabel">Telepono</string>
     <string name="phoneLabelsGroup">Telepono</string>
+    <string name="phone_account_description">Pagtawag gamit ang Wi‑Fi</string>
+    <string name="phone_account_label">Mga pagtawag gamit ang Wi‑Fi sa pamamagitan ng Google</string>
     <string name="phone_account_settings_label">Account sa pagtawag</string>
     <string name="post_call_add_message">Magdagdag ng mensahe</string>
     <string name="post_call_message">Sabihin kung bakit ka tumawag</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">Pinaghihigpitan</string>
     <string name="quick_question">Maikling tanong…</string>
     <string name="received_a_photo">Nakatanggap ng larawan</string>
+    <string name="reconnecting_via_template">Muling kumonekta sa pamamagitan ng %s</string>
     <string name="relationLabelsGroup">Kaugnayan</string>
     <string name="remove_contact">Alisin</string>
     <string name="report_caller_id_dialog_title">Iulat ang hindi tamang numero</string>
     <string name="report_caller_id_failed">Hindi maiulat ang numero</string>
     <string name="report_caller_id_toast">Inulat ang numero</string>
+    <string name="request_feedback_title">I-rate ang mga tawag</string>
     <string name="respond_via_sms_setting_title">Mga mabilisang tugon</string>
     <string name="rtt_input_hint">Mag-type ng mensahe</string>
     <string name="search_location_permission">Upang makakuha ng impormasyon ng contact para sa mga lugar na malapit sa iyo, magbigay ng access sa iyong lokasyon.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">Nagpadala ng larawan</string>
     <string name="set_default_account">Gamitin ito palagi sa mga tawag</string>
     <string name="settings">Mga Setting</string>
+    <string name="settings_label">I-configure ang pagtawag gamit ang Wi-Fi</string>
     <string name="share_and_call">Ibahagi at tumawag</string>
     <string name="simContacts_emptyLoading">Naglo-load mula sa SIM card…</string>
     <string name="simContacts_title">Mga contact sa SIM card</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">Voicemail</string>
     <string name="terms_and_conditions_decline_dialog_title">I-disable ang visual na voicemail?</string>
     <string name="terms_of_service_label">Mga tuntunin ng serbisyo</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Walang pahintulot ang app ng Telepono na mag-write sa mga setting ng system.</string>
     <string name="toast_text_copied">Kinopya ang text</string>
     <string name="toolbar_close">Isara</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">I-unblock</string>
     <string name="unblock_number_ok">I-UNBLOCK</string>
     <string name="unknown">Di-kilala</string>
+    <string name="unknown_caller">Di-kilala</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Apurahan! Pakisagot!</string>
     <string name="user_profile_contacts_list_header">Ako</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">Gusto mo bang makipag-chat?</string>
     <string name="websiteLabelsGroup">Website</string>
+    <string name="wifi_call_end_network">Nadiskonekta sa network</string>
+    <string name="wifi_call_end_unanswered">Walang tugon</string>
+    <string name="wifi_call_end_unknown">Hindi alam na error</string>
+    <string name="wifi_call_enter_misc">Hindi nakapasok ang tawag</string>
+    <string name="wifi_call_enter_timeout">Nag-time out ang pagtatakda ng tawag</string>
+    <string name="wifi_call_error_insufficient_funds">Hindi sapat ang pondo</string>
+    <string name="wifi_calling_enabled_summary">Gamitin ang Wi‑Fi para sa mga tawag kapag sapat ang lakas ng aking koneksyon</string>
+    <string name="wifi_calling_enabled_title">Pagtawag gamit ang Wi‑Fi</string>
 </resources>

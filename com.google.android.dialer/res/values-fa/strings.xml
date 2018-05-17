@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">تاریخ ویژه</string>
     <string name="event_deactivated">حالت حیوان خانگی خاموش</string>
     <string name="favorites_header">موردعلاقه‌‌‌ها</string>
+    <string name="feedback_action_high">خوب</string>
     <string name="feedback_action_high_v2">خوب</string>
+    <string name="feedback_action_low">بد</string>
     <string name="feedback_action_low_v2">بد</string>
     <string name="feedback_audio_issue_echo">فرد مقابل صدا را با پژواک می‌شنید</string>
     <string name="feedback_audio_issue_local_audio">فرد مقابل صدای من را نمی‌شنید</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">تماس خوب بود</string>
     <string name="feedback_call_issue_other">موردی دیگر</string>
     <string name="feedback_call_issue_title">مشکل چه بود؟</string>
+    <string name="feedback_title">کیفیت تماس چطور بود؟</string>
     <string name="feedback_title_v2">کیفیت تماس برای شما چگونه بود؟</string>
     <string name="full_name">نام</string>
     <string name="gallery_item_description">تصویر %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">تصویر</string>
     <string name="gallery_permission_text">برای اشتراک‌گذاری تصویر، به رسانه اجازه دسترسی بدهید</string>
+    <string name="gcm_fallback_notification_channel_label">موارد دیگر</string>
     <string name="generic_conference_call_name">در تماس</string>
     <string name="ghostData_company">شرکت</string>
     <string name="ghostData_title">عنوان</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">درحال پیدا کردن مکان شما…</string>
     <string name="location_map_description">نقشه مکان اضطراری</string>
     <string name="location_title">به سرویس‌های اورژانس بگویید کجا هستید</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">تلفن</string>
     <string name="main_call_history_tab_description">سابقه تماس</string>
     <string name="main_help_and_feedback">راهنما و بازخورد</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">نتایج جستجوی شخصی‌شده</string>
     <string name="phoneAppLabel">تلفن</string>
     <string name="phoneLabelsGroup">تلفن</string>
+    <string name="phone_account_description">‏تماس با Wi-Fi</string>
+    <string name="phone_account_label">‏تماس‌های Wi-Fi با Google</string>
     <string name="phone_account_settings_label">حساب‌های تماس</string>
     <string name="post_call_add_message">افزودن پیام</string>
     <string name="post_call_message">بگو چرا تماس گرفته‌ای</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">محدودشده</string>
     <string name="quick_question">سؤال سریع...</string>
     <string name="received_a_photo">عکسی دریافت کرد</string>
+    <string name="reconnecting_via_template">درحال برقراری مجدد ارتباط ازطریق %s</string>
     <string name="relationLabelsGroup">نسبت</string>
     <string name="remove_contact">حذف</string>
     <string name="report_caller_id_dialog_title">گزارش شماره نادرست</string>
     <string name="report_caller_id_failed">شماره گزارش نشد</string>
     <string name="report_caller_id_toast">شماره گزارش شد</string>
+    <string name="request_feedback_title">رتبه‌بندی تماس‌ها</string>
     <string name="respond_via_sms_setting_title">پاسخ‌های سریع</string>
     <string name="rtt_input_hint">پیامی تایپ کنید</string>
     <string name="search_location_permission">برای دریافت اطلاعات تماس مکان‌های اطرافتان، به برنامه اجازه دهید به مکانتان دسترسی داشته باشد.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">عکسی ارسال کرد</string>
     <string name="set_default_account">همیشه این سیم برای تماس‌ استفاده شود</string>
     <string name="settings">تنظیمات</string>
+    <string name="settings_label">‏پیکربندی تماس‌ با Wi‑Fi</string>
     <string name="share_and_call">اشتراک‌گذاری و تماس</string>
     <string name="simContacts_emptyLoading">در حال بارگیری سیم کارت...</string>
     <string name="simContacts_title">مخاطبین سیم‌کارت</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">پست صوتی</string>
     <string name="terms_and_conditions_decline_dialog_title">پست صوتی تصویری غیرفعال شود؟</string>
     <string name="terms_of_service_label">شرایط و ضوابط</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">برنامه تلفن اجازه نوشتن در تنظیمات سیستم را ندارد.</string>
     <string name="toast_text_copied">نوشتار کپی شد</string>
     <string name="toolbar_close">بستن</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">لغو انسداد کردن</string>
     <string name="unblock_number_ok">رفع انسداد</string>
     <string name="unknown">ناشناس</string>
+    <string name="unknown_caller">تماس‌گیرنده ناشناس</string>
     <string name="unknown_counter" formatted="false">%d %s</string>
     <string name="urgent">فوری! لطفاً بردارید!</string>
     <string name="user_profile_contacts_list_header">من</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">می‌خواهید گپ بزنید؟</string>
     <string name="websiteLabelsGroup">وب سایت</string>
+    <string name="wifi_call_end_network">شبکه قطع شد</string>
+    <string name="wifi_call_end_unanswered">بدون پاسخ</string>
+    <string name="wifi_call_end_unknown">خطای ناشناس</string>
+    <string name="wifi_call_enter_misc">تماس برقرار نشد</string>
+    <string name="wifi_call_enter_timeout">زمان مجاز برقراری تماس به پایان رسید</string>
+    <string name="wifi_call_error_insufficient_funds">موجودی کافی نیست</string>
+    <string name="wifi_calling_enabled_summary">‏وقتی اتصال به اندازه کافی قوی است، از Wi‑Fi برای تماس‌ها استفاده شود</string>
+    <string name="wifi_calling_enabled_title">‏تماس از طریق Wi-Fi</string>
 </resources>

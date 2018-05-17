@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">Tarehe maalum</string>
     <string name="event_deactivated">Hali ya mnyama kipenzi imezimwa</string>
     <string name="favorites_header">Unazopendelea</string>
+    <string name="feedback_action_high">Nzuri</string>
     <string name="feedback_action_high_v2">Thabiti</string>
+    <string name="feedback_action_low">Mbaya</string>
     <string name="feedback_action_low_v2">Mbaya</string>
     <string name="feedback_audio_issue_echo">Niliyekuwa nazungumza naye alikuwa anasikia mwangwi</string>
     <string name="feedback_audio_issue_local_audio">Niliyekuwa nikizungumza naye hakuweza kunisikia</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">Mawasiliano mazuri</string>
     <string name="feedback_call_issue_other">Tatizo lingine</string>
     <string name="feedback_call_issue_title">Tatizo lilikuwa lipi?</string>
+    <string name="feedback_title">Je, ubora wa simu ulikuwaje?</string>
     <string name="feedback_title_v2">Je, unakadiriaje ubora wa simu upande wako?</string>
     <string name="full_name">Jina</string>
     <string name="gallery_item_description">picha %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">picha</string>
     <string name="gallery_permission_text">Ruhusu programu ifikie hifadhi ili uweze kushiriki picha</string>
+    <string name="gcm_fallback_notification_channel_label">Zinginezo</string>
     <string name="generic_conference_call_name">Mazungumzo ya simu yanaendelea</string>
     <string name="ghostData_company">Kampuni</string>
     <string name="ghostData_title">Jina</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">Inatafuta mahali ulipo…</string>
     <string name="location_map_description">Ramani ya Eneo la Dharura</string>
     <string name="location_title">Arifu huduma za dharura kuhusu mahali ulipo</string>
+    <string name="lte_call_template">LTE ya %s</string>
     <string name="main_activity_label">Simu</string>
     <string name="main_call_history_tab_description">Rekodi ya simu zilizopigwa</string>
     <string name="main_help_and_feedback">Usaidizi na maoni</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">Matokeo yaliyobadilishwa kukufaa</string>
     <string name="phoneAppLabel">Simu</string>
     <string name="phoneLabelsGroup">Simu</string>
+    <string name="phone_account_description">Kupiga simu kupitia Wi-Fi</string>
+    <string name="phone_account_label">Simu za Wi-Fi kupitia Google</string>
     <string name="phone_account_settings_label">Akaunti za simu</string>
     <string name="post_call_add_message">Ongeza ujumbe</string>
     <string name="post_call_message">Sema sababu ya kupiga simu</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">Zilizozuiwa</string>
     <string name="quick_question">Hebu nikuulize…</string>
     <string name="received_a_photo">Picha imepokelewa</string>
+    <string name="reconnecting_via_template">Inaunganisha tena kupitia %s</string>
     <string name="relationLabelsGroup">Uhusiano</string>
     <string name="remove_contact">Ondoa</string>
     <string name="report_caller_id_dialog_title">Ripoti nambari isiyosahihi</string>
     <string name="report_caller_id_failed">Imeshindwa kuripoti nambari</string>
     <string name="report_caller_id_toast">Nambari imeripotiwa</string>
+    <string name="request_feedback_title">Kadiria simu</string>
     <string name="respond_via_sms_setting_title">Majibu ya haraka</string>
     <string name="rtt_input_hint">Andika ujumbe</string>
     <string name="search_location_permission">Ruhusu sehemu yako ifikiwe ili upate maelezo ya anwani kuhusu maeneo yaliyo karibu.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">Picha imetumwa</string>
     <string name="set_default_account">Tumia hii kwa simu wakati wote</string>
     <string name="settings">Mipangilio</string>
+    <string name="settings_label">Weka mipangilio ya kupiga simu kupitia Wi-Fi</string>
     <string name="share_and_call">Shiriki na upige simu</string>
     <string name="simContacts_emptyLoading">Inapakia kutoka kwenye SIM kadi…</string>
     <string name="simContacts_title">Anwani za SIM kadi</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">Ujumbe wa sauti</string>
     <string name="terms_and_conditions_decline_dialog_title">Je, ungependa kuzima kipengele cha ujumbe wa sauti unaoonekana?</string>
     <string name="terms_of_service_label">Sheria na masharti</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Programu ya simu haina ruhusa ya kuandika kwenye mipangilio ya mfumo.</string>
     <string name="toast_text_copied">Maandishi yamenakiliwa</string>
     <string name="toolbar_close">Funga</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">Ondoa kizuizi</string>
     <string name="unblock_number_ok">ACHA KUZUIA</string>
     <string name="unknown">Haijulikani</string>
+    <string name="unknown_caller">Anayepiga hajulikani</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Ni muhimu! Chukua simu tafadhali!</string>
     <string name="user_profile_contacts_list_header">Mimi</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">Unataka kupiga gumzo?</string>
     <string name="websiteLabelsGroup">Tovuti</string>
+    <string name="wifi_call_end_network">Muunganisho wa mtandao umepotea</string>
+    <string name="wifi_call_end_unanswered">Hakuna jibu</string>
+    <string name="wifi_call_end_unknown">Hitilafu isiyojulikana imetokea</string>
+    <string name="wifi_call_enter_misc">Imeshindwa kukujumuisha kwenye Hangout</string>
+    <string name="wifi_call_enter_timeout">Muda wa kuanzisha upigaji simu umekwisha</string>
+    <string name="wifi_call_error_insufficient_funds">Huna fedha za kutosha</string>
+    <string name="wifi_calling_enabled_summary">Tumia Wi-Fi kupiga na kupokea simu wakati muunganisho wangu ni mzuri</string>
+    <string name="wifi_calling_enabled_title">Kupiga simu kupitia Wi-Fi</string>
 </resources>

@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Özel tarih</string>
     <string name="event_deactivated">Evcil hayvan modu kapalı</string>
     <string name="favorites_header">Favoriler</string>
+    <string name="feedback_action_high">İyi</string>
     <string name="feedback_action_high_v2">İyi</string>
+    <string name="feedback_action_low">Kötü</string>
     <string name="feedback_action_low_v2">Kötü</string>
     <string name="feedback_audio_issue_echo">Karşı tarafa yankı gitti</string>
     <string name="feedback_audio_issue_local_audio">Diğer kullanıcı beni duyamadı</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Ses kalitesi iyiydi</string>
     <string name="feedback_call_issue_other">Diğer</string>
     <string name="feedback_call_issue_title">Sorun neydi?</string>
+    <string name="feedback_title">Çağrının kalitesi nasıldı?</string>
     <string name="feedback_title_v2">Sizin tarafınızda görüşme kalitesi nasıldı?</string>
     <string name="full_name">Ad</string>
     <string name="gallery_item_description">resim %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">resim</string>
     <string name="gallery_permission_text">"Resim paylaşmak için Medya'ya erişim izni verin"</string>
+    <string name="gcm_fallback_notification_channel_label">Çeşitli</string>
     <string name="generic_conference_call_name">Konferans çağrısında</string>
     <string name="ghostData_company">Şirket</string>
     <string name="ghostData_title">Unvan</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Konumunuz aranıyor…</string>
     <string name="location_map_description">Acil Durum Konum Haritası</string>
     <string name="location_title">Acil durum hizmetlerine yer bildirin</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Telefon</string>
     <string name="main_call_history_tab_description">Çağrı geçmişi</string>
     <string name="main_help_and_feedback">Yardım ve geri bildirim</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Kişiselleştirilmiş arama sonuçları</string>
     <string name="phoneAppLabel">Telefon</string>
     <string name="phoneLabelsGroup">Telefon</string>
+    <string name="phone_account_description">Kablosuz çağrı</string>
+    <string name="phone_account_label">Google ile Kablosuz çağrılar</string>
     <string name="phone_account_settings_label">Çağrı hesapları</string>
     <string name="post_call_add_message">Mesaj ekleyin</string>
     <string name="post_call_message">Arama nedeninizi söyleyin</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Kısıtlanmış</string>
     <string name="quick_question">Kısa soru…</string>
     <string name="received_a_photo">Bir fotoğraf alındı</string>
+    <string name="reconnecting_via_template">%s üzerinden yeniden bağlanılıyor</string>
     <string name="relationLabelsGroup">İlişki</string>
     <string name="remove_contact">Kaldır</string>
     <string name="report_caller_id_dialog_title">Yanlış numarayı bildir</string>
     <string name="report_caller_id_failed">Numara bildirilemedi</string>
     <string name="report_caller_id_toast">Numara bildirildi</string>
+    <string name="request_feedback_title">Görüşmeleri değerlendirin</string>
     <string name="respond_via_sms_setting_title">Hızlı yanıtlar</string>
     <string name="rtt_input_hint">Mesaj yazın</string>
     <string name="search_location_permission">Yakınınızdaki yerlerin iletişim bilgilerine ulaşmak için konumunuza erişime izin verin.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Bir fotoğraf gönderildi</string>
     <string name="set_default_account">Çağrılar için her zaman bunu kullan</string>
     <string name="settings">Ayarlar</string>
+    <string name="settings_label">Kablosuz çağrıyı yapılandırın</string>
     <string name="share_and_call">Paylaş ve telefon et</string>
     <string name="simContacts_emptyLoading">SIM karttan yükleniyor…</string>
     <string name="simContacts_title">SIM kart kişileri</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Sesli mesaj</string>
     <string name="terms_and_conditions_decline_dialog_title">Görsel sesli mesaj devre dışı bırakılsın mı?</string>
     <string name="terms_of_service_label">Hizmet şartları</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Telefon uygulamasının sistem ayarlarına yazma izni yok.</string>
     <string name="toast_text_copied">Metin kopyalandı</string>
     <string name="toolbar_close">Kapat</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Engellemeyi kaldır</string>
     <string name="unblock_number_ok">ENGELLEMEYİ KALDIR</string>
     <string name="unknown">Bilinmiyor</string>
+    <string name="unknown_caller">Arayan bilinmiyor</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Acil! Lütfen telefona cevap verin!</string>
     <string name="user_profile_contacts_list_header">Ben</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Sohbet etmek mi istiyorsunuz?</string>
     <string name="websiteLabelsGroup">Web sitesi</string>
+    <string name="wifi_call_end_network">Ağ bağlantısı kesildi</string>
+    <string name="wifi_call_end_unanswered">Yanıt yok</string>
+    <string name="wifi_call_end_unknown">Bilinmeyen hata</string>
+    <string name="wifi_call_enter_misc">Çağrı başlatılamadı</string>
+    <string name="wifi_call_enter_timeout">Çağrı gerçekleştirme zaman aşımı</string>
+    <string name="wifi_call_error_insufficient_funds">Yetersiz bakiye</string>
+    <string name="wifi_calling_enabled_summary">Bağlantım yeterince güçlü olduğunda çağrılar için kablosuz bağlantı kullan</string>
+    <string name="wifi_calling_enabled_title">Kablosuz çağrı</string>
 </resources>

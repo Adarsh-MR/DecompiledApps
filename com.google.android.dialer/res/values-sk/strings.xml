@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Špeciálny dátum</string>
     <string name="event_deactivated">Režim domáceho miláčika je vypnutý</string>
     <string name="favorites_header">Obľúbené</string>
+    <string name="feedback_action_high">Dobrá kvalita</string>
     <string name="feedback_action_high_v2">Dobrá</string>
+    <string name="feedback_action_low">Zlá kvalita</string>
     <string name="feedback_action_low_v2">Zlá</string>
     <string name="feedback_audio_issue_echo">Druhý účastník počul ozvenu</string>
     <string name="feedback_audio_issue_local_audio">Druhá osoba ma nepočula</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Dobrý hovor</string>
     <string name="feedback_call_issue_other">Niečo iné</string>
     <string name="feedback_call_issue_title">Aký nastal problém?</string>
+    <string name="feedback_title">Aká bola kvalita hovoru?</string>
     <string name="feedback_title_v2">Aká bola kvalita hovoru na vašej strane?</string>
     <string name="full_name">Meno</string>
     <string name="gallery_item_description">obrázok – %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">obrázok</string>
     <string name="gallery_permission_text">Ak chcete zdieľať obrázok, povoľte prístup k médiám</string>
+    <string name="gcm_fallback_notification_channel_label">Rôzne</string>
     <string name="generic_conference_call_name">Prebieha hovor</string>
     <string name="ghostData_company">Spoločnosť</string>
     <string name="ghostData_title">Funkcia</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Hľadá sa vaša poloha…</string>
     <string name="location_map_description">Mapa miesta tiesňového volania</string>
     <string name="location_title">Ukážte tiesňovým službám, kde ste</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Telefón</string>
     <string name="main_call_history_tab_description">História hovorov</string>
     <string name="main_help_and_feedback">Pomocník a spätná väzba</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Prispôsobené vyhľadávanie</string>
     <string name="phoneAppLabel">Telefón</string>
     <string name="phoneLabelsGroup">Telefón</string>
+    <string name="phone_account_description">Volanie cez Wi‑Fi</string>
+    <string name="phone_account_label">Volanie cez Wi‑Fi s Googlom</string>
     <string name="phone_account_settings_label">Telefónne účty</string>
     <string name="post_call_add_message">Pridať správu</string>
     <string name="post_call_message">Vysvetlite, prečo ste volali</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Obmedzené</string>
     <string name="quick_question">Rýchla otázka…</string>
     <string name="received_a_photo">Bola prijatá fotka</string>
+    <string name="reconnecting_via_template">Opätovné pripájanie cez poskytovateľa %s</string>
     <string name="relationLabelsGroup">Vzťah</string>
     <string name="remove_contact">Odstrániť</string>
     <string name="report_caller_id_dialog_title">Nahlásenie nesprávneho čísla</string>
     <string name="report_caller_id_failed">Číslo sa nepodarilo nahlásiť</string>
     <string name="report_caller_id_toast">Číslo bolo nahlásené</string>
+    <string name="request_feedback_title">Hodnotenie hovorov</string>
     <string name="respond_via_sms_setting_title">Rýchle odpovede</string>
     <string name="rtt_input_hint">Zadajte správu</string>
     <string name="search_location_permission">Ak chcete získať kontaktné údaje miest vo svojom okolí, povoľte aplikácii prístup k svojej polohe.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Bola odoslaná fotka</string>
     <string name="set_default_account">Vždy používať pre hovory</string>
     <string name="settings">Nastavenia</string>
+    <string name="settings_label">Konfigurácia volania cez Wi‑Fi</string>
     <string name="share_and_call">Zdieľať a volať</string>
     <string name="simContacts_emptyLoading">Načítava sa zo SIM karty...</string>
     <string name="simContacts_title">Kontakty na SIM karte</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Hlasová schránka</string>
     <string name="terms_and_conditions_decline_dialog_title">Chcete deaktivovať vizuálnu hlasovú schránku?</string>
     <string name="terms_of_service_label">Zmluvné podmienky</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Telefónna aplikácia nemá povolenie na zápis do nastavení systému.</string>
     <string name="toast_text_copied">Text bol skopírovaný</string>
     <string name="toolbar_close">Zavrieť</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Odblokovať</string>
     <string name="unblock_number_ok">ODBLOKOVAŤ</string>
     <string name="unknown">Neznáme</string>
+    <string name="unknown_caller">Neznámy volajúci</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Súrne! Zodvihnite, prosím.</string>
     <string name="user_profile_contacts_list_header">Ja</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Chcete četovať?</string>
     <string name="websiteLabelsGroup">Web</string>
+    <string name="wifi_call_end_network">Pripojenie k sieti zlyhalo</string>
+    <string name="wifi_call_end_unanswered">Bez odpovede</string>
+    <string name="wifi_call_end_unknown">Neznáma chyba</string>
+    <string name="wifi_call_enter_misc">Nepodarilo sa pripojiť k hovoru</string>
+    <string name="wifi_call_enter_timeout">Vypršal časový limit na nadviazanie hovoru</string>
+    <string name="wifi_call_error_insufficient_funds">Nedostatok prostriedkov</string>
+    <string name="wifi_calling_enabled_summary">Keď má pripojenie dostatočne silný signál, na uskutočňovanie hovorov sa používa Wi‑Fi</string>
+    <string name="wifi_calling_enabled_title">Volanie cez Wi‑Fi</string>
 </resources>

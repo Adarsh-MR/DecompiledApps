@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">Speciali data</string>
     <string name="event_deactivated">Naminių gyvūnėlių režimas išjungtas</string>
     <string name="favorites_header">Mėgstamiausi</string>
+    <string name="feedback_action_high">Geras</string>
     <string name="feedback_action_high_v2">Gera</string>
+    <string name="feedback_action_low">Blogas</string>
     <string name="feedback_action_low_v2">Bloga</string>
     <string name="feedback_audio_issue_echo">Pašnekovas girdėjo aidą</string>
     <string name="feedback_audio_issue_local_audio">Kitas asmuo negirdėjo manęs</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">Geras skambutis</string>
     <string name="feedback_call_issue_other">Kita problema</string>
     <string name="feedback_call_issue_title">Kokių kilo problemų?</string>
+    <string name="feedback_title">Kokia buvo skambučio kokybė?</string>
     <string name="feedback_title_v2">Kokia buvo jūsų skambučio kokybė?</string>
     <string name="full_name">Pavadinimas</string>
     <string name="gallery_item_description">vaizdas (%1$tB %1$te %1$tY %1$tl %1$tM %1$tp)</string>
     <string name="gallery_item_description_no_date">vaizdas</string>
     <string name="gallery_permission_text">Kad galėtumėte bendrinti vaizdą, leiskite pasiekti mediją</string>
+    <string name="gcm_fallback_notification_channel_label">Įvairūs</string>
     <string name="generic_conference_call_name">Skambinant</string>
     <string name="ghostData_company">Įmonė</string>
     <string name="ghostData_title">Pavadinimas</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">Iešk. jūsų vietovės…</string>
     <string name="location_map_description">Vietos žemėlapis skambinant pagalbos numeriu</string>
     <string name="location_title">Nur. pagalbos tarn. savo vietą</string>
+    <string name="lte_call_template">„%s“ LTE</string>
     <string name="main_activity_label">Telefonas</string>
     <string name="main_call_history_tab_description">Skambučių istorija</string>
     <string name="main_help_and_feedback">Pagalba ir atsiliepimai</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">Suasmenintos paieškos rezultatai</string>
     <string name="phoneAppLabel">Telefonas</string>
     <string name="phoneLabelsGroup">Telefonas</string>
+    <string name="phone_account_description">„Wi-Fi“ skambinimas</string>
+    <string name="phone_account_label">„Wi-Fi“ skambučiai naudojant „Google“</string>
     <string name="phone_account_settings_label">Skambinimo paskyros</string>
     <string name="post_call_add_message">Pridėkite pranešimą</string>
     <string name="post_call_message">Pasakykite, kodėl paskambinote</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">Apriboti</string>
     <string name="quick_question">Trumpas klausimas…</string>
     <string name="received_a_photo">Gavo nuotrauką</string>
+    <string name="reconnecting_via_template">Iš naujo prisijungiama naudojant „%s“</string>
     <string name="relationLabelsGroup">Ryšys</string>
     <string name="remove_contact">Pašalinti</string>
     <string name="report_caller_id_dialog_title">Pranešimas apie netinkamą numerį</string>
     <string name="report_caller_id_failed">Nepavyko pranešti apie numerį</string>
     <string name="report_caller_id_toast">Apie numerį pranešta</string>
+    <string name="request_feedback_title">Įvertinti skambučius</string>
     <string name="respond_via_sms_setting_title">Greiti atsakai</string>
     <string name="rtt_input_hint">Įveskite pranešimą</string>
     <string name="search_location_permission">Jei norite gauti netoli jūsų esančių vietų kontaktinės informacijos, suteikite prieigą prie vietovės.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">Išsiuntė nuotrauką</string>
     <string name="set_default_account">Visada naudoti tai skambučiams</string>
     <string name="settings">Nustatymai</string>
+    <string name="settings_label">„Wi-Fi“ skambinimo konfigūravimas</string>
     <string name="share_and_call">Bendrinti ir skambinti</string>
     <string name="simContacts_emptyLoading">Įkeliama iš SIM kortelės...</string>
     <string name="simContacts_title">SIM kortelės kontaktai</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">Balso paštas</string>
     <string name="terms_and_conditions_decline_dialog_title">Išjungti vaizdinį balso paštą?</string>
     <string name="terms_of_service_label">Paslaugų teikimo sąlygos</string>
+    <string name="three_g_call_template">„%s“ 3G</string>
     <string name="toast_cannot_write_system_settings">Telefono programa neturi leidimo keisti sistemos nustatymų.</string>
     <string name="toast_text_copied">Tekstas nukopijuotas</string>
     <string name="toolbar_close">Uždaryti</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">Panaikinti blokavimą</string>
     <string name="unblock_number_ok">PANAIKINTI BLOKAVIMĄ</string>
     <string name="unknown">Nežinomas</string>
+    <string name="unknown_caller">Nežin. skambintojas</string>
     <string name="unknown_counter" formatted="false">%d %s</string>
     <string name="urgent">Skubu! Atsiliepkite!</string>
     <string name="user_profile_contacts_list_header">Aš</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">Norite kalbėtis?</string>
     <string name="websiteLabelsGroup">Svetainė</string>
+    <string name="wifi_call_end_network">Prarastas ryšys su tinklu</string>
+    <string name="wifi_call_end_unanswered">Nėra atsako</string>
+    <string name="wifi_call_end_unknown">Nežinoma klaida</string>
+    <string name="wifi_call_enter_misc">Nepavyko atlikti skambučio</string>
+    <string name="wifi_call_enter_timeout">Baigėsi skirtasis skambinimo laikas</string>
+    <string name="wifi_call_error_insufficient_funds">Nepakanka lėšų</string>
+    <string name="wifi_calling_enabled_summary">Skambinant naudoti „Wi‑Fi“ ryšį, jei jis pakankamai stiprus</string>
+    <string name="wifi_calling_enabled_title">„Wi-Fi“ skambinimas</string>
 </resources>

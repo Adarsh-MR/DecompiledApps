@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Data especial</string>
     <string name="event_deactivated">Desactivouse o modo mascota</string>
     <string name="favorites_header">Favoritos</string>
+    <string name="feedback_action_high">Boa</string>
     <string name="feedback_action_high_v2">Boa</string>
+    <string name="feedback_action_low">Mala</string>
     <string name="feedback_action_low_v2">Mala</string>
     <string name="feedback_audio_issue_echo">A outra persoa escoitaba eco</string>
     <string name="feedback_audio_issue_local_audio">A outra persoa non puido escoitarme</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Boa chamada</string>
     <string name="feedback_call_issue_other">Un problema diferente</string>
     <string name="feedback_call_issue_title">Cal foi o problema?</string>
+    <string name="feedback_title">Cal foi a calidade da chamada?</string>
     <string name="feedback_title_v2">Que che pareceu a calidade da chamada?</string>
     <string name="full_name">Nome</string>
     <string name="gallery_item_description">Imaxe do %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">Imaxe</string>
     <string name="gallery_permission_text">Para compartir unha imaxe, concede permiso de acceso aos ficheiros multimedia</string>
+    <string name="gcm_fallback_notification_channel_label">Varios</string>
     <string name="generic_conference_call_name">Chamada en curso</string>
     <string name="ghostData_company">Empresa</string>
     <string name="ghostData_title">Título</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Buscando situación…</string>
     <string name="location_map_description">Mapa de localización de urxencias</string>
     <string name="location_title">Mostrar localización</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Teléfono</string>
     <string name="main_call_history_tab_description">Historial de chamadas</string>
     <string name="main_help_and_feedback">Axuda e comentarios</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Resultados da busca personalizados</string>
     <string name="phoneAppLabel">Teléfono</string>
     <string name="phoneLabelsGroup">Teléfono</string>
+    <string name="phone_account_description">Chamadas por wifi</string>
+    <string name="phone_account_label">Chamadas por wifi con Google</string>
     <string name="phone_account_settings_label">Contas de chamadas</string>
     <string name="post_call_add_message">Engade unha mensaxe</string>
     <string name="post_call_message">Di por que chamaches</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Restrinxido</string>
     <string name="quick_question">Unha pregunta rápida…</string>
     <string name="received_a_photo">Recibiuse unha foto</string>
+    <string name="reconnecting_via_template">Reconectando a través de %s</string>
     <string name="relationLabelsGroup">Relación</string>
     <string name="remove_contact">Eliminar</string>
     <string name="report_caller_id_dialog_title">Informar dun número incorrecto</string>
     <string name="report_caller_id_failed">Non se puido marcar o número como inadecuado</string>
     <string name="report_caller_id_toast">Marcouse o número como inadecuado</string>
+    <string name="request_feedback_title">Valorar chamadas</string>
     <string name="respond_via_sms_setting_title">Respostas rápidas</string>
     <string name="rtt_input_hint">Escribe unha mensaxe</string>
     <string name="search_location_permission">Para obter información de contacto dos lugares que están cerca de ti, permite o acceso á túa localización.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Enviouse unha foto</string>
     <string name="set_default_account">Usar sempre para as chamadas</string>
     <string name="settings">Configuración</string>
+    <string name="settings_label">Configurar chamadas por wifi</string>
     <string name="share_and_call">Compartir e chamar</string>
     <string name="simContacts_emptyLoading">Cargando número da tarxeta SIM…</string>
     <string name="simContacts_title">Contactos da tarxeta SIM</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Correo de voz</string>
     <string name="terms_and_conditions_decline_dialog_title">Queres desactivar o correo de voz visual?</string>
     <string name="terms_of_service_label">Condicións de servizo</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">A aplicación Teléfono non ten permiso para modificar a configuración do sistema.</string>
     <string name="toast_text_copied">Texto copiado</string>
     <string name="toolbar_close">Pechar</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Desbloquear</string>
     <string name="unblock_number_ok">DESBLOQUEAR</string>
     <string name="unknown">Descoñecido</string>
+    <string name="unknown_caller">Emisor descoñecido</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">É urxente! Responde!</string>
     <string name="user_profile_contacts_list_header">Eu</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Queres chatear?</string>
     <string name="websiteLabelsGroup">Sitio web</string>
+    <string name="wifi_call_end_network">Perdeuse a conexión coa rede</string>
+    <string name="wifi_call_end_unanswered">Non hai resposta</string>
+    <string name="wifi_call_end_unknown">Erro descoñecido</string>
+    <string name="wifi_call_enter_misc">Produciuse un erro ao unirse á chamada</string>
+    <string name="wifi_call_enter_timeout">Superouse o tempo de espera de establecemento de chamada</string>
+    <string name="wifi_call_error_insufficient_funds">Non hai fondos suficientes</string>
+    <string name="wifi_calling_enabled_summary">Utilizar wifi para as chamadas cando a conexión sexa suficientemente boa</string>
+    <string name="wifi_calling_enabled_title">Chamadas por wifi</string>
 </resources>

@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">ວັນ​ທີ​ພິ​ເສດ</string>
     <string name="event_deactivated">ປິດໂໝດສັດລ້ຽງ</string>
     <string name="favorites_header">ລາຍການທີ່ມັກ</string>
+    <string name="feedback_action_high">ດີ</string>
     <string name="feedback_action_high_v2">ດີ</string>
+    <string name="feedback_action_low">ບໍ່ດີ</string>
     <string name="feedback_action_low_v2">ບໍ່ດີ</string>
     <string name="feedback_audio_issue_echo">ປາຍທາງໄດ້ຍິນສຽງກ້ອງ</string>
     <string name="feedback_audio_issue_local_audio">ຄົນອື່ນບໍ່ສາມາດໄດ້ຍິນຂ້ອຍ</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">ສັນຍານໂທດີ</string>
     <string name="feedback_call_issue_other">ບາງຢ່າງອື່ນ</string>
     <string name="feedback_call_issue_title">ບັນຫາແມ່ນຫຍັງ?</string>
+    <string name="feedback_title">ຄຸນນະພາບການໂທເປັນແນວໃດ?</string>
     <string name="feedback_title_v2">ຄຸນນະພາບການໂທຂອງທ່ານເປັນແນວໃດ?</string>
     <string name="full_name">ຊື່</string>
     <string name="gallery_item_description">ຮູບ %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">ຮູບ</string>
     <string name="gallery_permission_text">ເພື່ອແບ່ງປັນຮູບພາບໃດໜຶ່ງ, ໃຫ້ອະນຸຍາດການເຂົ້າຫາມີເດຍກ່ອນ</string>
+    <string name="gcm_fallback_notification_channel_label">ອື່ນໆ</string>
     <string name="generic_conference_call_name">ຢູ່ໃນສາຍ</string>
     <string name="ghostData_company">ບໍລິສັດ</string>
     <string name="ghostData_title">ຊື່</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">ກຳລັງຊອກຫາສະຖານທີ່ຂອງທ່ານ...</string>
     <string name="location_map_description">ແຜນທີ່ສະຖານທີ່ສຸກເສີນ</string>
     <string name="location_title">ບອກບໍລິການສຸກເສີນວ່າທ່ານຢູ່ໃສ</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">ໂທລະສັບ</string>
     <string name="main_call_history_tab_description">ປະຫວັດການໂທ</string>
     <string name="main_help_and_feedback">ຊ່ວຍເຫຼືອ ແລະ ຕິຊົມ</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">ເຮັດຜົນ​ໄດ້​ຮັບ​ການ​ຊອກ​ຫາ​ເປັນ​ສ່ວນ​ຕົວ</string>
     <string name="phoneAppLabel">ໂທລະສັບ</string>
     <string name="phoneLabelsGroup">ໂທລະສັບ</string>
+    <string name="phone_account_description">ການໂທ Wi-Fi</string>
+    <string name="phone_account_label">ການ​ໂທ Wi-Fi ດ້ວຍ Google</string>
     <string name="phone_account_settings_label">ບັນ​ຊີ​ໂທ</string>
     <string name="post_call_add_message">ເພີ່ມຂໍ້ຄວາມ</string>
     <string name="post_call_message">ບອກວ່າເປັນຫຍັງທ່ານໂທ</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">ຖືກຈຳກັດ</string>
     <string name="quick_question">ມີເລື່ອງຖາມໜ້ອຍໜຶ່ງ…</string>
     <string name="received_a_photo">ໄດ້ຮັບຮູບພາບແລ້ວ</string>
+    <string name="reconnecting_via_template">ກຳ​ລັງ​ເຊື່ອມ​ຕໍ່​ຜ່ານ %s</string>
     <string name="relationLabelsGroup">ຄວາມສຳພັນ</string>
     <string name="remove_contact">​ລຶບ​ອອກ</string>
     <string name="report_caller_id_dialog_title">​ລາຍ​ງານ​ເບີ​ໂທບໍ່​ຖືກ​ຕ້ອງ</string>
     <string name="report_caller_id_failed">ບໍ່ສາມາດລາຍງານເບີໂທໄດ້</string>
     <string name="report_caller_id_toast">ລາຍງານເບີໂທແລ້ວ</string>
+    <string name="request_feedback_title">ຄ່າໂທ</string>
     <string name="respond_via_sms_setting_title">ຕອບກັບດ່ວນ</string>
     <string name="rtt_input_hint">ພິມຂໍ້ຄວາມ</string>
     <string name="search_location_permission">ເພື່ອຮັບຂໍ້ມູນການຕິດຕໍ່ສຳລັບສະຖານທີ່ໃກ້ທ່ານ, ໃຫ້ອະນຸຍາດການເຂົ້າເຖິງສະຖານທີ່ຂອງທ່ານກ່ອນ.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">ສົ່ງຮູບພາບ</string>
     <string name="set_default_account">ໃຊ້​ຊິມ​ນີ້​ເພື່ອ​ການໂທທຸກ​ເທື່ອ</string>
     <string name="settings">ການຕັ້ງຄ່າ</string>
+    <string name="settings_label">ຕັ້ງຄ່າການໂທ Wi-Fi</string>
     <string name="share_and_call">ແບ່ງປັນ ແລະ ໂທ</string>
     <string name="simContacts_emptyLoading">ກຳລັງໂຫລດຈາກ SIM card...</string>
     <string name="simContacts_title">ລາຍຊື່ຜູ້ຕິດຕໍ່ SIM card</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">ຂໍ້ຄວາມສຽງ</string>
     <string name="terms_and_conditions_decline_dialog_title">ປິດການນຳໃຊ້ຂໍ້ຄວາມສຽງສະເໝືອນບໍ?</string>
     <string name="terms_of_service_label">ຂໍ້ກຳນົດບໍລິການ</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">ແອັບໂທລະສັບບໍ່ມີການອະນຸຍາດໃຫ້ຂຽນໃສ່ການຕັ້ງຄ່າລະບົບ.</string>
     <string name="toast_text_copied">ສຳເນົາຂໍ້ຄວາມແລ້ວ</string>
     <string name="toolbar_close">ປິດ</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">ຍົກເລີກການບລັອກ</string>
     <string name="unblock_number_ok">​ປົດ​ບລັອກ</string>
     <string name="unknown">ບໍ່ຮູ້ຈັກ</string>
+    <string name="unknown_caller">ບໍ່ຮູ້ຈັກຜູ້ໂທ</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">ດ່ວນ! ຮັບສາຍແດ່!</string>
     <string name="user_profile_contacts_list_header">ຂ້ອຍ</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">ຢາກລົມບໍ?</string>
     <string name="websiteLabelsGroup">ເວັບໄຊ</string>
+    <string name="wifi_call_end_network">ເຄືອຂ່າຍຂັດຂ້ອງ</string>
+    <string name="wifi_call_end_unanswered">ບໍ່ມີການຕອບຮັບ</string>
+    <string name="wifi_call_end_unknown">ເກີດຄວາມຜິດພາດທີ່ບໍ່ຮູ້ຈັກ</string>
+    <string name="wifi_call_enter_misc">ສາຍໂທເຂົ້າບໍ່ສຳເລັດ</string>
+    <string name="wifi_call_enter_timeout">ການຕັ້ງການໂທໝົດເວລາແລ້ວ</string>
+    <string name="wifi_call_error_insufficient_funds">ເງິນບໍ່ພໍ</string>
+    <string name="wifi_calling_enabled_summary">ໃຊ້ Wi-Fi ສຳລັບການໂທເມື່ອສັນຍານການເຊື່ອມຕໍ່ຂອງຂ້ອຍບໍ່ແຮງພໍ</string>
+    <string name="wifi_calling_enabled_title">ການ​ໂທ Wi-Fi</string>
 </resources>

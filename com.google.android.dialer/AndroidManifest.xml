@@ -71,6 +71,7 @@
     <uses-permission android:name="android.permission.SEND_SMS"/>
     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
     <uses-feature android:name="com.google.android.apps.dialer.SUPPORTED" android:required="false"/>
+    <uses-feature android:name="com.google.android.feature.PIXEL_2017_EXPERIENCE" android:required="true"/>
     <meta-data android:name="com.google.android.backup.api_key" android:value="AEdPqrEAAAAIn3-Y3JKit1mrzfvcdbVhUiJn2ICtKfhGYLy0Bg"/>
     <application android:allowBackup="true" android:backupAgent="com.android.dialer.backup.DialerPersistentBackupAgent" android:extractNativeLibs="false" android:fullBackupOnly="false" android:hardwareAccelerated="@bool/config_hardware_acceleration" android:icon="@mipmap/ic_google_launcher" android:label="@string/applicationLabel" android:name="com.google.android.apps.dialer.app.GoogleDialerApplication" android:restoreAnyVersion="true" android:supportsRtl="true" android:theme="@style/Theme.AppCompat">
         <activity android:clearTaskOnLaunch="true" android:directBootAware="true" android:label="@string/launcherActivityLabel" android:launchMode="singleTask" android:name="com.google.android.apps.dialer.extensions.GoogleDialtactsActivity" android:resizeableActivity="true" android:theme="@style/DialtactsActivityTheme" android:windowSoftInputMode="adjustNothing|stateAlwaysHidden">
@@ -298,6 +299,67 @@
             </intent-filter>
         </service>
         <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <service android:exported="true" android:name="com.google.android.libraries.dialer.voip.call.DialerConnectionService" android:permission="android.permission.BIND_CONNECTION_SERVICE">
+            <intent-filter>
+                <action android:name="android.telecomm.ConnectionService"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.google.android.libraries.dialer.voip.call.IncomingHangoutsCallService"/>
+        <receiver android:exported="false" android:name="com.google.android.libraries.dialer.voip.call.IncomingHangoutsCallFallback$AlarmReceiver">
+            <intent-filter>
+                <action android:name="com.google.android.libraries.dialer.voip.call.IncomingHangoutsCallFallback.ALARM"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:name="com.google.android.libraries.dialer.voip.call.util.ActivityRecognitionService"/>
+        <receiver android:enabled="false" android:exported="true" android:name="com.google.android.libraries.dialer.voip.call.util.PhoneStateReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PHONE_STATE"/>
+                <action android:name="android.intent.action.NEW_OUTGOING_CALL"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:name="com.google.android.libraries.dialer.voip.controller.RegistrationJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <activity android:exported="false" android:name="com.google.android.libraries.dialer.voip.feedback.FeedbackActivity" android:taskAffinity="" android:theme="@android:style/Theme.Material.Light.Dialog.NoActionBar.MinWidth"/>
+        <receiver android:exported="false" android:name="com.google.android.libraries.dialer.voip.feedback.NotificationAutoCloser">
+            <intent-filter>
+                <action android:name="com.google.android.libraries.dialer.voip.feedback.NotificationAutoCloser.ALARM"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.google.android.gms.gcm.GcmReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION"/>
+                <category android:name="com.google.android.dialer"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:name="com.google.android.libraries.dialer.voip.gcm.DialerGcmListenerService">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+        </service>
+        <service android:exported="true" android:name="com.google.android.libraries.dialer.voip.gcm.DialerGcmRegistrationService" android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE">
+            <intent-filter>
+                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.google.android.libraries.dialer.voip.gcm.DialerGcmRefreshService">
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.google.android.libraries.dialer.voip.ipc.DialerSettingsService">
+            <intent-filter>
+                <action android:name="com.google.android.libraries.dialer.voip.ipc.IDialerSettingsService"/>
+            </intent-filter>
+        </service>
+        <activity android:excludeFromRecents="true" android:exported="true" android:label="@string/settings_label" android:name="com.google.android.libraries.dialer.voip.preferences.ui.WifiCallingSettingsActivity" android:theme="@style/DialerLibSettingsStyle">
+            <intent-filter>
+                <action android:name="android.telecom.action.CONNECTION_SERVICE_CONFIGURE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <service android:exported="false" android:label="ProtoUploadService" android:name="com.google.android.libraries.dialer.voip.rpc.ProtoUploadService"/>
+        <service android:exported="false" android:label="ProtoJobService" android:name="com.google.android.libraries.dialer.voip.rpc.ProtoJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:exported="false" android:name="com.google.android.libraries.hangouts.video.internal.CallService"/>
         <receiver android:enabled="true" android:exported="false" android:name="com.google.android.gms.analytics.AnalyticsReceiver"/>
         <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.analytics.AnalyticsService"/>
         <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.analytics.AnalyticsJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>

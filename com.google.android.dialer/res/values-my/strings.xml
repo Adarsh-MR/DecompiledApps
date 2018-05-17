@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">အထူးနေ့</string>
     <string name="event_deactivated">အိမ်မွေးတိရိစ္ဆာန်မုဒ်ကို ပိတ်ထားပါသည်</string>
     <string name="favorites_header">အကြိုက်ဆုံးများ</string>
+    <string name="feedback_action_high">ကောင်းသည်</string>
     <string name="feedback_action_high_v2">ကောင်းသည်</string>
+    <string name="feedback_action_low">မကောင်းပါ</string>
     <string name="feedback_action_low_v2">မကောင်းပါ</string>
     <string name="feedback_audio_issue_echo">အခြားဘက်က ပဲ့တင်သံကို ကြားရသည်</string>
     <string name="feedback_audio_issue_local_audio">အခြားသူက ကျွန်ုပ်အသံကို မကြားရပါ</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">ခေါ်ဆိုမှုမှာ ကောင်းမွန်ပါသည်</string>
     <string name="feedback_call_issue_other">အခြား တစ်ခုခု</string>
     <string name="feedback_call_issue_title">မည်သို့သော ပြဿနာ ရှိပါသနည်း။</string>
+    <string name="feedback_title">ခေါ်ဆိုမှုအရည်အသွေး မည်သို့ရှိပါသနည်း။</string>
     <string name="feedback_title_v2">သင့်ဘက်က ခေါ်ဆိုမှုအရည်အသွေး ဘယ်လိုရှိပါသလဲ။</string>
     <string name="full_name">အမည်</string>
     <string name="gallery_item_description">ပုံ %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">ပုံ</string>
     <string name="gallery_permission_text">ပုံမျှဝေရန် မီဒီယာသို့ ဝင်သုံးခွင့်ပေးပါ</string>
+    <string name="gcm_fallback_notification_channel_label">အထွေထွေ</string>
     <string name="generic_conference_call_name">ဖုန်းပြောနေသည်</string>
     <string name="ghostData_company">ကုမ္ပဏီ</string>
     <string name="ghostData_title">ခေါင်းစဉ်</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">သင့်နေရာ ရှာနေသည်...</string>
     <string name="location_map_description">အရေးပေါ်တည်နေရာပြမြေပုံ</string>
     <string name="location_title">လက်ရှိနေရာကို ပြောပါ</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">ဖုန်း</string>
     <string name="main_call_history_tab_description">ခေါ်ဆိုမှုမှတ်တမ်း</string>
     <string name="main_help_and_feedback">အကူအညီနှင့် အကြံပြုချက်</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">ကိုယ်ပိုင် ရှာဖွေမှု ရလဒ်များ</string>
     <string name="phoneAppLabel">ဖုန်း</string>
     <string name="phoneLabelsGroup">ဖုန်း</string>
+    <string name="phone_account_description">ဝိုင်ဖိုင်ခေါ်ဆိုမှု</string>
+    <string name="phone_account_label">Google ဖြင့် ဝိုင်ဖိုင်ခေါ်ဆိုမှုများ</string>
     <string name="phone_account_settings_label">ခေါ်ဆိုသော အကောင့်များ</string>
     <string name="post_call_add_message">မက်ဆေ့ဂျ် ထည့်သွင်းပါ</string>
     <string name="post_call_message">သင် ဘာကြောင့် ခေါ်ဆိုသည်ကို ပြောပါ</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">ကန့်သတ်ထားသည်</string>
     <string name="quick_question">အမြန်မေးခွန်း…</string>
     <string name="received_a_photo">ဓာတ်ပုံ လက်ခံရရှိသည်</string>
+    <string name="reconnecting_via_template">%s မှတစ်ဆင့် ပြန်လည်ချိတ်ဆက်နေသည်</string>
     <string name="relationLabelsGroup">ပတ်သတ်မှု</string>
     <string name="remove_contact">ဖယ်ရှာခြင်း</string>
     <string name="report_caller_id_dialog_title">မမှန်ကန်သည့် နံပါတ်ကို တိုင်ကြားရန်</string>
     <string name="report_caller_id_failed">နံပါတ်ကို မတိုင်ကြားနိုင်ပါ</string>
     <string name="report_caller_id_toast">နံပါတ်ကို တိုင်ကြားပြီးပါပြီ</string>
+    <string name="request_feedback_title">ခေါ်ဆိုမှုများကို အဆင့်သတ်မှတ်ပါ</string>
     <string name="respond_via_sms_setting_title">အမြန်တုံ့ပြန်ချက်များ</string>
     <string name="rtt_input_hint">မက်ဆေ့ဂျ် ရိုက်ပါ</string>
     <string name="search_location_permission">သင့်အနီးရှိ နေရာများအတွက် အဆက်အသွယ် အချက်အလက်များ ရရှိရန် သင့်တည်နေရာကို သုံးခွင့်ပြုပါ။</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">ဓာတ်ပုံ ပို့လိုက်သည်</string>
     <string name="set_default_account">ခေါ်ဆိုမှုများ အတွက် အမြဲတမ်း ဒါကို သုံးရန်</string>
     <string name="settings">ဆက်တင်များ</string>
+    <string name="settings_label">ဝိုင်ဖိုင်ခေါ်ဆိုမှုကို ပြင်ဆင်သတ်မှတ်ပါ</string>
     <string name="share_and_call">မျှဝေပြီး ခေါ်ဆိုရန်</string>
     <string name="simContacts_emptyLoading">ဆင်းမ်ကဒ်မှ ဖွင့်နေသည်…</string>
     <string name="simContacts_title">ဆင်းမ်ကဒ်အဆက်အသွယ်များ</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">အသံမေးလ်</string>
     <string name="terms_and_conditions_decline_dialog_title">ကြည့်ရှုစီမံနိုင်သော အသံမေးလ်ကို ပိတ်မလား။</string>
     <string name="terms_of_service_label">ဝန်ဆောင်မှု စည်းမျဉ်းများ</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">ဖုန်း အက်ပ်ဆီတွင် စနစ် ဆက်တင်များသို့ ရေးသားခွင့် မရှိပါ။</string>
     <string name="toast_text_copied">စာသားကူးယူပြီးပါပြီ</string>
     <string name="toolbar_close">ပိတ်ရန်</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">ပြန်ဖွင့်ရန်</string>
     <string name="unblock_number_ok">ပိတ်ဆို့ခြင်းမှ ဖယ်ရှားပါ</string>
     <string name="unknown">အကြောင်းအရာ မသိရှိ</string>
+    <string name="unknown_caller">အမည်မသိ ဖုန်းခေါ်သူ</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">အရေးကြီးသည်။ ဖုန်းကိုင်ပါ။</string>
     <string name="user_profile_contacts_list_header">ကျွန်ုပ်</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">ချတ်လုပ်လိုပါသလား။</string>
     <string name="websiteLabelsGroup">ဝဘ်ဆိုက်</string>
+    <string name="wifi_call_end_network">ကွန်ရက် ပျောက်သွားသည်</string>
+    <string name="wifi_call_end_unanswered">တုံ့ပြန်မှု မရှိပါ</string>
+    <string name="wifi_call_end_unknown">အမျိုးအမည်မသိ အ​မှား​အယွင်း</string>
+    <string name="wifi_call_enter_misc">ခေါ်ဆိုမှုဝင်ရောက်ခြင်း မအောင်မြင်ပါ</string>
+    <string name="wifi_call_enter_timeout">ခေါ်ဆိုမှုပြုလုပ်ခြင်း အချိန်ကုန်သွားပါပြီ</string>
+    <string name="wifi_call_error_insufficient_funds">ငွေကြေး မလုံလောက်ပါ</string>
+    <string name="wifi_calling_enabled_summary">ကျွန်ုပ်၏ကွန်နက်ရှင်ကောင်းပါက ခေါ်ဆိုမှုများအတွက် ဝိုင်ဖိုင်သုံးပါ</string>
+    <string name="wifi_calling_enabled_title">"Wi-Fi  ခေါ်ဆိုမှု"</string>
 </resources>

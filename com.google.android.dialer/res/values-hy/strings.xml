@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Հատուկ ամսաթիվ</string>
     <string name="event_deactivated">Առանց թաթերի</string>
     <string name="favorites_header">Ընտրանի</string>
+    <string name="feedback_action_high">Լավ</string>
     <string name="feedback_action_high_v2">Լավ</string>
+    <string name="feedback_action_low">Վատ</string>
     <string name="feedback_action_low_v2">Վատ</string>
     <string name="feedback_audio_issue_echo">Զրուցակցիս մոտ իմ ձայնն արձագանքում էր</string>
     <string name="feedback_audio_issue_local_audio">Զրուցակիցս ինձ չէր լսում</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Կապի որակը բարձր էր</string>
     <string name="feedback_call_issue_other">Այլ խնդիր</string>
     <string name="feedback_call_issue_title">Ի՞նչն էր խնդիրը</string>
+    <string name="feedback_title">Ինչպե՞ս էք գնահատում զանգի որակը:</string>
     <string name="feedback_title_v2">Ինչպիսի՞ն էր կապի որակը</string>
     <string name="full_name">Անուն</string>
     <string name="gallery_item_description">պատկեր %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">պատկեր</string>
     <string name="gallery_permission_text">Որևէ պատկերով կիսվելու համար տրամադրեք մեդիանյութերն օգտագործելու հնարավորություն</string>
+    <string name="gcm_fallback_notification_channel_label">Զանազան</string>
     <string name="generic_conference_call_name">Զանգ</string>
     <string name="ghostData_company">Ընկերությունը</string>
     <string name="ghostData_title">Պաշտոն</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Տեղորոշում…</string>
     <string name="location_map_description">Շտապ կանչերի ժամանակ ցուցադրվող տեղանքի քարտեզ</string>
     <string name="location_title">Նշեք ձեր գտնվելու վայրը</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Հեռախոս</string>
     <string name="main_call_history_tab_description">Զանգերի պատմություն</string>
     <string name="main_help_and_feedback">Օգնություն և հետադարձ կապ</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Անհատականացում</string>
     <string name="phoneAppLabel">Հեռախոս</string>
     <string name="phoneLabelsGroup">Հեռախոս</string>
+    <string name="phone_account_description">Զանգեր Wi-Fi ցանցի միջոցով</string>
+    <string name="phone_account_label">Wi-Fi զանգեր Google-ի միջոցով</string>
     <string name="phone_account_settings_label">Հաշիվներ զանգերի համար</string>
     <string name="post_call_add_message">Ավելացնել հաղորդագրություն</string>
     <string name="post_call_message">Ասեք, թե ինչու էիք զանգել</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Սահմանափակված</string>
     <string name="quick_question">Արագ հարց…</string>
     <string name="received_a_photo">Ստացվել է լուսանկար</string>
+    <string name="reconnecting_via_template">Վերամիացում %s-ի միջոցով</string>
     <string name="relationLabelsGroup">Հարաբերություն</string>
     <string name="remove_contact">Հեռացնել</string>
     <string name="report_caller_id_dialog_title">Հաղորդում սխալ համարի մասին</string>
     <string name="report_caller_id_failed">Չհաջողվեց ուղարկել հաղորդումը</string>
     <string name="report_caller_id_toast">Հաղորդումն ուղարկվեց</string>
+    <string name="request_feedback_title">Գնահատել զանգերի որակը</string>
     <string name="respond_via_sms_setting_title">Արագ պատասխաններ</string>
     <string name="rtt_input_hint">Մուտքագրեք հաղորդագրություն</string>
     <string name="search_location_permission">Մոտակայքում գտնվող վայրերի կոնտակտային տվյալները ստանալու համար թույլատրեք օգտագործել տեղադրության մասին տվյալները:</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Ուղարկվել է լուսանկար</string>
     <string name="set_default_account">Միշտ օգտագործել սա՝ զանգերի համար</string>
     <string name="settings">Կարգավորումներ</string>
+    <string name="settings_label">Wi-Fi-ով զանգերի կարգավորում</string>
     <string name="share_and_call">Կիսվել և զանգել</string>
     <string name="simContacts_emptyLoading">Բեռնվում է SIM քարտից…</string>
     <string name="simContacts_title">SIM քարտի կոնտակտներ</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Ձայնային փոստ</string>
     <string name="terms_and_conditions_decline_dialog_title">Անջատե՞լ ձայնային փոստի ցուցադրումը</string>
     <string name="terms_of_service_label">Օգտագործման պայմաններ</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Հեռախոս հավելվածը համակարգի կարգավորումները գրելու թույլտվություն չունի:</string>
     <string name="toast_text_copied">Տեքստը պատճենվեց</string>
     <string name="toolbar_close">Փակել</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Արգելաբացել</string>
     <string name="unblock_number_ok">ԱՐԳԵԼԱԲԱՑԵԼ</string>
     <string name="unknown">Անհայտ</string>
+    <string name="unknown_caller">Անհայտ զանգող</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Շտա՛պ է: Խնդրում եմ պատասխանել:</string>
     <string name="user_profile_contacts_list_header">Ես</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Ուզո՞ւմ եք զրուցել:</string>
     <string name="websiteLabelsGroup">Վեբ կայք</string>
+    <string name="wifi_call_end_network">Ցանցի հետ կապն ընդհատվեց</string>
+    <string name="wifi_call_end_unanswered">Անպատասխան</string>
+    <string name="wifi_call_end_unknown">Անհայտ սխալ</string>
+    <string name="wifi_call_enter_misc">Չհաջողվեց կապ հաստատել</string>
+    <string name="wifi_call_enter_timeout">Զանգի հաստատման ժամանակը սպառվեց</string>
+    <string name="wifi_call_error_insufficient_funds">Անբավարար միջոցներ</string>
+    <string name="wifi_calling_enabled_summary">Զանգերի համար օգտագործել Wi-Fi ցանցը, երբ կապը բավականաչափ ուժեղ է</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi զանգեր</string>
 </resources>

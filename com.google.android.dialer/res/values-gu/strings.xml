@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">વિશિષ્ટ તારીખ</string>
     <string name="event_deactivated">પાળતુ પ્રાણી મોડ બંધ</string>
     <string name="favorites_header">મનપસંદ</string>
+    <string name="feedback_action_high">સારી</string>
     <string name="feedback_action_high_v2">સારી</string>
+    <string name="feedback_action_low">ખરાબ</string>
     <string name="feedback_action_low_v2">ખરાબ</string>
     <string name="feedback_audio_issue_echo">સામેની વ્યક્તિને પડઘો સંભળાય છે</string>
     <string name="feedback_audio_issue_local_audio">સામેની વ્યક્તિ મને સાંભળી શકી નહીં</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">સારો કૉલ</string>
     <string name="feedback_call_issue_other">બીજું કંઈક</string>
     <string name="feedback_call_issue_title">શું સમસ્યા હતી?</string>
+    <string name="feedback_title">કૉલની ગુણવત્તા કેવી હતી?</string>
     <string name="feedback_title_v2">તમારા તરફ કૉલની ગુણવત્તા કેવી હતી?</string>
     <string name="full_name">નામ</string>
     <string name="gallery_item_description">છબી %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">છબી</string>
     <string name="gallery_permission_text">છબી શેર કરવા, મીડિયાની ઍક્સેસ આપો</string>
+    <string name="gcm_fallback_notification_channel_label">વિવિધ</string>
     <string name="generic_conference_call_name">કૉલમાં</string>
     <string name="ghostData_company">કંપની</string>
     <string name="ghostData_title">શીર્ષક</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">સ્થાન શોધી રહ્યાં છીએ…</string>
     <string name="location_map_description">કટોકટીનો સ્થાન નકશો</string>
     <string name="location_title">તમે ક્યા છો તે જણાવો</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">ફોન</string>
     <string name="main_call_history_tab_description">કૉલ ઇતિહાસ</string>
     <string name="main_help_and_feedback">સહાય અને પ્રતિસાદ</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">વ્યક્તિગત કરેલ શોધ પરિણામો</string>
     <string name="phoneAppLabel">ફોન</string>
     <string name="phoneLabelsGroup">ફોન</string>
+    <string name="phone_account_description">Wi-Fi કૉલિંગ</string>
+    <string name="phone_account_label">Google સાથે Wi-Fi કૉલ્સ</string>
     <string name="phone_account_settings_label">કૉલિંગ એકાઉન્ટ્સ</string>
     <string name="post_call_add_message">સંદેશ ઉમેરો</string>
     <string name="post_call_message">તમે શા માટે કૉલ કર્યો તે કહો</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">પ્રતિબંધિત</string>
     <string name="quick_question">ઝડપી પ્રશ્ન…</string>
     <string name="received_a_photo">એક ફોટો પ્રાપ્ત કર્યો</string>
+    <string name="reconnecting_via_template">%s મારફતે ફરીથી કનેક્ટ કરી રહ્યાં છીએ</string>
     <string name="relationLabelsGroup">સંબંધ</string>
     <string name="remove_contact">દૂર કરો</string>
     <string name="report_caller_id_dialog_title">ખોટા નંબરની જાણ કરો</string>
     <string name="report_caller_id_failed">નંબરની જાણ કરી શકાઈ નથી</string>
     <string name="report_caller_id_toast">નંબરની જાણ કરી</string>
+    <string name="request_feedback_title">કૉલ્સને રેટ કરો</string>
     <string name="respond_via_sms_setting_title">ઝડપી પ્રતિસાદ</string>
     <string name="rtt_input_hint">એક સંદેશ લખો</string>
     <string name="search_location_permission">તમારી નજીકના સ્થાનોની સંપર્ક માહિતી મેળવવા માટે, તમારું સ્થાન ઍક્સેસ કરવાની મંજૂરી આપો.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">એક ફોટો મોકલ્યો</string>
     <string name="set_default_account">કૉલ્સ માટે આનો ઉપયોગ હંમેશાં કરો</string>
     <string name="settings">સેટિંગ</string>
+    <string name="settings_label">Wi-Fi કૉલિંગ ગોઠવો</string>
     <string name="share_and_call">શેર કરો અને કૉલ કરો</string>
     <string name="simContacts_emptyLoading">SIM કાર્ડમાંથી લોડ કરી રહ્યાં છીએ…</string>
     <string name="simContacts_title">SIM કાર્ડ સંપર્કો</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">વૉઇસમેઇલ</string>
     <string name="terms_and_conditions_decline_dialog_title">વિઝ્યુઅલ વૉઇસમેઇલ બંધ કરીએ?</string>
     <string name="terms_of_service_label">સેવાની શરતો</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">ફોન એપ્લિકેશનને સિસ્ટમ સેટિંગ્સ પર લખવાની પરવાનગી નથી.</string>
     <string name="toast_text_copied">ટેક્સ્ટ કૉપિ કરી</string>
     <string name="toolbar_close">બંધ કરો</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">અનબ્લૉક કરો</string>
     <string name="unblock_number_ok">અનાવરોધિત કરો</string>
     <string name="unknown">અજાણ્યું</string>
+    <string name="unknown_caller">અજાણ્યો કૉલર</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">તાત્કાલિક! કૃપા કરીને ફોન ઉપાડો!</string>
     <string name="user_profile_contacts_list_header">હું</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">ચૅટ કરવી છે?</string>
     <string name="websiteLabelsGroup">વેબસાઇટ</string>
+    <string name="wifi_call_end_network">નેટવર્ક ગુમાવ્યું</string>
+    <string name="wifi_call_end_unanswered">કોઈ જવાબ નથી</string>
+    <string name="wifi_call_end_unknown">અજાણી ભૂલ</string>
+    <string name="wifi_call_enter_misc">કૉલમાં દાખલ થવું નિષ્ફળ થયું</string>
+    <string name="wifi_call_enter_timeout">કૉલ સ્થાપિત કરવાનો સમય સમાપ્ત થયો</string>
+    <string name="wifi_call_error_insufficient_funds">અપર્યાપ્ત ભંડોળ</string>
+    <string name="wifi_calling_enabled_summary">જ્યારે મારું કનેક્શન પૂરતું પ્રબળ હોય ત્યારે કૉલ્સ માટે Wi‑Fi નો ઉપયોગ કરો</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi કૉલિંગ</string>
 </resources>

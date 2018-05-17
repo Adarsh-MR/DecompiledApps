@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">Data e veçantë</string>
     <string name="event_deactivated">Modaliteti i kafshëzës është joaktiv</string>
     <string name="favorites_header">Të preferuarat</string>
+    <string name="feedback_action_high">I mirë</string>
     <string name="feedback_action_high_v2">E mirë</string>
+    <string name="feedback_action_low">I dobët</string>
     <string name="feedback_action_low_v2">E dobët</string>
     <string name="feedback_audio_issue_echo">Në anën tjetër dëgjohej jehonë</string>
     <string name="feedback_audio_issue_local_audio">Personi tjetër nuk mund të më dëgjonte</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">Telefonatë e mirë</string>
     <string name="feedback_call_issue_other">Diçka tjetër</string>
     <string name="feedback_call_issue_title">Cili ishte problemi?</string>
+    <string name="feedback_title">Si ishte cilësia e telefonatës?</string>
     <string name="feedback_title_v2">Si ishte cilësia e telefonatës në anën tënde?</string>
     <string name="full_name">Emri</string>
     <string name="gallery_item_description">imazh %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">imazh</string>
     <string name="gallery_permission_text">Për të ndarë një imazh, jep qasjen te Media</string>
+    <string name="gcm_fallback_notification_channel_label">Të ndryshme</string>
     <string name="generic_conference_call_name">Në telefonatë</string>
     <string name="ghostData_company">Kompania</string>
     <string name="ghostData_title">Titulli</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">Po gjen vendndodhjen...</string>
     <string name="location_map_description">Harta e vendndodhjes së urgjencës</string>
     <string name="location_title">Trego se ku je</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Telefoni</string>
     <string name="main_call_history_tab_description">Historiku i telefonatave</string>
     <string name="main_help_and_feedback">Ndihma dhe komentet</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">Kërkimet e personalizuara</string>
     <string name="phoneAppLabel">Telefoni</string>
     <string name="phoneLabelsGroup">Telefoni</string>
+    <string name="phone_account_description">Telefonatë me Wi-Fi</string>
+    <string name="phone_account_label">Telefonatat me Wi-Fi me Google</string>
     <string name="phone_account_settings_label">Llogaritë e telefonatave</string>
     <string name="post_call_add_message">Shto një mesazh</string>
     <string name="post_call_message">Thuaj pse telefonove</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">I kufizuar</string>
     <string name="quick_question">Një pyetje e shpejtë…</string>
     <string name="received_a_photo">U mor një fotografi</string>
+    <string name="reconnecting_via_template">Po rilidhet nëpërmjet %s</string>
     <string name="relationLabelsGroup">Marrëdhënia</string>
     <string name="remove_contact">Hiq</string>
     <string name="report_caller_id_dialog_title">Raporto numrin e pasaktë</string>
     <string name="report_caller_id_failed">Numri nuk mund të raportohej</string>
     <string name="report_caller_id_toast">Numri u raportua</string>
+    <string name="request_feedback_title">Vlerëso telefonatat</string>
     <string name="respond_via_sms_setting_title">Përgjigje të shpejta</string>
     <string name="rtt_input_hint">Shkruaj një mesazh</string>
     <string name="search_location_permission">Për të marrë informacionet e kontaktit për vendet në afërsi, lejo qasjen te vendndodhja jote.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">U dërgua një fotografi</string>
     <string name="set_default_account">Përdor gjithmonë këtë për telefonatat</string>
     <string name="settings">Cilësimet</string>
+    <string name="settings_label">Konfiguro telefonatat me Wi-Fi</string>
     <string name="share_and_call">Ndaj dhe telefono</string>
     <string name="simContacts_emptyLoading">Po ngarkon nga karta SIM…</string>
     <string name="simContacts_title">Kontaktet e kartës SIM</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">Posta zanore</string>
     <string name="terms_and_conditions_decline_dialog_title">Të çaktivizohet posta zanore vizuale?</string>
     <string name="terms_of_service_label">Kushtet e shërbimit</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Aplikacionet e telefonit nuk kanë leje të shkruajnë në cilësimet e sistemit.</string>
     <string name="toast_text_copied">Teksti u kopjua</string>
     <string name="toolbar_close">Mbyll</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">Zhblloko</string>
     <string name="unblock_number_ok">ZHBLLOKO</string>
     <string name="unknown">I panjohur</string>
+    <string name="unknown_caller">Telefonues i panjohur</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Urgjente! Përgjigju!</string>
     <string name="user_profile_contacts_list_header">Unë</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">Dëshiron të bisedosh?</string>
     <string name="websiteLabelsGroup">Uebsajti</string>
+    <string name="wifi_call_end_network">Lidhja e rrjetit humbi</string>
+    <string name="wifi_call_end_unanswered">Nuk ka përgjigje</string>
+    <string name="wifi_call_end_unknown">Gabim i panjohur</string>
+    <string name="wifi_call_enter_misc">Hyrja në telefonatë dështoi</string>
+    <string name="wifi_call_enter_timeout">Koha e realizimit të telefonatës mbaroi</string>
+    <string name="wifi_call_error_insufficient_funds">Fonde të pamjaftueshme</string>
+    <string name="wifi_calling_enabled_summary">Përdor Wi-Fi për telefonata kur lidhja ime është mjaft e fortë</string>
+    <string name="wifi_calling_enabled_title">Telefonatë me Wi-Fi</string>
 </resources>

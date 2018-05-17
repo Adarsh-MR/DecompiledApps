@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Särskilt datum</string>
     <string name="event_deactivated">Djurläge är inaktiverat</string>
     <string name="favorites_header">Favoriter</string>
+    <string name="feedback_action_high">Bra</string>
     <string name="feedback_action_high_v2">Bra</string>
+    <string name="feedback_action_low">Dåligt</string>
     <string name="feedback_action_low_v2">Dålig</string>
     <string name="feedback_audio_issue_echo">Den andra personen hörde eko</string>
     <string name="feedback_audio_issue_local_audio">Den andra personen hörde inte mig</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Bra samtal</string>
     <string name="feedback_call_issue_other">Något annat</string>
     <string name="feedback_call_issue_title">Vad var problemet?</string>
+    <string name="feedback_title">Hur var samtalskvaliteten?</string>
     <string name="feedback_title_v2">Hur var samtalskvaliteten i din ände?</string>
     <string name="full_name">Namn</string>
     <string name="gallery_item_description">bild den %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">bild</string>
     <string name="gallery_permission_text">Bevilja åtkomst till Media om du vill dela en bild</string>
+    <string name="gcm_fallback_notification_channel_label">Diverse</string>
     <string name="generic_conference_call_name">I samtal</string>
     <string name="ghostData_company">Företag</string>
     <string name="ghostData_title">Befattning</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Söker din plats …</string>
     <string name="location_map_description">Platskarta för nödsamtal</string>
     <string name="location_title">Ge larmtjänst pos.</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Telefon</string>
     <string name="main_call_history_tab_description">Samtalshistorik</string>
     <string name="main_help_and_feedback">Hjälp och feedback</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Anpassade sökresultat</string>
     <string name="phoneAppLabel">Telefon</string>
     <string name="phoneLabelsGroup">Telefon</string>
+    <string name="phone_account_description">Wi-Fi-samtal</string>
+    <string name="phone_account_label">Wi-Fi-samtal med Google</string>
     <string name="phone_account_settings_label">Konton för samtal</string>
     <string name="post_call_add_message">Lägg till meddelande</string>
     <string name="post_call_message">Berätta varför du ringde</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Hemligt nummer</string>
     <string name="quick_question">Snabb fråga …</string>
     <string name="received_a_photo">Tog emot ett foto</string>
+    <string name="reconnecting_via_template">Återansluter via %s</string>
     <string name="relationLabelsGroup">Relation</string>
     <string name="remove_contact">Ta bort</string>
     <string name="report_caller_id_dialog_title">Rapportera felaktigt nummer</string>
     <string name="report_caller_id_failed">Det gick inte att rapportera nummer</string>
     <string name="report_caller_id_toast">Nummer rapporterat</string>
+    <string name="request_feedback_title">Betygsätt samtal</string>
     <string name="respond_via_sms_setting_title">Snabbsvar</string>
     <string name="rtt_input_hint">Skriv ett meddelande</string>
     <string name="search_location_permission">Tillåt åtkomst till din plats om du vill få kontaktuppgifter till ställen i närheten.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Skickade ett foto</string>
     <string name="set_default_account">Använd alltid för samtal</string>
     <string name="settings">Inställningar</string>
+    <string name="settings_label">Konfigurera Wi-Fi-samtal</string>
     <string name="share_and_call">Dela och ring</string>
     <string name="simContacts_emptyLoading">Läser in från SIM-kort …</string>
     <string name="simContacts_title">Kontakter från SIM-kort</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Röstbrevlåda</string>
     <string name="terms_and_conditions_decline_dialog_title">Inaktivera visuell röstbrevlåda?</string>
     <string name="terms_of_service_label">Användarvillkor</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Telefonappen har inte skrivbehörighet i systeminställningarna.</string>
     <string name="toast_text_copied">Texten kopierad</string>
     <string name="toolbar_close">Stäng</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Återaktivera</string>
     <string name="unblock_number_ok">HÄV BLOCKERINGEN</string>
     <string name="unknown">Okänd</string>
+    <string name="unknown_caller">Okänt nummer</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Viktig! Svara!</string>
     <string name="user_profile_contacts_list_header">Jag</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Vill du chatta?</string>
     <string name="websiteLabelsGroup">Webbplats</string>
+    <string name="wifi_call_end_network">Inget nätverk</string>
+    <string name="wifi_call_end_unanswered">Inget svar</string>
+    <string name="wifi_call_end_unknown">Okänt fel</string>
+    <string name="wifi_call_enter_misc">Det gick inte att delta i samtalet</string>
+    <string name="wifi_call_enter_timeout">Det tog för lång tid att upprätta samtalet</string>
+    <string name="wifi_call_error_insufficient_funds">För lågt saldo</string>
+    <string name="wifi_calling_enabled_summary">Använd Wi‑Fi till samtal när min anslutning inte är tillräckligt stark</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi-samtal</string>
 </resources>

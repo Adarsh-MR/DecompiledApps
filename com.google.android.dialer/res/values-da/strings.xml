@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Særlig dato</string>
     <string name="event_deactivated">Dyretilstand er slået fra</string>
     <string name="favorites_header">Foretrukne</string>
+    <string name="feedback_action_high">Godt</string>
     <string name="feedback_action_high_v2">God</string>
+    <string name="feedback_action_low">Dårligt</string>
     <string name="feedback_action_low_v2">Dårlig</string>
     <string name="feedback_audio_issue_echo">Jeg hørte ekko</string>
     <string name="feedback_audio_issue_local_audio">Den anden person kunne ikke høre mig</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Godt opkald</string>
     <string name="feedback_call_issue_other">Noget andet</string>
     <string name="feedback_call_issue_title">Hvad var problemet?</string>
+    <string name="feedback_title">Hvordan var kvaliteten af opkaldet?</string>
     <string name="feedback_title_v2">Hvordan oplevede du opkaldskvaliteten?</string>
     <string name="full_name">Navn</string>
     <string name="gallery_item_description">billede %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">billede</string>
     <string name="gallery_permission_text">Du skal give adgang til medier for at dele et billede</string>
+    <string name="gcm_fallback_notification_channel_label">Diverse</string>
     <string name="generic_conference_call_name">Opkald i gang</string>
     <string name="ghostData_company">Virksomhed</string>
     <string name="ghostData_title">Titel</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Finder placeringen…</string>
     <string name="location_map_description">Placeringskort ved nødopkald</string>
     <string name="location_title">Fortæl alarmcentralen, hvor du er</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Telefon</string>
     <string name="main_call_history_tab_description">Opkaldshistorik</string>
     <string name="main_help_and_feedback">Hjælp og feedback</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Tilpassede søgeresultater</string>
     <string name="phoneAppLabel">Opkald</string>
     <string name="phoneLabelsGroup">Opkald</string>
+    <string name="phone_account_description">Opkald via Wi-Fi</string>
+    <string name="phone_account_label">Wi-Fi-opkald med Google</string>
     <string name="phone_account_settings_label">Opkaldskonti</string>
     <string name="post_call_add_message">Tilføj besked</string>
     <string name="post_call_message">Fortæl, hvorfor du har ringet</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Privat</string>
     <string name="quick_question">Et hurtigt spørgsmål…</string>
     <string name="received_a_photo">Der blev modtaget et billede</string>
+    <string name="reconnecting_via_template">Genopretter forbindelsen via %s</string>
     <string name="relationLabelsGroup">Forhold</string>
     <string name="remove_contact">Fjern</string>
     <string name="report_caller_id_dialog_title">Rapportér forkert nummer</string>
     <string name="report_caller_id_failed">Det forkerte nummer kunne ikke rapporteres</string>
     <string name="report_caller_id_toast">Nummeret blev rapporteret</string>
+    <string name="request_feedback_title">Bedøm opkald</string>
     <string name="respond_via_sms_setting_title">Hurtige svar</string>
     <string name="rtt_input_hint">Skriv en besked</string>
     <string name="search_location_permission">Tillad adgang til din placering for at få kontaktoplysninger om steder i nærheden af dig.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Der blev sendt et billede</string>
     <string name="set_default_account">Brug altid ved opkald</string>
     <string name="settings">Indstillinger</string>
+    <string name="settings_label">Konfigurer Wi-Fi-opkald</string>
     <string name="share_and_call">Del og ring</string>
     <string name="simContacts_emptyLoading">Der indlæses fra SIM-kortet…</string>
     <string name="simContacts_title">Kontaktpersoner på SIM-kortet</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Telefonsvarer</string>
     <string name="terms_and_conditions_decline_dialog_title">Vil du deaktivere den visuelle telefonsvarer?</string>
     <string name="terms_of_service_label">Servicevilkår</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Opkaldsappen har ikke tilladelse til at ændre systemindstillinger.</string>
     <string name="toast_text_copied">Teksten blev kopieret</string>
     <string name="toolbar_close">Luk</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Fjern blokering</string>
     <string name="unblock_number_ok">FJERN BLOKERING</string>
     <string name="unknown">Ukendt</string>
+    <string name="unknown_caller">Ukendt nummer</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Det haster. Besvar opkaldet!</string>
     <string name="user_profile_contacts_list_header">Mig</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Har du lyst til at chatte?</string>
     <string name="websiteLabelsGroup">Website</string>
+    <string name="wifi_call_end_network">Netværksforbindelsen blev afbrudt</string>
+    <string name="wifi_call_end_unanswered">Intet svar</string>
+    <string name="wifi_call_end_unknown">Ukendt fejl</string>
+    <string name="wifi_call_enter_misc">Opkaldet kan ikke startes</string>
+    <string name="wifi_call_enter_timeout">Der opstod timeout ved etablering af opkaldet</string>
+    <string name="wifi_call_error_insufficient_funds">Utilstrækkelige midler</string>
+    <string name="wifi_calling_enabled_summary">Brug Wi‑Fi til opkald, når min forbindelse er stærk nok</string>
+    <string name="wifi_calling_enabled_title">Opkald via Wi-Fi</string>
 </resources>

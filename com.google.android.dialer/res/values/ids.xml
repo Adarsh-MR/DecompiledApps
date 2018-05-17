@@ -568,6 +568,14 @@
     <item type="id" name="contact_star_icon" />
     <item type="id" name="contact_tile_phone_type" />
     <item type="id" name="contact_tile_push_state" />
+    <item type="id" name="place_autocomplete_search_button" />
+    <item type="id" name="place_autocomplete_search_input" />
+    <item type="id" name="place_autocomplete_clear_button" />
+    <item type="id" name="place_autocomplete_separator" />
+    <item type="id" name="place_autocomplete_powered_by_google" />
+    <item type="id" name="place_autocomplete_progress" />
+    <item type="id" name="place_autocomplete_prediction_primary_text" />
+    <item type="id" name="place_autocomplete_prediction_secondary_text" />
     <item type="id" name="deviceid_hex_label" />
     <item type="id" name="deviceid_hex" />
     <item type="id" name="deviceid_dec_label" />

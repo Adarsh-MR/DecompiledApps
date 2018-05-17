@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">特別な日</string>
     <string name="event_deactivated">ペットモードは OFF になっています</string>
     <string name="favorites_header">お気に入り</string>
+    <string name="feedback_action_high">良い</string>
     <string name="feedback_action_high_v2">良い</string>
+    <string name="feedback_action_low">悪い</string>
     <string name="feedback_action_low_v2">悪い</string>
     <string name="feedback_audio_issue_echo">相手側でエコーが発生していた</string>
     <string name="feedback_audio_issue_local_audio">私の声が相手に聞こえなかった</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">通話品質は良好だった</string>
     <string name="feedback_call_issue_other">その他</string>
     <string name="feedback_call_issue_title">どのような問題がありましたか？</string>
+    <string name="feedback_title">通話品質はいかがでしたか？</string>
     <string name="feedback_title_v2">通話品質はいかがでしたか？</string>
     <string name="full_name">名前</string>
     <string name="gallery_item_description">画像（%1$tB %1$te %1$tY %1$tl %1$tM %1$tp）</string>
     <string name="gallery_item_description_no_date">画像</string>
     <string name="gallery_permission_text">画像を共有するには、まずメディアへのアクセスを許可してください</string>
+    <string name="gcm_fallback_notification_channel_label">その他</string>
     <string name="generic_conference_call_name">通話中</string>
     <string name="ghostData_company">会社</string>
     <string name="ghostData_title">役職</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">現在地情報を取得中…</string>
     <string name="location_map_description">緊急時の位置情報地図</string>
     <string name="location_title">緊急対応機関に伝える現在地</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">電話</string>
     <string name="main_call_history_tab_description">通話履歴</string>
     <string name="main_help_and_feedback">ヘルプとフィードバック</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">パーソナライズ検索結果</string>
     <string name="phoneAppLabel">電話</string>
     <string name="phoneLabelsGroup">電話</string>
+    <string name="phone_account_description">Wi-Fi 通話</string>
+    <string name="phone_account_label">GoogleでのWi‑Fi通話</string>
     <string name="phone_account_settings_label">通話アカウント</string>
     <string name="post_call_add_message">メッセージを追加できます</string>
     <string name="post_call_message">電話をした理由を伝えられます</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">制限されています</string>
     <string name="quick_question">聞きたいことがあります…</string>
     <string name="received_a_photo">写真を受信しました</string>
+    <string name="reconnecting_via_template">%sを使用して再接続しています</string>
     <string name="relationLabelsGroup">関係</string>
     <string name="remove_contact">削除</string>
     <string name="report_caller_id_dialog_title">間違った番号の報告</string>
     <string name="report_caller_id_failed">番号を報告できませんでした</string>
     <string name="report_caller_id_toast">番号を報告しました</string>
+    <string name="request_feedback_title">通話を評価</string>
     <string name="respond_via_sms_setting_title">クイック返信</string>
     <string name="rtt_input_hint">メッセージを入力</string>
     <string name="search_location_permission">付近の場所の連絡先情報を取得するには、位置情報へのアクセスを許可してください。</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">写真を送信しました</string>
     <string name="set_default_account">このSIMを常に通話に使用する</string>
     <string name="settings">設定</string>
+    <string name="settings_label">Wi-Fi 通話を設定</string>
     <string name="share_and_call">共有して発信</string>
     <string name="simContacts_emptyLoading">SIM カードから読み込み中…</string>
     <string name="simContacts_title">SIM カードの連絡先</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">ボイスメール</string>
     <string name="terms_and_conditions_decline_dialog_title">ビジュアル ボイスメールを無効にしますか？</string>
     <string name="terms_of_service_label">利用規約</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">電話アプリにはシステム設定への書き込み権限がありません。</string>
     <string name="toast_text_copied">テキストをコピーしました</string>
     <string name="toolbar_close">閉じる</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">ブロックを解除</string>
     <string name="unblock_number_ok">ブロックを解除</string>
     <string name="unknown">不明</string>
+    <string name="unknown_caller">発信者不明</string>
     <string name="unknown_counter" formatted="false">%s（%d）</string>
     <string name="urgent">至急応答してください。</string>
     <string name="user_profile_contacts_list_header">自分</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">チャットしましょうか？</string>
     <string name="websiteLabelsGroup">ウェブサイト</string>
+    <string name="wifi_call_end_network">ネットワーク接続が切断されました</string>
+    <string name="wifi_call_end_unanswered">応答がありません</string>
+    <string name="wifi_call_end_unknown">不明なエラー</string>
+    <string name="wifi_call_enter_misc">通話を開始できませんでした</string>
+    <string name="wifi_call_enter_timeout">タイムアウトにより通話を開始できませんでした</string>
+    <string name="wifi_call_error_insufficient_funds">残高が不足しています</string>
+    <string name="wifi_calling_enabled_summary">強度が十分な接続環境では Wi-Fi を使用して通話する</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi通話</string>
 </resources>

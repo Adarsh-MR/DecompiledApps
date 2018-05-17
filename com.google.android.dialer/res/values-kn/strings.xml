@@ -340,7 +340,9 @@
     <string name="eventLabelsGroup">ವಿಶೇಷ ದಿನಾಂಕ</string>
     <string name="event_deactivated">ಪೆಟ್ ಮೋಡ್ ಆಫ್ ಆಗಿದೆ</string>
     <string name="favorites_header">ಮೆಚ್ಚಿನವುಗಳು</string>
+    <string name="feedback_action_high">ಉತ್ತಮ</string>
     <string name="feedback_action_high_v2">ಉತ್ತಮ</string>
+    <string name="feedback_action_low">ಕಳಪೆ</string>
     <string name="feedback_action_low_v2">ಕಳಪೆ</string>
     <string name="feedback_audio_issue_echo">ಇತರ ಕಡೆಗೆ ಪ್ರತಿಧ್ವನಿಯಾಗಿ ಕೇಳಿಸುತ್ತಿದೆ</string>
     <string name="feedback_audio_issue_local_audio">ಇತರ ವ್ಯಕ್ತಿಗೆ ನನ್ನ ಧ್ವನಿ ಕೇಳುತ್ತಿಲ್ಲ</string>
@@ -355,11 +357,13 @@
     <string name="feedback_call_issue_none">ಉತ್ತಮ ಕರೆ</string>
     <string name="feedback_call_issue_other">ಬೇರೇನಾದರೂ</string>
     <string name="feedback_call_issue_title">ಸಮಸ್ಯೆ ಏನಿತ್ತು?</string>
+    <string name="feedback_title">ಕರೆಯ ಗುಣಮಟ್ಟ ಹೇಗಿತ್ತು?</string>
     <string name="feedback_title_v2">ಕರೆಯ ಗುಣಮಟ್ಟದ ಕುರಿತು ನಿಮಗೆ ಹೇಗನಿಸಿತು?</string>
     <string name="full_name">ಹೆಸರು</string>
     <string name="gallery_item_description">ಚಿತ್ರ %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">ಚಿತ್ರ</string>
     <string name="gallery_permission_text">ಚಿತ್ರವನ್ನು ಹಂಚಿಕೊಳ್ಳಲು, ಮಾಧ್ಯಮಕ್ಕೆ ಪ್ರವೇಶವನ್ನು ನೀಡಿ</string>
+    <string name="gcm_fallback_notification_channel_label">ಇತರೆ</string>
     <string name="generic_conference_call_name">ಕರೆಯಲ್ಲಿ</string>
     <string name="ghostData_company">ಕಂಪನಿ</string>
     <string name="ghostData_title">ಶೀರ್ಷಿಕೆ</string>
@@ -454,6 +458,7 @@
     <string name="location_loading">ನಿಮ್ಮ ಸ್ಥಳ ಹುಡುಕಲಾಗುತ್ತಿದೆ...</string>
     <string name="location_map_description">ತುರ್ತು ಸ್ಥಳ ನಕ್ಷೆ</string>
     <string name="location_title">ನೀವು ಎಲ್ಲಿದ್ದೀರಿ ಎನ್ನುವುದನ್ನು ತರ್ತು ಸೇವೆಗಳಿಗೆ ತಿಳಿಸಿ</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">ಫೋನ್</string>
     <string name="main_call_history_tab_description">ಕರೆ ಇತಿಹಾಸ</string>
     <string name="main_help_and_feedback">ಸಹಾಯ,ಪ್ರತಿಕ್ರಿಯೆ</string>
@@ -580,6 +585,8 @@
     <string name="personalized_results_setting_title">ವೈಯಕ್ತೀಕರಿಸಿದ ಹುಡುಕಾಟ ಫಲಿತಾಂಶಗಳು</string>
     <string name="phoneAppLabel">ಫೋನ್</string>
     <string name="phoneLabelsGroup">ಫೋನ್</string>
+    <string name="phone_account_description">ವೈ-ಫೈ ಕರೆ ಮಾಡುವಿಕೆ</string>
+    <string name="phone_account_label">Google ಮೂಲಕ ವೈ-ಫೈ ಕರೆಗಳು</string>
     <string name="phone_account_settings_label">ಕರೆ ಮಾಡುವ ಖಾತೆಗಳು</string>
     <string name="post_call_add_message">ಸಂದೇಶವನ್ನು ಸೇರಿಸಿ</string>
     <string name="post_call_message">ನೀವು ಏಕೆ ಕರೆ ಮಾಡಿರುವಿರಿ ಎಂದು ಹೇಳಿ</string>
@@ -606,11 +613,13 @@
     <string name="private_num_verizon">ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ</string>
     <string name="quick_question">ತ್ವರಿತ ಪ್ರಶ್ನೆ…</string>
     <string name="received_a_photo">ಫೋಟೋ ಸ್ವೀಕರಿಸಲಾಗಿದೆ</string>
+    <string name="reconnecting_via_template">%s ಮೂಲಕ ಮರುಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ</string>
     <string name="relationLabelsGroup">ಸಂಬಂಧ</string>
     <string name="remove_contact">ತೆಗೆದುಹಾಕು</string>
     <string name="report_caller_id_dialog_title">ತಪ್ಪಾದ ಸಂಖ್ಯೆಯನ್ನು ವರದಿಮಾಡಿ</string>
     <string name="report_caller_id_failed">ಸಂಖ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
     <string name="report_caller_id_toast">ವರದಿ ಮಾಡಲಾದ ಸಂಖ್ಯೆ</string>
+    <string name="request_feedback_title">ಕರೆಗಳನ್ನು ರೇಟ್ ಮಾಡುು</string>
     <string name="respond_via_sms_setting_title">ತ್ವರಿತ ಪ್ರತಿಕ್ರಿಯೆಗಳು</string>
     <string name="rtt_input_hint">ಸಂದೇಶವನ್ನು ಟೈಪ್‌ ಮಾಡಿ</string>
     <string name="search_location_permission">ನಿಮ್ಮ ಹತ್ತಿರದ ಸ್ಥಳಗಳಿಗಾಗಿ ಸಂಪರ್ಕ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯಲು, ನಿಮ್ಮ ಸ್ಥಳಕ್ಕೆ ಪ್ರವೇಶವನ್ನು ಅನುಮತಿಸಿ.</string>
@@ -631,6 +640,7 @@
     <string name="sent_a_photo">ಫೋಟೋ ಕಳುಹಿಸಲಾಗಿದೆ</string>
     <string name="set_default_account">ಕರೆಗಳನ್ನು ಮಾಡಲು ಯಾವಾಗಲೂ ಇದನ್ನು ಬಳಸಿ</string>
     <string name="settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="settings_label">ವೈ-ಫೈ ಕರೆಯನ್ನು ಕಾನ್ಫಿಗರ್‌ ಮಾಡಿ</string>
     <string name="share_and_call">ಹಂಚಿಕೊಳ್ಳಿ ಮತ್ತು ಕರೆ ಮಾಡಿ</string>
     <string name="simContacts_emptyLoading">ಸಿಮ್‌ ಕಾರ್ಡ್‌ನಿಂದ ಲೋಡ್‌ ಮಾಡಲಾಗುತ್ತಿದೆ…</string>
     <string name="simContacts_title">ಸಿಮ್‌ ಕಾರ್ಡ್‌ ಸಂಪರ್ಕಗಳು</string>
@@ -696,6 +706,7 @@
     <string name="tab_voicemail">ಧ್ವನಿಮೇಲ್</string>
     <string name="terms_and_conditions_decline_dialog_title">ದೃಶ್ಯ ಧ್ವನಿಮೇಲ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುವುದೇ?</string>
     <string name="terms_of_service_label">ಸೇವಾ ನಿಯಮಗಳು</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">ಸಿಸ್ಟಂ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಬರೆಯಲು ಫೋನ್ ಅಪ್ಲಿಕೇಶನ್ ಅನುಮತಿಯನ್ನು ಹೊಂದಿಲ್ಲ.</string>
     <string name="toast_text_copied">ಪಠ್ಯವನ್ನು ನಕಲಿಸಲಾಗಿದೆ</string>
     <string name="toolbar_close">ಮುಚ್ಚಿ</string>
@@ -718,6 +729,7 @@
     <string name="unblock_number">ನಿರ್ಬಂಧ ತೆಗೆಯಿರಿ</string>
     <string name="unblock_number_ok">ನಿರ್ಬಂಧ ತೆಗೆ</string>
     <string name="unknown">ಅಪರಿಚಿತ</string>
+    <string name="unknown_caller">ಅಪರಿಚಿತ ಕರೆಮಾಡುವವನು</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">ತುರ್ತು! ದಯವಿಟ್ಟು ಆಯ್ಕೆಮಾಡಿ!</string>
     <string name="user_profile_contacts_list_header">ನಾನು</string>
@@ -882,4 +894,12 @@
 "</string>
     <string name="want_to_chat">ಚಾಟ್ ಮಾಡಲು ಬಯಸುವಿರಾ?</string>
     <string name="websiteLabelsGroup">ವೆಬ್‌ಸೈಟ್</string>
+    <string name="wifi_call_end_network">ನೆಟ್‌ವರ್ಕ್ ಕಡಿತಗೊಂಡಿದೆ</string>
+    <string name="wifi_call_end_unanswered">ಯಾವುದೇ ಪ್ರತಿಕ್ರಿಯೆ ಇಲ್ಲ</string>
+    <string name="wifi_call_end_unknown">ಅಪರಿಚಿತ ದೋಷ</string>
+    <string name="wifi_call_enter_misc">ಕರೆ ಪ್ರವೇಶಿಸಲು ವಿಫಲವಾಗಿದೆ</string>
+    <string name="wifi_call_enter_timeout">ಕರೆ ಸ್ಥಾಪಿಸಲು ಸಮಯ ಮೀರಿದೆ</string>
+    <string name="wifi_call_error_insufficient_funds">ಸಾಕಷ್ಟು ಮೊತ್ತವಿಲ್ಲ</string>
+    <string name="wifi_calling_enabled_summary">ನನ್ನ ಸಂಪರ್ಕವು ಸಾಕಷ್ಟು ಪ್ರಬಲವಾಗಿದ್ದಾಗ ಕರೆಗಳಿಗೆ ವೈ-ಫೈ ಬಳಸಿ</string>
+    <string name="wifi_calling_enabled_title">ವೈ-ಫೈ ಕರೆ ಮಾಡುವಿಕೆ</string>
 </resources>

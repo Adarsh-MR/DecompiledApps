@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">სპეციალური თარიღი</string>
     <string name="event_deactivated">ზოორეჟიმი გამორთულია</string>
     <string name="favorites_header">რჩეულები</string>
+    <string name="feedback_action_high">კარგი</string>
     <string name="feedback_action_high_v2">კარგი</string>
+    <string name="feedback_action_low">ცუდი</string>
     <string name="feedback_action_low_v2">ცუდი</string>
     <string name="feedback_audio_issue_echo">მეორე მხარეს ექო ესმოდა</string>
     <string name="feedback_audio_issue_local_audio">ჩემი ხმა არ ესმოდათ</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">უხარვეზო ზარი</string>
     <string name="feedback_call_issue_other">სხვა რამ</string>
     <string name="feedback_call_issue_title">რაში იყო პრობლემა?</string>
+    <string name="feedback_title">როგორი იყო ზარის ხარისხი?</string>
     <string name="feedback_title_v2">როგორი იყო თქვენი ზარის ხარისხი?</string>
     <string name="full_name">სახელი</string>
     <string name="gallery_item_description">სურათი, %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">სურათი</string>
     <string name="gallery_permission_text">სურათის გასაზიარებლად მიეცით მედიაზე წვდომა</string>
+    <string name="gcm_fallback_notification_channel_label">სხვადასხვა</string>
     <string name="generic_conference_call_name">მონაწილეობს ზარში</string>
     <string name="ghostData_company">კომპანია</string>
     <string name="ghostData_title">პოზიცია</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">თქვენი მდებ. ძებნა…</string>
     <string name="location_map_description">გადაუდებელი ზარების დროს მდებარეობის რუკა</string>
     <string name="location_title">აცნობ.მდებ.საგ.სამს.</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">ტელეფონი</string>
     <string name="main_call_history_tab_description">ზარების ისტორია</string>
     <string name="main_help_and_feedback">დახმარება და გამოხმაურება</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">პერსონალური ძიების შედეგები</string>
     <string name="phoneAppLabel">ტელეფონი</string>
     <string name="phoneLabelsGroup">ტელეფონი</string>
+    <string name="phone_account_description">Wi-Fi დარეკვა</string>
+    <string name="phone_account_label">Wi-Fi ზარები Google-ის მეშვეობით</string>
     <string name="phone_account_settings_label">ანგარიშების გამოძახება</string>
     <string name="post_call_add_message">შეტყობინების დამატება</string>
     <string name="post_call_message">თქვით, რატომ დარეკეთ</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">შეზღუდული</string>
     <string name="quick_question">სწრაფი შეკითხვა…</string>
     <string name="received_a_photo">მიღებულია ფოტო</string>
+    <string name="reconnecting_via_template">%s-ის მეშვეობით ხელახლა დაკავშირება…</string>
     <string name="relationLabelsGroup">ურთიერთობა</string>
     <string name="remove_contact">ამოშლა</string>
     <string name="report_caller_id_dialog_title">არასწორი ნომრის შეტყობინება</string>
     <string name="report_caller_id_failed">ნომრის შეტყობინება ვერ მოხერხდა</string>
     <string name="report_caller_id_toast">ნომერი შეტყობინებულია</string>
+    <string name="request_feedback_title">ზარების შეფასება</string>
     <string name="respond_via_sms_setting_title">სწრაფი პასუხი</string>
     <string name="rtt_input_hint">აკრიფეთ შეტყობინება</string>
     <string name="search_location_permission">ახლომდებარე ადგილების საკონტაქტო ინფორმაციის მისაღებად დაუშვით წვდომა თქვენს მდებარეობაზე.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">ფოტო გაიგზავნა</string>
     <string name="set_default_account">ზარებისთვის მუდამ ამის გამოყენება</string>
     <string name="settings">პარამეტრები</string>
+    <string name="settings_label">Wi‑Fi დარეკვის კონფიგურაცია</string>
     <string name="share_and_call">გაზიარება და დარეკვა</string>
     <string name="simContacts_emptyLoading">მიმდინარეობს ჩატვირთვა SIM ბარათიდან…</string>
     <string name="simContacts_title">SIM ბარათის კონტაქტები</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">ხმოვანი ფოსტა</string>
     <string name="terms_and_conditions_decline_dialog_title">გსურთ ვიზუალური ხმოვანი ფოსტის გათიშვა?</string>
     <string name="terms_of_service_label">მომსახურების პირობები</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">ტელეფონის აპს სისტემის პარამეტრებში ჩაწერის ნებართვა არ აქვს.</string>
     <string name="toast_text_copied">ტექსტი კოპირებულია</string>
     <string name="toolbar_close">დახურვა</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">განბლოკვა</string>
     <string name="unblock_number_ok">განბლოკვა</string>
     <string name="unknown">უცნობი</string>
+    <string name="unknown_caller">აბონენტი უცნობია</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">სასწრაფოა! გთხოვთ, აიღოთ ყურმილი!</string>
     <string name="user_profile_contacts_list_header">მე</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">გსურთ ჩეთი?</string>
     <string name="websiteLabelsGroup">ვებ-საიტი</string>
+    <string name="wifi_call_end_network">ქსელთან კავშირი გაწყდა</string>
+    <string name="wifi_call_end_unanswered">პასუხი არ არის</string>
+    <string name="wifi_call_end_unknown">უცნობი შეცდომა</string>
+    <string name="wifi_call_enter_misc">ზარზე გადასვლა ვერ მოხერხდა</string>
+    <string name="wifi_call_enter_timeout">ზარის განხორციელების დრო ამოიწურა</string>
+    <string name="wifi_call_error_insufficient_funds">თანხა არასაკმარისია</string>
+    <string name="wifi_calling_enabled_summary">სუსტი კავშირისას ზარებისთვის Wi-Fi-ს გამოყენება</string>
+    <string name="wifi_calling_enabled_title">Wi-Fi დარეკვა</string>
 </resources>

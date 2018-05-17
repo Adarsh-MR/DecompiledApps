@@ -341,7 +341,9 @@
     <string name="eventLabelsGroup">תאריך מיוחד</string>
     <string name="event_deactivated">"מצב 'חיית מחמד' מושבת"</string>
     <string name="favorites_header">מועדפים</string>
+    <string name="feedback_action_high">טובה</string>
     <string name="feedback_action_high_v2">טובה</string>
+    <string name="feedback_action_low">גרועה</string>
     <string name="feedback_action_low_v2">לא טובה</string>
     <string name="feedback_audio_issue_echo">הצד השני שמע הד</string>
     <string name="feedback_audio_issue_local_audio">הצד השני לא שמע אותי</string>
@@ -356,11 +358,13 @@
     <string name="feedback_call_issue_none">איכות טובה</string>
     <string name="feedback_call_issue_other">משהו אחר</string>
     <string name="feedback_call_issue_title">מה הייתה הבעיה?</string>
+    <string name="feedback_title">מה הייתה איכות השיחה?</string>
     <string name="feedback_title_v2">מה הייתה איכות השיחה בצד שלך?</string>
     <string name="full_name">שם</string>
     <string name="gallery_item_description">תמונה %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">תמונה</string>
     <string name="gallery_permission_text">כדי שתוכל לשתף תמונות עליך להעניק לאפליקציה גישה למדיה</string>
+    <string name="gcm_fallback_notification_channel_label">שונות</string>
     <string name="generic_conference_call_name">בשיחה</string>
     <string name="ghostData_company">חברה</string>
     <string name="ghostData_title">תפקיד</string>
@@ -455,6 +459,7 @@
     <string name="location_loading">אנחנו מאתרים את המיקום שלך…</string>
     <string name="location_map_description">מפת מיקום לשיחות חירום</string>
     <string name="location_title">אני רוצה לומר לשירותי החירום איפה אני</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">טלפון</string>
     <string name="main_call_history_tab_description">היסטוריית שיחות</string>
     <string name="main_help_and_feedback">עזרה ומשוב</string>
@@ -581,6 +586,8 @@
     <string name="personalized_results_setting_title">תוצאות חיפוש בהתאמה אישית</string>
     <string name="phoneAppLabel">טלפון</string>
     <string name="phoneLabelsGroup">טלפון</string>
+    <string name="phone_account_description">‏שיחות Wi-Fi</string>
+    <string name="phone_account_label">‏שיחות Wi-Fi באמצעות Google</string>
     <string name="phone_account_settings_label">חשבונות לביצוע שיחות</string>
     <string name="post_call_add_message">הוסף הודעה</string>
     <string name="post_call_message">ספר למה התקשרת</string>
@@ -607,11 +614,13 @@
     <string name="private_num_verizon">מספר חסום</string>
     <string name="quick_question">שאלה קצרה…</string>
     <string name="received_a_photo">התקבלה תמונה</string>
+    <string name="reconnecting_via_template">מתחבר מחדש באמצעות %s</string>
     <string name="relationLabelsGroup">קשר</string>
     <string name="remove_contact">הסר</string>
     <string name="report_caller_id_dialog_title">דיווח על מספר שגוי</string>
     <string name="report_caller_id_failed">לא ניתן היה לדווח על המספר</string>
     <string name="report_caller_id_toast">המספר דווח</string>
+    <string name="request_feedback_title">דירוג שיחות</string>
     <string name="respond_via_sms_setting_title">תגובות מהירות</string>
     <string name="rtt_input_hint">מה רצית להגיד?</string>
     <string name="search_location_permission">יש לאשר לאפליקציה גישה למיקום שלך כדי לקבל את הפרטים ליצירת קשר של מקומות בסביבה.</string>
@@ -632,6 +641,7 @@
     <string name="sent_a_photo">נשלחה תמונה</string>
     <string name="set_default_account">השתמש תמיד עבור שיחות</string>
     <string name="settings">הגדרות</string>
+    <string name="settings_label">‏הגדרת שיחות Wi-Fi</string>
     <string name="share_and_call">שתף והתקשר</string>
     <string name="simContacts_emptyLoading">‏אנחנו טוענים מכרטיס ה-SIM…</string>
     <string name="simContacts_title">‏אנשי הקשר בכרטיס ה-SIM</string>
@@ -697,6 +707,7 @@
     <string name="tab_voicemail">דואר קולי</string>
     <string name="terms_and_conditions_decline_dialog_title">הדואר הקולי הוויזואלי יושבת. להמשיך?</string>
     <string name="terms_of_service_label">תנאים והגבלות</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">לאפליקציית הטלפון אין הרשאה לכתוב בהגדרות המערכת.</string>
     <string name="toast_text_copied">הטקסט הועתק</string>
     <string name="toolbar_close">סגירה</string>
@@ -719,6 +730,7 @@
     <string name="unblock_number">ביטול החסימה</string>
     <string name="unblock_number_ok">ביטול חסימה</string>
     <string name="unknown">לא ידוע</string>
+    <string name="unknown_caller">משתמש לא מזוהה</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">זה דחוף! ענה בבקשה!</string>
     <string name="user_profile_contacts_list_header">אני</string>
@@ -883,4 +895,12 @@
 "</string>
     <string name="want_to_chat">"רוצה לשוחח בצ'אט?"</string>
     <string name="websiteLabelsGroup">אתר</string>
+    <string name="wifi_call_end_network">החיבור לרשת נותק</string>
+    <string name="wifi_call_end_unanswered">אין תשובה</string>
+    <string name="wifi_call_end_unknown">שגיאה לא ידועה</string>
+    <string name="wifi_call_enter_misc">השיחה הנכנסת נכשלה</string>
+    <string name="wifi_call_enter_timeout">תם משך הזמן שהוקצב ליצירת השיחה</string>
+    <string name="wifi_call_error_insufficient_funds">אין מספיק כסף</string>
+    <string name="wifi_calling_enabled_summary">‏השתמש ברשת Wi‑Fi לשיחות כאשר הקליטה מספיק חזקה</string>
+    <string name="wifi_calling_enabled_title">‏שיחות Wi-Fi</string>
 </resources>

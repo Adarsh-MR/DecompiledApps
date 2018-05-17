@@ -342,7 +342,9 @@
     <string name="eventLabelsGroup">Speciale datum</string>
     <string name="event_deactivated">Huisdiermodus uit</string>
     <string name="favorites_header">Favorieten</string>
+    <string name="feedback_action_high">Goed</string>
     <string name="feedback_action_high_v2">Goed</string>
+    <string name="feedback_action_low">Slecht</string>
     <string name="feedback_action_low_v2">Slecht</string>
     <string name="feedback_audio_issue_echo">De andere persoon hoorde echo</string>
     <string name="feedback_audio_issue_local_audio">De andere persoon kon mij niet horen</string>
@@ -357,11 +359,13 @@
     <string name="feedback_call_issue_none">Goede gesprekskwaliteit</string>
     <string name="feedback_call_issue_other">Iets anders</string>
     <string name="feedback_call_issue_title">Wat was het probleem?</string>
+    <string name="feedback_title">Hoe was de gesprekskwaliteit?</string>
     <string name="feedback_title_v2">Hoe was de gesprekskwaliteit voor jou?</string>
     <string name="full_name">Naam</string>
     <string name="gallery_item_description">afbeelding van %1$tB %1$te %1$tY %1$tl %1$tM %1$tp</string>
     <string name="gallery_item_description_no_date">afbeelding</string>
     <string name="gallery_permission_text">Verleen toegang tot Media om een afbeelding te delen</string>
+    <string name="gcm_fallback_notification_channel_label">Overige</string>
     <string name="generic_conference_call_name">In gesprek</string>
     <string name="ghostData_company">Bedrijf</string>
     <string name="ghostData_title">Titel</string>
@@ -456,6 +460,7 @@
     <string name="location_loading">Je locatie zoeken…</string>
     <string name="location_map_description">Locatiekaart bij noodoproepen</string>
     <string name="location_title">Laat hulpdiensten weten waar je bent</string>
+    <string name="lte_call_template">%s LTE</string>
     <string name="main_activity_label">Bellen</string>
     <string name="main_call_history_tab_description">Oproepgeschiedenis</string>
     <string name="main_help_and_feedback">Help en feedback</string>
@@ -582,6 +587,8 @@
     <string name="personalized_results_setting_title">Gepersonaliseerde zoekresultaten</string>
     <string name="phoneAppLabel">Telefoon</string>
     <string name="phoneLabelsGroup">Telefoon</string>
+    <string name="phone_account_description">Bellen via wifi</string>
+    <string name="phone_account_label">Bellen via wifi met Google</string>
     <string name="phone_account_settings_label">Oproepaccounts</string>
     <string name="post_call_add_message">Bericht toevoegen</string>
     <string name="post_call_message">Vertel waarom je hebt gebeld</string>
@@ -608,11 +615,13 @@
     <string name="private_num_verizon">Beperkt</string>
     <string name="quick_question">Snelle vraag…</string>
     <string name="received_a_photo">Foto ontvangen</string>
+    <string name="reconnecting_via_template">Opnieuw verbinden via %s</string>
     <string name="relationLabelsGroup">Relatie</string>
     <string name="remove_contact">Verwijderen</string>
     <string name="report_caller_id_dialog_title">Incorrect nummer melden</string>
     <string name="report_caller_id_failed">Kan nummer niet melden</string>
     <string name="report_caller_id_toast">Nummer gemeld</string>
+    <string name="request_feedback_title">Oproepen beoordelen</string>
     <string name="respond_via_sms_setting_title">Snelle reacties</string>
     <string name="rtt_input_hint">Typ een bericht</string>
     <string name="search_location_permission">Verleen toegang tot je locatie om contactgegevens te ontvangen voor plaatsen bij jou in de buurt.</string>
@@ -633,6 +642,7 @@
     <string name="sent_a_photo">Foto verzonden</string>
     <string name="set_default_account">Altijd gebruiken voor oproepen</string>
     <string name="settings">Instellingen</string>
+    <string name="settings_label">Bellen via wifi configureren</string>
     <string name="share_and_call">Delen en bellen</string>
     <string name="simContacts_emptyLoading">Laden vanaf simkaart…</string>
     <string name="simContacts_title">Contacten op simkaart</string>
@@ -698,6 +708,7 @@
     <string name="tab_voicemail">Voicemail</string>
     <string name="terms_and_conditions_decline_dialog_title">Visuele voicemail uitschakelen?</string>
     <string name="terms_of_service_label">Servicevoorwaarden</string>
+    <string name="three_g_call_template">%s 3G</string>
     <string name="toast_cannot_write_system_settings">Telefoon-app heeft geen toestemming om systeeminstellingen te schrijven.</string>
     <string name="toast_text_copied">Tekst gekopieerd</string>
     <string name="toolbar_close">Sluiten</string>
@@ -720,6 +731,7 @@
     <string name="unblock_number">Blokkeren opheffen</string>
     <string name="unblock_number_ok">BLOKKERING OPHEFFEN</string>
     <string name="unknown">Onbekend</string>
+    <string name="unknown_caller">Onbekende beller</string>
     <string name="unknown_counter" formatted="false">%s %d</string>
     <string name="urgent">Dit is dringend! Neem alsjeblieft op.</string>
     <string name="user_profile_contacts_list_header">Ik</string>
@@ -884,4 +896,12 @@
 "</string>
     <string name="want_to_chat">Wil je chatten?</string>
     <string name="websiteLabelsGroup">Website</string>
+    <string name="wifi_call_end_network">Netwerkverbinding verbroken</string>
+    <string name="wifi_call_end_unanswered">Geen reactie</string>
+    <string name="wifi_call_end_unknown">Onbekende fout</string>
+    <string name="wifi_call_enter_misc">Kan oproep niet openen</string>
+    <string name="wifi_call_enter_timeout">Time-out opgetreden voor tot stand brengen van oproep</string>
+    <string name="wifi_call_error_insufficient_funds">Onvoldoende saldo</string>
+    <string name="wifi_calling_enabled_summary">Wifi gebruiken voor oproepen wanneer mijn verbinding sterk genoeg is</string>
+    <string name="wifi_calling_enabled_title">Bellen via wifi</string>
 </resources>

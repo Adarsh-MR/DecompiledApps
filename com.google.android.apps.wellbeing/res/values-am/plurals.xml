@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">%d ጊዜዎች ተከፍቷል</item>
+        <item quantity="one">%d ጊዜዎች ተከፍቷል</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">ለ%1$s የመተግበሪያ ሰዓት ቆጣሪ አቀናብረዋል</item>
+        <item quantity="one">ለ%1$s የመተግበሪያ ሰዓት ቆጣሪ አቀናብረዋል</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">%d ደቂቃዎች ቀርተዋል</item>
+        <item quantity="one">%d ደቂቃዎች ቀርተዋል</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">በ%2$s እና %3$s መካከል %1$d ጊዜ ተከፍተዋል</item>
+        <item quantity="one">በ%2$s እና %3$s መካከል %1$d ጊዜ ተከፍተዋል</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">፣ በ%2$s እና %3$s መካከል %1$d ጊዜ</item>
+        <item quantity="one">፣ በ%2$s እና %3$s መካከል %1$d ጊዜ</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">፣ በ%2$s እና %3$s መካከል %1$d ጊዜ</item>
+        <item quantity="one">፣ በ%2$s እና %3$s መካከል %1$d ጊዜ</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">%d ማሳወቂያዎች ደርሰዋል</item>
+        <item quantity="one">%d ማሳወቂያዎች ደርሰዋል</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">%d የመተግበሪያ ሰዓት ቆጣሪዎች ተቀናብረዋል</item>
+        <item quantity="one">%d የመተግበሪያ ሰዓት ቆጣሪዎች ተቀናብረዋል</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">ማሳወቂያዎች</item>
+        <item quantity="one">ማሳወቂያዎች</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">%d መከፈቶች</item>
+        <item quantity="one">%d መከፈቶች</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">መክፈቶች</item>
+        <item quantity="one">መክፈቶች</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d ሰዓቶች</item>
+        <item quantity="one">%d ሰዓቶች</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d ደቂቃዎች</item>
+        <item quantity="one">%d ደቂቃዎች</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d ማሳወቂያዎች</item>
+        <item quantity="one">%d ማሳወቂያዎች</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">በ%2$s እና %3$s መካከል %1$d ማሳወቂያዎች ደርሰዋል</item>
+        <item quantity="one">በ%2$s እና %3$s መካከል %1$d ማሳወቂያዎች ደርሰዋል</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">፣ በ%2$s እና %3$s መካከል %1$d ማሳወቂያዎች</item>
+        <item quantity="one">፣ በ%2$s እና %3$s መካከል %1$d ማሳወቂያዎች</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">፣ እና በ%2$s እና %3$s መካከል %1$d ማሳወቂያዎች</item>
+        <item quantity="one">፣ እና በ%2$s እና %3$s መካከል %1$d ማሳወቂያዎች</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d ቀኖች</item>
+        <item quantity="one">%d ቀኖች</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d ሰዓቶች</item>
+        <item quantity="one">%d ሰዓቶች</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d ደቂቃዎች</item>
+        <item quantity="one">%d ደቂቃዎች</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d ሰዓ</item>
+        <item quantity="one">%d ሰዓ</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d ደቂቃ</item>
+        <item quantity="one">%d ደቂቃ</item>
+    </plurals>
+    <plurals name="short_num_days">
+        <item quantity="other">%d ቀ</item>
+        <item quantity="one">%d ቀ</item>
+    </plurals>
+    <plurals name="short_num_days_ago">
+        <item quantity="other">ከ%dቀ በፊት</item>
+        <item quantity="one">ከ%dቀ በፊት</item>
+    </plurals>
+    <plurals name="short_num_hours">
+        <item quantity="other">%d ሰ</item>
+        <item quantity="one">%d ሰ</item>
+    </plurals>
+    <plurals name="short_num_hours_ago">
+        <item quantity="other">ከ%dሰ በፊት</item>
+        <item quantity="one">ከ%dሰ በፊት</item>
+    </plurals>
+    <plurals name="short_num_minutes">
+        <item quantity="other">%d ደ</item>
+        <item quantity="one">%d ደ</item>
+    </plurals>
+    <plurals name="short_num_minutes_ago">
+        <item quantity="other">ከ%dደ በፊት</item>
+        <item quantity="one">ከ%dደ በፊት</item>
+    </plurals>
+    <plurals name="short_num_seconds">
+        <item quantity="other">%d ሴ</item>
+        <item quantity="one">%d ሴ</item>
+    </plurals>
+    <plurals name="short_num_weeks">
+        <item quantity="other">%d ሳ</item>
+        <item quantity="one">%d ሳ</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">ሁሉንም %d መተግበሪያዎች አሳይ</item>
+        <item quantity="one">ሁሉንም %d መተግበሪያዎች አሳይ</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d ማሳወቂያዎች</item>
+        <item quantity="one">%d ማሳወቂያዎች</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d ይከፍታል</item>
+        <item quantity="one">%d ይከፍታል</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">%d ሳምንታት በፊት</item>
+        <item quantity="one">%d ሳምንታት በፊት</item>
+    </plurals>
+</resources>

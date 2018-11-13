@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_grayscale__34__0" android:duration="1000" android:startOffset="0" android:propertyName="translateXY" android:pathData="M 92,222.5C 92,202.5 92,122.5 92,102.5" android:propertyXName="translateX" android:propertyYName="translateY" />
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_grayscale__34__1" android:duration="1850" android:startOffset="1000" android:propertyName="translateXY" android:pathData="M 92,102.5C 92,102.5 92,102.5 92,102.5" android:propertyXName="translateX" android:propertyYName="translateY" />
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_grayscale__34__2" android:duration="1000" android:startOffset="2850" android:propertyName="translateXY" android:pathData="M 92,102.5C 92,84.3333339691162 92,11.6666660308838 92,-6.5" android:propertyXName="translateX" android:propertyYName="translateY" />
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_grayscale__34__3" android:duration="1000" android:startOffset="3850" android:propertyName="translateXY" android:pathData="M 92,-6.5C 92,-6.5 92,-6.5 92,-6.5" android:propertyXName="translateX" android:propertyYName="translateY" />
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_grayscale__34__4" android:duration="1000" android:startOffset="4850" android:propertyName="translateXY" android:pathData="M 92,-6.5C 92,31.6666679382324 92,184.3333320617676 92,222.5" android:propertyXName="translateX" android:propertyYName="translateY" />
+</set>

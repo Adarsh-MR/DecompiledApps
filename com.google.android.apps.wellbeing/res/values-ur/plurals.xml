@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">%d مرتبہ کھولا گيا</item>
+        <item quantity="one">%d مرتبہ کھولا گيا</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">آپ نے %1$s کے لیے ایپ ٹائمر سیٹ کیا ہے</item>
+        <item quantity="one">باقی دنوں کے لیے %1$s کو موقوف کر دیا جائے گا</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">%d منٹ باقی ہے</item>
+        <item quantity="one">%d منٹ باقی ہے</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">%2$s اور %3$s کے درمیان %1$d بار کھلی</item>
+        <item quantity="one">%2$s اور %3$s کے درمیان %1$d بار کھلی</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">، %2$s اور %3$s کے درمیان %1$d بار</item>
+        <item quantity="one">، %2$s اور %3$s کے درمیان %1$d بار</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">، %2$s اور %3$s کے درمیان %1$d بار</item>
+        <item quantity="one">، %2$s اور %3$s کے درمیان %1$d بار</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">%d اطلاعات موصول ہوئیں</item>
+        <item quantity="one">%d اطلاع موصول ہوئی</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">%d ایپ ٹائمرز سیٹ ہیں</item>
+        <item quantity="one">1 ایپ ٹائمر سیٹ ہے</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">اطلاعات</item>
+        <item quantity="one">اطلاع</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">%d مرتبہ غیر مقفل ہوا</item>
+        <item quantity="one">%d مرتبہ غیر مقفل ہوا</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">بار آلہ غیر مقفل کیا</item>
+        <item quantity="one">بار آلہ غیر مقفل کیا</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d گھنٹے</item>
+        <item quantity="one">%d گھنٹہ</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d منٹ</item>
+        <item quantity="one">%d منٹ</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d اطلاعات</item>
+        <item quantity="one">%d اطلاع</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">%2$s اور %3$s کے درمیان %1$d اطلاعات موصول ہوئیں</item>
+        <item quantity="one">%2$s اور %3$s کے درمیان %1$d اطلاع موصول ہوئی</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">، %2$s اور %3$s کے درمیان %1$d اطلاعات</item>
+        <item quantity="one">، %2$s اور %3$s کے درمیان %1$d اطلاع</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">، اور %2$s اور %3$s کے درمیان %1$d اطلاعات</item>
+        <item quantity="one">، اور %2$s اور %3$s کے درمیان %1$d اطلاع</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d دن</item>
+        <item quantity="one">%d دن</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d گھنٹے</item>
+        <item quantity="one">%d گھنٹہ</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d منٹ</item>
+        <item quantity="one">%d منٹ</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d گھنٹے</item>
+        <item quantity="one">%d گھنٹہ</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d منٹ</item>
+        <item quantity="one">%d منٹ</item>
+    </plurals>
+    <plurals name="short_num_days">
+        <item quantity="other">%d دن</item>
+        <item quantity="one">%d دن</item>
+    </plurals>
+    <plurals name="short_num_days_ago">
+        <item quantity="other">%dدنوں پہلے</item>
+        <item quantity="one">%dدن پہلے</item>
+    </plurals>
+    <plurals name="short_num_hours">
+        <item quantity="other">%d گھنٹے</item>
+        <item quantity="one">%d گھنٹہ</item>
+    </plurals>
+    <plurals name="short_num_hours_ago">
+        <item quantity="other">%dگھنٹے پہلے</item>
+        <item quantity="one">%dگھنٹہ پہلے</item>
+    </plurals>
+    <plurals name="short_num_minutes">
+        <item quantity="other">%d منٹ</item>
+        <item quantity="one">%d منٹ</item>
+    </plurals>
+    <plurals name="short_num_minutes_ago">
+        <item quantity="other">%dمنٹ پہلے</item>
+        <item quantity="one">%dمنٹ پہلے</item>
+    </plurals>
+    <plurals name="short_num_seconds">
+        <item quantity="other">%d سیکنڈ</item>
+        <item quantity="one">%d سیکنڈ</item>
+    </plurals>
+    <plurals name="short_num_weeks">
+        <item quantity="other">%d ہفتے</item>
+        <item quantity="one">%d ہفتہ</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">سبھی %d ایپس دکھائیں</item>
+        <item quantity="one">%d ایپ دکھائیں</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d اطلاعات</item>
+        <item quantity="one">%d اطلاع</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d بار کھولا گیا</item>
+        <item quantity="one">%d بار کھولا گیا</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">%d ہفتے پہلے</item>
+        <item quantity="one">%d ہفتہ پہلے</item>
+    </plurals>
+</resources>

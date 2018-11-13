@@ -1,0 +1,55 @@
+11:11365 Abseil
+11416:10695 Android Annotations Support Library
+22147:11344 Android Architecture Components
+33540:11344 Android Architecture Components Core Library
+44938:11344 Android Architecture Components Lifecycle Library
+56344:11344 Android Architecture Components Lifecycle Runtime Library
+67723:10695 Android Compat Support Library
+78455:10695 Android Compatibility Library v4
+89187:10695 Android Compatibility Library v7
+99928:10694 Android Constraint Layout Support Library
+110658:10695 Android Core UI Support Library
+121392:10691 Android Core Utils Support Library
+132118:10695 Android Design Support Library
+142851:10695 Android Fragments Support Library
+153583:10695 Android Graphics Support Library
+164319:10691 Android Media Compat Support Library
+175047:10695 Android Multidex Support Library
+185781:10691 Android Transition Support Library
+196527:10693 Compatibility Libraries for Android Slice Builders
+207271:10693 Compatibility Libraries for Android Slice Core
+218025:10693 Compatibility Libraries for Android asynclayoutinflater.
+228771:10693 Compatibility Libraries for Android collections.
+239523:10693 Compatibility Libraries for Android coordinatorlayout.
+250271:10693 Compatibility Libraries for Android cursoradapter.
+261016:10693 Compatibility Libraries for Android customview.
+271763:10693 Compatibility Libraries for Android documentfile.
+282510:10693 Compatibility Libraries for Android drawerlayout.
+293257:10693 Compatibility Libraries for Android interpolator.
+303998:10693 Compatibility Libraries for Android loader.
+314754:10693 Compatibility Libraries for Android localbroadcastmanager.
+325494:10693 Compatibility Libraries for Android print.
+336246:10693 Compatibility Libraries for Android slidingpanelayout.
+346999:10695 Compatibility Libraries for Android support-slices_core
+357754:10693 Compatibility Libraries for Android swiperefreshlayout.
+368498:10693 Compatibility Libraries for Android viewpager.
+379202:11358 Dagger
+390576:11357 Error Prone
+401949:11358 Google Auto
+413322:11358 Guava JDK5
+424695:11362 Guava JDK7
+436068:11358 J2ObjC
+447438:11358 JSR 250
+458808:11365 JSR 330
+470209:11358 Material Components for Android
+481576:10219 ahat
+491822:11358 firebase_jobdispatcher
+503192:11358 flexbox
+514565:11358 safeparcel
+525939:16013 Android SDK
+541971:1096 Animal Sniffer
+543079:1602 JSR 305
+544699:1732 Protobuf Nano
+546465:1846 Checker Framework Annotations
+548321:4771 Glide
+553103:39794 Cronet

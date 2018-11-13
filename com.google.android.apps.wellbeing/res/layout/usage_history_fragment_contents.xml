@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/dashboard_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="64.0dip" android:paddingVertical="16.0dip">
+        <TextView android:textAppearance="?textAppearanceHeadline3" android:textColor="@color/google_blue600" android:id="@id/usage_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingHorizontal="8.0dip" android:paddingVertical="4.0dip" />
+        <TextView android:textAppearance="?textAppearanceHeadline3" android:textColor="@color/google_blue600" android:id="@id/usage_unavailable_label" android:background="?selectableItemBackground" android:focusable="true" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/usage_unavailable_label" android:drawablePadding="6.0dip" android:drawableEnd="@drawable/quantum_ic_info_outline_grey600_18" android:paddingHorizontal="8.0dip" android:paddingVertical="4.0dip" />
+        <TextView android:textAppearance="?textAppearanceSubhead2" android:textColor="@color/secondary_grey" android:id="@id/date_label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="8.0dip" />
+    </LinearLayout>
+    <com.google.android.apps.wellbeing.layoutdirection.RtlAwareViewPager android:id="@id/view_pager" android:layout_width="fill_parent" android:layout_height="@dimen/bar_chart_height" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingTop="@dimen/default_margin" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <android.support.design.button.MaterialButton android:id="@id/chevron_previous" android:visibility="invisible" android:contentDescription="@string/chevron_previous_description" app:icon="@drawable/quantum_ic_chevron_left_grey600_24" style="@style/Widget.Wellbeing.ChevronButton" />
+        <TextView android:textAppearance="?textAppearanceBody1" android:gravity="center" android:id="@id/date_selection_label" android:layout_width="200.0dip" android:layout_height="wrap_content" android:paddingVertical="@dimen/default_margin" />
+        <android.support.design.button.MaterialButton android:id="@id/chevron_next" android:visibility="invisible" android:contentDescription="@string/chevron_next_description" app:icon="@drawable/quantum_ic_chevron_right_grey600_24" style="@style/Widget.Wellbeing.ChevronButton" />
+    </LinearLayout>
+</LinearLayout>

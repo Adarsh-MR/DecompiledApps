@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout android:id="@id/wind_down_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v4.widget.NestedScrollView android:orientation="vertical" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fillViewport="true" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/enable_wind_down" android:background="@color/secondary_grey" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/settings_side_margin" android:paddingEnd="@dimen/default_screen_margin">
+                <TextView android:textAppearance="@style/TextAppearance.Switch" android:textSize="18.0sp" android:textColor="@color/google_white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/enable_wind_down_title" android:paddingVertical="18.0dip" />
+                <Switch android:theme="@style/Widget.SwitchBar.Switch" android:gravity="end|center" android:id="@id/switch_wind_down" android:layout_width="0.0dip" android:layout_height="wrap_content" android:checked="true" android:layout_weight="1.0" />
+            </LinearLayout>
+            <include android:visibility="gone" layout="@layout/wind_down_screen_disabled" />
+            <include android:visibility="gone" layout="@layout/wind_down_screen_enabled" />
+            <View android:background="@color/tertiary_grey" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/set_night_light_schedule" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingVertical="20.0dip">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/quantum_ic_nightlight_round_grey600_24" android:importantForAccessibility="no" android:paddingHorizontal="@dimen/default_screen_margin" />
+                <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <TextView android:textAppearance="?textAppearanceBody1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/night_light_item_label" />
+                    <TextView android:textAppearance="?textAppearanceBody2" android:textColor="@color/secondary_grey" android:id="@id/night_light_schedule_caption" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+</android.support.design.widget.CoordinatorLayout>

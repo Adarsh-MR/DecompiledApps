@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/cannot_set_limits_divider" android:background="@color/tertiary_grey" android:layout_width="fill_parent" android:layout_height="@dimen/divider_height" android:layout_marginTop="@dimen/default_margin" android:layout_marginBottom="@dimen/default_margin" />
+    <TextView android:textAppearance="?textAppearanceCaption" android:textSize="14.0sp" android:textColor="@color/secondary_grey" android:gravity="center_vertical" android:id="@id/cannot_set_limits" android:paddingBottom="@dimen/default_screen_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/cannot_set_limits_description" android:drawableLeft="@drawable/quantum_ic_info_outline_grey600_24" android:drawablePadding="20.0dip" android:paddingHorizontal="28.0dip" />
+</LinearLayout>

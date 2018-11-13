@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/app_icon" android:layout_width="@dimen/app_icon_width" android:layout_height="@dimen/app_icon_height" android:importantForAccessibility="no" />
+    <Space android:layout_width="@dimen/default_margin" android:layout_height="fill_parent" />
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_weight="1.0">
+        <TextView android:textAppearance="?textAppearanceBody1" android:ellipsize="end" android:id="@id/app_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        <TextView android:textAppearance="?textAppearanceCaption" android:id="@id/app_time" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <TextView android:textAppearance="?textAppearanceCaption" android:textSize="14.0sp" android:textColor="@color/secondary_grey" android:layout_gravity="center" android:id="@id/limit_not_allowed_button" android:background="?selectableItemBackground" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/no_limit" android:drawablePadding="15.0dip" android:contentDescription="@string/limit_not_allowed_button_description" android:drawableEnd="@drawable/quantum_ic_info_outline_grey600_18" android:paddingHorizontal="@dimen/default_margin" android:paddingVertical="18.0dip" />
+    <TextView android:textAppearance="?textAppearanceCaption" android:textSize="14.0sp" android:textColor="@color/secondary_grey" android:gravity="center" android:id="@id/limit_button" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawablePadding="@dimen/default_list_item_margin" android:drawableEnd="@drawable/quantum_ic_arrow_drop_down_grey600_24" android:paddingHorizontal="@dimen/default_margin" android:paddingVertical="15.0dip" />
+</merge>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/turn_off_usage_access" android:menuCategory="alternative" android:orderInCategory="100" android:title="@string/turn_off_usage_access" />
+    <item android:id="@id/open_source_licenses" android:menuCategory="alternative" android:orderInCategory="100" android:title="@string/open_source_licenses" />
+    <item android:id="@id/send_feedback_item" android:menuCategory="alternative" android:orderInCategory="100" android:title="@string/send_feedback_title" />
+    <item android:id="@id/privacy_policy_item" android:menuCategory="alternative" android:orderInCategory="100" android:title="@string/privacy_policy_title" />
+    <item android:id="@id/terms_of_service_item" android:menuCategory="alternative" android:orderInCategory="100" android:title="@string/terms_of_service_title" />
+</menu>

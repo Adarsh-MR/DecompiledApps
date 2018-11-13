@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">Spustená %d-krát</item>
+        <item quantity="one">Spustená %d-krát</item>
+        <item quantity="few">Spustená %d-krát</item>
+        <item quantity="many">Opened %d times</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">Pre aplikáciu %1$s ste nastavili časovač aplikácie</item>
+        <item quantity="one">Aplikácia %1$s bude pozastavená po zvyšok dňa</item>
+        <item quantity="few">Pre aplikáciu %1$s ste nastavili časovač aplikácie</item>
+        <item quantity="many">Pre aplikáciu %1$s ste nastavili časovač aplikácie</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">Zostáva %d minút</item>
+        <item quantity="one">Zostáva %d minúta</item>
+        <item quantity="few">Zostávajú %d minúty</item>
+        <item quantity="many">Zostáva %d minúty</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">Spustená %1$d-krát v čase od %2$s do %3$s</item>
+        <item quantity="one">Spustená %1$d-krát v čase od %2$s do %3$s</item>
+        <item quantity="few">Spustená %1$d-krát v čase od %2$s do %3$s</item>
+        <item quantity="many">Spustená %1$d-krát v čase od %2$s do %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">, %1$d-krát v čase od %2$s do %3$s</item>
+        <item quantity="one">, %1$d-krát v čase od %2$s do %3$s</item>
+        <item quantity="few">, %1$d-krát v čase od %2$s do %3$s</item>
+        <item quantity="many">, %1$d-krát v čase od %2$s do %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">a %1$d-krát v čase od %2$s do %3$s</item>
+        <item quantity="one">a %1$d-krát v čase od %2$s do %3$s</item>
+        <item quantity="few">a %1$d-krát v čase od %2$s do %3$s</item>
+        <item quantity="many">a %1$d-krát v čase od %2$s do %3$s</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">Bolo prijatých %d upozornení</item>
+        <item quantity="one">Bolo prijaté %d upozornenie</item>
+        <item quantity="few">Boli prijaté %d upozornenia</item>
+        <item quantity="many">%d notifications received</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">Bolo nastavených %d časovačov aplikácie</item>
+        <item quantity="one">Bol nastavený 1 časovač aplikácie</item>
+        <item quantity="few">Boli nastavené %d časovače aplikácie</item>
+        <item quantity="many">%d app timers set</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">Upozornenia</item>
+        <item quantity="one">Upozornenie</item>
+        <item quantity="few">Upozornenia</item>
+        <item quantity="many">Notifications</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">%d odomknutí</item>
+        <item quantity="one">%d odomknutie</item>
+        <item quantity="few">%d odomknutia</item>
+        <item quantity="many">%d unlocks</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">Odomknutia</item>
+        <item quantity="one">Odomknutie</item>
+        <item quantity="few">Odomknutia</item>
+        <item quantity="many">Unlocks</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d hodín</item>
+        <item quantity="one">%d hodina</item>
+        <item quantity="few">%d hodiny</item>
+        <item quantity="many">%d hodiny</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d minút</item>
+        <item quantity="one">%d minúta</item>
+        <item quantity="few">%d minúty</item>
+        <item quantity="many">%d minúty</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d upozornení</item>
+        <item quantity="one">%d upozornenie</item>
+        <item quantity="few">%d upozornenia</item>
+        <item quantity="many">%d notifications</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">V čase od %2$s do %3$s bolo prijatých %1$d upozornení</item>
+        <item quantity="one">V čase od %2$s do %3$s bolo prijaté %1$d upozornenie</item>
+        <item quantity="few">V čase od %2$s do %3$s boli prijaté %1$d upozornenia</item>
+        <item quantity="many">Received %1$d notifications between %2$s and %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">, %1$d upozornení v čase od %2$s do %3$s</item>
+        <item quantity="one">, %1$d upozornenie v čase od %2$s do %3$s</item>
+        <item quantity="few">, %1$d upozornenia v čase od %2$s do %3$s</item>
+        <item quantity="many">, %1$d notifications between %2$s and %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">a %1$d upozornení v čase od %2$s do %3$s</item>
+        <item quantity="one">a %1$d upozornenie v čase od %2$s do %3$s</item>
+        <item quantity="few">a %1$d upozornenia v čase od %2$s do %3$s</item>
+        <item quantity="many">, and %1$d notifications between %2$s and %3$s</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dní</item>
+        <item quantity="one">%d deň</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d days</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d hodín</item>
+        <item quantity="one">%d hodina</item>
+        <item quantity="few">%d hodiny</item>
+        <item quantity="many">%d hours</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minút</item>
+        <item quantity="one">%d minúta</item>
+        <item quantity="few">%d minúty</item>
+        <item quantity="many">%d mins</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+        <item quantity="few">%d h</item>
+        <item quantity="many">%d h</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+    </plurals>
+    <plurals name="short_num_days">
+        <item quantity="other">%d d.</item>
+        <item quantity="one">%d d.</item>
+        <item quantity="few">%d d.</item>
+        <item quantity="many">%d d.</item>
+    </plurals>
+    <plurals name="short_num_days_ago">
+        <item quantity="other">Pred %d dňami</item>
+        <item quantity="one">Pred %d dňom</item>
+        <item quantity="few">Pred %d dňami</item>
+        <item quantity="many">%dd ago</item>
+    </plurals>
+    <plurals name="short_num_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+        <item quantity="few">%d h</item>
+        <item quantity="many">%d h</item>
+    </plurals>
+    <plurals name="short_num_hours_ago">
+        <item quantity="other">Pred %d hodinami</item>
+        <item quantity="one">Pred %d hodinou</item>
+        <item quantity="few">Pred %d hodinami</item>
+        <item quantity="many">%dh ago</item>
+    </plurals>
+    <plurals name="short_num_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+    </plurals>
+    <plurals name="short_num_minutes_ago">
+        <item quantity="other">Pred %d minútami</item>
+        <item quantity="one">Pred %d minútou</item>
+        <item quantity="few">Pred %d minútami</item>
+        <item quantity="many">%dm ago</item>
+    </plurals>
+    <plurals name="short_num_seconds">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+        <item quantity="few">%d s</item>
+        <item quantity="many">%d s</item>
+    </plurals>
+    <plurals name="short_num_weeks">
+        <item quantity="other">%d týžd.</item>
+        <item quantity="one">%d týžd.</item>
+        <item quantity="few">%d týžd.</item>
+        <item quantity="many">%d týžd.</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">Zobraziť všetky aplikácie (%d)</item>
+        <item quantity="one">Zobraziť %d aplikáciu</item>
+        <item quantity="few">Zobraziť všetky aplikácie (%d)</item>
+        <item quantity="many">Show all %d apps</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d upozornení</item>
+        <item quantity="one">%d upozornenie</item>
+        <item quantity="few">%d upozornenia</item>
+        <item quantity="many">%d notifications</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d otvorení</item>
+        <item quantity="one">%d otvorenie</item>
+        <item quantity="few">%d otvorenia</item>
+        <item quantity="many">%d opens</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">pred %d týždňami</item>
+        <item quantity="one">pred %d týždňom</item>
+        <item quantity="few">pred %d týždňami</item>
+        <item quantity="many">pred %d týždňom</item>
+    </plurals>
+</resources>

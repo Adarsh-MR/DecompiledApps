@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">開啟次數：%d 次</item>
+        <item quantity="one">開啟次數：%d 次</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">你已為「%1$s」設定應用程式計時器</item>
+        <item quantity="one">系統將暫停「%1$s」，直到當天結束為止</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">還剩 %d 分鐘</item>
+        <item quantity="one">還剩 %d 分鐘</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">在%2$s 到%3$s 之間開啟了 %1$d 次</item>
+        <item quantity="one">在%2$s 到%3$s 之間開啟了 %1$d 次</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">，在%2$s 到%3$s 之間開啟了 %1$d 次</item>
+        <item quantity="one">，在%2$s 到%3$s 之間開啟了 %1$d 次</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">，在%2$s 到%3$s 之間則開啟了 %1$d 次</item>
+        <item quantity="one">，在%2$s 到%3$s 之間則開啟了 %1$d 次</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">已收到 %d 則通知</item>
+        <item quantity="one">已收到 %d 則通知</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">已設定 %d 個應用程式計時器</item>
+        <item quantity="one">已設定 1 個應用程式計時器</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">通知數量</item>
+        <item quantity="one">通知數量</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">解鎖次數：%d 次</item>
+        <item quantity="one">解鎖次數：%d 次</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">解鎖次數</item>
+        <item quantity="one">解鎖次數</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d 小時</item>
+        <item quantity="one">%d 小時</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d 分鐘</item>
+        <item quantity="one">%d 分鐘</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d 則通知</item>
+        <item quantity="one">%d 則通知</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">在%2$s 到%3$s 之間收到了 %1$d 則通知</item>
+        <item quantity="one">在%2$s 到%3$s 之間收到了 %1$d 則通知</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">，在%2$s 到%3$s 之間收到了 %1$d 則通知</item>
+        <item quantity="one">，在%2$s 到%3$s 之間收到了 %1$d 則通知</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">，在%2$s 到%3$s 之間則收到了 %1$d 則通知</item>
+        <item quantity="one">，在%2$s 到%3$s 之間則收到了 %1$d 則通知</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d 天</item>
+        <item quantity="one">%d 天</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d 小時</item>
+        <item quantity="one">%d 小時</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d 分鐘</item>
+        <item quantity="one">%d 分鐘</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d 小時</item>
+        <item quantity="one">%d 小時</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d 分鐘</item>
+        <item quantity="one">%d 分鐘</item>
+    </plurals>
+    <plurals name="short_num_days">
+        <item quantity="other">%d 天</item>
+        <item quantity="one">%d 天</item>
+    </plurals>
+    <plurals name="short_num_days_ago">
+        <item quantity="other">%d 天前</item>
+        <item quantity="one">%d 天前</item>
+    </plurals>
+    <plurals name="short_num_hours">
+        <item quantity="other">%d 小時</item>
+        <item quantity="one">%d 小時</item>
+    </plurals>
+    <plurals name="short_num_hours_ago">
+        <item quantity="other">%d 小時前</item>
+        <item quantity="one">%d 小時前</item>
+    </plurals>
+    <plurals name="short_num_minutes">
+        <item quantity="other">%d 分</item>
+        <item quantity="one">%d 分</item>
+    </plurals>
+    <plurals name="short_num_minutes_ago">
+        <item quantity="other">%d 分鐘前</item>
+        <item quantity="one">%d 分鐘前</item>
+    </plurals>
+    <plurals name="short_num_seconds">
+        <item quantity="other">%d 秒</item>
+        <item quantity="one">%d 秒</item>
+    </plurals>
+    <plurals name="short_num_weeks">
+        <item quantity="other">%d 週</item>
+        <item quantity="one">%d 週</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">顯示全部 %d 個應用程式</item>
+        <item quantity="one">顯示 %d 個應用程式</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d 則通知</item>
+        <item quantity="one">%d 則通知</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">開啟 %d 次</item>
+        <item quantity="one">開啟 %d 次</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">%d 週前</item>
+        <item quantity="one">%d 週前</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_timeline_dnd_to_sleep_to_wake__1__0" android:duration="1001" android:startOffset="0" android:propertyName="translateXY" android:pathData="M 476,42C 386,42 26,42 -64,42" android:propertyXName="translateX" android:propertyYName="translateY" />
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_timeline_dnd_to_sleep_to_wake__1__1" android:duration="3003" android:startOffset="1001" android:propertyName="translateXY" android:pathData="M -64,42C -64,42 -64,42 -64,42" android:propertyXName="translateX" android:propertyYName="translateY" />
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_timeline_dnd_to_sleep_to_wake__1__2" android:duration="1001" android:startOffset="4004" android:propertyName="translateXY" android:pathData="M -64,42C -154,42 -514,42 -604,42" android:propertyXName="translateX" android:propertyYName="translateY" />
+</set>

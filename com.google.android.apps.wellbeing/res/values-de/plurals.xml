@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">%d Mal geöffnet</item>
+        <item quantity="one">%d Mal geöffnet</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">Du hast einen Timer für %1$s gestellt</item>
+        <item quantity="one">%1$s wird für den Rest des Tages pausiert</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">Noch %d Minuten</item>
+        <item quantity="one">Noch %d Minute</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">%1$d-mal zwischen %2$s und %3$s geöffnet</item>
+        <item quantity="one">%1$d-mal zwischen %2$s und %3$s geöffnet</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">, %1$d-mal zwischen %2$s und %3$s</item>
+        <item quantity="one">, %1$d-mal zwischen %2$s und %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">und %1$d-mal zwischen %2$s und %3$s</item>
+        <item quantity="one">und %1$d-mal zwischen %2$s und %3$s</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">%d Benachrichtigungen erhalten</item>
+        <item quantity="one">%d Benachrichtigung erhalten</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">%d App-Timer gestellt</item>
+        <item quantity="one">1 App-Timer gestellt</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">Benachrichtigungen</item>
+        <item quantity="one">Benachrichtigung</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">%d Entsperrungen</item>
+        <item quantity="one">%d Entsperrung</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">Entsperrungen</item>
+        <item quantity="one">Entsperrung</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d Stunden</item>
+        <item quantity="one">%d Stunde</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d Minuten</item>
+        <item quantity="one">%d Minute</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d Benachrichtigungen</item>
+        <item quantity="one">%d Benachrichtigung</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">%1$d Benachrichtigungen um %2$s und %3$s</item>
+        <item quantity="one">%1$d Benachrichtigung zwischen %2$s und %3$s erhalten</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">, %1$d Benachrichtigungen zwischen %2$s und %3$s</item>
+        <item quantity="one">, %1$d Benachrichtigung zwischen %2$s und %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">und %1$d Benachrichtigungen zwischen %2$s und %3$s</item>
+        <item quantity="one">und %1$d Benachrichtigung zwischen %2$s und %3$s</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d Tage</item>
+        <item quantity="one">%d Tag</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d Stunden</item>
+        <item quantity="one">%d Stunde</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d Min.</item>
+        <item quantity="one">%d Min.</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="short_num_days">
+        <item quantity="other">%d d</item>
+        <item quantity="one">%d d</item>
+    </plurals>
+    <plurals name="short_num_days_ago">
+        <item quantity="other">Vor %d Tagen</item>
+        <item quantity="one">Vor %d Tag</item>
+    </plurals>
+    <plurals name="short_num_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="short_num_hours_ago">
+        <item quantity="other">Vor %d Std.</item>
+        <item quantity="one">Vor %d Std.</item>
+    </plurals>
+    <plurals name="short_num_minutes">
+        <item quantity="other">%d m</item>
+        <item quantity="one">%d m</item>
+    </plurals>
+    <plurals name="short_num_minutes_ago">
+        <item quantity="other">Vor %d Min.</item>
+        <item quantity="one">Vor %d Min.</item>
+    </plurals>
+    <plurals name="short_num_seconds">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+    </plurals>
+    <plurals name="short_num_weeks">
+        <item quantity="other">%d w</item>
+        <item quantity="one">%d w</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">Alle %d Apps anzeigen</item>
+        <item quantity="one">%d App anzeigen</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d Benachrichtigungen</item>
+        <item quantity="one">%d Benachrichtigung</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d Öffnungen</item>
+        <item quantity="one">%d Öffnung</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">vor %d Wochen</item>
+        <item quantity="one">vor %d Woche</item>
+    </plurals>
+</resources>

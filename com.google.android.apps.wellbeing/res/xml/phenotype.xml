@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phenotype-registrations>
+    <phenotype-registration>
+        <configuration-package>com.google.android.apps.wellbeing.device</configuration-package>
+        <log-sources>
+            <log-source>WELLBEING_ANDROID_PRIMES</log-source>
+            <log-source>WELLBEING_ANDROID</log-source>
+        </log-sources>
+    </phenotype-registration>
+</phenotype-registrations>

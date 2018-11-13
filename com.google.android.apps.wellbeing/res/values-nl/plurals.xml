@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">%d keer geopend</item>
+        <item quantity="one">%d keer geopend</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">Je hebt een app-timer ingesteld voor %1$s</item>
+        <item quantity="one">%1$s wordt gedurende de rest van de dag onderbroken</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">Nog %d minuten</item>
+        <item quantity="one">Nog %d minuut</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">%1$d keer geopend tussen %2$s en %3$s</item>
+        <item quantity="one">%1$d keer geopend tussen %2$s en %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">, %1$d keer tussen %2$s en %3$s</item>
+        <item quantity="one">, %1$d keer tussen %2$s en %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">, en %1$d keer tussen %2$s en %3$s</item>
+        <item quantity="one">, en %1$d keer tussen %2$s en %3$s</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">%d meldingen ontvangen</item>
+        <item quantity="one">%d melding ontvangen</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">%d app-timers ingesteld</item>
+        <item quantity="one">1 app-timer ingesteld</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">Meldingen</item>
+        <item quantity="one">Melding</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">%d keer ontgrendeld</item>
+        <item quantity="one">%d keer ontgrendeld</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">Ontgrendelingen</item>
+        <item quantity="one">Ontgrendeling</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">%d minuut</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d meldingen</item>
+        <item quantity="one">%d melding</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">%1$d meldingen ontvangen tussen %2$s en %3$s</item>
+        <item quantity="one">%1$d melding ontvangen tussen %2$s en %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">, %1$d meldingen tussen %2$s en %3$s</item>
+        <item quantity="one">, %1$d melding tussen %2$s en %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">, en %1$d meldingen tussen %2$s en %3$s</item>
+        <item quantity="one">, en %1$d melding tussen %2$s en %3$s</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d u</item>
+        <item quantity="one">%d u</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="short_num_days">
+        <item quantity="other">%d d.</item>
+        <item quantity="one">%d d.</item>
+    </plurals>
+    <plurals name="short_num_days_ago">
+        <item quantity="other">%d d. geleden</item>
+        <item quantity="one">%d d. geleden</item>
+    </plurals>
+    <plurals name="short_num_hours">
+        <item quantity="other">%d u.</item>
+        <item quantity="one">%d u.</item>
+    </plurals>
+    <plurals name="short_num_hours_ago">
+        <item quantity="other">%d u. geleden</item>
+        <item quantity="one">%d u. geleden</item>
+    </plurals>
+    <plurals name="short_num_minutes">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="short_num_minutes_ago">
+        <item quantity="other">%d m. geleden</item>
+        <item quantity="one">%d m. geleden</item>
+    </plurals>
+    <plurals name="short_num_seconds">
+        <item quantity="other">%d s.</item>
+        <item quantity="one">%d s.</item>
+    </plurals>
+    <plurals name="short_num_weeks">
+        <item quantity="other">%d w.</item>
+        <item quantity="one">%d w.</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">Alle %d apps weergeven</item>
+        <item quantity="one">%d app weergeven</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d meldingen</item>
+        <item quantity="one">%d melding</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d keer geopend</item>
+        <item quantity="one">%d keer geopend</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">%d weken geleden</item>
+        <item quantity="one">%d week geleden</item>
+    </plurals>
+</resources>

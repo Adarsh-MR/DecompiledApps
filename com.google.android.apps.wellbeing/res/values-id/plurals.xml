@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">Dibuka %d kali</item>
+        <item quantity="one">Dibuka %d kali</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">Anda menyetel timer aplikasi untuk %1$s</item>
+        <item quantity="one">%1$s akan dijeda seharian</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">%d menit lagi</item>
+        <item quantity="one">%d menit lagi</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">Dibuka %1$d kali antara %2$s dan %3$s</item>
+        <item quantity="one">Dibuka %1$d kali antara %2$s dan %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">, %1$d kali antara %2$s dan %3$s</item>
+        <item quantity="one">, %1$d kali antara %2$s dan %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">, dan %1$d kali antara %2$s dan %3$s</item>
+        <item quantity="one">, dan %1$d kali antara %2$s dan %3$s</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">%d notifikasi diterima</item>
+        <item quantity="one">%d notifikasi diterima</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">%d timer aplikasi disetel</item>
+        <item quantity="one">1 timer aplikasi disetel</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">Notifikasi</item>
+        <item quantity="one">Notifikasi</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">%d kali dibuka</item>
+        <item quantity="one">%d kali dibuka</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">Kali dibuka</item>
+        <item quantity="one">Kali dibuka</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d menit</item>
+        <item quantity="one">%d menit</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d notifikasi</item>
+        <item quantity="one">%d notifikasi</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">Menerima %1$d notifikasi antara %2$s dan %3$s</item>
+        <item quantity="one">Menerima %1$d notifikasi antara %2$s dan %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">, %1$d notifikasi antara %2$s dan %3$s</item>
+        <item quantity="one">, %1$d notifikasi antara %2$s dan %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">, dan %1$d notifikasi antara %2$s dan %3$s</item>
+        <item quantity="one">, dan %1$d notifikasi antara %2$s dan %3$s</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d hari</item>
+        <item quantity="one">%d hari</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d mnt</item>
+        <item quantity="one">%d mnt</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d mnt</item>
+        <item quantity="one">%d mnt</item>
+    </plurals>
+    <plurals name="short_num_days">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+    <plurals name="short_num_days_ago">
+        <item quantity="other">%dhari yang lalu</item>
+        <item quantity="one">%dhari yang lalu</item>
+    </plurals>
+    <plurals name="short_num_hours">
+        <item quantity="other">%dj</item>
+        <item quantity="one">%dj</item>
+    </plurals>
+    <plurals name="short_num_hours_ago">
+        <item quantity="other">%djam yang lalu</item>
+        <item quantity="one">%djam yang lalu</item>
+    </plurals>
+    <plurals name="short_num_minutes">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+    </plurals>
+    <plurals name="short_num_minutes_ago">
+        <item quantity="other">%dmenit yang lalu</item>
+        <item quantity="one">%dmenit yang lalu</item>
+    </plurals>
+    <plurals name="short_num_seconds">
+        <item quantity="other">%dd</item>
+        <item quantity="one">%dd</item>
+    </plurals>
+    <plurals name="short_num_weeks">
+        <item quantity="other">%dmg</item>
+        <item quantity="one">%dmg</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">Tampilkan %d aplikasi</item>
+        <item quantity="one">Tampilkan %d aplikasi</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d notifikasi</item>
+        <item quantity="one">%d notifikasi</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d terbuka</item>
+        <item quantity="one">%d terbuka</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">%d minggu yang lalu</item>
+        <item quantity="one">%d minggu yang lalu</item>
+    </plurals>
+</resources>

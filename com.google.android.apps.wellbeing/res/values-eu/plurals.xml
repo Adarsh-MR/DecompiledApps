@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">%d aldiz ireki da</item>
+        <item quantity="one">%d aldiz ireki da</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">%1$s aplikazioari tenporizadore bat ezarri diozu</item>
+        <item quantity="one">%1$s pausatuta egongo da eguna amaitu arte</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">%d minutu gelditzen dira</item>
+        <item quantity="one">%d minutu gelditzen da</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">%1$d aldiz ireki da %2$s eta %3$s artean</item>
+        <item quantity="one">%1$d aldiz ireki da %2$s eta %3$s artean</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">, %1$d aldiz %2$s eta %3$s artean</item>
+        <item quantity="one">, %1$d aldiz %2$s eta %3$s artean</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">eta %1$d aldiz %2$s eta %3$s artean</item>
+        <item quantity="one">eta %1$d aldiz %2$s eta %3$s artean</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">%d jakinarazpen jaso dira</item>
+        <item quantity="one">%d jakinarazpen jaso da</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">%d aplikazio-tenporizadore daude ezarrita</item>
+        <item quantity="one">1 aplikazio-tenporizadore dago ezarrita</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">jakinarazpen</item>
+        <item quantity="one">jakinarazpen</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">%d aldiz desblokeatu da</item>
+        <item quantity="one">%d aldiz desblokeatu da</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">desblokeatze</item>
+        <item quantity="one">desblokeatze</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d ordu</item>
+        <item quantity="one">%d ordu</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d minutu</item>
+        <item quantity="one">%d minutu</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d jakinarazpen</item>
+        <item quantity="one">%d jakinarazpen</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">%1$d jakinarazpen jaso dira %2$s eta %3$s artean</item>
+        <item quantity="one">%1$d jakinarazpen jaso da %2$s eta %3$s artean</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">, %1$d jakinarazpen jaso dira %2$s eta %3$s artean</item>
+        <item quantity="one">, %1$d jakinarazpen jaso da %2$s eta %3$s artean</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">eta %1$d jakinarazpen jaso dira %2$s eta %3$s artean</item>
+        <item quantity="one">eta %1$d jakinarazpen jaso da %2$s eta %3$s artean</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">Erakutsi %d aplikazioak</item>
+        <item quantity="one">Erakutsi %d aplikazioa</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d jakinarazpen</item>
+        <item quantity="one">%d jakinarazpen</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d aldiz irekita</item>
+        <item quantity="one">%d aldiz irekita</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">duela %d aste</item>
+        <item quantity="one">duela %d aste</item>
+    </plurals>
+</resources>

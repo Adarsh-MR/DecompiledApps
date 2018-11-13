@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/wind_down_enabled" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/set_wind_down_schedule_start" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:paddingHorizontal="@dimen/settings_side_margin" android:paddingVertical="@dimen/default_margin">
+        <TextView android:textAppearance="?textAppearanceBody1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/wind_down_start_label" />
+        <TextView android:textAppearance="?textAppearanceBody2" android:textColor="@color/secondary_grey" android:id="@id/wind_down_start_caption" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/set_wind_down_schedule_end" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:paddingHorizontal="@dimen/settings_side_margin" android:paddingVertical="@dimen/default_margin">
+        <TextView android:textAppearance="?textAppearanceBody1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/wind_down_end_label" />
+        <TextView android:textAppearance="?textAppearanceBody2" android:textColor="@color/secondary_grey" android:id="@id/wind_down_end_caption" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <TextView android:textAppearance="?textAppearanceSubhead2" android:textColor="@color/google_blue600" android:id="@id/wind_down_settings" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wind_down_settings_heading" android:paddingHorizontal="@dimen/settings_side_margin" android:paddingVertical="@dimen/default_margin" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/enable_grayscale" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingVertical="20.0dip">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/quantum_ic_tonality_grey600_24" android:importantForAccessibility="no" android:paddingHorizontal="@dimen/default_screen_margin" />
+        <TextView android:textAppearance="?textAppearanceBody1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/grayscale_item_label" />
+        <android.support.v7.widget.SwitchCompat android:gravity="end" android:id="@id/switch_grayscale" android:focusable="false" android:clickable="false" android:layout_width="0.0dip" android:layout_height="wrap_content" android:checked="true" android:layout_weight="1.0" android:paddingHorizontal="@dimen/default_screen_margin" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/enable_dnd" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingVertical="20.0dip">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/quantum_ic_do_not_disturb_on_grey600_24" android:importantForAccessibility="no" android:paddingHorizontal="@dimen/default_screen_margin" />
+        <TextView android:textAppearance="?textAppearanceBody1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dnd_item_label" />
+        <android.support.v7.widget.SwitchCompat android:gravity="end" android:id="@id/switch_dnd" android:focusable="false" android:clickable="false" android:layout_width="0.0dip" android:layout_height="fill_parent" android:checked="true" android:layout_weight="1.0" android:paddingHorizontal="@dimen/default_screen_margin" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/enable_sleep_screen" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingVertical="20.0dip">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/quantum_ic_mobile_off_grey600_24" android:importantForAccessibility="no" android:paddingHorizontal="@dimen/default_screen_margin" />
+        <TextView android:textAppearance="?textAppearanceBody1" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/sleep_screen_item_label" />
+        <android.support.v7.widget.SwitchCompat android:gravity="end" android:id="@id/switch_sleep_screen" android:layout_width="0.0dip" android:layout_height="wrap_content" android:checked="true" android:layout_weight="1.0" android:paddingHorizontal="@dimen/default_screen_margin" />
+    </LinearLayout>
+</LinearLayout>

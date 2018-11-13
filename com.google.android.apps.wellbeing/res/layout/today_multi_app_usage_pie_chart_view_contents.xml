@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.aplos.chart.pie.PieChart android:layout_gravity="center" android:id="@id/pie_chart" android:layout_width="fill_parent" android:layout_height="@dimen/pie_chart_height" />
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/pie_chart_center_labels_container" android:padding="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/content_description_for_pie_chart_center">
+        <TextView android:textAppearance="?textAppearanceHeadline5" android:layout_gravity="center" android:id="@id/total_app_usage" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textAppearance="?textAppearanceSubhead2" android:textColor="@color/pie_chart_sub_headers_color" android:id="@id/today_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/today_label" />
+    </LinearLayout>
+</merge>

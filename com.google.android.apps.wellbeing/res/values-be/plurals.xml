@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">Адкрыта %d разу</item>
+        <item quantity="one">Адкрыта %d раз</item>
+        <item quantity="few">Адкрыта %d разы</item>
+        <item quantity="many">Адкрыта %d разоў</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">Вы задалі таймер для праграмы \"%1$s\"</item>
+        <item quantity="one">Вы задалі таймер для праграмы \"%1$s\"</item>
+        <item quantity="few">Вы задалі таймер для праграмы \"%1$s\"</item>
+        <item quantity="many">Вы задалі таймер для праграмы \"%1$s\"</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">Засталося %d хвіліны</item>
+        <item quantity="one">Засталася %d хвіліна</item>
+        <item quantity="few">Засталося %d хвіліны</item>
+        <item quantity="many">Засталося %d хвілін</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">Адкрыта %1$d разу ў перыяд з %2$s да %3$s</item>
+        <item quantity="one">Адкрыта %1$d раз у перыяд з %2$s да %3$s</item>
+        <item quantity="few">Адкрыта %1$d разы ў перыяд з %2$s да %3$s</item>
+        <item quantity="many">Адкрыта %1$d разоў у перыяд з %2$s да %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">, %1$d разу ў перыяд з %2$s да %3$s</item>
+        <item quantity="one">, %1$d раз у перыяд з %2$s да %3$s</item>
+        <item quantity="few">, %1$d разы ў перыяд з %2$s да %3$s</item>
+        <item quantity="many">, %1$d разоў у перыяд з %2$s да %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">і %1$d разу ў перыяд з %2$s да %3$s</item>
+        <item quantity="one">і %1$d раз у перыяд з %2$s да %3$s</item>
+        <item quantity="few">і %1$d разы ў перыяд з %2$s да %3$s</item>
+        <item quantity="many">і %1$d разоў у перыяд з %2$s да %3$s</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">%d апавяшчэння атрымана</item>
+        <item quantity="one">%d апавяшчэнне атрымана</item>
+        <item quantity="few">%d апавяшчэнні атрыманы</item>
+        <item quantity="many">%d апавяшчэнняў атрымана</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">%d таймера праграм зададзена</item>
+        <item quantity="one">%d таймер праграм зададзены</item>
+        <item quantity="few">%d таймеры праграм зададзены</item>
+        <item quantity="many">%d таймераў праграм зададзена</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">Апавяшчэння</item>
+        <item quantity="one">Апавяшчэнне</item>
+        <item quantity="few">Апавяшчэнні</item>
+        <item quantity="many">Апавяшчэнняў</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">%d разблакіроўкі</item>
+        <item quantity="one">%d разблакіроўка</item>
+        <item quantity="few">%d разблакіроўкі</item>
+        <item quantity="many">%d разблакіровак</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">Разблакіроўкі</item>
+        <item quantity="one">Разблакіроўка</item>
+        <item quantity="few">Разблакіроўкі</item>
+        <item quantity="many">Разблакіровак</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d гадзіны</item>
+        <item quantity="one">%d гадзіна</item>
+        <item quantity="few">%d гадзіны</item>
+        <item quantity="many">%d гадзін</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d хвіліны</item>
+        <item quantity="one">%d хвіліна</item>
+        <item quantity="few">%d хвіліны</item>
+        <item quantity="many">%d хвілін</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d апавяшчэння</item>
+        <item quantity="one">%d апавяшчэнне</item>
+        <item quantity="few">%d апавяшчэнні</item>
+        <item quantity="many">%d апавяшчэнняў</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">Атрымана %1$d апавяшчэння ў перыяд з %2$s да %3$s</item>
+        <item quantity="one">Атрымана %1$d апавяшчэнне ў перыяд з %2$s да %3$s</item>
+        <item quantity="few">Атрыманы %1$d апавяшчэнні ў перыяд з %2$s да %3$s</item>
+        <item quantity="many">Атрымана %1$d апавяшчэнняў у перыяд з %2$s да %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">, %1$d апавяшчэння ў перыяд з %2$s да %3$s</item>
+        <item quantity="one">, %1$d апавяшчэнне ў перыяд з %2$s да %3$s</item>
+        <item quantity="few">, %1$d апавяшчэнні ў перыяд з %2$s да %3$s</item>
+        <item quantity="many">, %1$d апавяшчэнняў у перыяд з %2$s да %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">і %1$d апавяшчэння ў перыяд з %2$s да %3$s</item>
+        <item quantity="one">і %1$d апавяшчэнне ў перыяд з %2$s да %3$s</item>
+        <item quantity="few">і %1$d апавяшчэнні ў перыяд з %2$s да %3$s</item>
+        <item quantity="many">і %1$d апавяшчэнняў у перыяд з %2$s да %3$s</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d гадз</item>
+        <item quantity="one">%d гадз</item>
+        <item quantity="few">%d гадз</item>
+        <item quantity="many">%d гадз</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d хв</item>
+        <item quantity="one">%d хв</item>
+        <item quantity="few">%d хв</item>
+        <item quantity="many">%d хв</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">Паказаць %d праграмы</item>
+        <item quantity="one">Паказаць %d праграму</item>
+        <item quantity="few">Паказаць %d праграмы</item>
+        <item quantity="many">Паказаць %d праграм</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d апавяшчэння</item>
+        <item quantity="one">%d апавяшчэнне</item>
+        <item quantity="few">%d апавяшчэнні</item>
+        <item quantity="many">%d апавяшчэнняў</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d запуску</item>
+        <item quantity="one">%d запуск</item>
+        <item quantity="few">%d запускі</item>
+        <item quantity="many">%d запускаў</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">%d тыдня таму</item>
+        <item quantity="one">%d тыдзень таму</item>
+        <item quantity="few">%d тыдні таму</item>
+        <item quantity="many">%d тыдняў таму</item>
+    </plurals>
+</resources>

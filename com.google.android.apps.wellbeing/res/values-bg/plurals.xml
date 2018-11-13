@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">Отворено %d пъти</item>
+        <item quantity="one">Отворено %d път</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">Зададохте таймер за приложение за %1$s</item>
+        <item quantity="one">Приложението %1$s ще бъде поставено на пауза за останалата част от деня</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">Остават %d минути</item>
+        <item quantity="one">Остава %d минута</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">Отворихте %1$d пъти между %2$s и %3$s</item>
+        <item quantity="one">Отворихте %1$d път между %2$s и %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">, %1$d пъти между %2$s и %3$s</item>
+        <item quantity="one">, %1$d път между %2$s и %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">и %1$d пъти между %2$s и %3$s</item>
+        <item quantity="one">и %1$d път между %2$s и %3$s</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">Получени са %d известия</item>
+        <item quantity="one">Получено е %d известие</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">Зададени са таймери за %d приложения</item>
+        <item quantity="one">Зададен е таймер за 1 приложение</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">Известия</item>
+        <item quantity="one">Известие</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">%d отключвания</item>
+        <item quantity="one">%d отключване</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">Отключвания</item>
+        <item quantity="one">Отключване</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d известия</item>
+        <item quantity="one">%d известие</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">Получихте %1$d известия между %2$s и %3$s</item>
+        <item quantity="one">Получихте %1$d известие между %2$s и %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">, %1$d известия между %2$s и %3$s</item>
+        <item quantity="one">, %1$d известие между %2$s и %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">и %1$d известия между %2$s и %3$s</item>
+        <item quantity="one">и %1$d известие между %2$s и %3$s</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d мин</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d ч</item>
+        <item quantity="one">%d ч</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d мин</item>
+    </plurals>
+    <plurals name="short_num_days">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
+    <plurals name="short_num_days_ago">
+        <item quantity="other">преди %d дни</item>
+        <item quantity="one">преди %d ден</item>
+    </plurals>
+    <plurals name="short_num_hours">
+        <item quantity="other">%d ч</item>
+        <item quantity="one">%d ч</item>
+    </plurals>
+    <plurals name="short_num_hours_ago">
+        <item quantity="other">преди %d ч</item>
+        <item quantity="one">преди %d ч</item>
+    </plurals>
+    <plurals name="short_num_minutes">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d мин</item>
+    </plurals>
+    <plurals name="short_num_minutes_ago">
+        <item quantity="other">преди %d мин</item>
+        <item quantity="one">преди %d мин</item>
+    </plurals>
+    <plurals name="short_num_seconds">
+        <item quantity="other">%d сек</item>
+        <item quantity="one">%d сек</item>
+    </plurals>
+    <plurals name="short_num_weeks">
+        <item quantity="other">%d седм.</item>
+        <item quantity="one">%d седм.</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">Показване на всичките %d приложения</item>
+        <item quantity="one">Показване на %d приложение</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d известия</item>
+        <item quantity="one">%d известие</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d отваряния</item>
+        <item quantity="one">%d отваряне</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">преди %d седмици</item>
+        <item quantity="one">преди %d седмица</item>
+    </plurals>
+</resources>

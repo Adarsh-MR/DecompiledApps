@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_nightlight__5__0" android:duration="4000" android:startOffset="0" android:valueFrom="0" android:valueTo="0" android:valueType="floatType" android:propertyName="fillAlpha" />
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_nightlight__5__1" android:duration="1000" android:startOffset="4000" android:valueFrom="0" android:valueTo="0.2" android:valueType="floatType" android:propertyName="fillAlpha" />
+</set>

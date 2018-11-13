@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">%d жолу ачылды</item>
+        <item quantity="one">%d жолу ачылды</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">%1$s колдонмосу үчүн колдонмонун таймерин койдуңуз</item>
+        <item quantity="one">%1$s күндүн аягына чейин тындырылат</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">%d мүнөт калды</item>
+        <item quantity="one">%d мүнөт калды</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">%2$s–%3$s ортосунда %1$d жолу ачылды</item>
+        <item quantity="one">%2$s–%3$s ортосунда %1$d жолу ачылды</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">, %2$s–%3$s ортосунда %1$d жолу</item>
+        <item quantity="one">, %2$s–%3$s ортосунда %1$d жолу</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">, %2$s–%3$s ортосунда %1$d жолу</item>
+        <item quantity="one">, %2$s–%3$s ортосунда %1$d жолу</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">%d билдирме алынды</item>
+        <item quantity="one">%d билдирме алынды</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">%d колдонмонун таймерлери коюлду</item>
+        <item quantity="one">1 колдонмонун таймери коюлду</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">Билдирме</item>
+        <item quantity="one">Билдирме</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">%d жолу кулпусу ачылды</item>
+        <item quantity="one">%d жолу кулпусу ачылды</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">Кулпуну ачуу</item>
+        <item quantity="one">Кулпуну ачуу</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d саат</item>
+        <item quantity="one">%d саат</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d мүнөт</item>
+        <item quantity="one">%d мүнөт</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d билдирме</item>
+        <item quantity="one">%d билдирме</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">%2$s–%3$s ортосунда %1$d билдирме алынды</item>
+        <item quantity="one">%2$s–%3$s ортосунда %1$d билдирме алынды</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">жана %2$s–%3$s ортосунда %1$d билдирме</item>
+        <item quantity="one">жана %2$s–%3$s ортосунда %1$d билдирме</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">жана %2$s–%3$s ортосунда %1$d билдирме</item>
+        <item quantity="one">жана %2$s–%3$s ортосунда %1$d билдирме</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d с.</item>
+        <item quantity="one">%d с.</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d мүн.</item>
+        <item quantity="one">%d мүн.</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">%d колдонмону көрсөтүү</item>
+        <item quantity="one">%d колдонмону көрсөтүү</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d билдирме</item>
+        <item quantity="one">%d билдирме</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d ачуу</item>
+        <item quantity="one">%d ачуу</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">%d апта мурун</item>
+        <item quantity="one">%d апта мурун</item>
+    </plurals>
+</resources>

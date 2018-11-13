@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">Otvorena %d puta</item>
+        <item quantity="one">Otvorena %d put</item>
+        <item quantity="few">Otvorena %d puta</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">Postavili ste tajmer za aplikaciju %1$s</item>
+        <item quantity="one">Postavili ste tajmer za aplikaciju %1$s</item>
+        <item quantity="few">Postavili ste tajmer za aplikaciju %1$s</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">Još %d minuta</item>
+        <item quantity="one">Još %d minuta</item>
+        <item quantity="few">Još %d minute</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">Otvorena %1$d puta između %2$s i %3$s</item>
+        <item quantity="one">Otvorena %1$d put između %2$s i %3$s</item>
+        <item quantity="few">Otvorena %1$d puta između %2$s i %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">, %1$d puta između %2$s i %3$s</item>
+        <item quantity="one">, %1$d put između %2$s i %3$s</item>
+        <item quantity="few">, %1$d puta između %2$s i %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">i %1$d puta između %2$s i %3$s</item>
+        <item quantity="one">i %1$d put između %2$s i %3$s</item>
+        <item quantity="few">i %1$d puta između %2$s i %3$s</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">%d primljenih obavještenja</item>
+        <item quantity="one">%d primljeno obavještenje</item>
+        <item quantity="few">%d primljena obavještenja</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">Postavljeno je %d tajmera aplikacije</item>
+        <item quantity="one">Postavljen je %d tajmer aplikacije</item>
+        <item quantity="few">Postavljena su %d tajmera aplikacije</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">Obavještenja</item>
+        <item quantity="one">Obavještenje</item>
+        <item quantity="few">Obavještenja</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">%d otključavanja</item>
+        <item quantity="one">%d otključavanje</item>
+        <item quantity="few">%d otključavanja</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">Otključavanja</item>
+        <item quantity="one">Otključavanje</item>
+        <item quantity="few">Otključavanja</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d sati</item>
+        <item quantity="one">%d sat</item>
+        <item quantity="few">%d sata</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d obavještenja</item>
+        <item quantity="one">%d obavještenje</item>
+        <item quantity="few">%d obavještenja</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">Primljeno %1$d obavještenja između %2$s i %3$s</item>
+        <item quantity="one">Primljeno %1$d obavještenje između %2$s i %3$s</item>
+        <item quantity="few">Primljena %1$d obavještenja između %2$s i %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">, %1$d obavještenja između %2$s i %3$s</item>
+        <item quantity="one">, %1$d obavještenje između %2$s i %3$s</item>
+        <item quantity="few">, %1$d obavještenja između %2$s i %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">i %1$d obavještenja između %2$s i %3$s</item>
+        <item quantity="one">i %1$d obavještenje između %2$s i %3$s</item>
+        <item quantity="few">i %1$d obavještenja između %2$s i %3$s</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+        <item quantity="few">%d h</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="few">%d min</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">Prikaži sve aplikacije (ukupno %d)</item>
+        <item quantity="one">Prikaži sve aplikacije (ukupno %d)</item>
+        <item quantity="few">Prikaži sve aplikacije (ukupno %d)</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d obavještenja</item>
+        <item quantity="one">%d obavještenje</item>
+        <item quantity="few">%d obavještenja</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d otvorenih</item>
+        <item quantity="one">%d otvorena</item>
+        <item quantity="few">%d otvorene</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">Prije %d sedmica</item>
+        <item quantity="one">Prije %d sedmicu</item>
+        <item quantity="few">Prije %d sedmice</item>
+    </plurals>
+</resources>

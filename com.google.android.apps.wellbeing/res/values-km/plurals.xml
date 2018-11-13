@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">បានបើក %d ដង</item>
+        <item quantity="one">បានបើក %d ដង</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">អ្នកបានកំណត់​កម្មវិធី​កំណត់ពេល​ប្រើកម្មវិធី​សម្រាប់ %1$s</item>
+        <item quantity="one">%1$s នឹងត្រូវបាន​ផ្អាកសម្រាប់​ពេលដែល​នៅសល់</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">នៅសល់ %d នាទី</item>
+        <item quantity="one">នៅសល់ %d នាទី</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">បានបើក %1$d ដងនៅចន្លោះ​ម៉ោង %2$s និងម៉ោង %3$s</item>
+        <item quantity="one">បានបើក %1$d ដងនៅចន្លោះ​ម៉ោង %2$s និងម៉ោង %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">%1$d ដង​នៅចន្លោះម៉ោង %2$s និងម៉ោង %3$s</item>
+        <item quantity="one">%1$d ដង​នៅចន្លោះម៉ោង %2$s និងម៉ោង %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">និង %1$d ដង​នៅចន្លោះម៉ោង %2$s និងម៉ោង %3$s</item>
+        <item quantity="one">និង %1$d ដង​នៅចន្លោះម៉ោង %2$s និងម៉ោង %3$s</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">បានទទួលការជូនដំណឹង %d</item>
+        <item quantity="one">បានទទួលការជូនដំណឹង %d</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">បានកំណត់កម្មវិធីកំណត់ពេលប្រើកម្មវិធី %d</item>
+        <item quantity="one">បានកំណត់កម្មវិធីកំណត់ពេលប្រើកម្មវិធី 1</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">ការ​ជូន​ដំណឹង</item>
+        <item quantity="one">ការ​ជូន​ដំណឹង</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">ការដោះសោ %d</item>
+        <item quantity="one">ការដោះសោ %d</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">ការដោះសោ</item>
+        <item quantity="one">ការដោះសោ</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d ម៉ោង</item>
+        <item quantity="one">%d ម៉ោង</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d នាទី</item>
+        <item quantity="one">%d នាទី</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">ការជូនដំណឹង %d</item>
+        <item quantity="one">ការជូនដំណឹង %d</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">បានទទួល​ការជូនដំណឹង %1$d នៅចន្លោះម៉ោង %2$s និងម៉ោង %3$s</item>
+        <item quantity="one">បានទទួល​ការជូនដំណឹង %1$d នៅចន្លោះ​ម៉ោង %2$s និងម៉ោង %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">ការជូនដំណឹង %1$d នៅចន្លោះ​ម៉ោង %2$s និងម៉ោង %3$s</item>
+        <item quantity="one">ការជូនដំណឹង %1$d នៅចន្លោះ​ម៉ោង %2$s និងម៉ោង %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">និង​ការជូនដំណឹង %1$d នៅចន្លោះ​ម៉ោង %2$s និងម៉ោង %3$s</item>
+        <item quantity="one">និង​ការជូនដំណឹង %1$d នៅចន្លោះ​ម៉ោង %2$s និងម៉ោង %3$s</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d ម៉</item>
+        <item quantity="one">%d ម៉</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d ន</item>
+        <item quantity="one">%d ន</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">បង្ហាញ​កម្មវិធីទាំង %d</item>
+        <item quantity="one">បង្ហាញ​កម្មវិធី %d</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">ការជូនដំណឹង %d</item>
+        <item quantity="one">ការជូនដំណឹង %d</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">ការបើក %d</item>
+        <item quantity="one">ការបើក %d</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">%d សប្ដាហ៍មុន</item>
+        <item quantity="one">%d សប្ដាហ៍មុន</item>
+    </plurals>
+</resources>

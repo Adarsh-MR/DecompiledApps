@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">%dకి తెరవబడుతుంది</item>
+        <item quantity="one">%dకి తెరవబడుతుంది</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">%1$s కోసం మీరు యాప్ టైమర్‌ను సెట్ చేయండి</item>
+        <item quantity="one">మిగిలిన రోజు కోసం %1$s పాజ్ చేయబడింది</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">%d నిమిషాలు మిగిలి ఉన్నాయి</item>
+        <item quantity="one">%d నిమిషం మిగిలి ఉంది</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">%2$s మరియు %3$s మధ్య %1$d సార్లు తెరవబడింది</item>
+        <item quantity="one">%2$s మరియు %3$s మధ్య %1$d సారి తెరవబడింది</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">, %2$s మరియు %3$s మధ్య %1$d సార్లు</item>
+        <item quantity="one">, %2$s మరియు %3$s మధ్య %1$d సారి</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">, మరియు %2$s మరియు %3$s మధ్య %1$d సార్లు</item>
+        <item quantity="one">, మరియు %2$s మరియు %3$s మధ్య %1$d సారి</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">%d నోటిఫికేషన్‌లు స్వీకరించబడ్డాయి</item>
+        <item quantity="one">%d నోటిఫికేషన్ స్వీకరించబడింది</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">%d యాప్ టైమర్‌లు సెట్ చేయబడ్డాయి</item>
+        <item quantity="one">1 యాప్ టైమర్ సెట్ చేయబడింది</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">నోటిఫికేషన్‌లు</item>
+        <item quantity="one">నోటిఫికేషన్</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">%d అన్‌‌లాక్ అవుతుంది</item>
+        <item quantity="one">%d అన్‌లాక్</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">అన్‌లాక్ అవుతుంది</item>
+        <item quantity="one">అన్‌లాక్ చేయండి</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d గంటలు</item>
+        <item quantity="one">%d గంట</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d నిమిషాలు</item>
+        <item quantity="one">%d నిమిషం</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d నోటిఫికేషన్‌లు</item>
+        <item quantity="one">%d నోటిఫికేషన్</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">%2$s మరియు %3$s మధ్య %1$d నోటిఫికేషన్‌లను పొందారు</item>
+        <item quantity="one">%2$s మరియు %3$s మధ్య %1$d నోటిఫికేషన్‌ను పొందారు</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">, %2$s మరియు %3$s మధ్య %1$d నోటిఫికేషన్‌లు</item>
+        <item quantity="one">, %2$s మరియు %3$s మధ్య %1$d నోటిఫికేషన్</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">, మరియు %2$s మరియు %3$s మధ్య %1$d నోటిఫికేషన్‌లు</item>
+        <item quantity="one">, మరియు %2$s మరియు %3$s మధ్య %1$d నోటిఫికేషన్</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d రోజులు</item>
+        <item quantity="one">%d రోజు</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d గంటలు</item>
+        <item quantity="one">%d గంట</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d నిమిషాలు</item>
+        <item quantity="one">%d నిమిషం</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d గంట</item>
+        <item quantity="one">%d గంట</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d నిమిషం</item>
+        <item quantity="one">%d నిమిషం</item>
+    </plurals>
+    <plurals name="short_num_days">
+        <item quantity="other">%dరో</item>
+        <item quantity="one">%dరో</item>
+    </plurals>
+    <plurals name="short_num_days_ago">
+        <item quantity="other">%dరో క్రితం</item>
+        <item quantity="one">%dరో క్రితం</item>
+    </plurals>
+    <plurals name="short_num_hours">
+        <item quantity="other">%dగం</item>
+        <item quantity="one">%dగం</item>
+    </plurals>
+    <plurals name="short_num_hours_ago">
+        <item quantity="other">%dగం క్రితం</item>
+        <item quantity="one">%dగం క్రితం</item>
+    </plurals>
+    <plurals name="short_num_minutes">
+        <item quantity="other">%dని</item>
+        <item quantity="one">%dని</item>
+    </plurals>
+    <plurals name="short_num_minutes_ago">
+        <item quantity="other">%dని క్రితం</item>
+        <item quantity="one">%dని క్రితం</item>
+    </plurals>
+    <plurals name="short_num_seconds">
+        <item quantity="other">%dసె</item>
+        <item quantity="one">%dసె</item>
+    </plurals>
+    <plurals name="short_num_weeks">
+        <item quantity="other">%dవా</item>
+        <item quantity="one">%dవా</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">అన్ని %d యాప్‌లను చూపండి</item>
+        <item quantity="one">%d యాప్‌ను చూపండి</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d నోటిఫికేషన్‌లు</item>
+        <item quantity="one">%d నోటిఫికేషన్</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d తెరవబడతాయి</item>
+        <item quantity="one">%d తెరవబడుతుంది</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">%d వారాల క్రితం</item>
+        <item quantity="one">%d వారం క్రితం</item>
+    </plurals>
+</resources>

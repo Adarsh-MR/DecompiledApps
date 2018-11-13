@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textAppearance="?textAppearanceSubhead2" android:textColor="@color/google_blue600" android:gravity="start" android:id="@id/title" android:paddingTop="@dimen/subheading_margin_top" android:paddingBottom="@dimen/default_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/settings_side_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

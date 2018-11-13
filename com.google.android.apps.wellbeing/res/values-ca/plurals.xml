@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">"S'ha obert %d vegades"</item>
+        <item quantity="one">"S'ha obert %d vegada"</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">"Has configurat un temporitzador per a l'aplicació %1$s"</item>
+        <item quantity="one">%1$s es posarà en pausa per a la resta del dia</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">Queden %d minuts</item>
+        <item quantity="one">Queda %d minut</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">"S'ha obert %1$d vegades entre %2$s i %3$s"</item>
+        <item quantity="one">"S'ha obert %1$d vegada entre %2$s i %3$s"</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">, %1$d vegades entre %2$s i %3$s</item>
+        <item quantity="one">, %1$d vegada entre %2$s i %3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">, i %1$d vegades entre %2$s i %3$s</item>
+        <item quantity="one">, i %1$d vegada entre %2$s i %3$s</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">%d notificacions rebudes</item>
+        <item quantity="one">%d notificació rebuda</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">"S'han configurat %d temporitzadors d'aplicació"</item>
+        <item quantity="one">"S'ha configurat 1 temporitzador d'aplicació"</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">notificacions</item>
+        <item quantity="one">notificació</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">%d desbloquejos</item>
+        <item quantity="one">%d desbloqueig</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">desbloquejos</item>
+        <item quantity="one">desbloqueig</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d hores</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d minuts</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d notificacions</item>
+        <item quantity="one">%d notificació</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">Has rebut %1$d notificacions entre %2$s i %3$s</item>
+        <item quantity="one">Has rebut %1$d notificació entre %2$s i %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">, %1$d notificacions entre %2$s i %3$s</item>
+        <item quantity="one">, %1$d notificació entre %2$s i %3$s</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">, i %1$d notificacions entre %2$s i %3$s</item>
+        <item quantity="one">, i %1$d notificació entre %2$s i %3$s</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dies</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d hores</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuts</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="short_num_days">
+        <item quantity="other">%d dies</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="short_num_days_ago">
+        <item quantity="other">Fa %d dies</item>
+        <item quantity="one">Fa %d dia</item>
+    </plurals>
+    <plurals name="short_num_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="short_num_hours_ago">
+        <item quantity="other">Fa %d h</item>
+        <item quantity="one">Fa %d h</item>
+    </plurals>
+    <plurals name="short_num_minutes">
+        <item quantity="other">%d m</item>
+        <item quantity="one">%d m</item>
+    </plurals>
+    <plurals name="short_num_minutes_ago">
+        <item quantity="other">Fa %d min</item>
+        <item quantity="one">Fa %d min</item>
+    </plurals>
+    <plurals name="short_num_seconds">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+    </plurals>
+    <plurals name="short_num_weeks">
+        <item quantity="other">%d setmanes</item>
+        <item quantity="one">%d setmana</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">Mostra les %d aplicacions</item>
+        <item quantity="one">Mostra %d aplicació</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d notificacions</item>
+        <item quantity="one">%d notificació</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d obertes</item>
+        <item quantity="one">%d oberta</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">fa %d setmanes</item>
+        <item quantity="one">fa %d setmana</item>
+    </plurals>
+</resources>

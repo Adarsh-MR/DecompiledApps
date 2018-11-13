@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">Atvērta %d reizes</item>
+        <item quantity="zero">Atvērta %d reizes</item>
+        <item quantity="one">Atvērta %d reizi</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">Jūs iestatījāt lietotnes taimeri %1$s.</item>
+        <item quantity="zero">Jūs iestatījāt lietotnes taimeri %1$s.</item>
+        <item quantity="one">Jūs iestatījāt lietotnes taimeri %1$s.</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">Atlikušas %d minūtes</item>
+        <item quantity="zero">Atlikušas %d minūtes</item>
+        <item quantity="one">Atlikusi %d minūte</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">Atvērta %1$d reizes plkst. %2$s–%3$s</item>
+        <item quantity="zero">Atvērta %1$d reizes plkst. %2$s–%3$s</item>
+        <item quantity="one">Atvērta %1$d reizi plkst. %2$s–%3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">, %1$d reizes plkst. %2$s–%3$s</item>
+        <item quantity="zero">, %1$d reizes plkst. %2$s–%3$s</item>
+        <item quantity="one">, %1$d reizi plkst. %2$s–%3$s</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">, kā arī %1$d reizes plkst. %2$s–%3$s</item>
+        <item quantity="zero">, kā arī %1$d reizes plkst. %2$s–%3$s</item>
+        <item quantity="one">, kā arī %1$d reizi plkst. %2$s–%3$s</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">Saņemti %d paziņojumi</item>
+        <item quantity="zero">Saņemti %d paziņojumi</item>
+        <item quantity="one">Saņemts %d paziņojums</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">Iestatīti lietotņu taimeri %d.</item>
+        <item quantity="zero">Nav iestatīts lietotnes taimeris.</item>
+        <item quantity="one">Iestatīti lietotnes taimeri %d.</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">paziņojumi</item>
+        <item quantity="zero">paziņojumi</item>
+        <item quantity="one">paziņojums</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">Atbloķēta %d reizes</item>
+        <item quantity="zero">Atbloķēta %d reizes</item>
+        <item quantity="one">Atbloķēta %d reizi</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">atbloķēšanas reizes</item>
+        <item quantity="zero">atbloķēšanas reizes</item>
+        <item quantity="one">atbloķēšanas reize</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d stundas</item>
+        <item quantity="zero">%d stundas</item>
+        <item quantity="one">%d stunda</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d minūtes</item>
+        <item quantity="zero">%d minūtes</item>
+        <item quantity="one">%d minūte</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d paziņojumi</item>
+        <item quantity="zero">%d paziņojumu</item>
+        <item quantity="one">%d paziņojums</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">Saņemti %1$d paziņojumi plkst. %2$s–%3$s</item>
+        <item quantity="zero">Saņemti %1$d paziņojumi plkst. %2$s–%3$s</item>
+        <item quantity="one">Saņemts %1$d paziņojums plkst. %2$s–%3$s</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">, %1$d paziņojumi plkst. %2$s–%3$s</item>
+        <item quantity="zero">, %1$d paziņojumi plkst. %2$s–%3$s</item>
+        <item quantity="one">, %1$d paziņojums plkst. %2$s–%3$s</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">, kā arī %1$d paziņojums plkst. %2$s–%3$s</item>
+        <item quantity="zero">, kā arī %1$d paziņojumi plkst. %2$s–%3$s</item>
+        <item quantity="one">, kā arī %1$d paziņojums plkst. %2$s–%3$s</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dienas</item>
+        <item quantity="zero">%d dienas</item>
+        <item quantity="one">%d diena</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d stundas</item>
+        <item quantity="zero">%d stundas</item>
+        <item quantity="one">%d stunda</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="zero">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="zero">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="zero">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="short_num_days">
+        <item quantity="other">%d d</item>
+        <item quantity="zero">%d d</item>
+        <item quantity="one">%d d</item>
+    </plurals>
+    <plurals name="short_num_days_ago">
+        <item quantity="other">pirms %d dienām</item>
+        <item quantity="zero">pirms %d dienām</item>
+        <item quantity="one">pirms %d dienas</item>
+    </plurals>
+    <plurals name="short_num_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="zero">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="short_num_hours_ago">
+        <item quantity="other">pirms %d h</item>
+        <item quantity="zero">pirms %d h</item>
+        <item quantity="one">pirms %d h</item>
+    </plurals>
+    <plurals name="short_num_minutes">
+        <item quantity="other">%d m</item>
+        <item quantity="zero">%d m</item>
+        <item quantity="one">%d m</item>
+    </plurals>
+    <plurals name="short_num_minutes_ago">
+        <item quantity="other">pirms %d min</item>
+        <item quantity="zero">pirms %d min</item>
+        <item quantity="one">pirms %d min</item>
+    </plurals>
+    <plurals name="short_num_seconds">
+        <item quantity="other">%d s</item>
+        <item quantity="zero">%d s</item>
+        <item quantity="one">%d s</item>
+    </plurals>
+    <plurals name="short_num_weeks">
+        <item quantity="other">%d n</item>
+        <item quantity="zero">%d n</item>
+        <item quantity="one">%d n</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">Rādīt visas lietotnes (%d)</item>
+        <item quantity="zero">Rādīt visas lietotnes (%d)</item>
+        <item quantity="one">Rādīt visas lietotnes (%d)</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d paziņojumi</item>
+        <item quantity="zero">%d paziņojumi</item>
+        <item quantity="one">%d paziņojums</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d atvēršanas reizes</item>
+        <item quantity="zero">%d atvēršanas reizes</item>
+        <item quantity="one">%d atvēršanas reize</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">pirms %d nedēļām</item>
+        <item quantity="zero">pirms %d nedēļām</item>
+        <item quantity="one">pirms %d nedēļas</item>
+    </plurals>
+</resources>

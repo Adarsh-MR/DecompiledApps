@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_dnd__9__0" android:duration="3500" android:startOffset="0" android:valueFrom="0" android:valueTo="0" android:valueType="floatType" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_dnd__9__1" android:duration="3500" android:startOffset="0" android:valueFrom="0" android:valueTo="0" android:valueType="floatType" android:propertyName="scaleY" />
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_dnd__9__2" android:duration="2333" android:startOffset="3500" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_dnd__9__3" android:duration="2333" android:startOffset="3500" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleY" />
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_dnd__9__4" android:duration="667" android:startOffset="5833" android:valueFrom="1" android:valueTo="0" android:valueType="floatType" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="@drawable/$$avd_wind_down_onboarding_dnd__9__5" android:duration="667" android:startOffset="5833" android:valueFrom="1" android:valueTo="0" android:valueType="floatType" android:propertyName="scaleY" />
+</set>

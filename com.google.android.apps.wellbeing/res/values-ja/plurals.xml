@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_launch_count_label">
+        <item quantity="other">%d 回起動</item>
+        <item quantity="one">%d 回起動</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_text">
+        <item quantity="other">%1$s にアプリタイマーを設定しました</item>
+        <item quantity="one">今日はこれ以上 %1$s を利用できなくなります</item>
+    </plurals>
+    <plurals name="app_limit_warning_notification_title">
+        <item quantity="other">残り時間: %d 分</item>
+        <item quantity="one">残り時間: %d 分</item>
+    </plurals>
+    <plurals name="app_opens_for_first_data_point">
+        <item quantity="other">%2$s から %3$s の間に %1$d 回起動しました</item>
+        <item quantity="one">%2$s から %3$s の間に %1$d 回起動しました</item>
+    </plurals>
+    <plurals name="app_opens_for_intermediate_data_point">
+        <item quantity="other">、%2$s から %3$s の間に %1$d 回</item>
+        <item quantity="one">、%2$s から %3$s の間に %1$d 回</item>
+    </plurals>
+    <plurals name="app_opens_for_last_data_point">
+        <item quantity="other">、%2$s から %3$s の間に %1$d 回</item>
+        <item quantity="one">、%2$s から %3$s の間に %1$d 回</item>
+    </plurals>
+    <plurals name="content_description_for_notifications">
+        <item quantity="other">%d 件の通知を受信しました</item>
+        <item quantity="one">%d 件の通知を受信しました</item>
+    </plurals>
+    <plurals name="dashboard_app_timer_summary_text">
+        <item quantity="other">%d 件のアプリタイマーが設定されています</item>
+        <item quantity="one">1 件のアプリタイマーが設定されています</item>
+    </plurals>
+    <plurals name="device_notifications_label">
+        <item quantity="other">通知数</item>
+        <item quantity="one">通知数</item>
+    </plurals>
+    <plurals name="device_unlock_count_label">
+        <item quantity="other">ロック解除 %d 回</item>
+        <item quantity="one">ロック解除 %d 回</item>
+    </plurals>
+    <plurals name="device_unlocks_label">
+        <item quantity="other">ロック解除数</item>
+        <item quantity="one">ロック解除数</item>
+    </plurals>
+    <plurals name="long_duration_hours">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+    </plurals>
+    <plurals name="long_duration_minutes">
+        <item quantity="other">%d分</item>
+        <item quantity="one">%d分</item>
+    </plurals>
+    <plurals name="notification_count_label">
+        <item quantity="other">%d 件の通知</item>
+        <item quantity="one">%d 件の通知</item>
+    </plurals>
+    <plurals name="notifications_for_first_data_point">
+        <item quantity="other">%2$s から %3$s の間に %1$d 件の通知を受け取りました</item>
+        <item quantity="one">%2$s から %3$s の間に %1$d 件の通知を受け取りました</item>
+    </plurals>
+    <plurals name="notifications_for_intermediate_data_point">
+        <item quantity="other">、%2$s から %3$s の間に %1$d 件の通知</item>
+        <item quantity="one">、%2$s から %3$s の間に %1$d 件の通知</item>
+    </plurals>
+    <plurals name="notifications_for_last_data_point">
+        <item quantity="other">、%2$s から %3$s の間に %1$d 件の通知</item>
+        <item quantity="one">、%2$s から %3$s の間に %1$d 件の通知</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d日</item>
+        <item quantity="one">%d日</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d分</item>
+        <item quantity="one">%d分</item>
+    </plurals>
+    <plurals name="short_duration_hours">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+    </plurals>
+    <plurals name="short_duration_minutes">
+        <item quantity="other">%d分</item>
+        <item quantity="one">%d分</item>
+    </plurals>
+    <plurals name="short_num_days">
+        <item quantity="other">%d日</item>
+        <item quantity="one">%d日</item>
+    </plurals>
+    <plurals name="short_num_days_ago">
+        <item quantity="other">%d日前</item>
+        <item quantity="one">%d日前</item>
+    </plurals>
+    <plurals name="short_num_hours">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+    </plurals>
+    <plurals name="short_num_hours_ago">
+        <item quantity="other">%d時間前</item>
+        <item quantity="one">%d時間前</item>
+    </plurals>
+    <plurals name="short_num_minutes">
+        <item quantity="other">%d分</item>
+        <item quantity="one">%d分</item>
+    </plurals>
+    <plurals name="short_num_minutes_ago">
+        <item quantity="other">%d分前</item>
+        <item quantity="one">%d分前</item>
+    </plurals>
+    <plurals name="short_num_seconds">
+        <item quantity="other">%d秒</item>
+        <item quantity="one">%d秒</item>
+    </plurals>
+    <plurals name="short_num_weeks">
+        <item quantity="other">%d週</item>
+        <item quantity="one">%d週</item>
+    </plurals>
+    <plurals name="show_all_apps">
+        <item quantity="other">全 %d 個のアプリを表示</item>
+        <item quantity="one">%d 個のアプリを表示</item>
+    </plurals>
+    <plurals name="touch_card_notifications">
+        <item quantity="other">%d 件の通知</item>
+        <item quantity="one">%d 件の通知</item>
+    </plurals>
+    <plurals name="touch_card_opens">
+        <item quantity="other">%d 回開く</item>
+        <item quantity="one">%d 回開く</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">%d 週間前</item>
+        <item quantity="one">%d 週間前</item>
+    </plurals>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/rounded_corners" android:paddingTop="@dimen/default_screen_margin" android:paddingBottom="@dimen/default_button_padding" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_horizontal" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/quantum_ic_hourglass_empty_googblue_48" android:importantForAccessibility="no" />
+    <TextView android:textAppearance="?textAppearanceHeadline5" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/suspend_dialog_title" android:paddingHorizontal="@dimen/default_screen_margin" android:paddingVertical="16.0dip" />
+    <TextView android:textAppearance="?textAppearanceBody2" android:textColor="@color/secondary_grey" android:id="@id/tv_suspend_dialog_alert_message" android:paddingBottom="@dimen/default_screen_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/default_screen_margin" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/default_button_padding">
+        <android.support.design.button.MaterialButton android:id="@id/button_suspend_dialog_learn_more" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/suspend_dialog_button_learn_more" android:layout_marginStart="0.0dip" style="@style/Widget.GoogleMaterial.TextButton.Dialog" />
+        <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <android.support.design.button.MaterialButton android:id="@id/button_suspend_dialog_ok" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@android:string/ok" style="@style/Widget.GoogleMaterial.TextButton.Dialog" />
+    </LinearLayout>
+</LinearLayout>

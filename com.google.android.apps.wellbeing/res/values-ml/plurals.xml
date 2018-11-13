@@ -44,14 +44,6 @@
         <item quantity="other">അൺലോക്കുകൾ</item>
         <item quantity="one">അൺലോക്ക്</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d മണിക്കൂർ</item>
-        <item quantity="one">%d മണിക്കൂർ</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d മിനിറ്റ്</item>
-        <item quantity="one">%d മിനിറ്റ്</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d അറിയിപ്പുകൾ</item>
         <item quantity="one">%d അറിയിപ്പ്</item>
@@ -77,14 +69,6 @@
         <item quantity="one">%d മണിക്കൂർ</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d മിനിറ്റ്</item>
-        <item quantity="one">%d മിനിറ്റ്</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d മണിക്കൂർ</item>
-        <item quantity="one">%d മണിക്കൂർ</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
         <item quantity="other">%d മിനിറ്റ്</item>
         <item quantity="one">%d മിനിറ്റ്</item>
     </plurals>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d തുറക്കുന്നു</item>
         <item quantity="one">%d തുറക്കുക</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d ആഴ്‌ച മുമ്പ്</item>
-        <item quantity="one">%d ആഴ്‌ച മുമ്പ്</item>
     </plurals>
 </resources>

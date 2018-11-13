@@ -44,14 +44,6 @@
         <item quantity="other">Buka kunci</item>
         <item quantity="one">Buka kunci</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d jam</item>
-        <item quantity="one">%d jam</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d minit</item>
-        <item quantity="one">%d minit</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d pemberitahuan</item>
         <item quantity="one">%d pemberitahuan</item>
@@ -77,14 +69,6 @@
         <item quantity="one">%d jam</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d j</item>
-        <item quantity="one">%d j</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
         <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
     </plurals>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d dibuka</item>
         <item quantity="one">%d dibuka</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d minggu yang lalu</item>
-        <item quantity="one">%d minggu yang lalu</item>
     </plurals>
 </resources>

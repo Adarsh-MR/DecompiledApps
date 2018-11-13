@@ -5,7 +5,7 @@
         <item quantity="one">%d पटक खोलिएको</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">तपाईंले %1$s का लागि अनुप्रयोगको टाइमर सेट गर्नुभयो</item>
+        <item quantity="other">तपाईंले %1$s को एप टाइमर सेट गर्नुभएको छ</item>
         <item quantity="one">%1$s लाई बाँकी दिनभरि पज गरिने छ</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
@@ -30,7 +30,7 @@
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
         <item quantity="other">%d अनुप्रयोगका टाइमरहरू सेट गरियो</item>
-        <item quantity="one">१ अनुप्रयोगको टाइमर सेट गरियो</item>
+        <item quantity="one">१ एप टाइमर सेट गरियो</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">सूचनाहरू</item>
@@ -43,14 +43,6 @@
     <plurals name="device_unlocks_label">
         <item quantity="other">अनलकहरू</item>
         <item quantity="one">अनलक</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d घन्टा</item>
-        <item quantity="one">%d घन्टा</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d मिनेट</item>
-        <item quantity="one">%d मिनेट</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d सूचनाहरू</item>
@@ -68,14 +60,6 @@
         <item quantity="other">, र %2$s र %3$s बजेको बिचमा %1$d सूचनाहरू</item>
         <item quantity="one">, र %2$s र %3$s बजेको बिचमा %1$d सूचना</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d घन्टा</item>
-        <item quantity="one">%d घन्टा</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d मिनेट</item>
-        <item quantity="one">%d मिनेट</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">सबै %d अनुप्रयोगहरू देखाउनुहोस्</item>
         <item quantity="one">%d अनुप्रयोग देखाउनुहोस्</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d खोल्छ</item>
         <item quantity="one">%d खोल्नुहोस्</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d हप्ताअघि</item>
-        <item quantity="one">%d हप्ताअघि</item>
     </plurals>
 </resources>

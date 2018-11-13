@@ -44,14 +44,6 @@
         <item quantity="other">ଅନ୍‌ଲକ୍‌ଗୁଡ଼ିକ କରନ୍ତୁ</item>
         <item quantity="one">ଅନ୍‌ଲକ୍‌ କରନ୍ତୁ</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d ଘଣ୍ଟାଗୁଡ଼ିକ</item>
-        <item quantity="one">%d ଘଣ୍ଟା</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d ମିନିଟ୍‍ଗୁଡ଼ିକ</item>
-        <item quantity="one">%d ମିନିଟ୍‍</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ</item>
         <item quantity="one">%d ବିଜ୍ଞପ୍ତି</item>
@@ -68,28 +60,16 @@
         <item quantity="other">, ଏବଂ %2$s ଓ %3$s ମଧ୍ୟରେ %1$dଟି ବିଜ୍ଞପ୍ତି</item>
         <item quantity="one">, ଏବଂ %2$s ଓ %3$s ମଧ୍ୟରେ %1$dଟି ବିଜ୍ଞପ୍ତି</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ଘ.</item>
-        <item quantity="one">%d ଘ.</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d ମି.</item>
-        <item quantity="one">%d ମି.</item>
-    </plurals>
     <plurals name="show_all_apps">
-        <item quantity="other">%d ଆପ୍‍ ଦେଖାନ୍ତୁ</item>
-        <item quantity="one">%d ଆପ୍‍ ଦେଖାନ୍ତୁ</item>
+        <item quantity="other">ସମସ୍ତ %dଟି ଆପ୍‍ ଦେଖାନ୍ତୁ</item>
+        <item quantity="one">%dଟି ଆପ୍‍ ଦେଖାନ୍ତୁ</item>
     </plurals>
     <plurals name="touch_card_notifications">
-        <item quantity="other">%d ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ</item>
+        <item quantity="other">%dଟି ବିଜ୍ଞପ୍ତି</item>
         <item quantity="one">%d ବିଜ୍ଞପ୍ତି</item>
     </plurals>
     <plurals name="touch_card_opens">
         <item quantity="other">%d ଖୋଲାଅଛି</item>
         <item quantity="one">%d ଖୋଲନ୍ତୁ</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d ସପ୍ତାହଗୁଡ଼ିକ ପୂର୍ବେ</item>
-        <item quantity="one">%d ସପ୍ତାହ ପୂର୍ବେ</item>
     </plurals>
 </resources>

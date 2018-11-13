@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.apps.wellbeing.common.ui.menubar.MenuBarView android:id="@id/menu_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <android.support.v4.widget.NestedScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fillViewport="true" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:id="@id/app_usage_history" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <LinearLayout android:orientation="vertical" android:id="@id/app_dashboard_list_item" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@drawable/app_settings_divider" android:showDividers="end">
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingVertical="@dimen/default_margin">
+                    <ImageView android:layout_width="72.0dip" android:layout_height="@dimen/icon_height" android:src="@drawable/quantum_ic_assessment_googblue_24" android:importantForAccessibility="no" android:paddingHorizontal="@dimen/default_screen_margin" />
+                    <TextView android:textAppearance="?textAppearanceBody1" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/app_dashboard_label" android:layout_weight="1.0" />
+                    <ImageView android:layout_width="72.0dip" android:layout_height="@dimen/icon_height" android:src="@drawable/quantum_ic_open_in_new_grey600_24" android:importantForAccessibility="no" />
+                </LinearLayout>
+            </LinearLayout>
+            <View android:background="?android:dividerHorizontal" android:layout_width="fill_parent" android:layout_height="0.75dip" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" />
+            <TextView android:textAppearance="?textAppearanceSubhead2" android:textColor="@color/google_blue600" android:gravity="start" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/app_settings_heading" android:paddingStart="72.0dip" android:paddingEnd="@dimen/default_margin" android:paddingVertical="16.0dip" />
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/limit_button" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingVertical="@dimen/default_margin">
+                    <ImageView android:src="@drawable/quantum_ic_hourglass_empty_googblue_24" android:importantForAccessibility="no" style="@style/ListItemIcon24dp" />
+                    <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                        <TextView android:textAppearance="?textAppearanceBody1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_time_limit_label" />
+                        <TextView android:textAppearance="?textAppearanceCaption" android:id="@id/app_limit_duration_label" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/app_notifications_list_item" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingVertical="@dimen/default_margin">
+                    <ImageView android:src="@drawable/quantum_ic_notifications_googblue_24" android:importantForAccessibility="no" style="@style/ListItemIcon24dp" />
+                    <TextView android:textAppearance="?textAppearanceBody1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_notifications_label" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+</LinearLayout>

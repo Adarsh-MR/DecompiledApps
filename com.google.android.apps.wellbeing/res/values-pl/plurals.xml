@@ -7,10 +7,10 @@
         <item quantity="many">Otwarta %d razy</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">Ustawiono licznik czasu w aplikacji %1$s</item>
+        <item quantity="other">Ustawiono minutnik aplikacji %1$s</item>
         <item quantity="one">Aplikacja %1$s zostanie wstrzymana do końca dnia</item>
-        <item quantity="few">Ustawiono licznik czasu w aplikacji %1$s</item>
-        <item quantity="many">Ustawiono licznik czasu w aplikacji %1$s</item>
+        <item quantity="few">Ustawiono minutnik aplikacji %1$s</item>
+        <item quantity="many">Ustawiono minutnik aplikacji %1$s</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
         <item quantity="other">Zostało jeszcze %d minuty</item>
@@ -43,10 +43,10 @@
         <item quantity="many">%d otrzymanych powiadomień</item>
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
-        <item quantity="other">Ustawiono liczniki czasu w %d aplikacji</item>
-        <item quantity="one">Ustawiono licznik czasu w 1 aplikacji</item>
-        <item quantity="few">Ustawiono liczniki czasu w %d aplikacjach</item>
-        <item quantity="many">Ustawiono liczniki czasu w %d aplikacjach</item>
+        <item quantity="other">Ustawiono minutniki w %d aplikacji</item>
+        <item quantity="one">Ustawiono minutnik w 1 aplikacji</item>
+        <item quantity="few">Ustawiono minutniki w %d aplikacjach</item>
+        <item quantity="many">Ustawiono minutniki w %d aplikacjach</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">Powiadomienia</item>
@@ -65,18 +65,6 @@
         <item quantity="one">Odblokowanie</item>
         <item quantity="few">Odblokowania</item>
         <item quantity="many">Odblokowania</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d godziny</item>
-        <item quantity="one">%d godzina</item>
-        <item quantity="few">%d godziny</item>
-        <item quantity="many">%d godzin</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d minuty</item>
-        <item quantity="one">%d minuta</item>
-        <item quantity="few">%d minuty</item>
-        <item quantity="many">%d minut</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d powiadomienia</item>
@@ -119,18 +107,6 @@
         <item quantity="one">%d min</item>
         <item quantity="few">%d min</item>
         <item quantity="many">%d min</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d godz.</item>
-        <item quantity="one">%d godz.</item>
-        <item quantity="few">%d godz.</item>
-        <item quantity="many">%d godz.</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
-        <item quantity="few">%d min</item>
-        <item quantity="many">%d min</item>
     </plurals>
     <plurals name="short_num_days">
         <item quantity="other">%d dnia</item>
@@ -197,11 +173,5 @@
         <item quantity="one">%d uruchomienie</item>
         <item quantity="few">%d uruchomienia</item>
         <item quantity="many">%d uruchomień</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d tygodnia temu</item>
-        <item quantity="one">%d tydzień temu</item>
-        <item quantity="few">%d tygodnie temu</item>
-        <item quantity="many">%d tygodni temu</item>
     </plurals>
 </resources>

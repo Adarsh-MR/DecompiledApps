@@ -44,14 +44,6 @@
         <item quantity="other">ロック解除数</item>
         <item quantity="one">ロック解除数</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d時間</item>
-        <item quantity="one">%d時間</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d分</item>
-        <item quantity="one">%d分</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d 件の通知</item>
         <item quantity="one">%d 件の通知</item>
@@ -77,14 +69,6 @@
         <item quantity="one">%d時間</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d分</item>
-        <item quantity="one">%d分</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d時間</item>
-        <item quantity="one">%d時間</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
         <item quantity="other">%d分</item>
         <item quantity="one">%d分</item>
     </plurals>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d 回開く</item>
         <item quantity="one">%d 回開く</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d 週間前</item>
-        <item quantity="one">%d 週間前</item>
     </plurals>
 </resources>

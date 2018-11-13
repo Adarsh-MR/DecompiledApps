@@ -6,9 +6,9 @@
         <item quantity="few">Otvoreno %d puta</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">Postavili ste odbrojavanje za aplikacije %1$s</item>
-        <item quantity="one">Postavili ste odbrojavanje za aplikacije %1$s</item>
-        <item quantity="few">Postavili ste odbrojavanje za aplikacije %1$s</item>
+        <item quantity="other">Postavili ste tajmer za aplikaciju %1$s</item>
+        <item quantity="one">Postavili ste tajmer za aplikaciju %1$s</item>
+        <item quantity="few">Postavili ste tajmer za aplikaciju %1$s</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
         <item quantity="other">Još %d minuta</item>
@@ -36,9 +36,9 @@
         <item quantity="few">Primljene su %d obavijesti</item>
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
-        <item quantity="other">Postavljeno je %d odbrojavanja za aplikaciju</item>
-        <item quantity="one">Postavljeno je %d odbrojavanje za aplikaciju</item>
-        <item quantity="few">Postavljena su %d odbrojavanja za aplikaciju</item>
+        <item quantity="other">Postavljeno je %d tajmera za aplikaciju</item>
+        <item quantity="one">Postavljen je %d tajmer za aplikaciju</item>
+        <item quantity="few">Postavljena su %d tajmera za aplikaciju</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">obavijesti</item>
@@ -54,16 +54,6 @@
         <item quantity="other">otključavanja</item>
         <item quantity="one">otključavanje</item>
         <item quantity="few">otključavanja</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d sati</item>
-        <item quantity="one">%d sat</item>
-        <item quantity="few">%d sata</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d minuta</item>
-        <item quantity="one">%d minuta</item>
-        <item quantity="few">%d minute</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d obavijesti</item>
@@ -99,16 +89,6 @@
         <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
         <item quantity="few">%d min</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d sati</item>
-        <item quantity="one">%d sat</item>
-        <item quantity="few">%d sata</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d minuta</item>
-        <item quantity="one">%d minuta</item>
-        <item quantity="few">%d minute</item>
     </plurals>
     <plurals name="short_num_days">
         <item quantity="other">%d dana</item>
@@ -164,10 +144,5 @@
         <item quantity="other">%d otvaranja</item>
         <item quantity="one">%d otvaranje</item>
         <item quantity="few">%d otvaranja</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">Prije %d tjedana</item>
-        <item quantity="one">Prije %d tjedan</item>
-        <item quantity="few">Prije %d tjedna</item>
     </plurals>
 </resources>

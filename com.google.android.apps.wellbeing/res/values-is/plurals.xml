@@ -44,14 +44,6 @@
         <item quantity="other">Tekin úr lás</item>
         <item quantity="one">Tekið úr lás</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d klukkustundir</item>
-        <item quantity="one">%d klukkustund</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d mínútur</item>
-        <item quantity="one">%d mínúta</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d tilkynningar</item>
         <item quantity="one">%d tilkynning</item>
@@ -77,14 +69,6 @@
         <item quantity="one">%d klst.</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d mín.</item>
-        <item quantity="one">%d mín.</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d klst.</item>
-        <item quantity="one">%d klst.</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
         <item quantity="other">%d mín.</item>
         <item quantity="one">%d mín.</item>
     </plurals>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">Opnað %d sinnum</item>
         <item quantity="one">Opnað %d sinni</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">Fyrir %d vikum</item>
-        <item quantity="one">Fyrir %d viku</item>
     </plurals>
 </resources>

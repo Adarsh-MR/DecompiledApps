@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="app_launch_count_label">
-        <item quantity="other">%dবাৰ খোলা হৈছে</item>
-        <item quantity="one">%dবাৰ খোলা হৈছে</item>
+        <item quantity="other">%d বাৰ খোলা হৈছে</item>
+        <item quantity="one">%d বাৰ খোলা হৈছে</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
         <item quantity="other">আপুনি %1$sৰ বাবে এপ্ টাইমাৰ ছেট কৰিছে</item>
@@ -44,14 +44,6 @@
         <item quantity="other">আনলক</item>
         <item quantity="one">আনলক</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d ঘণ্টা</item>
-        <item quantity="one">%d ঘণ্টা</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d মিনিট</item>
-        <item quantity="one">%d মিনিট</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%dটা জাননী</item>
         <item quantity="one">%dটা জাননী</item>
@@ -68,17 +60,9 @@
         <item quantity="other">, আৰু %2$sৰ পৰা %3$sৰ ভিতৰত %1$dটা জাননী লাভ কৰিছে</item>
         <item quantity="one">, আৰু %2$sৰ পৰা %3$sৰ ভিতৰত %1$dটা জাননী লাভ কৰিছে</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ঘ.</item>
-        <item quantity="one">%d ঘ.</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d মিনিট</item>
-        <item quantity="one">%d মিনিট</item>
-    </plurals>
     <plurals name="show_all_apps">
-        <item quantity="other">সকলো %dটা এপ্ দেখুৱাওক</item>
-        <item quantity="one">সকলো %dটা এপ্ দেখুৱাওক</item>
+        <item quantity="other">%dটা এপৰ সকলো দেখুৱাওক</item>
+        <item quantity="one">%dটা এপৰ সকলো দেখুৱাওক</item>
     </plurals>
     <plurals name="touch_card_notifications">
         <item quantity="other">%d জাননী</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d বাৰ খোলা হৈছিল</item>
         <item quantity="one">%d বাৰ খোলা হৈছিল</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d সপ্তাহৰ আগত</item>
-        <item quantity="one">%d সপ্তাহৰ আগত</item>
     </plurals>
 </resources>

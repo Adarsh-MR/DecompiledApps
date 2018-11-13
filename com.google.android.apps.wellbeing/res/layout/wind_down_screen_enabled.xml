@@ -11,12 +11,12 @@
     </LinearLayout>
     <TextView android:textAppearance="?textAppearanceSubhead2" android:textColor="@color/google_blue600" android:id="@id/wind_down_settings" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wind_down_settings_heading" android:paddingHorizontal="@dimen/settings_side_margin" android:paddingVertical="@dimen/default_margin" />
     <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/enable_grayscale" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingVertical="20.0dip">
-        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/quantum_ic_tonality_grey600_24" android:importantForAccessibility="no" android:paddingHorizontal="@dimen/default_screen_margin" />
+        <ImageView android:src="@drawable/quantum_ic_tonality_grey600_24" android:importantForAccessibility="no" style="@style/ListItemIcon24dp" />
         <TextView android:textAppearance="?textAppearanceBody1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/grayscale_item_label" />
         <android.support.v7.widget.SwitchCompat android:gravity="end" android:id="@id/switch_grayscale" android:focusable="false" android:clickable="false" android:layout_width="0.0dip" android:layout_height="wrap_content" android:checked="true" android:layout_weight="1.0" android:paddingHorizontal="@dimen/default_screen_margin" />
     </LinearLayout>
     <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/enable_dnd" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingVertical="20.0dip">
-        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/quantum_ic_do_not_disturb_on_grey600_24" android:importantForAccessibility="no" android:paddingHorizontal="@dimen/default_screen_margin" />
+        <ImageView android:src="@drawable/quantum_ic_do_not_disturb_on_grey600_24" android:importantForAccessibility="no" style="@style/ListItemIcon24dp" />
         <TextView android:textAppearance="?textAppearanceBody1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dnd_item_label" />
         <android.support.v7.widget.SwitchCompat android:gravity="end" android:id="@id/switch_dnd" android:focusable="false" android:clickable="false" android:layout_width="0.0dip" android:layout_height="fill_parent" android:checked="true" android:layout_weight="1.0" android:paddingHorizontal="@dimen/default_screen_margin" />
     </LinearLayout>

@@ -5,8 +5,8 @@
         <item quantity="one">Kuvulwe ngezikhathi ezingu-%d</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">Usethe isibali sikhathi sohlelo lokusebeza le-%1$s</item>
-        <item quantity="one">Usethe isibali sikhathi sohlelo lokusebeza le-%1$s</item>
+        <item quantity="other">Usethe sinqamulisikhathi se-%1$s</item>
+        <item quantity="one">Usethe sinqamulisikhathi se-%1$s</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
         <item quantity="other">%d amaminithi asele</item>
@@ -29,8 +29,8 @@
         <item quantity="one">%d izaziso ezitholiwe</item>
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
-        <item quantity="other">%d izibali sikhathi zohlelo lokusebenza ezisethiwe</item>
-        <item quantity="one">%d izibali sikhathi zohlelo lokusebenza ezisethiwe</item>
+        <item quantity="other">%d isinqamulisikhathi se-App</item>
+        <item quantity="one">%d isinqamulisikhathi se-App</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">Izaziso</item>
@@ -43,14 +43,6 @@
     <plurals name="device_unlocks_label">
         <item quantity="other">Iyavula</item>
         <item quantity="one">Iyavula</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d amahora</item>
-        <item quantity="one">%d amahora</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d amaminithi</item>
-        <item quantity="one">%d amaminithi</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d izaziso</item>
@@ -79,14 +71,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d amaminithi</item>
         <item quantity="one">%d amaminithi</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ihora</item>
-        <item quantity="one">%d ihora</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d iminithi</item>
-        <item quantity="one">%d iminithi</item>
     </plurals>
     <plurals name="short_num_days">
         <item quantity="other">%dd</item>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d vula</item>
         <item quantity="one">%d vula</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d amaviki edlule</item>
-        <item quantity="one">%d amaviki edlule</item>
     </plurals>
 </resources>

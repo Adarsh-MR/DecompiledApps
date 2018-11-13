@@ -66,18 +66,6 @@
         <item quantity="two">ביטולי נעילה</item>
         <item quantity="many">ביטולי נעילה</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d שעות</item>
-        <item quantity="one">שעה אחת (%d)</item>
-        <item quantity="two">%d שעות</item>
-        <item quantity="many">%d שעות</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d דקות</item>
-        <item quantity="one">דקה אחת (%d)</item>
-        <item quantity="two">%d דקות</item>
-        <item quantity="many">%d דקות</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d התראות</item>
         <item quantity="one">התראה אחת (%d)</item>
@@ -119,18 +107,6 @@
         <item quantity="one">דקה %d</item>
         <item quantity="two">%d דקות</item>
         <item quantity="many">%d דקות</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d שע’</item>
-        <item quantity="one">%d שע’</item>
-        <item quantity="two">%d שע’</item>
-        <item quantity="many">%d שע’</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d ד’</item>
-        <item quantity="one">%d ד’</item>
-        <item quantity="two">%d ד’</item>
-        <item quantity="many">%d ד’</item>
     </plurals>
     <plurals name="short_num_days">
         <item quantity="other">%d ימים</item>
@@ -197,11 +173,5 @@
         <item quantity="one">פתיחה אחת (%d)</item>
         <item quantity="two">%d פתיחות</item>
         <item quantity="many">%d פתיחות</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">לפני %d שבועות</item>
-        <item quantity="one">לפני שבוע (%d)</item>
-        <item quantity="two">לפני %d שבועות</item>
-        <item quantity="many">לפני %d שבועות</item>
     </plurals>
 </resources>

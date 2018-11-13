@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation android:id="@id/dashboard_nav" app:startDestination="@id/dashboard_fragment"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <fragment android:name="com.google.android.apps.wellbeing.dashboard.DashboardFragment" android:id="@id/dashboard_fragment" />
+    <include app:graph="@xml/nav_graph_app_details" />
+    <fragment android:name="com.google.android.apps.wellbeing.appdetails.AppDetailsFragment" android:id="@id/app_details_fragment" />
+</navigation>

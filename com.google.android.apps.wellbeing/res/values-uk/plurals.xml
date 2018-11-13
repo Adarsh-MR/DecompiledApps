@@ -66,18 +66,6 @@
         <item quantity="few">розблокування</item>
         <item quantity="many">розблокувань</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d години</item>
-        <item quantity="one">%d година</item>
-        <item quantity="few">%d години</item>
-        <item quantity="many">%d годин</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d хвилини</item>
-        <item quantity="one">%d хвилина</item>
-        <item quantity="few">%d хвилини</item>
-        <item quantity="many">%d хвилин</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d сповіщення</item>
         <item quantity="one">%d сповіщення</item>
@@ -119,18 +107,6 @@
         <item quantity="one">%d хвилина</item>
         <item quantity="few">%d хвилини</item>
         <item quantity="many">%d хвилин</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d год</item>
-        <item quantity="one">%d год</item>
-        <item quantity="few">%d год</item>
-        <item quantity="many">%d год</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d хв</item>
-        <item quantity="one">%d хв</item>
-        <item quantity="few">%d хв</item>
-        <item quantity="many">%d хв</item>
     </plurals>
     <plurals name="short_num_days">
         <item quantity="other">%d днів</item>
@@ -197,11 +173,5 @@
         <item quantity="one">%d відкривання</item>
         <item quantity="few">%d відкривання</item>
         <item quantity="many">%d відкривань</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d тижня тому</item>
-        <item quantity="one">%d тиждень тому</item>
-        <item quantity="few">%d тижні тому</item>
-        <item quantity="many">%d тижнів тому</item>
     </plurals>
 </resources>

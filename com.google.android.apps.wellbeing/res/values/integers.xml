@@ -13,7 +13,7 @@
     <integer name="design_tab_indicator_anim_duration_ms">300</integer>
     <integer name="google_btn_anim_delay_ms">100</integer>
     <integer name="google_btn_anim_duration_ms">100</integer>
-    <integer name="google_play_services_version">14543000</integer>
+    <integer name="google_play_services_version">14894000</integer>
     <integer name="hide_password_duration">320</integer>
     <integer name="mtrl_btn_anim_delay_ms">100</integer>
     <integer name="mtrl_btn_anim_duration_ms">100</integer>
@@ -21,7 +21,6 @@
     <integer name="mtrl_tab_indicator_anim_duration_ms">250</integer>
     <integer name="no_limit_placeholder">-1</integer>
     <integer name="pie_chart_label_distance">30</integer>
-    <integer name="pie_chart_label_size">40</integer>
     <integer name="pie_chart_margin_horizontal">100</integer>
     <integer name="pie_chart_margin_vertical">60</integer>
     <integer name="show_password_duration">200</integer>

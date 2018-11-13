@@ -5,8 +5,8 @@
         <item quantity="one">Megnyitva %d alkalommal</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">Alkalmazásidőzítést állított be ehhez: %1$s</item>
-        <item quantity="one">A(z) %1$s a nap hátralévő részében szüneteltetve lesz</item>
+        <item quantity="other">Alkalmazásidőzítőt állított be ehhez: %1$s</item>
+        <item quantity="one">A(z) %1$s a nap hátralévő részében szünetel</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
         <item quantity="other">%d perc van hátra</item>
@@ -44,14 +44,6 @@
         <item quantity="other">feloldás</item>
         <item quantity="one">feloldás</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d óra</item>
-        <item quantity="one">%d óra</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d perc</item>
-        <item quantity="one">%d perc</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d értesítés</item>
         <item quantity="one">%d értesítés</item>
@@ -79,14 +71,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d perc</item>
         <item quantity="one">%d perc</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ó</item>
-        <item quantity="one">%d ó</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d p</item>
-        <item quantity="one">%d p</item>
     </plurals>
     <plurals name="short_num_days">
         <item quantity="other">%d n</item>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d megnyitás</item>
         <item quantity="one">%d megnyitás</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d héttel ezelőtt</item>
-        <item quantity="one">%d héttel ezelőtt</item>
     </plurals>
 </resources>

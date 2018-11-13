@@ -37,20 +37,12 @@
         <item quantity="one">నోటిఫికేషన్</item>
     </plurals>
     <plurals name="device_unlock_count_label">
-        <item quantity="other">%d అన్‌‌లాక్ అవుతుంది</item>
+        <item quantity="other">%d సార్లు అన్‌‌లాక్ అయింది</item>
         <item quantity="one">%d అన్‌లాక్</item>
     </plurals>
     <plurals name="device_unlocks_label">
         <item quantity="other">అన్‌లాక్ అవుతుంది</item>
         <item quantity="one">అన్‌లాక్ చేయండి</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d గంటలు</item>
-        <item quantity="one">%d గంట</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d నిమిషాలు</item>
-        <item quantity="one">%d నిమిషం</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d నోటిఫికేషన్‌లు</item>
@@ -78,14 +70,6 @@
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d నిమిషాలు</item>
-        <item quantity="one">%d నిమిషం</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d గంట</item>
-        <item quantity="one">%d గంట</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d నిమిషం</item>
         <item quantity="one">%d నిమిషం</item>
     </plurals>
     <plurals name="short_num_days">
@@ -121,8 +105,8 @@
         <item quantity="one">%dవా</item>
     </plurals>
     <plurals name="show_all_apps">
-        <item quantity="other">అన్ని %d యాప్‌లను చూపండి</item>
-        <item quantity="one">%d యాప్‌ను చూపండి</item>
+        <item quantity="other">అన్ని %d యాప్‌లను చూపు</item>
+        <item quantity="one">%d యాప్‌ను చూపు</item>
     </plurals>
     <plurals name="touch_card_notifications">
         <item quantity="other">%d నోటిఫికేషన్‌లు</item>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d తెరవబడతాయి</item>
         <item quantity="one">%d తెరవబడుతుంది</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d వారాల క్రితం</item>
-        <item quantity="one">%d వారం క్రితం</item>
     </plurals>
 </resources>

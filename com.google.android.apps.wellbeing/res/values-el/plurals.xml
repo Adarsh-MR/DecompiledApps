@@ -44,14 +44,6 @@
         <item quantity="other">Ξεκλειδώματα</item>
         <item quantity="one">Ξεκλείδωμα</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d ώρες</item>
-        <item quantity="one">%d ώρα</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d λεπτά</item>
-        <item quantity="one">%d λεπτό</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d ειδοποιήσεις</item>
         <item quantity="one">%d ειδοποίηση</item>
@@ -79,14 +71,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d λεπτά</item>
         <item quantity="one">%d λεπτό</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ω.</item>
-        <item quantity="one">%d ω.</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d λ.</item>
-        <item quantity="one">%d λ.</item>
     </plurals>
     <plurals name="short_num_days">
         <item quantity="other">%d ημ.</item>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d ανοίγματα</item>
         <item quantity="one">%d άνοιγμα</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">πριν από %d εβδομάδες</item>
-        <item quantity="one">πριν από %d εβδομάδα</item>
     </plurals>
 </resources>

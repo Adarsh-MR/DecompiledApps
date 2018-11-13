@@ -5,8 +5,8 @@
         <item quantity="one">%d ጊዜዎች ተከፍቷል</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">ለ%1$s የመተግበሪያ ሰዓት ቆጣሪ አቀናብረዋል</item>
-        <item quantity="one">ለ%1$s የመተግበሪያ ሰዓት ቆጣሪ አቀናብረዋል</item>
+        <item quantity="other">ለ%1$s የመተግበሪያ ጊዜ ቆጣሪ አቀናብረዋል</item>
+        <item quantity="one">ለ%1$s የመተግበሪያ ጊዜ ቆጣሪ አቀናብረዋል</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
         <item quantity="other">%d ደቂቃዎች ቀርተዋል</item>
@@ -29,8 +29,8 @@
         <item quantity="one">%d ማሳወቂያዎች ደርሰዋል</item>
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
-        <item quantity="other">%d የመተግበሪያ ሰዓት ቆጣሪዎች ተቀናብረዋል</item>
-        <item quantity="one">%d የመተግበሪያ ሰዓት ቆጣሪዎች ተቀናብረዋል</item>
+        <item quantity="other">%d የመተግበሪያ ጊዜ ቆጣሪዎች ተቀናብረዋል</item>
+        <item quantity="one">%d የመተግበሪያ ጊዜ ቆጣሪዎች ተቀናብረዋል</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">ማሳወቂያዎች</item>
@@ -43,14 +43,6 @@
     <plurals name="device_unlocks_label">
         <item quantity="other">መክፈቶች</item>
         <item quantity="one">መክፈቶች</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d ሰዓቶች</item>
-        <item quantity="one">%d ሰዓቶች</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d ደቂቃዎች</item>
-        <item quantity="one">%d ደቂቃዎች</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d ማሳወቂያዎች</item>
@@ -79,14 +71,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d ደቂቃዎች</item>
         <item quantity="one">%d ደቂቃዎች</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ሰዓ</item>
-        <item quantity="one">%d ሰዓ</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d ደቂቃ</item>
-        <item quantity="one">%d ደቂቃ</item>
     </plurals>
     <plurals name="short_num_days">
         <item quantity="other">%d ቀ</item>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d ይከፍታል</item>
         <item quantity="one">%d ይከፍታል</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d ሳምንታት በፊት</item>
-        <item quantity="one">%d ሳምንታት በፊት</item>
     </plurals>
 </resources>

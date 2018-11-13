@@ -44,14 +44,6 @@
         <item quantity="other">Ապակողպում</item>
         <item quantity="one">Ապակողպում</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d ժամ</item>
-        <item quantity="one">%d ժամ</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d րոպե</item>
-        <item quantity="one">%d րոպե</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d ծանուցում</item>
         <item quantity="one">%d ծանուցում</item>
@@ -68,14 +60,6 @@
         <item quantity="other">, և %1$d ծանուցում՝ %2$s-ից %3$s-ը ժամանակահատվածում</item>
         <item quantity="one">, և %1$d ծանուցում՝ %2$s-ից %3$s-ը ժամանակահատվածում</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ժ</item>
-        <item quantity="one">%d ժ</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d ր</item>
-        <item quantity="one">%d ր</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">Ցուցադրել բոլոր հավելվածները (%d)</item>
         <item quantity="one">Ցուցադրել բոլոր հավելվածները (%d)</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d մեկնարկ</item>
         <item quantity="one">%d մեկնարկ</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d շաբաթ առաջ</item>
-        <item quantity="one">%d շաբաթ առաջ</item>
     </plurals>
 </resources>

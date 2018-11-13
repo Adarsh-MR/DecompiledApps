@@ -9,12 +9,12 @@
         <item quantity="many">تمّ فتح التطبيق %d مرّة</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">لقد ضبطت موقِّت لتطبيق %1$s.</item>
-        <item quantity="zero">لقد ضبطت موقِّت لتطبيق %1$s.</item>
+        <item quantity="other">لقد ضبطت موقِّت استخدام لتطبيق %1$s.</item>
+        <item quantity="zero">لقد ضبطت موقِّت استخدام لتطبيق %1$s.</item>
         <item quantity="one">سيتم إيقاف %1$s مؤقتًا لبقية اليوم.</item>
-        <item quantity="two">لقد ضبطت موقِّت لتطبيق %1$s.</item>
-        <item quantity="few">لقد ضبطت موقِّت لتطبيق %1$s.</item>
-        <item quantity="many">لقد ضبطت موقِّت لتطبيق %1$s.</item>
+        <item quantity="two">لقد ضبطت موقِّت استخدام لتطبيق %1$s.</item>
+        <item quantity="few">لقد ضبطت موقِّت استخدام لتطبيق %1$s.</item>
+        <item quantity="many">لقد ضبطت موقِّت استخدام لتطبيق %1$s.</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
         <item quantity="other">تتبقى %d دقيقة.</item>
@@ -57,12 +57,12 @@
         <item quantity="many">تمّ تلقي %d إشعارًا</item>
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
-        <item quantity="other">تمّ ضبط موقّتات %d تطبيق</item>
-        <item quantity="zero">لم يتمّ ضبط أيّ موقّت تطبيق</item>
-        <item quantity="one">تمّ ضبط موقّت تطبيق واحد</item>
-        <item quantity="two">تمّ ضبط موقّتات تطبيقين (%d)</item>
-        <item quantity="few">تمّ ضبط موقّتات %d تطبيقات</item>
-        <item quantity="many">تمّ ضبط موقّتات %d تطبيقًا</item>
+        <item quantity="other">تمّ ضبط موقّتات استخدام %d تطبيق</item>
+        <item quantity="zero">لم يتمّ ضبط أيّ موقّت استخدام تطبيق</item>
+        <item quantity="one">تمّ ضبط موقّت استخدام تطبيق واحد</item>
+        <item quantity="two">تمّ ضبط موقّتي استخدام تطبيقين (%d)</item>
+        <item quantity="few">تمّ ضبط موقّتات استخدام %d تطبيقات</item>
+        <item quantity="many">تمّ ضبط موقّتات استخدام %d تطبيقًا</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">إشعار</item>
@@ -87,22 +87,6 @@
         <item quantity="two">مرّتان لإلغاء القفل</item>
         <item quantity="few">مرّات لإلغاء القفل</item>
         <item quantity="many">مرّة لإلغاء القفل</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d ساعة</item>
-        <item quantity="zero">%d ساعة</item>
-        <item quantity="one">%d ساعة</item>
-        <item quantity="two">ساعتان (%d)</item>
-        <item quantity="few">%d ساعات</item>
-        <item quantity="many">%d ساعة</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d دقيقة</item>
-        <item quantity="zero">%d دقيقة</item>
-        <item quantity="one">%d دقيقة</item>
-        <item quantity="two">دقيقتان (%d)</item>
-        <item quantity="few">%d دقائق</item>
-        <item quantity="many">%d دقيقة</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d إشعار</item>
@@ -159,22 +143,6 @@
         <item quantity="two">عدد الدقائق: %d</item>
         <item quantity="few">عدد الدقائق: %d</item>
         <item quantity="many">عدد الدقائق: %d</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ساعة</item>
-        <item quantity="zero">%d ساعة</item>
-        <item quantity="one">%d ساعة</item>
-        <item quantity="two">ساعتان (%d)</item>
-        <item quantity="few">%d ساعات</item>
-        <item quantity="many">%d ساعة</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d دقيقة</item>
-        <item quantity="zero">%d دقيقة</item>
-        <item quantity="one">%d دقيقة</item>
-        <item quantity="two">دقيقتان (%d)</item>
-        <item quantity="few">%d دقائق</item>
-        <item quantity="many">%d دقيقة</item>
     </plurals>
     <plurals name="short_num_days">
         <item quantity="other">%d ي</item>
@@ -263,13 +231,5 @@
         <item quantity="two">عمليتا فتح (%d)</item>
         <item quantity="few">%d عمليات فتح</item>
         <item quantity="many">%d عملية فتح</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">قبل %d أسبوع</item>
-        <item quantity="zero">قبل %d أسبوع</item>
-        <item quantity="one">قبل %d أسبوع</item>
-        <item quantity="two">قبل أسبوعين (%d)</item>
-        <item quantity="few">قبل %d أسابيع</item>
-        <item quantity="many">قبل %d أسبوعًا</item>
     </plurals>
 </resources>

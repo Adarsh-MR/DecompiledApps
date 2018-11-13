@@ -44,14 +44,6 @@
         <item quantity="other">Kiliddən çıxarmalar</item>
         <item quantity="one">Kiliddən çıxarma</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d saat</item>
-        <item quantity="one">%d saat</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d dəqiqə</item>
-        <item quantity="one">%d dəqiqə</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d bildiriş</item>
         <item quantity="one">%d bildiriş</item>
@@ -68,14 +60,6 @@
         <item quantity="other">, ə %2$s - %3$s radələrində %1$d bildiriş</item>
         <item quantity="one">, və %2$s - %3$s radələrində %1$d bildiriş</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d saat</item>
-        <item quantity="one">%d saat</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d dəq</item>
-        <item quantity="one">%d dəq</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">%d tətbiqin hamısını göstərin</item>
         <item quantity="one">%d tətbiqi göstərin</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d açılmış kart</item>
         <item quantity="one">%d açılmış kart</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d həftə əvvəl</item>
-        <item quantity="one">%d həftə əvvəl</item>
     </plurals>
 </resources>

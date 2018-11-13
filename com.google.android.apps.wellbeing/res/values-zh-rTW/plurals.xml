@@ -44,14 +44,6 @@
         <item quantity="other">解鎖次數</item>
         <item quantity="one">解鎖次數</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d 小時</item>
-        <item quantity="one">%d 小時</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d 分鐘</item>
-        <item quantity="one">%d 分鐘</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d 則通知</item>
         <item quantity="one">%d 則通知</item>
@@ -77,14 +69,6 @@
         <item quantity="one">%d 小時</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d 分鐘</item>
-        <item quantity="one">%d 分鐘</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d 小時</item>
-        <item quantity="one">%d 小時</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
         <item quantity="other">%d 分鐘</item>
         <item quantity="one">%d 分鐘</item>
     </plurals>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">開啟 %d 次</item>
         <item quantity="one">開啟 %d 次</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d 週前</item>
-        <item quantity="one">%d 週前</item>
     </plurals>
 </resources>

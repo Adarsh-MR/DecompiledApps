@@ -29,8 +29,8 @@
         <item quantity="one">%d varsel mottatt</item>
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
-        <item quantity="other">%d appnedtellinger er angitt</item>
-        <item quantity="one">1 appnedtelling er angitt</item>
+        <item quantity="other">%d apptimer er stilt inn</item>
+        <item quantity="one">1 apptimer er stil inn</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">Varsler</item>
@@ -43,14 +43,6 @@
     <plurals name="device_unlocks_label">
         <item quantity="other">Opplåsinger</item>
         <item quantity="one">Opplåsing</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d timer</item>
-        <item quantity="one">%d time</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d minutter</item>
-        <item quantity="one">%d minutt</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d varsler</item>
@@ -68,14 +60,6 @@
         <item quantity="other">og %1$d varsler mellom %2$s og %3$s</item>
         <item quantity="one">og %1$d varsel mellom %2$s og %3$s</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d t</item>
-        <item quantity="one">%d t</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">Vis alle de %d appene</item>
         <item quantity="one">Vis %d app</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d åpne</item>
         <item quantity="one">%d åpen</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">For %d uker siden</item>
-        <item quantity="one">For %d uke siden</item>
     </plurals>
 </resources>

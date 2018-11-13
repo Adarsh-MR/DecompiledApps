@@ -44,14 +44,6 @@
         <item quantity="other">Құлыпты ашу</item>
         <item quantity="one">Құлыпты ашу</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d сағат</item>
-        <item quantity="one">%d сағат</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d минут</item>
-        <item quantity="one">%d минут</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d хабарландыру</item>
         <item quantity="one">%d хабарландыру</item>
@@ -68,14 +60,6 @@
         <item quantity="other">сондай-ақ %2$s және %3$s арасында %1$d хабарландыру алынды</item>
         <item quantity="one">сондай-ақ %2$s және %3$s арасында %1$d хабарландыру алынды</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d сағ</item>
-        <item quantity="one">%d сағ</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d мин</item>
-        <item quantity="one">%d мин</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">Барлық %d қолданбаны көрсету</item>
         <item quantity="one">%d қолданбаны көрсету</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d рет ашылады</item>
         <item quantity="one">%d рет ашылады</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d апта бұрын</item>
-        <item quantity="one">%d апта бұрын</item>
     </plurals>
 </resources>

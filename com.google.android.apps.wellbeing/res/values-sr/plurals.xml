@@ -6,9 +6,9 @@
         <item quantity="few">Отворено %d пута</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">Подесили сте тајмер за апликацију %1$s</item>
-        <item quantity="one">Подесили сте тајмер за апликацију %1$s</item>
-        <item quantity="few">Подесили сте тајмер за апликацију %1$s</item>
+        <item quantity="other">Подесили сте тајмер апликације %1$s</item>
+        <item quantity="one">Подесили сте тајмер апликације %1$s</item>
+        <item quantity="few">Подесили сте тајмер апликације %1$s</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
         <item quantity="other">Још %d минута</item>
@@ -36,9 +36,9 @@
         <item quantity="few">Примљена су %d обавештења</item>
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
-        <item quantity="other">%d тајмера за апликације је подешено</item>
-        <item quantity="one">%d тајмер за апликације је подешен</item>
-        <item quantity="few">%d тајмера за апликације су подешена</item>
+        <item quantity="other">%d тајмера апликације је подешено</item>
+        <item quantity="one">%d тајмер апликације је подешен</item>
+        <item quantity="few">%d тајмера апликације су подешена</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">Обавештења</item>
@@ -54,16 +54,6 @@
         <item quantity="other">Откључавања</item>
         <item quantity="one">Откључавање</item>
         <item quantity="few">Откључавања</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d сати</item>
-        <item quantity="one">%d сат</item>
-        <item quantity="few">%d сата</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d минута</item>
-        <item quantity="one">%d минут</item>
-        <item quantity="few">%d минута</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d обавештења</item>
@@ -96,16 +86,6 @@
         <item quantity="few">%d сата</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d мин</item>
-        <item quantity="one">%d мин</item>
-        <item quantity="few">%d мин</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ч</item>
-        <item quantity="one">%d ч</item>
-        <item quantity="few">%d ч</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
         <item quantity="other">%d мин</item>
         <item quantity="one">%d мин</item>
         <item quantity="few">%d мин</item>
@@ -164,10 +144,5 @@
         <item quantity="other">%d отварања</item>
         <item quantity="one">%d отварање</item>
         <item quantity="few">%d отварања</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">Пре %d недеља</item>
-        <item quantity="one">Пре %d недеље</item>
-        <item quantity="few">Пре %d недеље</item>
     </plurals>
 </resources>

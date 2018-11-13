@@ -75,10 +75,14 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16.0dip</dimen>
     <dimen name="abc_text_size_title_material">20.0sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20.0dip</dimen>
-    <dimen name="alert_dialog_width">300.0dip</dimen>
+    <dimen name="alert_dialog_width">336.0dip</dimen>
     <dimen name="app_icon_height">32.0dip</dimen>
     <dimen name="app_icon_width">32.0dip</dimen>
+    <dimen name="bar_chart_domain_axis_label_offset">8.0dip</dimen>
+    <dimen name="bar_chart_domain_axis_tick_length">4.0dip</dimen>
+    <dimen name="bar_chart_domain_axis_tick_width">2.0dip</dimen>
     <dimen name="bar_chart_height">132.0dip</dimen>
+    <dimen name="bar_chart_horizontal_padding">20.0dip</dimen>
     <dimen name="bar_chart_touch_card_corner_radius">16.0dip</dimen>
     <dimen name="cardview_compat_inset_shadow">1.0dip</dimen>
     <dimen name="cardview_default_elevation">2.0dip</dimen>
@@ -176,6 +180,7 @@
     <dimen name="google_chip_protected_elevation">1.0dip</dimen>
     <dimen name="google_chip_protected_pressed_translation_z">2.0dip</dimen>
     <dimen name="google_chip_suggestive_text_size">14.0sp</dimen>
+    <dimen name="google_dialog_corner_radius">8.0dip</dimen>
     <dimen name="google_fab_branded_image_size">36.0dip</dimen>
     <dimen name="google_fab_elevation">6.0dip</dimen>
     <dimen name="google_fab_secondary_elevation">1.0dip</dimen>
@@ -238,12 +243,18 @@
     <dimen name="mtrl_card_spacing">8.0dip</dimen>
     <dimen name="mtrl_chip_pressed_translation_z">3.0dip</dimen>
     <dimen name="mtrl_chip_text_size">14.0sp</dimen>
+    <item type="dimen" name="mtrl_emphasis_disabled">0.38</item>
+    <item type="dimen" name="mtrl_emphasis_high_type">0.87</item>
+    <item type="dimen" name="mtrl_emphasis_medium">0.6</item>
     <dimen name="mtrl_fab_elevation">6.0dip</dimen>
     <dimen name="mtrl_fab_translation_z_hovered_focused">2.0dip</dimen>
     <dimen name="mtrl_fab_translation_z_pressed">6.0dip</dimen>
     <dimen name="mtrl_navigation_elevation">0.0dip</dimen>
     <dimen name="mtrl_navigation_item_horizontal_padding">22.0dip</dimen>
     <dimen name="mtrl_navigation_item_icon_padding">14.0dip</dimen>
+    <dimen name="mtrl_shape_corner_size_large_component">0.0dip</dimen>
+    <dimen name="mtrl_shape_corner_size_medium_component">4.0dip</dimen>
+    <dimen name="mtrl_shape_corner_size_small_component">4.0dip</dimen>
     <dimen name="mtrl_snackbar_background_corner_radius">4.0dip</dimen>
     <dimen name="mtrl_snackbar_margin">8.0dip</dimen>
     <dimen name="mtrl_textinput_box_bottom_offset">3.0dip</dimen>
@@ -271,6 +282,10 @@
     <dimen name="notification_top_pad">10.0dip</dimen>
     <dimen name="notification_top_pad_large_text">5.0dip</dimen>
     <dimen name="pie_chart_height">280.0dip</dimen>
+    <dimen name="pie_chart_highlighted_stroke_width">6.0dip</dimen>
+    <dimen name="pie_chart_label_selection_padding">16.0dip</dimen>
+    <dimen name="pie_chart_stroke_width">4.0dip</dimen>
+    <dimen name="pie_chart_text_size">14.0sp</dimen>
     <dimen name="place_autocomplete_button_padding">16.0dip</dimen>
     <dimen name="place_autocomplete_powered_by_google_height">40.0dip</dimen>
     <dimen name="place_autocomplete_powered_by_google_start">16.0dip</dimen>
@@ -302,9 +317,7 @@
     <dimen name="tooltip_vertical_padding">6.5dip</dimen>
     <dimen name="tooltip_y_offset_non_touch">0.0dip</dimen>
     <dimen name="tooltip_y_offset_touch">16.0dip</dimen>
-    <dimen name="touch_card_horizontal_padding">16.0dip</dimen>
     <dimen name="touch_card_shadow_blur_radius">8.0dip</dimen>
-    <dimen name="touch_card_vertical_padding">6.0dip</dimen>
     <dimen name="wind_down_icon_height">24.0dip</dimen>
     <dimen name="wind_down_icon_width">24.0dip</dimen>
 </resources>

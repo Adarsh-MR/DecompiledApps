@@ -5,7 +5,7 @@
         <item quantity="one">Opened %d time</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">You set an app timer for %1$s</item>
+        <item quantity="other">You set an App Timer for %1$s</item>
         <item quantity="one">%1$s will be paused for the rest of the day</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
@@ -29,8 +29,8 @@
         <item quantity="one">%d notification received</item>
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
-        <item quantity="other">%d app timers set</item>
-        <item quantity="one">One app timer set</item>
+        <item quantity="other">%d App Timers set</item>
+        <item quantity="one">One App Timer set</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">Notifications</item>
@@ -43,14 +43,6 @@
     <plurals name="device_unlocks_label">
         <item quantity="other">Unlocks</item>
         <item quantity="one">Unlock</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d hours</item>
-        <item quantity="one">%d hour</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d minutes</item>
-        <item quantity="one">%d minute</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d notifications</item>
@@ -78,14 +70,6 @@
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d mins</item>
-        <item quantity="one">%d min</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d hr</item>
-        <item quantity="one">%d hr</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
     </plurals>
     <plurals name="short_num_days">
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d opens</item>
         <item quantity="one">%d open</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d weeks ago</item>
-        <item quantity="one">%d week ago</item>
     </plurals>
 </resources>

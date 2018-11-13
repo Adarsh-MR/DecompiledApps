@@ -55,16 +55,6 @@
         <item quantity="zero">atbloķēšanas reizes</item>
         <item quantity="one">atbloķēšanas reize</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d stundas</item>
-        <item quantity="zero">%d stundas</item>
-        <item quantity="one">%d stunda</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d minūtes</item>
-        <item quantity="zero">%d minūtes</item>
-        <item quantity="one">%d minūte</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d paziņojumi</item>
         <item quantity="zero">%d paziņojumu</item>
@@ -99,16 +89,6 @@
         <item quantity="other">%d min</item>
         <item quantity="zero">%d min</item>
         <item quantity="one">%d min</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d h</item>
-        <item quantity="zero">%d h</item>
-        <item quantity="one">%d h</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d min</item>
-        <item quantity="zero">%d min</item>
-        <item quantity="one">%d min</item>
     </plurals>
     <plurals name="short_num_days">
         <item quantity="other">%d d</item>
@@ -164,10 +144,5 @@
         <item quantity="other">%d atvēršanas reizes</item>
         <item quantity="zero">%d atvēršanas reizes</item>
         <item quantity="one">%d atvēršanas reize</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">pirms %d nedēļām</item>
-        <item quantity="zero">pirms %d nedēļām</item>
-        <item quantity="one">pirms %d nedēļas</item>
     </plurals>
 </resources>

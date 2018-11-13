@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <include android:visibility="gone" layout="@layout/dashboard_usage_access_required" />
-    <include android:visibility="gone" layout="@layout/dashboard_usage" />
+    <include android:id="@id/usage_access_required" android:visibility="gone" layout="@layout/usage_access_required" />
+    <include android:id="@id/usage_dashboard" android:visibility="gone" layout="@layout/dashboard_usage" />
 </LinearLayout>

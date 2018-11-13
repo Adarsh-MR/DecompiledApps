@@ -5,7 +5,7 @@
         <item quantity="one">Hapur %d herë</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">Ke caktuar një kohëmatës aplikacioni për %1$s</item>
+        <item quantity="other">Ke caktuar një kronometër aplikacioni për %1$s</item>
         <item quantity="one">%1$s do të vendoset në pauzë për pjesën e mbetur të ditës</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
@@ -29,8 +29,8 @@
         <item quantity="one">%d njoftim i marrë</item>
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
-        <item quantity="other">%d kohëmatës aplikacioni të caktuar</item>
-        <item quantity="one">1 kohëmatës aplikacioni i caktuar</item>
+        <item quantity="other">%d kronometra aplikacioni të caktuara</item>
+        <item quantity="one">1 kronometër aplikacioni i caktuar</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">Njoftime</item>
@@ -43,14 +43,6 @@
     <plurals name="device_unlocks_label">
         <item quantity="other">Shkyçje</item>
         <item quantity="one">Shkyçje</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d orë</item>
-        <item quantity="one">%d orë</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d minuta</item>
-        <item quantity="one">%d minutë</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d njoftime</item>
@@ -68,14 +60,6 @@
         <item quantity="other">dhe %1$d njoftime nga %2$s deri në %3$s</item>
         <item quantity="one">dhe %1$d njoftim nga %2$s deri në %3$s</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d orë</item>
-        <item quantity="one">%d orë</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d min.</item>
-        <item quantity="one">%d min.</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">Shfaqi të %d aplikacionet</item>
         <item quantity="one">Shfaq %d aplikacion</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d hapje</item>
         <item quantity="one">%d hapje</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d javë më parë</item>
-        <item quantity="one">%d javë më parë</item>
     </plurals>
 </resources>

@@ -45,14 +45,6 @@
         <item quantity="other">Unlocks</item>
         <item quantity="one">Unlock</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d hours</item>
-        <item quantity="one">%d hour</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d minutes</item>
-        <item quantity="one">%d minute</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d notifications</item>
         <item quantity="one">%d notification</item>
@@ -79,14 +71,6 @@
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d mins</item>
-        <item quantity="one">%d min</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d hr</item>
-        <item quantity="one">%d hr</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
     </plurals>
     <plurals name="short_num_days">
@@ -132,9 +116,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d opens</item>
         <item quantity="one">%d open</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d weeks ago</item>
-        <item quantity="one">%d week ago</item>
     </plurals>
 </resources>

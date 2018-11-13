@@ -44,14 +44,6 @@
         <item quantity="other">Отключвания</item>
         <item quantity="one">Отключване</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d часа</item>
-        <item quantity="one">%d час</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d минути</item>
-        <item quantity="one">%d минута</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d известия</item>
         <item quantity="one">%d известие</item>
@@ -77,14 +69,6 @@
         <item quantity="one">%d час</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d мин</item>
-        <item quantity="one">%d мин</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ч</item>
-        <item quantity="one">%d ч</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
         <item quantity="other">%d мин</item>
         <item quantity="one">%d мин</item>
     </plurals>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d отваряния</item>
         <item quantity="one">%d отваряне</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">преди %d седмици</item>
-        <item quantity="one">преди %d седмица</item>
     </plurals>
 </resources>

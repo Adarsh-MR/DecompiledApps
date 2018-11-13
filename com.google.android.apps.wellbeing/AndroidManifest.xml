@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" package="com.google.android.apps.wellbeing" platformBuildVersionCode="22242" platformBuildVersionName="0.2.213978811">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" package="com.google.android.apps.wellbeing" platformBuildVersionCode="28681" platformBuildVersionName="1.0.220812418">
     <uses-feature android:name="com.google.android.feature.WELLBEING" android:required="true"/>
     <uses-feature android:name="android.hardware.telephony" android:required="false"/>
     <uses-permission android:name="android.permission.WAKE_LOCK"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
     <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS"/>
     <uses-permission android:name="android.permission.OBSERVE_APP_USAGE"/>
     <uses-permission android:name="android.permission.SUSPEND_APPS"/>
@@ -16,7 +17,7 @@
     <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY"/>
     <uses-permission android:name="android.permission.VIBRATE"/>
     <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION"/>
-    <uses-feature android:name="com.google.android.feature.PIXEL_2018_EXPERIENCE" android:required="true"/>
+    <uses-feature android:name="com.google.android.feature.PIXEL_EXPERIENCE" android:required="true"/>
     <uses-feature android:glEsVersion="0x00020000" android:required="true"/>
     <application android:allowBackup="false" android:appComponentFactory="android.support.v4.app.CoreComponentFactory" android:icon="@drawable/ic_launcher_adaptive" android:label="@string/app_name" android:name="com.google.android.apps.wellbeing.Wellbeing_Application" android:supportsRtl="true" android:usesCleartextTraffic="false">
         <meta-data android:name="com.google.android.awareness.API_KEY" android:value="AIzaSyDchVNyCIS9SIxmp1pA1qWNReJll-MVH_U"/>
@@ -57,6 +58,12 @@
                 <action android:name="android.intent.action.TIME_SET"/>
             </intent-filter>
         </receiver>
+        <receiver android:exported="false" android:name="com.google.android.apps.wellbeing.appusage.impl.AppUsagePackageFullyRemovedBroadcastReceiver_Receiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_FULLY_REMOVED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
         <receiver android:exported="false" android:name="com.google.android.apps.wellbeing.autodnd.impl.AutoDndFeedbackReceiver_Receiver"/>
         <receiver android:exported="false" android:name="com.google.android.apps.wellbeing.autodnd.impl.AutoDndFenceBroadcastReceiver_Receiver">
             <intent-filter>
@@ -74,9 +81,14 @@
             </intent-filter>
         </receiver>
         <provider android:authorities="com.google.android.apps.wellbeing.autodnd.ui.provider" android:exported="true" android:name="com.google.android.apps.wellbeing.autodnd.ui.SettingsContentProvider"/>
-        <receiver android:exported="false" android:name="com.google.android.apps.wellbeing.autodnd.ui.AutoDndPackageReplacedBroadcastReceiver_Receiver">
+        <receiver android:exported="false" android:name="com.google.android.apps.wellbeing.autodnd.ui.AutoDndUiPackageReplacedBroadcastReceiver_Receiver">
             <intent-filter>
                 <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="false" android:name="com.google.android.apps.wellbeing.autodnd.ui.AutoDndUiBootCompletedBroadcastReceiver_Receiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
             </intent-filter>
         </receiver>
         <service android:directBootAware="true" android:enabled="true" android:exported="true" android:name="com.google.android.apps.wellbeing.dnd.impl.DndConditionProviderService" android:permission="android.permission.BIND_CONDITION_PROVIDER_SERVICE">
@@ -95,6 +107,10 @@
         <activity-alias android:exported="true" android:name="com.google.android.apps.wellbeing.winddown.ui.WindDownEntryActivity" android:targetActivity="com.google.android.apps.wellbeing.home.HomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.google.android.apps.wellbeing.action.WIND_DOWN"/>
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity-alias>
@@ -116,6 +132,10 @@
             <meta-data android:name="com.android.settings.icon" android:resource="@drawable/ic_digital_wellbeing_settings"/>
             <meta-data android:name="com.android.settings.bg.hint" android:resource="@color/settings_background_icon_color"/>
             <meta-data android:name="com.android.settings.bg.argb" android:value="-16725933"/>
+            <intent-filter>
+                <action android:name="com.google.android.apps.wellbeing.action.HOME"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
         </activity-alias>
         <activity-alias android:enabled="true" android:exported="false" android:name="com.google.android.apps.wellbeing.home.InternalHomeActivity" android:targetActivity="com.google.android.apps.wellbeing.home.HomeActivity"/>
         <activity-alias android:enabled="true" android:exported="true" android:name="com.google.android.apps.wellbeing.home.AppsNotificationSettingsActivity" android:targetActivity="com.google.android.apps.wellbeing.home.HomeActivity">
@@ -127,6 +147,10 @@
             <meta-data android:name="com.android.settings.title" android:resource="@string/app_notification_settings_title"/>
             <meta-data android:name="com.android.settings.summary" android:resource="@string/app_notification_settings_summary"/>
             <meta-data android:name="com.android.settings.order" android:value="-180"/>
+            <intent-filter>
+                <action android:name="com.google.android.apps.wellbeing.action.APP_USAGE_DASHBOARD"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
         </activity-alias>
         <activity-alias android:enabled="false" android:exported="true" android:name="com.google.android.apps.wellbeing.autodnd.ui.AutoDndGesturesSettingsActivity" android:targetActivity="com.google.android.apps.wellbeing.home.HomeActivity">
             <intent-filter>
@@ -136,8 +160,12 @@
             <meta-data android:name="com.android.settings.category" android:value="com.android.settings.category.ia.gestures"/>
             <meta-data android:name="com.android.settings.title" android:resource="@string/auto_dnd_gestures_settings_title"/>
             <meta-data android:name="com.android.settings.summary_uri" android:value="content://com.google.android.apps.wellbeing.autodnd.ui.provider/getText/summary"/>
-            <meta-data android:name="com.android.settings.order" android:value="5"/>
+            <meta-data android:name="com.android.settings.order" android:value="9"/>
             <meta-data android:name="com.android.settings.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
+            <intent-filter>
+                <action android:name="com.google.android.apps.wellbeing.action.AUTO_DND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
         </activity-alias>
         <receiver android:directBootAware="true" android:exported="false" android:name="com.google.android.apps.wellbeing.screen.impl.ScreenLockedBootCompletedBroadcastReceiver_Receiver">
             <intent-filter android:priority="5000">
@@ -196,6 +224,16 @@
                 <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
             </intent-filter>
         </receiver>
+        <receiver android:directBootAware="true" android:exported="false" android:name="com.google.android.apps.wellbeing.winddown.impl.WindDownLocaleChangedBroadcastReceiver_Receiver">
+            <intent-filter>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="true" android:exported="false" android:name="com.google.android.apps.wellbeing.winddown.impl.WindDownNextAlarmClockChangedBroadcastReceiver_Receiver">
+            <intent-filter>
+                <action android:name="android.app.action.NEXT_ALARM_CLOCK_CHANGED"/>
+            </intent-filter>
+        </receiver>
         <receiver android:directBootAware="true" android:exported="false" android:name="com.google.android.apps.wellbeing.winddown.impl.TurnOffWindDownBroadcastReceiver_Receiver">
             <intent-filter>
                 <action android:name="com.google.android.apps.wellbeing.winddown.action.TURN_OFF_WIND_DOWN"/>
@@ -244,6 +282,14 @@
         </activity-alias>
         <activity-alias android:enabled="true" android:exported="true" android:name="com.google.android.apps.wellbeing.dnd.impl.DndConfigActivity" android:targetActivity="com.google.apps.tiktok.nav.gateway.GatewayActivity">
             <meta-data android:name="com.google.apps.tiktok.nav.gateway.require_explicit_intent" android:value="true"/>
+        </activity-alias>
+        <activity-alias android:enabled="true" android:exported="true" android:name="com.google.android.apps.wellbeing.appindexing.impl.UrlHandlerActivity" android:targetActivity="com.google.apps.tiktok.nav.gateway.GatewayActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="com.google.android.apps.wellbeing" android:pathPattern=".*" android:scheme="android-app"/>
+            </intent-filter>
         </activity-alias>
         <activity-alias android:enabled="true" android:exported="true" android:name="com.google.android.apps.wellbeing.appdetails.AppInfoSettingsActivity" android:targetActivity="com.google.apps.tiktok.nav.gateway.GatewayActivity">
             <intent-filter>

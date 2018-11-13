@@ -44,14 +44,6 @@
         <item quantity="other">отклучувања</item>
         <item quantity="one">отклучување</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d часа</item>
-        <item quantity="one">%d час</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d минути</item>
-        <item quantity="one">%d минута</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d известувања</item>
         <item quantity="one">%d известување</item>
@@ -68,14 +60,6 @@
         <item quantity="other">и %1$d известувања помеѓу %2$s и %3$s</item>
         <item quantity="one">и %1$d известување помеѓу %2$s и %3$s</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ч.</item>
-        <item quantity="one">%d ч.</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d мин.</item>
-        <item quantity="one">%d мин.</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">Прикажи ги сите %d апликации</item>
         <item quantity="one">Прикажи %d апликација</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d отворања</item>
         <item quantity="one">%d отворање</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">Пред %d недели</item>
-        <item quantity="one">Пред %d недела</item>
     </plurals>
 </resources>

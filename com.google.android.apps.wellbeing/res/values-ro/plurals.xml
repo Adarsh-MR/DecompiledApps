@@ -6,9 +6,9 @@
         <item quantity="few">Deschisă de %d ori</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">Ați setat un temporizator de aplicații pentru %1$s</item>
+        <item quantity="other">Ați setat un timp în aplicație pentru %1$s</item>
         <item quantity="one">%1$s va fi întreruptă tot restul zilei</item>
-        <item quantity="few">Ați setat un temporizator de aplicații pentru %1$s</item>
+        <item quantity="few">Ați setat un timp în aplicație pentru %1$s</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
         <item quantity="other">%d de minute rămase</item>
@@ -36,9 +36,9 @@
         <item quantity="few">%d notificări primite</item>
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
-        <item quantity="other">%d de temporizatoare ale aplicației setate</item>
-        <item quantity="one">1 temporizator al aplicației setat</item>
-        <item quantity="few">%d temporizatoare ale aplicației setate</item>
+        <item quantity="other">%d de intervale de timp în aplicație setate</item>
+        <item quantity="one">1 timp în aplicație setat</item>
+        <item quantity="few">%d intervale de timp în aplicație setate</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">de notificări</item>
@@ -54,16 +54,6 @@
         <item quantity="other">de deblocări</item>
         <item quantity="one">deblocare</item>
         <item quantity="few">deblocări</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d de ore</item>
-        <item quantity="one">%d oră</item>
-        <item quantity="few">%d ore</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d de minute</item>
-        <item quantity="one">%d minut</item>
-        <item quantity="few">%d minute</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d de notificări</item>
@@ -96,16 +86,6 @@
         <item quantity="few">%d ore</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d min.</item>
-        <item quantity="one">%d min.</item>
-        <item quantity="few">%d min.</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
-        <item quantity="few">%d h</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
         <item quantity="other">%d min.</item>
         <item quantity="one">%d min.</item>
         <item quantity="few">%d min.</item>
@@ -164,10 +144,5 @@
         <item quantity="other">%d de deschideri</item>
         <item quantity="one">%d deschidere</item>
         <item quantity="few">%d deschideri</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">acum %d de săptămâni</item>
-        <item quantity="one">acum %d săptămână</item>
-        <item quantity="few">acum %d săptămâni</item>
     </plurals>
 </resources>

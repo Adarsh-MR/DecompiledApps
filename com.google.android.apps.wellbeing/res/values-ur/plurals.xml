@@ -44,14 +44,6 @@
         <item quantity="other">بار آلہ غیر مقفل کیا</item>
         <item quantity="one">بار آلہ غیر مقفل کیا</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d گھنٹے</item>
-        <item quantity="one">%d گھنٹہ</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d منٹ</item>
-        <item quantity="one">%d منٹ</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d اطلاعات</item>
         <item quantity="one">%d اطلاع</item>
@@ -77,14 +69,6 @@
         <item quantity="one">%d گھنٹہ</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d منٹ</item>
-        <item quantity="one">%d منٹ</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d گھنٹے</item>
-        <item quantity="one">%d گھنٹہ</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
         <item quantity="other">%d منٹ</item>
         <item quantity="one">%d منٹ</item>
     </plurals>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d بار کھولا گیا</item>
         <item quantity="one">%d بار کھولا گیا</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d ہفتے پہلے</item>
-        <item quantity="one">%d ہفتہ پہلے</item>
     </plurals>
 </resources>

@@ -29,8 +29,8 @@
         <item quantity="one">%d notifica ricevuta</item>
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
-        <item quantity="other">Timer di %d app impostati</item>
-        <item quantity="one">Timer di 1 app impostato</item>
+        <item quantity="other">"%d timer dell'app impostati"</item>
+        <item quantity="one">"1 timer dell'app impostato"</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">Notifiche</item>
@@ -43,14 +43,6 @@
     <plurals name="device_unlocks_label">
         <item quantity="other">Sblocchi</item>
         <item quantity="one">Sblocco</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d ore</item>
-        <item quantity="one">%d ora</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d minuti</item>
-        <item quantity="one">%d minuto</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d notifiche</item>
@@ -77,14 +69,6 @@
         <item quantity="one">%d ora</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ore</item>
-        <item quantity="one">%d ora</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
         <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
     </plurals>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d aperture</item>
         <item quantity="one">%d apertura</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d settimane fa</item>
-        <item quantity="one">%d settimana fa</item>
     </plurals>
 </resources>

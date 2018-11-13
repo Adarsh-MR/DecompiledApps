@@ -44,14 +44,6 @@
         <item quantity="other">අගුලු හැරීම්</item>
         <item quantity="one">අගුලු හැරීම්</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">පැය %d</item>
-        <item quantity="one">පැය %d</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">මිනිත්තු %d</item>
-        <item quantity="one">මිනිත්තු %d</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">දැනුම්දීම් %d ක් ලැබුණි</item>
         <item quantity="one">දැනුම්දීම් %d ක් ලැබුණි</item>
@@ -68,14 +60,6 @@
         <item quantity="other">, සහ %2$s සහ %3$s අතර දැනුම්දීම් %1$dක් ලැබිණි</item>
         <item quantity="one">, සහ %2$s සහ %3$s අතර දැනුම්දීම් %1$dක් ලැබිණි</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">පැය %d</item>
-        <item quantity="one">පැය %d</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">මිනි %d</item>
-        <item quantity="one">මිනි %d</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">සියලු යෙදුම් %d පෙන්වන්න</item>
         <item quantity="one">සියලු යෙදුම් %d පෙන්වන්න</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d විවෘත වේ</item>
         <item quantity="one">%d විවෘත වේ</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">සති %dකට පෙර</item>
-        <item quantity="one">සති %dකට පෙර</item>
     </plurals>
 </resources>

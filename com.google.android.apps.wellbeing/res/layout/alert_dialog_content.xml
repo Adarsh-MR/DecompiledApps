@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="24.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?textAppearanceSubhead2" android:textSize="20.0sp" android:gravity="start" android:id="@id/alert_dialog_title" android:paddingBottom="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawablePadding="16.0dip" />
+    <TextView android:textAppearance="?textAppearanceBody1" android:textColor="@color/secondary_grey" android:gravity="start" android:id="@id/alert_dialog_message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lineSpacingMultiplier="1.28" />
+</LinearLayout>

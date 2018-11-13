@@ -5,7 +5,7 @@
         <item quantity="one">%d kez açıldı</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">%1$s için uygulama zamanlayıcısı ayarladınız</item>
+        <item quantity="other">%1$s için uygulama zamanlayıcı ayarladınız</item>
         <item quantity="one">%1$s uygulaması günün geri kalanı için duraklatılacak</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
@@ -44,14 +44,6 @@
         <item quantity="other">Kilit açma</item>
         <item quantity="one">Kilit açma</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d saat</item>
-        <item quantity="one">%d saat</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d dakika</item>
-        <item quantity="one">%d dakika</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d bildirim</item>
         <item quantity="one">%d bildirim</item>
@@ -79,14 +71,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dakika</item>
         <item quantity="one">%d dakika</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d sa.</item>
-        <item quantity="one">%d sa.</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d dk.</item>
-        <item quantity="one">%d dk.</item>
     </plurals>
     <plurals name="short_num_days">
         <item quantity="other">%d gün</item>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d açık</item>
         <item quantity="one">%d açık</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d hafta önce</item>
-        <item quantity="one">%d hafta önce</item>
     </plurals>
 </resources>

@@ -2,6 +2,7 @@
 <navigation app:startDestination="@id/settings_fragment"
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
     <fragment android:name="com.google.android.apps.wellbeing.settings.SettingsFragment" android:id="@id/settings_fragment" />
+    <include app:graph="@xml/nav_graph_dashboard" />
     <fragment android:name="com.google.android.apps.wellbeing.dashboard.DashboardFragment" android:id="@id/dashboard_fragment" />
     <fragment android:name="com.google.android.apps.wellbeing.appdetails.AppDetailsFragment" android:id="@id/app_details_fragment" />
 </navigation>

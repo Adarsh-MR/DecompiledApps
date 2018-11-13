@@ -44,14 +44,6 @@
         <item quantity="other">次解锁</item>
         <item quantity="one">次解锁</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d 小时</item>
-        <item quantity="one">%d 小时</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d 分钟</item>
-        <item quantity="one">%d 分钟</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d 条通知</item>
         <item quantity="one">%d 条通知</item>
@@ -68,14 +60,6 @@
         <item quantity="other">，以及在%2$s到%3$s期间收到了 %1$d 条通知</item>
         <item quantity="one">，以及在%2$s到%3$s期间收到了 %1$d 条通知</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d 小时</item>
-        <item quantity="one">%d 小时</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d 分钟</item>
-        <item quantity="one">%d 分钟</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">显示全部 %d 个应用</item>
         <item quantity="one">显示 %d 个应用</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">打开 %d 次</item>
         <item quantity="one">打开 %d 次</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d 周前</item>
-        <item quantity="one">%d 周前</item>
     </plurals>
 </resources>

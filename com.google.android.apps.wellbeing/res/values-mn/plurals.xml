@@ -37,20 +37,12 @@
         <item quantity="one">Мэдэгдэл</item>
     </plurals>
     <plurals name="device_unlock_count_label">
-        <item quantity="other">%d түгжээг тайлах</item>
-        <item quantity="one">%d түгжээг тайлах</item>
+        <item quantity="other">%d түгжээ тайлсан</item>
+        <item quantity="one">%d түгжээ тайлсан</item>
     </plurals>
     <plurals name="device_unlocks_label">
         <item quantity="other">Түгжээ тайлах</item>
         <item quantity="one">Түгжээ тайлах</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d цаг</item>
-        <item quantity="one">%d цаг</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d минут</item>
-        <item quantity="one">%d минут</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d мэдэгдэл</item>
@@ -68,14 +60,6 @@
         <item quantity="other">, ба %2$s-с %3$s-н хооронд %1$d мэдэгдэл</item>
         <item quantity="one">, ба %2$s-с %3$s-н хооронд %1$d мэдэгдэл</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d цаг</item>
-        <item quantity="one">%d цаг</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d минут</item>
-        <item quantity="one">%d минут</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">Бүх %d аппыг харуулах</item>
         <item quantity="one">%d аппыг харуулах</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d нээлттэй</item>
         <item quantity="one">%d нээлттэй</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d долоо хоногийн өмнө</item>
-        <item quantity="one">%d долоо хоногийн өмнө</item>
     </plurals>
 </resources>

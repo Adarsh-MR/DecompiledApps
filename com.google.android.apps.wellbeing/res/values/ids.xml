@@ -21,9 +21,13 @@
     <item type="id" name="actions">false</item>
     <item type="id" name="activity_chooser_view_content">false</item>
     <item type="id" name="alertTitle">false</item>
+    <item type="id" name="alert_dialog_message">false</item>
+    <item type="id" name="alert_dialog_title">false</item>
     <item type="id" name="app_dashboard_list_item">false</item>
     <item type="id" name="app_details_fragment">false</item>
+    <item type="id" name="app_details_nav">false</item>
     <item type="id" name="app_details_root">false</item>
+    <item type="id" name="app_details_usage_container">false</item>
     <item type="id" name="app_icon">false</item>
     <item type="id" name="app_label">false</item>
     <item type="id" name="app_limit_duration_label">false</item>
@@ -34,12 +38,7 @@
     <item type="id" name="app_usage_history">false</item>
     <item type="id" name="app_usage_history_chart">false</item>
     <item type="id" name="auto_dnd_switch">false</item>
-    <item type="id" name="beta_badge">false</item>
     <item type="id" name="buttonPanel">false</item>
-    <item type="id" name="button_suspend_dialog_learn_more">false</item>
-    <item type="id" name="button_suspend_dialog_ok">false</item>
-    <item type="id" name="button_wind_down_notification_policy_access_guide_cancel">false</item>
-    <item type="id" name="button_wind_down_notification_policy_access_guide_open_settings">false</item>
     <item type="id" name="cancel_action">false</item>
     <item type="id" name="cannot_set_limits">false</item>
     <item type="id" name="cannot_set_limits_divider">false</item>
@@ -52,15 +51,14 @@
     <item type="id" name="content">false</item>
     <item type="id" name="contentPanel">false</item>
     <item type="id" name="coordinator">false</item>
-    <item type="id" name="custom">false</item>
     <item type="id" name="customPanel">false</item>
-    <item type="id" name="custom_limit_dialog_label">false</item>
     <item type="id" name="custom_limit_item">false</item>
     <item type="id" name="custom_limit_picker">false</item>
     <item type="id" name="daily_button">false</item>
     <item type="id" name="daily_view_pager">false</item>
     <item type="id" name="dashboard">false</item>
     <item type="id" name="dashboard_fragment">false</item>
+    <item type="id" name="dashboard_nav">false</item>
     <item type="id" name="dashboard_root">false</item>
     <item type="id" name="date_label">false</item>
     <item type="id" name="date_selection_label">false</item>
@@ -84,6 +82,8 @@
     <item type="id" name="expand_activities_button">false</item>
     <item type="id" name="expanded_menu">false</item>
     <item type="id" name="fifteen_minutes_item">false</item>
+    <item type="id" name="foregroundBorderLayerDrawable">false</item>
+    <item type="id" name="foregroundRippleLayerDrawable">false</item>
     <item type="id" name="fragment_container">false</item>
     <item type="id" name="ghost_view">false</item>
     <item type="id" name="glide_custom_view_target_tag">false</item>
@@ -106,10 +106,8 @@
     <item type="id" name="license_menu_fragment_container">false</item>
     <item type="id" name="limit_button">false</item>
     <item type="id" name="limit_not_allowed_button">false</item>
-    <item type="id" name="limit_not_allowed_dialog_body">false</item>
     <item type="id" name="line1">false</item>
     <item type="id" name="line3">false</item>
-    <item type="id" name="list">false</item>
     <item type="id" name="list_item">false</item>
     <item type="id" name="masked">false</item>
     <item type="id" name="media_actions">false</item>
@@ -124,7 +122,6 @@
     <item type="id" name="nav_controller_view_tag">false</item>
     <item type="id" name="nav_host_fragment">false</item>
     <item type="id" name="navigation_header_container">false</item>
-    <item type="id" name="negative_button">false</item>
     <item type="id" name="night_light_schedule_caption">false</item>
     <item type="id" name="no_limit_item">false</item>
     <item type="id" name="notification_background">false</item>
@@ -149,11 +146,11 @@
     <item type="id" name="place_autocomplete_search_button">false</item>
     <item type="id" name="place_autocomplete_search_input">false</item>
     <item type="id" name="place_autocomplete_separator">false</item>
-    <item type="id" name="positive_button">false</item>
     <item type="id" name="privacy_policy_item">false</item>
     <item type="id" name="progress_circular">false</item>
     <item type="id" name="progress_horizontal">false</item>
     <item type="id" name="radio">false</item>
+    <item type="id" name="recycler_view">false</item>
     <item type="id" name="right_icon">false</item>
     <item type="id" name="right_side">false</item>
     <item type="id" name="save_image_matrix">false</item>
@@ -240,7 +237,6 @@
     <item type="id" name="transition_scene_layoutid_cache">false</item>
     <item type="id" name="transition_transform">false</item>
     <item type="id" name="turn_off_usage_access">false</item>
-    <item type="id" name="tv_suspend_dialog_alert_message">false</item>
     <item type="id" name="unlock_count">false</item>
     <item type="id" name="unlock_count_widget">false</item>
     <item type="id" name="unlock_label">false</item>

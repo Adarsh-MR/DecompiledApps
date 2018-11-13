@@ -37,20 +37,12 @@
         <item quantity="one">jakinarazpen</item>
     </plurals>
     <plurals name="device_unlock_count_label">
-        <item quantity="other">%d aldiz desblokeatu da</item>
-        <item quantity="one">%d aldiz desblokeatu da</item>
+        <item quantity="other">%d desblokeatze</item>
+        <item quantity="one">%d desblokeatze</item>
     </plurals>
     <plurals name="device_unlocks_label">
         <item quantity="other">desblokeatze</item>
         <item quantity="one">desblokeatze</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d ordu</item>
-        <item quantity="one">%d ordu</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d minutu</item>
-        <item quantity="one">%d minutu</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d jakinarazpen</item>
@@ -68,14 +60,6 @@
         <item quantity="other">eta %1$d jakinarazpen jaso dira %2$s eta %3$s artean</item>
         <item quantity="one">eta %1$d jakinarazpen jaso da %2$s eta %3$s artean</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">Erakutsi %d aplikazioak</item>
         <item quantity="one">Erakutsi %d aplikazioa</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d aldiz irekita</item>
         <item quantity="one">%d aldiz irekita</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">duela %d aste</item>
-        <item quantity="one">duela %d aste</item>
     </plurals>
 </resources>

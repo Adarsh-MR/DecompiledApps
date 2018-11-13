@@ -5,8 +5,8 @@
         <item quantity="one">%d بار راه‌اندازی شد</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">برای %1$s، تایمر برنامه تنظیم کرده‌اید</item>
-        <item quantity="one">برای %1$s، تایمر برنامه تنظیم کرده‌اید</item>
+        <item quantity="other">برای %1$s، زمان‌سنج برنامه تنظیم کرده‌اید</item>
+        <item quantity="one">برای %1$s، زمان‌سنج برنامه تنظیم کرده‌اید</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
         <item quantity="other">%d دقیقه باقی‌مانده است</item>
@@ -29,8 +29,8 @@
         <item quantity="one">%d اعلان دریافتی</item>
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
-        <item quantity="other">%d برنامه با تنظیم تایمر</item>
-        <item quantity="one">%d برنامه با تنظیم تایمر</item>
+        <item quantity="other">%d زمان‌سنج برنامه</item>
+        <item quantity="one">%d تنظیم زمان‌سنج برنامه</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">اعلان‌</item>
@@ -43,14 +43,6 @@
     <plurals name="device_unlocks_label">
         <item quantity="other">باز کردن قفل</item>
         <item quantity="one">باز کردن قفل</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d ساعت</item>
-        <item quantity="one">%d ساعت</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d دقیقه</item>
-        <item quantity="one">%d دقیقه</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d اعلان</item>
@@ -77,14 +69,6 @@
         <item quantity="one">%d ساعت</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d دقیقه</item>
-        <item quantity="one">%d دقیقه</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ساعت</item>
-        <item quantity="one">%d ساعت</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
         <item quantity="other">%d دقیقه</item>
         <item quantity="one">%d دقیقه</item>
     </plurals>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d مورد باز</item>
         <item quantity="one">%d مورد باز</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d هفته قبل</item>
-        <item quantity="one">%d هفته قبل</item>
     </plurals>
 </resources>

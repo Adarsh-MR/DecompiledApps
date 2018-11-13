@@ -41,16 +41,8 @@
         <item quantity="one">%dবার আনলক</item>
     </plurals>
     <plurals name="device_unlocks_label">
-        <item quantity="other">আনলকগুলি</item>
-        <item quantity="one">আনলকগুলি</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d ঘণ্টা</item>
-        <item quantity="one">%d ঘণ্টা</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d মিনিট</item>
-        <item quantity="one">%d মিনিট</item>
+        <item quantity="other">বার আনলক</item>
+        <item quantity="one">বার আনলক</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%dটি বিজ্ঞপ্তি</item>
@@ -77,14 +69,6 @@
         <item quantity="one">%d ঘণ্টা</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d মিনিট</item>
-        <item quantity="one">%d মিনিট</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ঘণ্টা</item>
-        <item quantity="one">%d ঘণ্টা</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
         <item quantity="other">%d মিনিট</item>
         <item quantity="one">%d মিনিট</item>
     </plurals>
@@ -121,8 +105,8 @@
         <item quantity="one">%dসপ্তাহ</item>
     </plurals>
     <plurals name="show_all_apps">
-        <item quantity="other">%dটি অ্যাপের সবগুলি দেখান</item>
-        <item quantity="one">%dটি অ্যাপের সবগুলি দেখান</item>
+        <item quantity="other">%dটি অ্যাপ দেখুন</item>
+        <item quantity="one">%dটি অ্যাপ দেখুন</item>
     </plurals>
     <plurals name="touch_card_notifications">
         <item quantity="other">%dটি বিজ্ঞপ্তি</item>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%dটি খোলা</item>
         <item quantity="one">%dটি খোলা</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d সপ্তাহ আগে</item>
-        <item quantity="one">%d সপ্তাহ আগে</item>
     </plurals>
 </resources>

@@ -29,8 +29,8 @@
         <item quantity="one">Nakatanggap ng %d notification</item>
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
-        <item quantity="other">%d na app ang may nakatakdang timer</item>
-        <item quantity="one">%d app ang may nakatakdang timer</item>
+        <item quantity="other">%d na timer ng app ang naka-set</item>
+        <item quantity="one">%d timer ng app ang naka-set</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">Mga Notification</item>
@@ -43,14 +43,6 @@
     <plurals name="device_unlocks_label">
         <item quantity="other">Mga Pag-unlock</item>
         <item quantity="one">Mga Pag-unlock</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d na oras</item>
-        <item quantity="one">%d oras</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d na minuto</item>
-        <item quantity="one">%d minuto</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d na notification</item>
@@ -68,14 +60,6 @@
         <item quantity="other">, at %1$d na notification sa pagitan ng %2$s at %3$s</item>
         <item quantity="one">, at %1$d notification sa pagitan ng %2$s at %3$s</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d na oras</item>
-        <item quantity="one">%d oras</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d na minuto</item>
-        <item quantity="one">%d minuto</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">Ipakita ang lahat ng %d na app</item>
         <item quantity="one">Ipakita ang lahat ng %d app</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d na pagbukas</item>
         <item quantity="one">%d pagbukas</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d na linggo ang nakalipas</item>
-        <item quantity="one">%d linggo ang nakalipas</item>
     </plurals>
 </resources>

@@ -122,11 +122,6 @@
     <color name="google_grey700">#ff5f6368</color>
     <color name="google_grey800">#ff3c4043</color>
     <color name="google_grey900">#ff202124</color>
-    <color name="google_opensearchbar_background_color">@color/google_white</color>
-    <color name="google_opensearchbar_hint_text_color">@color/google_grey600</color>
-    <color name="google_opensearchbar_text_color">@color/google_grey900</color>
-    <color name="google_opensearchview_background_color">@color/google_white</color>
-    <color name="google_opensearchview_divider_color">@color/google_divider</color>
     <color name="google_orange100">#fffedfc8</color>
     <color name="google_orange50">#fffeefe3</color>
     <color name="google_orange500">#fffa7b17</color>
@@ -180,6 +175,7 @@
     <color name="mtrl_textinput_default_box_stroke_color">#6b000000</color>
     <color name="mtrl_textinput_disabled_color">#1f000000</color>
     <color name="mtrl_textinput_filled_box_default_background_color">#0a000000</color>
+    <color name="mtrl_textinput_focused_box_stroke_color">#00000000</color>
     <color name="mtrl_textinput_hovered_box_stroke_color">#de000000</color>
     <color name="notification_action_color_filter">@color/secondary_text_default_material_light</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
@@ -547,13 +543,13 @@
     <color name="quantum_yellowA700">#ffffd600</color>
     <color name="quaternary_grey">@color/google_grey50</color>
     <color name="ripple_material_dark">#33ffffff</color>
+    <color name="settings_background_icon_color">#ff00c853</color>
     <color name="ripple_material_light">#1f000000</color>
     <color name="secondary_grey">@color/google_grey700</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="settings_background_icon_color">#ff00c853</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>

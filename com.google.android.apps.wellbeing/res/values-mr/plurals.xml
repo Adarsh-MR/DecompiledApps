@@ -38,19 +38,11 @@
     </plurals>
     <plurals name="device_unlock_count_label">
         <item quantity="other">%d वेळा अनलॉक केले</item>
-        <item quantity="one">%d वेळ अनलॉक केले</item>
+        <item quantity="one">%d वेळा अनलॉक केले</item>
     </plurals>
     <plurals name="device_unlocks_label">
-        <item quantity="other">अनलॉक केले</item>
-        <item quantity="one">अनलॉक केले</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d तास</item>
-        <item quantity="one">%d तास</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d मिनिटे</item>
-        <item quantity="one">%d मिनिट</item>
+        <item quantity="other">वेळा अनलॉक केले</item>
+        <item quantity="one">वेळा अनलॉक केले</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d सूचना</item>
@@ -79,14 +71,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d मि</item>
         <item quantity="one">%d मि</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d तास</item>
-        <item quantity="one">%d तास</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d मिनिटे</item>
-        <item quantity="one">%d मिनिट</item>
     </plurals>
     <plurals name="short_num_days">
         <item quantity="other">%dदि</item>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d वेळा उघडली</item>
         <item quantity="one">%d वेळा उघडले</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d आठवड्यांपूर्वी</item>
-        <item quantity="one">%d आठवड्यापूर्वी</item>
     </plurals>
 </resources>

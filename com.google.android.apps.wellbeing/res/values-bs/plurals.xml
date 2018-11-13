@@ -36,9 +36,9 @@
         <item quantity="few">%d primljena obavještenja</item>
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
-        <item quantity="other">Postavljeno je %d tajmera aplikacije</item>
-        <item quantity="one">Postavljen je %d tajmer aplikacije</item>
-        <item quantity="few">Postavljena su %d tajmera aplikacije</item>
+        <item quantity="other">Postavljeno je %d tajmera za aplikaciju</item>
+        <item quantity="one">Postavljen je %d tajmer za aplikaciju</item>
+        <item quantity="few">Postavljena su %d tajmera za aplikaciju</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">Obavještenja</item>
@@ -54,16 +54,6 @@
         <item quantity="other">Otključavanja</item>
         <item quantity="one">Otključavanje</item>
         <item quantity="few">Otključavanja</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d sati</item>
-        <item quantity="one">%d sat</item>
-        <item quantity="few">%d sata</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d minuta</item>
-        <item quantity="one">%d minuta</item>
-        <item quantity="few">%d minute</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d obavještenja</item>
@@ -85,16 +75,6 @@
         <item quantity="one">i %1$d obavještenje između %2$s i %3$s</item>
         <item quantity="few">i %1$d obavještenja između %2$s i %3$s</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
-        <item quantity="few">%d h</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
-        <item quantity="few">%d min</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">Prikaži sve aplikacije (ukupno %d)</item>
         <item quantity="one">Prikaži sve aplikacije (ukupno %d)</item>
@@ -109,10 +89,5 @@
         <item quantity="other">%d otvorenih</item>
         <item quantity="one">%d otvorena</item>
         <item quantity="few">%d otvorene</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">Prije %d sedmica</item>
-        <item quantity="one">Prije %d sedmicu</item>
-        <item quantity="few">Prije %d sedmice</item>
     </plurals>
 </resources>

@@ -66,18 +66,6 @@
         <item quantity="few">Разблакіроўкі</item>
         <item quantity="many">Разблакіровак</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d гадзіны</item>
-        <item quantity="one">%d гадзіна</item>
-        <item quantity="few">%d гадзіны</item>
-        <item quantity="many">%d гадзін</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d хвіліны</item>
-        <item quantity="one">%d хвіліна</item>
-        <item quantity="few">%d хвіліны</item>
-        <item quantity="many">%d хвілін</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d апавяшчэння</item>
         <item quantity="one">%d апавяшчэнне</item>
@@ -102,18 +90,6 @@
         <item quantity="few">і %1$d апавяшчэнні ў перыяд з %2$s да %3$s</item>
         <item quantity="many">і %1$d апавяшчэнняў у перыяд з %2$s да %3$s</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d гадз</item>
-        <item quantity="one">%d гадз</item>
-        <item quantity="few">%d гадз</item>
-        <item quantity="many">%d гадз</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d хв</item>
-        <item quantity="one">%d хв</item>
-        <item quantity="few">%d хв</item>
-        <item quantity="many">%d хв</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">Паказаць %d праграмы</item>
         <item quantity="one">Паказаць %d праграму</item>
@@ -131,11 +107,5 @@
         <item quantity="one">%d запуск</item>
         <item quantity="few">%d запускі</item>
         <item quantity="many">%d запускаў</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d тыдня таму</item>
-        <item quantity="one">%d тыдзень таму</item>
-        <item quantity="few">%d тыдні таму</item>
-        <item quantity="many">%d тыдняў таму</item>
     </plurals>
 </resources>

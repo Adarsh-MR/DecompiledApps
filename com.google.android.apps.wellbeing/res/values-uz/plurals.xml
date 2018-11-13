@@ -37,20 +37,12 @@
         <item quantity="one">Bildirishnoma</item>
     </plurals>
     <plurals name="device_unlock_count_label">
-        <item quantity="other">%d ta qulfdan yechish</item>
-        <item quantity="one">%d ta qulfdan yechish</item>
+        <item quantity="other">%d marta qulf ochildi</item>
+        <item quantity="one">%d marta qulf ochildi</item>
     </plurals>
     <plurals name="device_unlocks_label">
-        <item quantity="other">marta ochildi</item>
-        <item quantity="one">marta ochildi</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d soat</item>
-        <item quantity="one">%d soat</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d daqiqa</item>
-        <item quantity="one">%d daqiqa</item>
+        <item quantity="other">marta qulf ochildi</item>
+        <item quantity="one">marta qulf ochildi</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d ta bildirishnoma</item>
@@ -68,14 +60,6 @@
         <item quantity="other">va %2$s – %3$s orasida %1$d ta bildirishnoma</item>
         <item quantity="one">va %2$s – %3$s orasida %1$d ta bildirishnoma</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d soat</item>
-        <item quantity="one">%d soat</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d daqiqa</item>
-        <item quantity="one">%d daqiqa</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">Barcha ilovalarni (%d) ko‘rsatish</item>
         <item quantity="one">%d ta ilovani ko‘rsatish</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d marta ochilgan</item>
         <item quantity="one">%d marta ochilgan</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d hafta oldin</item>
-        <item quantity="one">%d hafta oldin</item>
     </plurals>
 </resources>

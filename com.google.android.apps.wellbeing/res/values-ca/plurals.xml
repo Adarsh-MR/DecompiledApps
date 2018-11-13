@@ -5,8 +5,8 @@
         <item quantity="one">"S'ha obert %d vegada"</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">"Has configurat un temporitzador per a l'aplicació %1$s"</item>
-        <item quantity="one">%1$s es posarà en pausa per a la resta del dia</item>
+        <item quantity="other">"Has configurat un temporitzador d'aplicació per a %1$s"</item>
+        <item quantity="one">%1$s es posarà en pausa per durant la resta del dia</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
         <item quantity="other">Queden %d minuts</item>
@@ -44,14 +44,6 @@
         <item quantity="other">desbloquejos</item>
         <item quantity="one">desbloqueig</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d hores</item>
-        <item quantity="one">%d hora</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d minuts</item>
-        <item quantity="one">%d minut</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d notificacions</item>
         <item quantity="one">%d notificació</item>
@@ -79,14 +71,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuts</item>
         <item quantity="one">%d minut</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
     </plurals>
     <plurals name="short_num_days">
         <item quantity="other">%d dies</item>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d obertes</item>
         <item quantity="one">%d oberta</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">fa %d setmanes</item>
-        <item quantity="one">fa %d setmana</item>
     </plurals>
 </resources>

@@ -64,7 +64,8 @@
     <string name="aplosExploreModeStartBoundary">Explore Chart using directional controls or by touch.</string>
     <string name="app_dashboard_label">Show app dashboard</string>
     <string name="app_details_toolbar_title">App Usage</string>
-    <string name="app_limit_dialog_message">%s is paused since your app timer ran out. To change settings, tap “Learn more.”</string>
+    <string name="app_limit_dialog_learn_more_button">Learn more</string>
+    <string name="app_limit_dialog_message">%%s is paused since your app timer ran out. To change settings, tap “%1$s”.</string>
     <string name="app_limit_every_day">Every day</string>
     <string name="app_limit_message">%1$s app timer</string>
     <string name="app_limit_slice_title">App timer</string>
@@ -81,6 +82,7 @@
     <string name="app_time_limit_label">App timer</string>
     <string name="app_usage">Used for %1$s %2$s</string>
     <string name="app_usage_bar_chart_data_series_name">App usage data</string>
+    <string name="app_usage_cell_content_description">%1$s used for %2$s</string>
     <string name="app_usage_slice_message">Used for %1$s</string>
     <string name="app_usage_slice_title">Screen time</string>
     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
@@ -93,10 +95,12 @@
     <string name="auto_dnd_requested_on_error_message">"Can't turn on flip to Shhh"</string>
     <string name="auto_dnd_search_breadcrumbs">System > Gestures > Flip to Shhh</string>
     <string name="auto_dnd_setup_notification_text">To finish setting up flip to Shhh, restart your phone</string>
+    <string name="bar_chart_domain_axis_separator">•</string>
     <string name="beta">BETA</string>
     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
     <string name="cannot_set_limits_description">"App timers aren't available for work apps or fully managed devices"</string>
-    <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_content_description">%1$d of %2$d</string>
+    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="chevron_next_description">Go to the next day</string>
     <string name="chevron_previous_description">Go to the previous day</string>
@@ -123,8 +127,8 @@
     <string name="content_description_for_time_spent">Used for %s</string>
     <string name="content_description_for_time_spent_today">Phone used for %1$s today</string>
     <string name="custom_limit">Custom timer</string>
-    <string name="custom_limit_dialog_label">Set timer for %1$s:</string>
-    <string name="custom_limit_dialog_title">Custom timer</string>
+    <string name="custom_limit_dialog_label">This app timer for %1$s will reset at midnight</string>
+    <string name="custom_limit_dialog_title">Set app timer</string>
     <string name="daily_button_text">Daily</string>
     <string name="dashboard_feature_summary_text">Screen time, unlocks, notifications received</string>
     <string name="dashboard_feature_summary_text_without_unlock_count">Screen time, notifications received</string>
@@ -140,7 +144,7 @@
     <string name="dnd_item_label">Do Not Disturb</string>
     <string name="dnd_setup_notification_text">To finish setting up Digital Wellbeing, restart your phone</string>
     <string name="dnd_setup_notification_title">Restart your phone</string>
-    <string name="duration_hours_and_minutes">%1$s %2$s</string>
+    <string name="duration_less_than_one_minute">Less than 1 minute</string>
     <string name="enable_wind_down_title">Use Wind Down</string>
     <string name="expand_button_content_description">More options</string>
     <string name="expand_button_title">Advanced</string>
@@ -154,13 +158,12 @@ On at %s"</string>
 Until %s"</string>
     <string name="hide_bottom_view_on_scroll_behavior">android.support.design.widget.HideBottomViewOnScrollBehavior</string>
     <string name="hourly_button_text">Hourly</string>
-    <string name="last_week">Last week</string>
+    <string name="icon_content_description">Dialog Icon</string>
     <string name="limit_button_description">%s set. Change timer.</string>
     <string name="limit_not_allowed_button_description">"Can't set timer. Learn more."</string>
     <string name="limit_not_allowed_dialog_body">"Timers aren't available for important system apps"</string>
     <string name="limit_not_allowed_dialog_title">"Can't set app timer"</string>
     <string name="limit_set_snackbar">App timer set for %1$s</string>
-    <string name="long_duration_less_than_one_minute">Less than 1 minute</string>
     <string name="menu_notifications_received">Notifications received</string>
     <string name="menu_time_spent">Screen time</string>
     <string name="menu_unlocks">Times opened</string>
@@ -219,8 +222,7 @@ Until %s"</string>
     <string name="settings_summary">Screen time, app timers, Wind Down</string>
     <string name="settings_title">Digital Wellbeing</string>
     <string name="setup_notification_channel_name">Digital Wellbeing setup</string>
-    <string name="short_duration_less_than_one_minute">Less than 1 min</string>
-    <string name="shorter_duration_less_than_one_minute">&lt; 1 min</string>
+    <string name="shorter_duration_less_than_one_minute">&lt; 1 minute</string>
     <string name="sleep_screen_item_label">"Don't wake screen"</string>
     <string name="slice_status_loading">Loading…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -230,9 +232,7 @@ Until %s"</string>
     <string name="suspend_dialog_title">App paused</string>
     <string name="terms_of_service_title">Terms of Service</string>
     <string name="thirty_minutes">30 minutes</string>
-    <string name="this_week">This week</string>
     <string name="tiktok_account_update_notification_title">Updating accounts…</string>
-    <string name="today_label">Today</string>
     <string name="today_pie_chart_data_series_name">App usage data</string>
     <string name="touch_card_format">%1$s • %2$s</string>
     <string name="turn_off_usage_access">Turn off usage access</string>
@@ -241,7 +241,8 @@ Until %s"</string>
 If you turn usage access back on, Digital Wellbeing will show the last 10 days of usage data from your device's storage."</string>
     <string name="turn_off_usage_access_dialog_button">Turn off in Settings</string>
     <string name="turn_off_usage_access_dialog_title">Turn off usage access?</string>
-    <string name="unlock_count_unavailable_dialog_content">"Unlock info isn't available for your work profile"</string>
+    <string name="unlock_count_unavailable_dialog_content_no_screen_lock">"Unlock info isn't available for phones without screen locks"</string>
+    <string name="unlock_count_unavailable_dialog_content_work_profile">"Unlock info isn't available for your work profile"</string>
     <string name="unlock_count_unavailable_dialog_title">"Can't show unlock info"</string>
     <string name="unlock_count_unavailable_label">-</string>
     <string name="usage_access_required_description">To view your past usage, let Digital Wellbeing have usage access</string>
@@ -250,9 +251,13 @@ If you turn usage access back on, Digital Wellbeing will show the last 10 days o
     <string name="v7_preference_on">ON</string>
     <string name="view_more">View more</string>
     <string name="wind_down_disabled_description">Your schedule will start again when Wind Down is on</string>
+    <string name="wind_down_dnd_access_dialog_body">"To prevent interruptions while you sleep, open your phone's settings below, then turn on the switch next to Digital Wellbeing"</string>
+    <string name="wind_down_dnd_access_dialog_open_settings">Open settings</string>
+    <string name="wind_down_dnd_access_dialog_title">Allow access to Do Not Disturb</string>
     <string name="wind_down_dnd_rule_name">Wind Down</string>
     <string name="wind_down_dnd_setup_notification_text">To finish setting up Wind Down, restart your phone</string>
     <string name="wind_down_end_label">End</string>
+    <string name="wind_down_end_text">%1$s or next alarm, whichever comes first</string>
     <string name="wind_down_mode_not_scheduled">"Wind down isn't scheduled"</string>
     <string name="wind_down_no_schedule_set_summary_text">Off</string>
     <string name="wind_down_notification_button_label_manual">Turn off</string>
@@ -261,10 +266,6 @@ If you turn usage access back on, Digital Wellbeing will show the last 10 days o
     <string name="wind_down_notification_text_manual">Tap to change settings</string>
     <string name="wind_down_notification_text_schedule">Turns off at %1$s</string>
     <string name="wind_down_notification_title">Wind Down is on</string>
-    <string name="wind_down_onboard_cancel">Not now</string>
-    <string name="wind_down_onboard_dnd_access_description">"To prevent interruptions while you sleep, open your phone's settings below, then turn on the switch next to Digital Wellbeing"</string>
-    <string name="wind_down_onboard_dnd_access_title">Allow access to Do Not Disturb</string>
-    <string name="wind_down_onboard_open_setting">Open settings</string>
     <string name="wind_down_onboarding_dnd_access_description">"To prevent interruptions while you sleep, open your phone's settings below, then turn on the switch next to Digital Wellbeing"</string>
     <string name="wind_down_onboarding_dnd_access_title">Allow access to Do Not Disturb</string>
     <string name="wind_down_onboarding_dnd_description">"Do Not Disturb will mute sounds so you aren't woken up by calls or notifications"</string>
@@ -292,5 +293,4 @@ If you turn usage access back on, Digital Wellbeing will show the last 10 days o
     <string name="wind_down_title">Wind Down</string>
     <string name="wind_down_toolbar_title">Wind Down</string>
     <string name="work_profile_not_available_message">"This data is from your personal profile. It doesn't include work profile activity."</string>
-    <string name="yesterday_label">Yesterday</string>
 </resources>

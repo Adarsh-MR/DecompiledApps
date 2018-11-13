@@ -34,7 +34,8 @@
     <string name="abc_slice_permission_title">要允许“%1$s”显示“%2$s”图块吗？</string>
     <string name="abc_slices_permission_request">“%1$s”想要显示“%2$s”图块</string>
     <string name="abc_toolbar_collapse_description">收起</string>
-    <string name="character_counter_content_description">超出字符数限制（共 %1$d 个，上限为 %2$d 个）</string>
+    <string name="character_counter_content_description">共 %1$d 个，上限为 %2$d 个</string>
+    <string name="character_counter_overflowed_content_description">超出字符数限制（共 %1$d 个，上限为 %2$d 个）</string>
     <string name="common_google_play_services_enable_button">启用</string>
     <string name="common_google_play_services_enable_text">您必须先启用 Google Play 服务，然后才能运行%1$s。</string>
     <string name="common_google_play_services_enable_title">启用 Google Play 服务</string>

@@ -44,14 +44,6 @@
         <item quantity="other">અનલૉક</item>
         <item quantity="one">અનલૉક</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d કલાક</item>
-        <item quantity="one">%d કલાક</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d મિનિટ</item>
-        <item quantity="one">%d મિનિટ</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d નોટિફિકેશન</item>
         <item quantity="one">%d નોટિફિકેશન</item>
@@ -77,14 +69,6 @@
         <item quantity="one">%d કલાક</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d મિનિટ</item>
-        <item quantity="one">%d મિનિટ</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d કલાક</item>
-        <item quantity="one">%d કલાક</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
         <item quantity="other">%d મિનિટ</item>
         <item quantity="one">%d મિનિટ</item>
     </plurals>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d ખુલે છે</item>
         <item quantity="one">%d ખુલે છે</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d અઠવાડિયા પહેલાં</item>
-        <item quantity="one">%d અઠવાડિયા પહેલાં</item>
     </plurals>
 </resources>

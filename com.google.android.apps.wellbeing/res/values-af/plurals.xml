@@ -44,14 +44,6 @@
         <item quantity="other">Ontsluitings</item>
         <item quantity="one">Ontsluiting</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d uur</item>
-        <item quantity="one">%d uur</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d minute</item>
-        <item quantity="one">%d minuut</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d kennisgewings</item>
         <item quantity="one">%d kennisgewing</item>
@@ -77,14 +69,6 @@
         <item quantity="one">%d uur</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d min.</item>
-        <item quantity="one">%d min.</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d u.</item>
-        <item quantity="one">%d u.</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
         <item quantity="other">%d min.</item>
         <item quantity="one">%d min.</item>
     </plurals>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d kere oopgemaak</item>
         <item quantity="one">%d keer oopgemaak</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d weke gelede</item>
-        <item quantity="one">%d week gelede</item>
     </plurals>
 </resources>

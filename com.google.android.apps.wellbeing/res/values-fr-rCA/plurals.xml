@@ -44,14 +44,6 @@
         <item quantity="other">Déverrouillages</item>
         <item quantity="one">Déverrouillage</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d heures</item>
-        <item quantity="one">%d heure</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d minutes</item>
-        <item quantity="one">%d minute</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d notifications</item>
         <item quantity="one">%d notification</item>
@@ -68,14 +60,6 @@
         <item quantity="other">et %1$d notifications entre %2$s et %3$s</item>
         <item quantity="one">et %1$d notification entre %2$s et %3$s</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">Afficher %d applications</item>
         <item quantity="one">Afficher %d application</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d ouvertures</item>
         <item quantity="one">%d ouverture</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">il y a %d semaines</item>
-        <item quantity="one">il y a %d semaine</item>
     </plurals>
 </resources>

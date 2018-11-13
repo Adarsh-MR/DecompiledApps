@@ -5,7 +5,7 @@
         <item quantity="one">Imefunguliwa mara %d</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">Umeweka kipima muda cha programu ya %1$s</item>
+        <item quantity="other">Umeweka kipima muda katika programu ya %1$s</item>
         <item quantity="one">%1$s itasitishwa siku nzima</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
@@ -37,20 +37,12 @@
         <item quantity="one">Arifa</item>
     </plurals>
     <plurals name="device_unlock_count_label">
-        <item quantity="other">Imefungwa mara %d</item>
-        <item quantity="one">Imefungwa mara %d</item>
+        <item quantity="other">Imefunguliwa mara %d</item>
+        <item quantity="one">Imefunguliwa mara %d</item>
     </plurals>
     <plurals name="device_unlocks_label">
-        <item quantity="other">Imefunguliwa mara</item>
-        <item quantity="one">Imefunguliwa mara</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">Saa %d</item>
-        <item quantity="one">Saa %d</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">Dakika %d</item>
-        <item quantity="one">Dakika %d</item>
+        <item quantity="other">Mara ambazo imefunguliwa</item>
+        <item quantity="one">Mara ambazo imefunguliwa</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">Arifa %d</item>
@@ -77,14 +69,6 @@
         <item quantity="one">Saa %d</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">Dakika %d</item>
-        <item quantity="one">Dakika %d</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">Saa %d</item>
-        <item quantity="one">Saa %d</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
         <item quantity="other">Dakika %d</item>
         <item quantity="one">Dakika %d</item>
     </plurals>
@@ -131,9 +115,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">Imefunguliwa mara %d</item>
         <item quantity="one">Imefunguliwa mara %d</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">Wiki %d zilizopita</item>
-        <item quantity="one">Wiki %d iliyopita</item>
     </plurals>
 </resources>

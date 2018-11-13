@@ -44,14 +44,6 @@
         <item quantity="other">განბლოკვა</item>
         <item quantity="one">განბლოკვა</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d საათი</item>
-        <item quantity="one">%d საათი</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d წუთი</item>
-        <item quantity="one">%d წუთი</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d შეტყობინება</item>
         <item quantity="one">%d შეტყობინება</item>
@@ -68,14 +60,6 @@
         <item quantity="other">და %1$d შეტყობინება %2$s-დან %3$s-მდე შუალედში</item>
         <item quantity="one">და %1$d შეტყობინება %2$s-დან %3$s-მდე შუალედში</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d სთ</item>
-        <item quantity="one">%d სთ</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d წთ</item>
-        <item quantity="one">%d წთ</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">%d აპის ჩვენება</item>
         <item quantity="one">%d აპის ჩვენება</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d გახსნა</item>
         <item quantity="one">%d გახსნა</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d კვირის წინ</item>
-        <item quantity="one">%d კვირის წინ</item>
     </plurals>
 </resources>

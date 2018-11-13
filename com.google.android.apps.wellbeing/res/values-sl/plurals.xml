@@ -7,10 +7,10 @@
         <item quantity="few">Odprto %d-krat</item>
     </plurals>
     <plurals name="app_limit_warning_notification_text">
-        <item quantity="other">Nastavili ste časovnik za aplikacijo %1$s</item>
-        <item quantity="one">Nastavili ste časovnik za aplikacijo %1$s</item>
-        <item quantity="two">Nastavili ste časovnik za aplikacijo %1$s</item>
-        <item quantity="few">Nastavili ste časovnik za aplikacijo %1$s</item>
+        <item quantity="other">Nastavili ste časomer aplikacije %1$s</item>
+        <item quantity="one">Nastavili ste časomer aplikacije %1$s</item>
+        <item quantity="two">Nastavili ste časomer aplikacije %1$s</item>
+        <item quantity="few">Nastavili ste časomer aplikacije %1$s</item>
     </plurals>
     <plurals name="app_limit_warning_notification_title">
         <item quantity="other">Še %d minut</item>
@@ -43,10 +43,10 @@
         <item quantity="few">%d prejeta obvestila</item>
     </plurals>
     <plurals name="dashboard_app_timer_summary_text">
-        <item quantity="other">Nastavljenih je %d časovnikov za aplikacije</item>
-        <item quantity="one">Nastavljen je %d časovnik za aplikacije</item>
-        <item quantity="two">Nastavljena sta %d časovnika za aplikacije</item>
-        <item quantity="few">Nastavljeni so %d časovniki za aplikacije</item>
+        <item quantity="other">Nastavljenih je %d časomerov aplikacije</item>
+        <item quantity="one">Nastavljen je %d časomer aplikacije</item>
+        <item quantity="two">Nastavljena sta %d časomera aplikacije</item>
+        <item quantity="few">Nastavljeni so %d časomeri aplikacije</item>
     </plurals>
     <plurals name="device_notifications_label">
         <item quantity="other">Obvestila</item>
@@ -65,18 +65,6 @@
         <item quantity="one">Odklepanja</item>
         <item quantity="two">Odklepanja</item>
         <item quantity="few">Odklepanja</item>
-    </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d ur</item>
-        <item quantity="one">%d ura</item>
-        <item quantity="two">%d uri</item>
-        <item quantity="few">%d ure</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d minut</item>
-        <item quantity="one">%d minuta</item>
-        <item quantity="two">%d minuti</item>
-        <item quantity="few">%d minute</item>
     </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d obvestil</item>
@@ -119,18 +107,6 @@
         <item quantity="one">%d minuta</item>
         <item quantity="two">%d minuti</item>
         <item quantity="few">%d minute</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
-        <item quantity="two">%d h</item>
-        <item quantity="few">%d h</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
-        <item quantity="two">%d min</item>
-        <item quantity="few">%d min</item>
     </plurals>
     <plurals name="short_num_days">
         <item quantity="other">%d d</item>
@@ -197,11 +173,5 @@
         <item quantity="one">%d odpiranje</item>
         <item quantity="two">%d odpiranji</item>
         <item quantity="few">%d odpiranja</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">pred %d tedni</item>
-        <item quantity="one">pred %d tednom</item>
-        <item quantity="two">pred %d tednoma</item>
-        <item quantity="few">pred %d tedni</item>
     </plurals>
 </resources>

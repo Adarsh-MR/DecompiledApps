@@ -11,7 +11,7 @@
             <include android:visibility="gone" layout="@layout/wind_down_screen_enabled" />
             <View android:background="@color/tertiary_grey" android:layout_width="fill_parent" android:layout_height="1.0dip" />
             <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/set_night_light_schedule" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingVertical="20.0dip">
-                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/quantum_ic_nightlight_round_grey600_24" android:importantForAccessibility="no" android:paddingHorizontal="@dimen/default_screen_margin" />
+                <ImageView android:src="@drawable/quantum_ic_nightlight_round_grey600_24" android:importantForAccessibility="no" style="@style/ListItemIcon24dp" />
                 <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
                     <TextView android:textAppearance="?textAppearanceBody1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/night_light_item_label" />
                     <TextView android:textAppearance="?textAppearanceBody2" android:textColor="@color/secondary_grey" android:id="@id/night_light_schedule_caption" android:layout_width="wrap_content" android:layout_height="wrap_content" />

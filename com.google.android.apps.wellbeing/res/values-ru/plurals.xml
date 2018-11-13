@@ -66,18 +66,6 @@
         <item quantity="few">разблокировки</item>
         <item quantity="many">разблокировок</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d часа</item>
-        <item quantity="one">%d час</item>
-        <item quantity="few">%d часа</item>
-        <item quantity="many">%d часов</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d минуты</item>
-        <item quantity="one">%d минута</item>
-        <item quantity="few">%d минуты</item>
-        <item quantity="many">%d минут</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">%d уведомления</item>
         <item quantity="one">%d уведомление</item>
@@ -119,18 +107,6 @@
         <item quantity="one">%d минута</item>
         <item quantity="few">%d минуты</item>
         <item quantity="many">%d минут</item>
-    </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ч.</item>
-        <item quantity="one">%d ч.</item>
-        <item quantity="few">%d ч.</item>
-        <item quantity="many">%d ч.</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d мин.</item>
-        <item quantity="one">%d мин.</item>
-        <item quantity="few">%d мин.</item>
-        <item quantity="many">%d мин.</item>
     </plurals>
     <plurals name="short_num_days">
         <item quantity="other">%d дня</item>
@@ -197,11 +173,5 @@
         <item quantity="one">%d запуск</item>
         <item quantity="few">%d запуска</item>
         <item quantity="many">%d запусков</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d недели назад</item>
-        <item quantity="one">%d неделю назад</item>
-        <item quantity="few">%d недели назад</item>
-        <item quantity="many">%d недель назад</item>
     </plurals>
 </resources>

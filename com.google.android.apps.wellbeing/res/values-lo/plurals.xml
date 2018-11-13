@@ -44,14 +44,6 @@
         <item quantity="other">ປົດລັອກ</item>
         <item quantity="one">ປົດລັອກ</item>
     </plurals>
-    <plurals name="long_duration_hours">
-        <item quantity="other">%d ຊົ່ວໂມງ</item>
-        <item quantity="one">%d ຊົ່ວໂມງ</item>
-    </plurals>
-    <plurals name="long_duration_minutes">
-        <item quantity="other">%d ນາທີ</item>
-        <item quantity="one">%d ນາທີ</item>
-    </plurals>
     <plurals name="notification_count_label">
         <item quantity="other">ການແຈ້ງເຕືອນ %d ລາຍການ</item>
         <item quantity="one">ການແຈ້ງເຕືອນ %d ລາຍການ</item>
@@ -68,14 +60,6 @@
         <item quantity="other">ແລະ %1$d ການແຈ້ງເຕືອນລະຫວ່າງ %2$s ຫາ %3$s</item>
         <item quantity="one">ແລະ %1$d ການແຈ້ງເຕືອນລະຫວ່າງ %2$s ຫາ %3$s</item>
     </plurals>
-    <plurals name="short_duration_hours">
-        <item quantity="other">%d ຊົ່ວໂມງ</item>
-        <item quantity="one">%d ຊົ່ວໂມງ</item>
-    </plurals>
-    <plurals name="short_duration_minutes">
-        <item quantity="other">%d ນາທີ</item>
-        <item quantity="one">%d ນາທີ</item>
-    </plurals>
     <plurals name="show_all_apps">
         <item quantity="other">ສະແດງທັງໝົດ %d ແອັບ</item>
         <item quantity="one">ສະແດງ %d ແອັບ</item>
@@ -87,9 +71,5 @@
     <plurals name="touch_card_opens">
         <item quantity="other">%d ເປີດ</item>
         <item quantity="one">%d ເປີດ</item>
-    </plurals>
-    <plurals name="weeks_ago">
-        <item quantity="other">%d ອາທິດກ່ອນ</item>
-        <item quantity="one">%d ອາທິດກ່ອນ</item>
     </plurals>
 </resources>

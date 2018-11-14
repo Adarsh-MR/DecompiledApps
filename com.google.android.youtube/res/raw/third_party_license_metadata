@@ -1,0 +1,211 @@
+21:11358 AOSP PhotoViewer
+11399:11358 AOSP rastermill
+22768:11365 Abseil
+34173:10695 Android Annotations Support Library
+44904:11344 Android Architecture Components
+56297:11344 Android Architecture Components Core Library
+67695:11344 Android Architecture Components Lifecycle Library
+79101:11344 Android Architecture Components Lifecycle Runtime Library
+90480:10695 Android Compat Support Library
+101213:10695 Android Compatibility Library v14
+111945:10695 Android Compatibility Library v4
+122677:10695 Android Compatibility Library v7
+133418:10694 Android Constraint Layout Support Library
+144148:10695 Android Core UI Support Library
+154882:10691 Android Core Utils Support Library
+165613:10695 Android Custom Tabs Support Library
+176343:10695 Android Design Support Library
+187084:10695 Android Dynamic Animation Support Library
+197821:10695 Android ExifInterface Support Library
+208554:10695 Android Fragments Support Library
+219286:10695 Android Graphics Support Library
+230022:10691 Android Media Compat Support Library
+240750:10695 Android Multidex Support Library
+251471:10220 Android Support Tools
+261730:10691 Android Transition Support Library
+272454:10695 AndroidX annotation library.
+283177:10695 AndroidX print library.
+293897:11358 Apache Commons Codec
+305279:11358 Apache Commons Lang
+316664:11358 Apache Commons Logging
+328044:10173 Apache HttpClient
+338237:10173 Apache HttpCore
+348430:10174 AutobahnAndroid
+358625:10173 Closure Compiler
+368818:10173 Closure Library
+379052:10693 Compatibility Libraries for Android asynclayoutinflater.
+389798:10693 Compatibility Libraries for Android collections.
+400550:10693 Compatibility Libraries for Android coordinatorlayout.
+411298:10693 Compatibility Libraries for Android cursoradapter.
+422043:10693 Compatibility Libraries for Android customview.
+432790:10693 Compatibility Libraries for Android documentfile.
+443537:10693 Compatibility Libraries for Android drawerlayout.
+454284:10693 Compatibility Libraries for Android interpolator.
+465025:10693 Compatibility Libraries for Android loader.
+475781:10693 Compatibility Libraries for Android localbroadcastmanager.
+486522:10691 Compatibility Libraries for Android media2.
+497260:10693 Compatibility Libraries for Android print.
+508012:10693 Compatibility Libraries for Android slidingpanelayout.
+518765:10695 Compatibility Libraries for Android support-slices_core
+529520:10693 Compatibility Libraries for Android swiperefreshlayout.
+540264:10693 Compatibility Libraries for Android viewpager.
+550975:11358 Crunchy Crypt
+562344:11358 Dagger
+573713:11358 Dimsum
+585083:11410 Drishti
+596509:11357 Error Prone
+607880:11358 ExoPlayer
+619261:11358 FasterXML Jackson2
+630635:11342 FlatBuffers
+641984:58862 GL
+700862:11358 Google Auto
+712248:11356 Google HTTP Java Client
+723631:11358 Google Toolbox for Mac
+735004:11358 Guava JDK5
+746377:11362 Guava JDK7
+757749:11370 Guice
+769130:11358 J2ObjC
+780500:11358 JSR 250
+791870:11365 JSR 330
+803249:11358 Joda-Time
+814622:11358 LeakCanary
+826001:11357 LeakCanary No-op
+837369:11356 Lottie
+848761:11358 Material Components for Android
+860147:11358 Mobile Filter Framework
+871516:11358 OkHttp
+882883:11358 Okio
+894256:11358 OpenCensus
+905646:11357 PCG Random Number Generator
+917017:11344 RxAndroid
+928372:11344 RxJava
+939739:11344 RxJava Async Utils
+951107:9138 SADIE_hrtf_database
+960261:11358 SwiftShader
+971637:11358 SwiftShader 3
+983010:11416 TensorFlow
+994438:11358 Unsmear
+1005807:11358 Volley
+1017174:10219 ahat
+1027416:11357 android_transcoder
+1038796:11358 apache_commons_cli
+1050166:10172 appauth
+1060349:11358 backup
+1071728:10141 customtabsclient
+1081896:11358 firebase_jobdispatcher
+1093266:11358 flexbox
+1104634:10174 folly
+1114820:11342 fplbase
+1126176:11358 gRPC Java
+1137547:11358 gemmlowp
+1148933:11356 google_http_java_client
+1160298:11358 gson
+1171680:11358 gtm_session_fetcher
+1183047:11357 haha
+1194421:11358 joda_convert
+1205794:11358 libfplutil
+1217171:10173 libphonenumber
+1227354:11357 litho
+1238723:11357 lullaby
+1250091:11358 mathfu
+1261460:11358 motive
+1272832:12834 mp4parser
+1285678:11358 okhttp3
+1297051:11323 rsocketcpp
+1308389:11311 rxandroid2
+1319712:11344 rxjava2
+1331074:11358 sequence_lock
+1342449:11358 swipedismiss
+1353831:11356 text_layout_builder
+1365198:11361 ytbzip
+1376575:16013 Android SDK
+1392599:39794 Cronet
+1432405:87697 Eigen 3
+1520111:26536 GRTE
+1546657:4771 Glide
+1551436:4155 PNG
+1555599:11232 cbc
+1566845:4959 googleurl
+1571815:20240 libcap
+1592068:4528 libevent
+1596608:4276 libjpeg
+1600902:5545 libjpeg-turbo
+1606461:3506 so_loader
+1609986:1096 Animal Sniffer
+1611092:1338 Boost
+1612441:1084 Brotli
+1613559:1846 Checker Framework Annotations
+1615416:1124 Halide
+1616552:5416 Libxml2
+1621982:4057 Portaudio
+1626049:47018 X.Org
+1673083:1337 XCB library
+1674429:1044 curl
+1675485:1080 flipper
+1676576:1088 giflib
+1677673:1100 half
+1678785:1606 jquery2
+1680405:1107 jquery_ui
+1681528:1091 libtxc_dxtn
+1682627:1528 lua
+1684164:1084 mesa
+1685261:1062 mongoose
+1686336:1056 yaml_cpp
+1687401:1086 yoga
+1688511:1473 Auth client library
+1689998:12517 BoringSSL
+1702547:1559 Chrome Certificate Verifier
+1704122:1320 Darts-clone
+1705454:1870 FreeBSD
+1707334:21000 ICU4C
+1728344:19442 ICU4J
+1747798:1602 JSR 305
+1749411:2266 LAPACK
+1751685:1466 Ogg
+1753185:1487 Ogg Opus audio parser/decoder
+1754685:1548 OpenBLAS
+1756244:1946 OpenCV
+1758202:2234 OpenCVX
+1760457:1928 Opus audio codec
+1762394:3182 PCRE
+1765594:1732 Protobuf Nano
+1767347:1732 Protocol Buffers
+1769087:1558 RE2
+1770654:1500 SCTP
+1772161:4453 V8
+1776625:1511 WebRTC
+1778146:2655 Zippy
+1780815:1530 Zstandard
+1782355:1901 bzip2
+1784275:1559 chromium_audio
+1785849:2570 intrinsics
+1788431:1614 libSRTP
+1790063:1364 libandroidjsc
+1791451:1527 libdoubleconversion
+1792992:1470 libvorbis
+1794473:1506 libyuv
+1795993:1549 nanohttpd
+1797552:1919 pffft
+1799483:1581 rnnoise
+1801075:1519 stetho
+1802616:1475 tracing_framework
+1804105:1313 vectorial
+1805429:550 Base64
+1805993:185 Ooura FFT
+1806186:680 STL
+1806874:731 UTF
+1807614:694 ares
+1808316:1125 fft
+1809451:272 fft4g
+1809732:611 g722
+1810352:429 g771
+1810793:890 lodepng
+1811695:1996 minizip
+1813703:881 openctm
+1814596:262 sigslot
+1814877:915 spl_sqrt_floor
+1815803:201 stblib
+1816013:1200 tiff
+1817226:808 tinyxml2
+1818044:869 trove
+1818922:2500 zlib

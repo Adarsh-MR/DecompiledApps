@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge _xmlns:android="http://schemas.android.com/apk/res/android" _xmlns:tools="http://schemas.android.com/tools" xmlns:_xmlns="xmlns">
+    <View android:layout_gravity="bottom" android:background="@drawable/donation_button_shadow" android:layout_width="fill_parent" android:layout_height="5.0dip" android:layout_marginBottom="50.0dip"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+    <Button android:textAppearance="?textAppearanceButton" android:textStyle="normal" android:textColor="?ytFilledButtonText" android:layout_gravity="bottom" android:id="@id/donation_button" android:background="@drawable/ticket_button_background" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="32.0dip" android:layout_marginLeft="20.0dip" android:layout_marginTop="7.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="9.0dip" android:minHeight="32.0dip"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+</merge>

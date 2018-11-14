@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge _xmlns:android="http://schemas.android.com/apk/res/android" _xmlns:yt="http://schemas.android.com/apk/res-auto" xmlns:_xmlns="xmlns">
+    <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textAppearance="?textAppearanceCaption" android:textColor="?ytTextSecondary" android:gravity="start|center" android:id="@id/comment_filtered_prompt_text" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:includeFontPadding="false" res-auto:robotoFont="medium"
+      xmlns:android="http://schemas.android.com/apk/res/android" xmlns:res-auto="http://schemas.android.com/apk/res-auto" />
+    <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textAppearance="?textAppearanceBody2" android:textColor="?colorPrimaryAlternate" android:gravity="center" android:id="@id/comment_filtered_relevant_button" android:background="?selectableItemBackgroundBorderless" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/comment_filtered_prompt_min_height" android:maxLines="1" android:textAllCaps="true"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+    <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textAppearance="?textAppearanceBody2" android:textColor="?colorPrimaryAlternate" android:gravity="center" android:id="@id/comment_filtered_irrelevant_button" android:background="?selectableItemBackgroundBorderless" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/comment_filtered_prompt_min_height" android:maxLines="1" android:textAllCaps="true"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+</merge>

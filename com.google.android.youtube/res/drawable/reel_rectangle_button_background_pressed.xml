@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/reel_circular_button_background" />
+    <corners android:topLeftRadius="@dimen/reel_rectangle_button_background_corner" android:topRightRadius="@dimen/reel_rectangle_button_background_corner" android:bottomLeftRadius="@dimen/reel_rectangle_button_background_corner" android:bottomRightRadius="@dimen/reel_rectangle_button_background_corner" />
+</shape>

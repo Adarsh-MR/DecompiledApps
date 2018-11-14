@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="background_audio_policy_entries" />
+    <style name="background_audio_policy_values" />
+    <style name="com_google_android_gms_fonts_certs" />
+    <style name="com_google_android_gms_fonts_certs_dev" />
+    <style name="com_google_android_gms_fonts_certs_prod" />
+    <style name="double_tap_length_entries" />
+    <style name="double_tap_length_values" />
+    <style name="max_mobile_video_quality_entries" />
+    <style name="max_mobile_video_quality_values" />
+    <style name="mdx_caster_category_override_entries" />
+    <style name="mdx_caster_category_override_values" />
+    <style name="mdx_local_transport_entries" />
+    <style name="mdx_local_transport_values" />
+    <style name="pref_developer_mdx_orbit_app_version_entries" />
+    <style name="pref_developer_mdx_orbit_app_version_values" />
+    <style name="upload_policy_entries" />
+    <style name="upload_policy_values" />
+    <style name="upload_quality_entries" />
+    <style name="upload_quality_values" />
+    <item type="array" name="APKTOOL_DUMMY_2">false</item>
+    <item type="array" name="APKTOOL_DUMMY_3">false</item>
+    <item type="array" name="APKTOOL_DUMMY_4">false</item>
+    <item type="array" name="APKTOOL_DUMMY_5">false</item>
+    <item type="array" name="APKTOOL_DUMMY_6">false</item>
+    <item type="array" name="APKTOOL_DUMMY_7">false</item>
+    <item type="array" name="APKTOOL_DUMMY_8">false</item>
+    <item type="array" name="APKTOOL_DUMMY_9">false</item>
+    <item type="array" name="APKTOOL_DUMMY_a">false</item>
+    <item type="array" name="APKTOOL_DUMMY_b">false</item>
+    <item type="array" name="APKTOOL_DUMMY_c">false</item>
+    <item type="array" name="APKTOOL_DUMMY_d">false</item>
+    <item type="array" name="APKTOOL_DUMMY_13">false</item>
+    <item type="array" name="APKTOOL_DUMMY_1a">false</item>
+</resources>

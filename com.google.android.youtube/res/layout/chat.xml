@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:background="?ytGeneralBackgroundA" android:layout_width="fill_parent" android:layout_height="fill_parent" _xmlns:android="http://schemas.android.com/apk/res/android" _xmlns:tools="http://schemas.android.com/tools" _xmlns:yt="http://schemas.android.com/apk/res-auto" xmlns:_xmlns="xmlns"
-  xmlns:android="http://schemas.android.com/apk/res/android">
+<RelativeLayout android:background="?ytGeneralBackgroundA" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yt="http://schemas.android.com/apk/res-auto">
     <include android:id="@id/reply_box" android:elevation="8.0dip" layout="@layout/reply_box" />
     <android.support.v7.widget.RecyclerView android:id="@id/recycler_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/reply_box" />
     <View android:id="@id/chat_fixed_player" android:layout_width="fill_parent" android:layout_height="wrap_content" />
     <ProgressBar android:id="@id/loading_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
-    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/error_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:layout_centerInParent="true">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/error_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" android:layout_marginStart="16.0dip" android:layout_marginEnd="16.0dip">
         <TextView android:id="@id/error_message" android:layout_width="wrap_content" android:layout_height="wrap_content" />
         <Button android:id="@id/error_retry_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="@string/yt_lib_common_retry" />
     </LinearLayout>

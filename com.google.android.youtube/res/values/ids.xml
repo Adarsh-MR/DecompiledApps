@@ -524,6 +524,9 @@
     <item type="id" name="browser_actions_menu_item_icon">false</item>
     <item type="id" name="browser_actions_menu_item_text">false</item>
     <item type="id" name="progress_bar">false</item>
+    <item type="id" name="collage">false</item>
+    <item type="id" name="offline_button">false</item>
+    <item type="id" name="labels">false</item>
     <item type="id" name="camera_fragment_container">false</item>
     <item type="id" name="camera_focus_animation_outer_circle">false</item>
     <item type="id" name="camera_focus_animation_inner_circle">false</item>
@@ -855,7 +858,13 @@
     <item type="id" name="live_badge">false</item>
     <item type="id" name="channel_subscribe_button_container">false</item>
     <item type="id" name="compact_channel_recommendation_card">false</item>
+    <item type="id" name="centered_card_view_stub">false</item>
+    <item type="id" name="centered_card_view">false</item>
+    <item type="id" name="left_align_card_view_stub">false</item>
+    <item type="id" name="left_align_card_view">false</item>
+    <item type="id" name="compact_channel_recommendation_card_centered">false</item>
     <item type="id" name="background_view">false</item>
+    <item type="id" name="avatar_protection">false</item>
     <item type="id" name="compact_companion_card_container">false</item>
     <item type="id" name="video_scrub_head_padding">false</item>
     <item type="id" name="heading_ad_badge">false</item>
@@ -1298,7 +1307,6 @@
     <item type="id" name="banner">false</item>
     <item type="id" name="banner_scrim">false</item>
     <item type="id" name="bottom_gradient">false</item>
-    <item type="id" name="offline_button">false</item>
     <item type="id" name="metadata_line">false</item>
     <item type="id" name="red_badge">false</item>
     <item type="id" name="metadata_text">false</item>
@@ -1368,6 +1376,7 @@
     <item type="id" name="progress_labels">false</item>
     <item type="id" name="start_label">false</item>
     <item type="id" name="end_label">false</item>
+    <item type="id" name="amount_raised_label">false</item>
     <item type="id" name="match_label">false</item>
     <item type="id" name="downloads_list">false</item>
     <item type="id" name="vmoji_text">false</item>
@@ -1622,8 +1631,9 @@
     <item type="id" name="place_address">false</item>
     <item type="id" name="image_guide">false</item>
     <item type="id" name="place_map">false</item>
-    <item type="id" name="place_link_icon">false</item>
     <item type="id" name="place_image">false</item>
+    <item type="id" name="wide_place_map">false</item>
+    <item type="id" name="place_link_icon">false</item>
     <item type="id" name="radio_item">false</item>
     <item type="id" name="grid_show_view">false</item>
     <item type="id" name="bottom_panel">false</item>
@@ -2208,6 +2218,7 @@
     <item type="id" name="voice_query">false</item>
     <item type="id" name="tap_mic">false</item>
     <item type="id" name="back">false</item>
+    <item type="id" name="loading_text">false</item>
     <item type="id" name="guideline">false</item>
     <item type="id" name="guideline3">false</item>
     <item type="id" name="guideline2">false</item>
@@ -2290,6 +2301,22 @@
     <item type="id" name="thumbs_preview_layout">false</item>
     <item type="id" name="moving_thumbnail_stub">false</item>
     <item type="id" name="no_preview_text">false</item>
+    <item type="id" name="mr_cast_list">false</item>
+    <item type="id" name="mr_cast_group_icon">false</item>
+    <item type="id" name="mr_cast_group_name">false</item>
+    <item type="id" name="mr_group_volume_route_name">false</item>
+    <item type="id" name="mr_group_volume_slider">false</item>
+    <item type="id" name="mr_cast_meta">false</item>
+    <item type="id" name="mr_cast_close_button">false</item>
+    <item type="id" name="mr_cast_meta_art">false</item>
+    <item type="id" name="mr_cast_meta_title">false</item>
+    <item type="id" name="mr_cast_meta_subtitle">false</item>
+    <item type="id" name="mr_cast_stop_button">false</item>
+    <item type="id" name="mr_cast_route_icon">false</item>
+    <item type="id" name="mr_cast_route_name">false</item>
+    <item type="id" name="mr_cast_checkbox">false</item>
+    <item type="id" name="mr_cast_volume_layout">false</item>
+    <item type="id" name="mr_cast_volume_slider">false</item>
     <item type="id" name="mr_chooser_title">false</item>
     <item type="id" name="mr_chooser_list">false</item>
     <item type="id" name="mr_chooser_route_icon">false</item>
@@ -2311,6 +2338,11 @@
     <item type="id" name="volume_item_container">false</item>
     <item type="id" name="mr_volume_item_icon">false</item>
     <item type="id" name="mr_volume_slider">false</item>
+    <item type="id" name="mr_dialog_header_name">false</item>
+    <item type="id" name="mr_picker_close_button">false</item>
+    <item type="id" name="mr_picker_list">false</item>
+    <item type="id" name="mr_picker_route_icon">false</item>
+    <item type="id" name="mr_picker_route_name">false</item>
     <item type="id" name="mr_control_playback_ctrl">false</item>
     <item type="id" name="mr_control_title_container">false</item>
     <item type="id" name="mr_control_title">false</item>
@@ -2421,6 +2453,12 @@
     <item type="id" name="option_items_list">false</item>
     <item type="id" name="content_owner_rights">false</item>
     <item type="id" name="paid_content_text">false</item>
+    <item type="id" name="grey_box">false</item>
+    <item type="id" name="scroll_body">false</item>
+    <item type="id" name="primary_button">false</item>
+    <item type="id" name="pause_period">false</item>
+    <item type="id" name="pause_end">false</item>
+    <item type="id" name="pause_period_slider">false</item>
     <item type="id" name="pending_chat_members_icon">false</item>
     <item type="id" name="pending_chat_members_text">false</item>
     <item type="id" name="pending_chat_members_button">false</item>
@@ -3011,13 +3049,12 @@
     <item type="id" name="celebration_view">false</item>
     <item type="id" name="header_view">false</item>
     <item type="id" name="buttonBar">false</item>
-    <item type="id" name="primary_button">false</item>
+    <item type="id" name="expand_icon">false</item>
+    <item type="id" name="expanded_content">false</item>
     <item type="id" name="super_title_view">false</item>
     <item type="id" name="sub_title_view">false</item>
     <item type="id" name="channel_image">false</item>
     <item type="id" name="subtitle_container">false</item>
-    <item type="id" name="expand_icon">false</item>
-    <item type="id" name="expanded_content">false</item>
     <item type="id" name="browse_app_bar">false</item>
     <item type="id" name="offer_view">false</item>
     <item type="id" name="bullet_point_view">false</item>
@@ -3026,6 +3063,7 @@
     <item type="id" name="images_layout">false</item>
     <item type="id" name="image_description_view">false</item>
     <item type="id" name="purchase_button">false</item>
+    <item type="id" name="expandable_message_view">false</item>
     <item type="id" name="perks_view">false</item>
     <item type="id" name="toggle_expand">false</item>
     <item type="id" name="toggle_collapse">false</item>
@@ -3176,6 +3214,7 @@
     <item type="id" name="inside_bubble_stub">false</item>
     <item type="id" name="heart_button">false</item>
     <item type="id" name="heart_spacer">false</item>
+    <item type="id" name="channel_display_name">false</item>
     <item type="id" name="vdp_purchase_carrier_logo">false</item>
     <item type="id" name="vdp_purchase_title">false</item>
     <item type="id" name="vdp_purchase_price">false</item>

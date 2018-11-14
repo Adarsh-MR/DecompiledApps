@@ -21,6 +21,7 @@
     <integer name="buffering_progress_transparency">230</integer>
     <integer name="callout_animation_duration_ms">150</integer>
     <integer name="channel_header_description_collapsed_lines">2</integer>
+    <integer name="channel_list_sub_menu_horizontal_spacing_factor">8</integer>
     <integer name="cluster_chip_truncated_width_ems">13</integer>
     <integer name="compact_renderer_title_grid_mode_max_lines">2</integer>
     <integer name="compact_renderer_title_max_lines">3</integer>
@@ -113,36 +114,37 @@
     <item type="integer" name="APKTOOL_DUMMY_14">false</item>
     <item type="integer" name="APKTOOL_DUMMY_15">false</item>
     <item type="integer" name="APKTOOL_DUMMY_16">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_19">false</item>
     <item type="integer" name="APKTOOL_DUMMY_1a">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_1f">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_1b">false</item>
     <item type="integer" name="APKTOOL_DUMMY_20">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_24">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_21">false</item>
     <item type="integer" name="APKTOOL_DUMMY_25">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_37">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_43">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_4c">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_4d">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_26">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_38">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_44">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_4b">false</item>
     <item type="integer" name="APKTOOL_DUMMY_4e">false</item>
     <item type="integer" name="APKTOOL_DUMMY_4f">false</item>
     <item type="integer" name="APKTOOL_DUMMY_50">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_5a">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_5b">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_65">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_6b">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_6c">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_51">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_52">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_5c">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_5d">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_67">false</item>
     <item type="integer" name="APKTOOL_DUMMY_6d">false</item>
     <item type="integer" name="APKTOOL_DUMMY_6e">false</item>
     <item type="integer" name="APKTOOL_DUMMY_6f">false</item>
     <item type="integer" name="APKTOOL_DUMMY_70">false</item>
     <item type="integer" name="APKTOOL_DUMMY_71">false</item>
     <item type="integer" name="APKTOOL_DUMMY_72">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_78">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_79">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_73">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_74">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_7a">false</item>
     <item type="integer" name="APKTOOL_DUMMY_7b">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_7c">false</item>
     <item type="integer" name="APKTOOL_DUMMY_7d">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_82">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_83">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_90">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_7e">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_7f">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_84">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_85">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_92">false</item>
 </resources>

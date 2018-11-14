@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.design.widget.CoordinatorLayout android:id="@id/watch_panel" android:layout_width="fill_parent" android:layout_height="fill_parent" _xmlns:android="http://schemas.android.com/apk/res/android" _xmlns:yt="http://schemas.android.com/apk/res-auto" xmlns:_xmlns="xmlns"
-  xmlns:android="http://schemas.android.com/apk/res/android">
+<android.support.design.widget.CoordinatorLayout android:id="@id/watch_panel" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yt="http://schemas.android.com/apk/res-auto">
     <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
-        <com.google.android.libraries.youtube.common.ui.LoadingFrameLayout android:id="@id/video_info_loading_layout" android:background="?ytBrandBackgroundSolid" android:layout_width="fill_parent" android:layout_height="fill_parent" res-auto:progressViewLayout="@layout/video_info_loading_preview" xmlns:res-auto="http://schemas.android.com/apk/res-auto">
-            <com.google.android.apps.youtube.app.common.ui.stickyheaders.StickyHeaderContainer android:id="@id/sticky_header_container" android:layout_width="fill_parent" android:layout_height="fill_parent" res-auto:stickyHeaderRecyclerView="@layout/watch_list" />
+        <com.google.android.libraries.youtube.common.ui.LoadingFrameLayout android:id="@id/video_info_loading_layout" android:background="?ytBrandBackgroundSolid" android:layout_width="fill_parent" android:layout_height="fill_parent" yt:progressViewLayout="@layout/video_info_loading_preview">
+            <com.google.android.apps.youtube.app.common.ui.stickyheaders.StickyHeaderContainer android:id="@id/sticky_header_container" android:layout_width="fill_parent" android:layout_height="fill_parent" yt:stickyHeaderRecyclerView="@layout/watch_list" />
         </com.google.android.libraries.youtube.common.ui.LoadingFrameLayout>
         <View android:id="@id/scrim" android:background="#88000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
         <include android:id="@id/set_content" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/watch_panel_playlist_header_height" layout="@layout/set_list" />

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:id="@id/primetime_promo" android:paddingLeft="16.0dip" android:paddingTop="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="16.0dip" _xmlns:android="http://schemas.android.com/apk/res/android" xmlns:_xmlns="xmlns"
+<LinearLayout android:orientation="vertical" android:id="@id/primetime_promo" android:paddingTop="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="16.0dip"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
         <ViewStub android:id="@id/primetime_promo_header" android:inflatedId="@id/primetime_promo_header" android:layout_width="fill_parent" android:layout_height="wrap_content" />
-        <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:id="@id/dismiss_button" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginRight="12.0dip" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_marginEnd="12.0dip" android:layout_alignParentEnd="true" />
+        <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:id="@id/dismiss_button" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_alignParentTop="true" android:layout_marginEnd="12.0dip" android:layout_alignParentEnd="true" />
     </RelativeLayout>
     <FrameLayout android:id="@id/primetime_promo_box" android:layout_width="fill_parent" android:layout_height="wrap_content" />
 </LinearLayout>

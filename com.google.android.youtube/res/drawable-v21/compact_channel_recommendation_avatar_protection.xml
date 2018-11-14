@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/compact_channel_recommendation_card_width" android:width="@dimen/compact_channel_background_height" android:autoMirrored="true" android:viewportWidth="210.0" android:viewportHeight="56.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <path android:name="lower-overlay" android:fillColor="@color/black" android:pathData="M0,-12 L126,56 L0,56z" android:fillAlpha="0.5" />
+        <path android:name="upper-overlay" android:fillColor="@color/black" android:pathData="M 0 -12 L 74 28 L 0 68 z" android:fillAlpha="0.8" />
+    </group>
+</vector>

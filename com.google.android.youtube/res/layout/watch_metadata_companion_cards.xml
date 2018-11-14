@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:id="@id/main_companion_container" android:layout_width="fill_parent" android:layout_height="wrap_content" _xmlns:android="http://schemas.android.com/apk/res/android" xmlns:_xmlns="xmlns"
+<LinearLayout android:orientation="vertical" android:id="@id/main_companion_container" android:layout_width="fill_parent" android:layout_height="wrap_content"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <ViewStub android:id="@id/ad_companion_card_stub" android:layout="@layout/ad_companion_card" android:inflatedId="@id/ad_companion_card" android:layout_width="fill_parent" android:layout_height="wrap_content" />
     <ViewStub android:id="@id/app_promotion_companion_card_stub" android:layout="@layout/app_promotion_companion_card" android:inflatedId="@id/app_promotion_companion_card" android:layout_width="fill_parent" android:layout_height="wrap_content" />

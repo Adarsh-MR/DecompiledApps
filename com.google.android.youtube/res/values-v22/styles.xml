@@ -7,6 +7,15 @@
         <item name="android:windowAnimationStyle">@style/CreationEntryDialogAnimation</item>
         <item name="android:windowLayoutInDisplayCutoutMode">never</item>
     </style>
+    <style name="Sponsorships.FullScreen" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/DialogSlideAnimation</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
     <style name="Widget.Design.AppBarLayout" parent="@android:style/Widget">
         <item name="android:background">?colorPrimary</item>
         <item name="android:stateListAnimator">@animator/design_appbar_state_list_animator</item>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" _xmlns:android="http://schemas.android.com/apk/res/android" xmlns:_xmlns="xmlns"
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <LinearLayout android:orientation="vertical" android:id="@id/product_picker" android:background="?ytBrandBackgroundSolid" android:layout_width="fill_parent" android:layout_height="wrap_content">
         <include android:id="@id/product_picker_header" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/live_chat_product_picker_header" />
